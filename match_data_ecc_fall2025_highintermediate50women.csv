@@ -1,0 +1,64 @@
+match_id,game_id,match_date,team1_name,team2_name,partner1,partner2,opponent1,opponent2,team1_points,team2_points
+17653,1,2025-11-22,LJ Two Dink Minimum,SEDGE Spin & Grin Gals West,Cynthia Livengood,Ellen Driver,Jean Cummings,Julie S Riggins,9,11
+17653,2,2025-11-22,LJ Two Dink Minimum,SEDGE Spin & Grin Gals West,Jodi Stanley,Beth R Sherrill,Cindy M Thomas,Gina Bennett,9,11
+17653,3,2025-11-22,LJ Two Dink Minimum,SEDGE Spin & Grin Gals West,Pamela Cascarano,Amy Stehlin,Christine Schermerhorn,Carol E Grochowski,0,11
+17653,4,2025-11-22,LJ Two Dink Minimum,SEDGE Spin & Grin Gals West,Cynthia Livengood,Ellen Driver,Cindy M Thomas,Gina Bennett,11,9
+17653,5,2025-11-22,LJ Two Dink Minimum,SEDGE Spin & Grin Gals West,Jodi Stanley,Beth R Sherrill,Christine Schermerhorn,Carol E Grochowski,2,11
+17653,6,2025-11-22,LJ Two Dink Minimum,SEDGE Spin & Grin Gals West,Pamela Cascarano,Amy Stehlin,Jean Cummings,Julie S Riggins,1,11
+17653,7,2025-11-22,LJ Two Dink Minimum,SEDGE Spin & Grin Gals West,Cynthia Livengood,Ellen Driver,Christine Schermerhorn,Carol E Grochowski,11,9
+17653,8,2025-11-22,LJ Two Dink Minimum,SEDGE Spin & Grin Gals West,Jodi Stanley,Beth R Sherrill,Jean Cummings,Julie S Riggins,5,11
+17653,9,2025-11-22,LJ Two Dink Minimum,SEDGE Spin & Grin Gals West,Pamela Cascarano,Amy Stehlin,Cindy M Thomas,Gina Bennett,5,11
+17654,1,2025-11-22,7OAKS Dill With It,TOC Volley Girls 2.0,Laura Holt-Kabel,Molly Bradsher Briggs,Rhonda Benkiel,Kate Morse Falkiner,11,6
+17654,2,2025-11-22,7OAKS Dill With It,TOC Volley Girls 2.0,Sally Burks Schmalz,Michelle Vedder,Rebecca Drabenstott,Michelle Reyes,10,12
+17654,3,2025-11-22,7OAKS Dill With It,TOC Volley Girls 2.0,DEFAULT,DEFAULT,Yolanda McCluney,Kelda Bailey,0,11
+17654,4,2025-11-22,7OAKS Dill With It,TOC Volley Girls 2.0,Laura Holt-Kabel,Molly Bradsher Briggs,Rebecca Drabenstott,Michelle Reyes,11,8
+17654,5,2025-11-22,7OAKS Dill With It,TOC Volley Girls 2.0,Sally Burks Schmalz,Michelle Vedder,Yolanda McCluney,Kelda Bailey,12,10
+17654,6,2025-11-22,7OAKS Dill With It,TOC Volley Girls 2.0,DEFAULT,DEFAULT,Rhonda Benkiel,Kate Morse Falkiner,0,11
+17654,7,2025-11-22,7OAKS Dill With It,TOC Volley Girls 2.0,Laura Holt-Kabel,Molly Bradsher Briggs,Yolanda McCluney,Kelda Bailey,8,11
+17654,8,2025-11-22,7OAKS Dill With It,TOC Volley Girls 2.0,Sally Burks Schmalz,Michelle Vedder,Rhonda Benkiel,Kate Morse Falkiner,11,7
+17654,9,2025-11-22,7OAKS Dill With It,TOC Volley Girls 2.0,DEFAULT,DEFAULT,Rebecca Drabenstott,Michelle Reyes,0,11
+17661,1,2025-11-22,SEDGE Spin & Grin Gals West,7OAKS Dill With It,Jean Cummings,Julie S Riggins,Dana Chapman,Amy A Lindsey,11,0
+17661,2,2025-11-22,SEDGE Spin & Grin Gals West,7OAKS Dill With It,Angie G Britt,Mindy K Hedrick,Michelle Vedder,Molly Bradsher Briggs,6,11
+17661,3,2025-11-22,SEDGE Spin & Grin Gals West,7OAKS Dill With It,Christine Schermerhorn,Carol E Grochowski,Sally Burks Schmalz,Dolores Beck Quesenberry,11,8
+17661,4,2025-11-22,SEDGE Spin & Grin Gals West,7OAKS Dill With It,Jean Cummings,Julie S Riggins,Michelle Vedder,Molly Bradsher Briggs,9,11
+17661,5,2025-11-22,SEDGE Spin & Grin Gals West,7OAKS Dill With It,Angie G Britt,Mindy K Hedrick,Sally Burks Schmalz,Dolores Beck Quesenberry,11,8
+17661,6,2025-11-22,SEDGE Spin & Grin Gals West,7OAKS Dill With It,Christine Schermerhorn,Carol E Grochowski,Dana Chapman,Amy A Lindsey,11,1
+17661,7,2025-11-22,SEDGE Spin & Grin Gals West,7OAKS Dill With It,Jean Cummings,Julie S Riggins,Sally Burks Schmalz,Dolores Beck Quesenberry,11,7
+17661,8,2025-11-22,SEDGE Spin & Grin Gals West,7OAKS Dill With It,Angie G Britt,Mindy K Hedrick,Dana Chapman,Amy A Lindsey,11,7
+17661,9,2025-11-22,SEDGE Spin & Grin Gals West,7OAKS Dill With It,Christine Schermerhorn,Carol E Grochowski,Michelle Vedder,Molly Bradsher Briggs,7,11
+17662,1,2025-11-22,TOC Volley Girls 2.0,LJ Two Dink Minimum,Rhonda Benkiel,Michelle Reyes,Cynthia Livengood,Ellen Driver,11,7
+17662,2,2025-11-22,TOC Volley Girls 2.0,LJ Two Dink Minimum,Rebecca Drabenstott,Pamela DeLoatch,Jaqueline Gast,Lisa Morrison,11,4
+17662,3,2025-11-22,TOC Volley Girls 2.0,LJ Two Dink Minimum,Stacy Zotter,Kelda Bailey,Carolyn Smith,Catherine Bell Flannery,12,10
+17662,4,2025-11-22,TOC Volley Girls 2.0,LJ Two Dink Minimum,Rhonda Benkiel,Michelle Reyes,Jaqueline Gast,Lisa Morrison,11,8
+17662,5,2025-11-22,TOC Volley Girls 2.0,LJ Two Dink Minimum,Rebecca Drabenstott,Pamela DeLoatch,Carolyn Smith,Catherine Bell Flannery,11,2
+17662,6,2025-11-22,TOC Volley Girls 2.0,LJ Two Dink Minimum,Stacy Zotter,Kelda Bailey,Cynthia Livengood,Ellen Driver,7,11
+17662,7,2025-11-22,TOC Volley Girls 2.0,LJ Two Dink Minimum,Rhonda Benkiel,Michelle Reyes,Carolyn Smith,Catherine Bell Flannery,11,4
+17662,8,2025-11-22,TOC Volley Girls 2.0,LJ Two Dink Minimum,Rebecca Drabenstott,Pamela DeLoatch,Cynthia Livengood,Ellen Driver,12,10
+17662,9,2025-11-22,TOC Volley Girls 2.0,LJ Two Dink Minimum,Stacy Zotter,Kelda Bailey,Jaqueline Gast,Lisa Morrison,11,3
+17677,1,2025-11-22,SEDGE Spin & Grin Gals West,TOC Volley Girls 2.0,Julie S Riggins,Jean Cummings,Rhonda Benkiel,Yolanda McCluney,11,3
+17677,2,2025-11-22,SEDGE Spin & Grin Gals West,TOC Volley Girls 2.0,Melanie Crowder,Paige C Wilkerson,Pamela DeLoatch,Rebecca Drabenstott,7,11
+17677,3,2025-11-22,SEDGE Spin & Grin Gals West,TOC Volley Girls 2.0,Christine Schermerhorn,Carol E Grochowski,Stacy Zotter,Kate Morse Falkiner,11,6
+17677,4,2025-11-22,SEDGE Spin & Grin Gals West,TOC Volley Girls 2.0,Julie S Riggins,Jean Cummings,Pamela DeLoatch,Rebecca Drabenstott,11,9
+17677,5,2025-11-22,SEDGE Spin & Grin Gals West,TOC Volley Girls 2.0,Melanie Crowder,Paige C Wilkerson,Stacy Zotter,Kate Morse Falkiner,5,11
+17677,6,2025-11-22,SEDGE Spin & Grin Gals West,TOC Volley Girls 2.0,Christine Schermerhorn,Carol E Grochowski,Rhonda Benkiel,Yolanda McCluney,11,3
+17677,7,2025-11-22,SEDGE Spin & Grin Gals West,TOC Volley Girls 2.0,Julie S Riggins,Jean Cummings,Stacy Zotter,Kate Morse Falkiner,11,5
+17677,8,2025-11-22,SEDGE Spin & Grin Gals West,TOC Volley Girls 2.0,Melanie Crowder,Paige C Wilkerson,Rhonda Benkiel,Yolanda McCluney,3,11
+17677,9,2025-11-22,SEDGE Spin & Grin Gals West,TOC Volley Girls 2.0,Christine Schermerhorn,Carol E Grochowski,Pamela DeLoatch,Rebecca Drabenstott,11,6
+17678,1,2025-11-22,7OAKS Dill With It,LJ Two Dink Minimum,Laura Holt-Kabel,Michelle Vedder,Cynthia Livengood,Ellen Driver,11,8
+17678,2,2025-11-22,7OAKS Dill With It,LJ Two Dink Minimum,Sally Burks Schmalz,Dolores Beck Quesenberry,Catherine Bell Flannery,Elizabeth Conte-Vitullo,11,0
+17678,3,2025-11-22,7OAKS Dill With It,LJ Two Dink Minimum,Dana Chapman,Danielle Stringer,Amy Stehlin,Beth R Sherrill,3,11
+17678,4,2025-11-22,7OAKS Dill With It,LJ Two Dink Minimum,Laura Holt-Kabel,Michelle Vedder,Catherine Bell Flannery,Elizabeth Conte-Vitullo,11,0
+17678,5,2025-11-22,7OAKS Dill With It,LJ Two Dink Minimum,Sally Burks Schmalz,Dolores Beck Quesenberry,Amy Stehlin,Beth R Sherrill,11,6
+17678,6,2025-11-22,7OAKS Dill With It,LJ Two Dink Minimum,Dana Chapman,Danielle Stringer,Cynthia Livengood,Ellen Driver,12,10
+17678,7,2025-11-22,7OAKS Dill With It,LJ Two Dink Minimum,Laura Holt-Kabel,Michelle Vedder,Amy Stehlin,Beth R Sherrill,11,6
+17678,8,2025-11-22,7OAKS Dill With It,LJ Two Dink Minimum,Sally Burks Schmalz,Dolores Beck Quesenberry,Cynthia Livengood,Ellen Driver,11,9
+17678,9,2025-11-22,7OAKS Dill With It,LJ Two Dink Minimum,Dana Chapman,Danielle Stringer,Catherine Bell Flannery,Elizabeth Conte-Vitullo,11,2
+17687,1,2025-11-22,SEDGE Spin & Grin Gals West,TOC Volley Girls 2.0,Julie S Riggins,Jean Cummings,Rhonda Benkiel,Michelle Reyes,10,15
+17687,2,2025-11-22,SEDGE Spin & Grin Gals West,TOC Volley Girls 2.0,Gina Bennett,Cindy M Thomas,Rebecca Drabenstott,Pamela DeLoatch,5,15
+17687,3,2025-11-22,SEDGE Spin & Grin Gals West,TOC Volley Girls 2.0,Christine Schermerhorn,Carol E Grochowski,Stacy Zotter,Kelda Bailey,15,10
+17687,4,2025-11-22,SEDGE Spin & Grin Gals West,TOC Volley Girls 2.0,Julie S Riggins,Jean Cummings,Rebecca Drabenstott,Pamela DeLoatch,15,4
+17687,5,2025-11-22,SEDGE Spin & Grin Gals West,TOC Volley Girls 2.0,Gina Bennett,Cindy M Thomas,Stacy Zotter,Kelda Bailey,9,15
+17687,6,2025-11-22,SEDGE Spin & Grin Gals West,TOC Volley Girls 2.0,Christine Schermerhorn,Carol E Grochowski,Rhonda Benkiel,Michelle Reyes,4,15
+17687,7,2025-11-22,SEDGE Spin & Grin Gals West,TOC Volley Girls 2.0,Julie S Riggins,Jean Cummings,Stacy Zotter,Kelda Bailey,15,10
+17687,8,2025-11-22,SEDGE Spin & Grin Gals West,TOC Volley Girls 2.0,Gina Bennett,Cindy M Thomas,Rhonda Benkiel,Michelle Reyes,4,15
+17687,9,2025-11-22,SEDGE Spin & Grin Gals West,TOC Volley Girls 2.0,Christine Schermerhorn,Carol E Grochowski,Rebecca Drabenstott,Pamela DeLoatch,13,15

@@ -1,0 +1,126 @@
+#!/usr/bin/env python3
+
+
+"""
+To run this script:
+Activate the virtual environment with: source mypickleballenv/bin/activate
+Run with: ./rank_ttt.py match_data_x.csv
+This script is slower, but more accurate
+"""
+
+import csv
+from datetime import datetime
+from collections import defaultdict
+from trueskillthroughtime import History, Player, Gaussian
+
+def parse_csv_for_ttt(csv_path):
+    compositions = []
+    results = []
+    match_dates = []
+    players = set()
+    player_teams = defaultdict(set)
+
+    with open(csv_path, newline='') as csvfile:
+        reader = csv.DictReader(csvfile)
+        for row in reader:
+            p1, p2 = row['partner1'].strip(), row['partner2'].strip()
+            o1, o2 = row['opponent1'].strip(), row['opponent2'].strip()
+
+            if 'DEFAULT' in [p1, p2, o1, o2]:
+                continue
+
+            team1_name = row['team1_name'].strip()
+            team2_name = row['team2_name'].strip()
+
+            # Assign team names for each player
+            for p in [p1, p2]:
+                player_teams[p].add(team1_name)
+            for o in [o1, o2]:
+                player_teams[o].add(team2_name)
+
+            try:
+                team1_points = int(row['team1_points'])
+                team2_points = int(row['team2_points'])
+            except ValueError:
+                continue  # skip invalid scores
+
+	    # --- skip matches where both teams have zero points ---
+            if team1_points + team2_points == 0:
+                continue
+
+            compositions.append([[p1, p2], [o1, o2]])
+            results.append([1, 0] if team1_points > team2_points else [0, 1])
+
+            try:
+                match_date = datetime.strptime(row['match_date'].strip(), "%Y-%m-%d")
+            except ValueError:
+                raise ValueError(f"Invalid date format: {row['match_date']}")
+            match_dates.append(match_date)
+
+            players.update([p1, p2, o1, o2])
+
+    # Sort all lists by match_date
+    sorted_indices = sorted(range(len(match_dates)), key=lambda i: match_dates[i])
+    compositions = [compositions[i] for i in sorted_indices]
+    results = [results[i] for i in sorted_indices]
+    sorted_dates = [match_dates[i] for i in sorted_indices]
+    base_date = sorted_dates[0]
+    times = [(d - base_date).days for d in sorted_dates]
+
+    return compositions, results, times, sorted(players), player_teams
+
+def compute_ttt_ratings(compositions, results, times, players):
+    priors = {
+        p: Player(Gaussian(mu=25.0, sigma=8.333), beta=4.1667, gamma=0.03)
+        for p in players
+    }
+
+    h = History(
+        composition=compositions,
+        results=results,
+        times=times,
+        priors=priors,
+        sigma=8.333, # only used if not set for Player above
+        beta=4.1667, # only used if not set for Player above
+        gamma=0.0 # only used if not set for Player above
+    )
+
+    h.convergence(iterations=20, epsilon=1e-3)
+
+    curves = h.learning_curves()
+    final_ratings = {p: curves[p][-1][1] for p in players}
+
+    return final_ratings
+
+def main(csv_file):
+    print("Parsing match data...")
+    compositions, results, times, players, player_teams = parse_csv_for_ttt(csv_file)
+    print(f"Total matches: {len(compositions)}")
+    print(f"Total players: {len(players)}")
+
+    print("Running TrueSkill Through Time inference...")
+    ratings = compute_ttt_ratings(compositions, results, times, players)
+
+    k = 0  # try 0.1, 1.0, 2.0, etc # higher k penalizes uncertain players more
+
+    ranked = sorted(
+        ratings.items(),
+        key=lambda x: x[1].mu - k * x[1].sigma,
+        reverse=True
+    )
+
+    print("Rank,Player,Team,Skill,Mu,Sigma")
+    for i, (p, r) in enumerate(ranked, 1):
+        skill = r.mu - 3 * r.sigma
+        teams = sorted(player_teams.get(p, []))
+        team_str = "|".join(teams) if teams else "Unknown"
+        print(f"{i},{p},{team_str},{skill:.2f},{r.mu:.2f},{r.sigma:.2f}")
+
+if __name__ == "__main__":
+    import sys
+    if len(sys.argv) != 2:
+        print("Usage: python ttt_ratings.py match_data.csv")
+        sys.exit(1)
+
+    csv_file = sys.argv[1]
+    main(csv_file)

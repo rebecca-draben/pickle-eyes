@@ -1,0 +1,406 @@
+match_id,game_id,match_date,team1_name,team2_name,partner1,partner2,opponent1,opponent2,team1_points,team2_points
+16186,1,2025-06-10,12OAKS Serve me a Double,TOC Bunch of Gherks,Amy Cullen Smith,CJ Tyree,Naomi VanHorn,Adam Fox,10,15
+16186,2,2025-06-10,12OAKS Serve me a Double,TOC Bunch of Gherks,Christa Resavy,Richard Boston,Karteek Mudi,Shannon Stewart,15,2
+16186,3,2025-06-10,12OAKS Serve me a Double,TOC Bunch of Gherks,Nikki Orie,Shae Herman,Kara Schell,Jackson Mathews,15,7
+16186,4,2025-06-10,12OAKS Serve me a Double,TOC Bunch of Gherks,Amy Cullen Smith,CJ Tyree,Karteek Mudi,Shannon Stewart,11,15
+16186,5,2025-06-10,12OAKS Serve me a Double,TOC Bunch of Gherks,Christa Resavy,Richard Boston,Kara Schell,Jackson Mathews,15,4
+16186,6,2025-06-10,12OAKS Serve me a Double,TOC Bunch of Gherks,Nikki Orie,Shae Herman,Naomi VanHorn,Adam Fox,4,15
+16186,7,2025-06-10,12OAKS Serve me a Double,TOC Bunch of Gherks,Amy Cullen Smith,CJ Tyree,Kara Schell,Jackson Mathews,15,6
+16186,8,2025-06-10,12OAKS Serve me a Double,TOC Bunch of Gherks,Christa Resavy,Richard Boston,Naomi VanHorn,Adam Fox,11,15
+16186,9,2025-06-10,12OAKS Serve me a Double,TOC Bunch of Gherks,Nikki Orie,Shae Herman,Karteek Mudi,Shannon Stewart,16,14
+16187,1,2025-06-10,TOC Dynamic Smasher Mixed,PEAK The Peakles,Deepak Venkatesan,Sampa Sanyal,Ryan Paone,Usha Ganesh,13,15
+16187,2,2025-06-10,TOC Dynamic Smasher Mixed,PEAK The Peakles,Evan Pink,Sarika Hardas Mehta,Apollos Lee,Lan Rocham,15,5
+16187,3,2025-06-10,TOC Dynamic Smasher Mixed,PEAK The Peakles,Hardas Mehta,Deepika Sachan,Cameron Scott Causey,Maria Natalia,15,11
+16187,4,2025-06-10,TOC Dynamic Smasher Mixed,PEAK The Peakles,Deepak Venkatesan,Sampa Sanyal,Apollos Lee,Lan Rocham,15,7
+16187,5,2025-06-10,TOC Dynamic Smasher Mixed,PEAK The Peakles,Evan Pink,Sarika Hardas Mehta,Cameron Scott Causey,Maria Natalia,15,2
+16187,6,2025-06-10,TOC Dynamic Smasher Mixed,PEAK The Peakles,Hardas Mehta,Deepika Sachan,Ryan Paone,Usha Ganesh,2,15
+16187,7,2025-06-10,TOC Dynamic Smasher Mixed,PEAK The Peakles,Deepak Venkatesan,Sampa Sanyal,Cameron Scott Causey,Maria Natalia,15,4
+16187,8,2025-06-10,TOC Dynamic Smasher Mixed,PEAK The Peakles,Evan Pink,Sarika Hardas Mehta,Ryan Paone,Usha Ganesh,6,15
+16187,9,2025-06-10,TOC Dynamic Smasher Mixed,PEAK The Peakles,Hardas Mehta,Deepika Sachan,Apollos Lee,Lan Rocham,15,10
+16188,1,2025-06-10,TOC No Pickle 4 U,TOC Pickle Pack,Samuel Connor,Caroline Connor,Bryan DeLoatch,Pamela DeLoatch,15,4
+16188,2,2025-06-10,TOC No Pickle 4 U,TOC Pickle Pack,Gitana Jesudasan,Godwin Jesudasan,Eric Webb,Kelda Bailey,15,10
+16188,3,2025-06-10,TOC No Pickle 4 U,TOC Pickle Pack,Darren Goldberg,Cherie D Berger,Wayne Hui,Jennifer S Gibbs,15,8
+16188,4,2025-06-10,TOC No Pickle 4 U,TOC Pickle Pack,Samuel Connor,Caroline Connor,Eric Webb,Kelda Bailey,15,3
+16188,5,2025-06-10,TOC No Pickle 4 U,TOC Pickle Pack,Gitana Jesudasan,Godwin Jesudasan,Wayne Hui,Jennifer S Gibbs,16,14
+16188,6,2025-06-10,TOC No Pickle 4 U,TOC Pickle Pack,Darren Goldberg,Cherie D Berger,Bryan DeLoatch,Pamela DeLoatch,15,10
+16188,7,2025-06-10,TOC No Pickle 4 U,TOC Pickle Pack,Samuel Connor,Caroline Connor,Wayne Hui,Jennifer S Gibbs,15,2
+16188,8,2025-06-10,TOC No Pickle 4 U,TOC Pickle Pack,Gitana Jesudasan,Godwin Jesudasan,Bryan DeLoatch,Pamela DeLoatch,15,7
+16188,9,2025-06-10,TOC No Pickle 4 U,TOC Pickle Pack,Darren Goldberg,Cherie D Berger,Eric Webb,Kelda Bailey,15,6
+16189,1,2025-06-15,TOC Mid Court Crisis,TOC Paddle Pals,Patrick Zoller,Brooke Aeikens,Glen delosReyes,Meghan delosReyes,15,9
+16189,2,2025-06-15,TOC Mid Court Crisis,TOC Paddle Pals,Molly Robinson Welch,Daniel Hunter Welch,Justin Pau,Lon Le,3,15
+16189,3,2025-06-15,TOC Mid Court Crisis,TOC Paddle Pals,Dan Santos,Nicole Santos,Stephanie Chua,Terence Chua,15,3
+16189,4,2025-06-15,TOC Mid Court Crisis,TOC Paddle Pals,Patrick Zoller,Brooke Aeikens,Justin Pau,Lon Le,15,8
+16189,5,2025-06-15,TOC Mid Court Crisis,TOC Paddle Pals,Molly Robinson Welch,Daniel Hunter Welch,Stephanie Chua,Terence Chua,15,11
+16189,6,2025-06-15,TOC Mid Court Crisis,TOC Paddle Pals,Dan Santos,Nicole Santos,Glen delosReyes,Meghan delosReyes,15,11
+16189,7,2025-06-15,TOC Mid Court Crisis,TOC Paddle Pals,Patrick Zoller,Brooke Aeikens,Stephanie Chua,Terence Chua,15,5
+16189,8,2025-06-15,TOC Mid Court Crisis,TOC Paddle Pals,Molly Robinson Welch,Daniel Hunter Welch,Glen delosReyes,Meghan delosReyes,2,15
+16189,9,2025-06-15,TOC Mid Court Crisis,TOC Paddle Pals,Dan Santos,Nicole Santos,Justin Pau,Lon Le,10,15
+16190,1,2025-06-15,TOC Gibson,TOC Dink Responsibly,Nicole Baker Crain,Bruce Crain,Jordan Maynard,Cynthia Corley,9,15
+16190,2,2025-06-15,TOC Gibson,TOC Dink Responsibly,Chrissy Mogan,Paul Morgan,Thomas Lerell,Laine Cavanaugh,4,15
+16190,3,2025-06-15,TOC Gibson,TOC Dink Responsibly,Kurt Gibson,Joey Gibson,Alex Vitshteyn,Sandrine Tokoto,2,15
+16190,4,2025-06-15,TOC Gibson,TOC Dink Responsibly,Nicole Baker Crain,Bruce Crain,Thomas Lerell,Laine Cavanaugh,10,15
+16190,5,2025-06-15,TOC Gibson,TOC Dink Responsibly,Chrissy Mogan,Paul Morgan,Alex Vitshteyn,Sandrine Tokoto,16,14
+16190,6,2025-06-15,TOC Gibson,TOC Dink Responsibly,Kurt Gibson,Joey Gibson,Jordan Maynard,Cynthia Corley,2,15
+16190,7,2025-06-15,TOC Gibson,TOC Dink Responsibly,Nicole Baker Crain,Bruce Crain,Alex Vitshteyn,Sandrine Tokoto,11,15
+16190,8,2025-06-15,TOC Gibson,TOC Dink Responsibly,Chrissy Mogan,Paul Morgan,Jordan Maynard,Cynthia Corley,7,15
+16190,9,2025-06-15,TOC Gibson,TOC Dink Responsibly,Kurt Gibson,Joey Gibson,Thomas Lerell,Laine Cavanaugh,3,15
+16196,1,2025-06-17,TOC Mid Court Crisis,PEAK The Peakles,Nicole Santos,Dan Santos,Ryan Paone,Usha Ganesh,14,16
+16196,2,2025-06-17,TOC Mid Court Crisis,PEAK The Peakles,Hamilton Dickson,Eva Yip,Ethan Holland,Casey Federovitch,13,15
+16196,3,2025-06-17,TOC Mid Court Crisis,PEAK The Peakles,Molly Robinson Welch,Daniel Hunter Welch,Cameron Scott Causey,Maria Natalia,15,5
+16196,4,2025-06-17,TOC Mid Court Crisis,PEAK The Peakles,Nicole Santos,Dan Santos,Ethan Holland,Casey Federovitch,15,11
+16196,5,2025-06-17,TOC Mid Court Crisis,PEAK The Peakles,Hamilton Dickson,Eva Yip,Cameron Scott Causey,Maria Natalia,15,1
+16196,6,2025-06-17,TOC Mid Court Crisis,PEAK The Peakles,Molly Robinson Welch,Daniel Hunter Welch,Ryan Paone,Usha Ganesh,1,15
+16196,7,2025-06-17,TOC Mid Court Crisis,PEAK The Peakles,Nicole Santos,Dan Santos,Cameron Scott Causey,Maria Natalia,15,1
+16196,8,2025-06-17,TOC Mid Court Crisis,PEAK The Peakles,Hamilton Dickson,Eva Yip,Ryan Paone,Usha Ganesh,7,15
+16196,9,2025-06-17,TOC Mid Court Crisis,PEAK The Peakles,Molly Robinson Welch,Daniel Hunter Welch,Ethan Holland,Casey Federovitch,5,15
+16197,1,2025-06-17,TOC Dink Responsibly,12OAKS Serve me a Double,Darren Maske,Laine Cavanaugh,Sherry Stolfo,Thomas Buell,4,15
+16197,2,2025-06-17,TOC Dink Responsibly,12OAKS Serve me a Double,Alex Vitshteyn,Cheryl Briley,AnneMarie Conklin,Shae Herman,9,15
+16197,3,2025-06-17,TOC Dink Responsibly,12OAKS Serve me a Double,Sandrine Tokoto,Thomas Lerell,Christa Resavy,Richard Boston,12,15
+16197,4,2025-06-17,TOC Dink Responsibly,12OAKS Serve me a Double,Darren Maske,Laine Cavanaugh,AnneMarie Conklin,Shae Herman,6,15
+16197,5,2025-06-17,TOC Dink Responsibly,12OAKS Serve me a Double,Alex Vitshteyn,Cheryl Briley,Christa Resavy,Richard Boston,4,15
+16197,6,2025-06-17,TOC Dink Responsibly,12OAKS Serve me a Double,Sandrine Tokoto,Thomas Lerell,Sherry Stolfo,Thomas Buell,3,15
+16197,7,2025-06-17,TOC Dink Responsibly,12OAKS Serve me a Double,Darren Maske,Laine Cavanaugh,Christa Resavy,Richard Boston,2,15
+16197,8,2025-06-17,TOC Dink Responsibly,12OAKS Serve me a Double,Alex Vitshteyn,Cheryl Briley,Sherry Stolfo,Thomas Buell,3,15
+16197,9,2025-06-17,TOC Dink Responsibly,12OAKS Serve me a Double,Sandrine Tokoto,Thomas Lerell,AnneMarie Conklin,Shae Herman,4,15
+16198,1,2025-06-22,TOC Pickle Pack,TOC Gibson,Pamela DeLoatch,Jose A Reyes,Jason Andreu,Carol Andreu,15,4
+16198,2,2025-06-22,TOC Pickle Pack,TOC Gibson,Jennifer S Gibbs,Mark Aaron Evans,Kurt Gibson,Joey Gibson,15,4
+16198,3,2025-06-22,TOC Pickle Pack,TOC Gibson,Rhonda Benkiel,Antonio G Wright,Bruce Crain,Nicole Baker Crain,15,1
+16198,4,2025-06-22,TOC Pickle Pack,TOC Gibson,Pamela DeLoatch,Jose A Reyes,Kurt Gibson,Joey Gibson,15,2
+16198,5,2025-06-22,TOC Pickle Pack,TOC Gibson,Jennifer S Gibbs,Mark Aaron Evans,Bruce Crain,Nicole Baker Crain,15,0
+16198,6,2025-06-22,TOC Pickle Pack,TOC Gibson,Rhonda Benkiel,Antonio G Wright,Jason Andreu,Carol Andreu,15,8
+16198,7,2025-06-22,TOC Pickle Pack,TOC Gibson,Pamela DeLoatch,Jose A Reyes,Bruce Crain,Nicole Baker Crain,15,3
+16198,8,2025-06-22,TOC Pickle Pack,TOC Gibson,Jennifer S Gibbs,Mark Aaron Evans,Jason Andreu,Carol Andreu,15,3
+16198,9,2025-06-22,TOC Pickle Pack,TOC Gibson,Rhonda Benkiel,Antonio G Wright,Kurt Gibson,Joey Gibson,15,2
+16199,1,2025-06-22,TOC Bunch of Gherks,TOC Dynamic Smasher Mixed,Jackson Mathews,Kara Schell,Deepika Sachan,Hardas Mehta,6,15
+16199,2,2025-06-22,TOC Bunch of Gherks,TOC Dynamic Smasher Mixed,Paul Hansen,Morgan Rachmiel,Sarika Hardas Mehta,Evan Pink,0,15
+16199,3,2025-06-22,TOC Bunch of Gherks,TOC Dynamic Smasher Mixed,Karteek Mudi,Shannon Stewart,Sulabh Paudel,Atayal Tu,15,6
+16199,4,2025-06-22,TOC Bunch of Gherks,TOC Dynamic Smasher Mixed,Jackson Mathews,Kara Schell,Sarika Hardas Mehta,Evan Pink,9,15
+16199,5,2025-06-22,TOC Bunch of Gherks,TOC Dynamic Smasher Mixed,Paul Hansen,Morgan Rachmiel,Sulabh Paudel,Atayal Tu,15,7
+16199,6,2025-06-22,TOC Bunch of Gherks,TOC Dynamic Smasher Mixed,Karteek Mudi,Shannon Stewart,Deepika Sachan,Hardas Mehta,9,15
+16199,7,2025-06-22,TOC Bunch of Gherks,TOC Dynamic Smasher Mixed,Jackson Mathews,Kara Schell,Sulabh Paudel,Atayal Tu,2,15
+16199,8,2025-06-22,TOC Bunch of Gherks,TOC Dynamic Smasher Mixed,Paul Hansen,Morgan Rachmiel,Deepika Sachan,Hardas Mehta,6,15
+16199,9,2025-06-22,TOC Bunch of Gherks,TOC Dynamic Smasher Mixed,Karteek Mudi,Shannon Stewart,Sarika Hardas Mehta,Evan Pink,11,15
+16200,1,2025-06-22,TOC Paddle Pals,TOC No Pickle 4 U,Rajesh Majeti,Wendy Marie Smith,Deb Hitchcock,Michael R Hitchcock,15,6
+16200,2,2025-06-22,TOC Paddle Pals,TOC No Pickle 4 U,Vishal Madichetty,Marlie Madison Barlow,Samuel Connor,Caroline Connor,7,15
+16200,3,2025-06-22,TOC Paddle Pals,TOC No Pickle 4 U,Umesh Pai,Lon Le,Matthew Lee,Sherri M Nuckols,5,15
+16200,4,2025-06-22,TOC Paddle Pals,TOC No Pickle 4 U,Rajesh Majeti,Wendy Marie Smith,Samuel Connor,Caroline Connor,15,3
+16200,5,2025-06-22,TOC Paddle Pals,TOC No Pickle 4 U,Vishal Madichetty,Marlie Madison Barlow,Matthew Lee,Sherri M Nuckols,5,15
+16200,6,2025-06-22,TOC Paddle Pals,TOC No Pickle 4 U,Umesh Pai,Lon Le,Deb Hitchcock,Michael R Hitchcock,15,4
+16200,7,2025-06-22,TOC Paddle Pals,TOC No Pickle 4 U,Rajesh Majeti,Wendy Marie Smith,Matthew Lee,Sherri M Nuckols,8,15
+16200,8,2025-06-22,TOC Paddle Pals,TOC No Pickle 4 U,Vishal Madichetty,Marlie Madison Barlow,Deb Hitchcock,Michael R Hitchcock,15,7
+16200,9,2025-06-22,TOC Paddle Pals,TOC No Pickle 4 U,Umesh Pai,Lon Le,Samuel Connor,Caroline Connor,9,15
+16206,1,2025-06-24,PEAK The Peakles,12OAKS Serve me a Double,Ethan Holland,Usha Ganesh,CJ Tyree,Brenda Quinn,15,2
+16206,2,2025-06-24,PEAK The Peakles,12OAKS Serve me a Double,Prashant Kohli,Maria Natalia,Thomas Buell,Christa Resavy,15,1
+16206,3,2025-06-24,PEAK The Peakles,12OAKS Serve me a Double,Cameron Scott Causey,Lan Rocham,AnneMarie Conklin,Shae Herman,2,15
+16206,4,2025-06-24,PEAK The Peakles,12OAKS Serve me a Double,Ethan Holland,Usha Ganesh,Thomas Buell,Christa Resavy,15,0
+16206,5,2025-06-24,PEAK The Peakles,12OAKS Serve me a Double,Prashant Kohli,Maria Natalia,AnneMarie Conklin,Shae Herman,15,2
+16206,6,2025-06-24,PEAK The Peakles,12OAKS Serve me a Double,Cameron Scott Causey,Lan Rocham,CJ Tyree,Brenda Quinn,7,15
+16206,7,2025-06-24,PEAK The Peakles,12OAKS Serve me a Double,Ethan Holland,Usha Ganesh,AnneMarie Conklin,Shae Herman,15,5
+16206,8,2025-06-24,PEAK The Peakles,12OAKS Serve me a Double,Prashant Kohli,Maria Natalia,CJ Tyree,Brenda Quinn,15,4
+16206,9,2025-06-24,PEAK The Peakles,12OAKS Serve me a Double,Cameron Scott Causey,Lan Rocham,Thomas Buell,Christa Resavy,8,15
+16207,1,2025-06-24,TOC Gibson,TOC Dynamic Smasher Mixed,Wendy Pannell,Brian Trum,Deepak Venkatesan,Sampa Sanyal,3,15
+16207,2,2025-06-24,TOC Gibson,TOC Dynamic Smasher Mixed,Jason Andreu,Carol Andreu,Sulabh Paudel,Atayal Tu,15,7
+16207,3,2025-06-24,TOC Gibson,TOC Dynamic Smasher Mixed,Kurt Gibson,Shelly Blackburn,Evan Pink,Deepika Sachan,1,15
+16207,4,2025-06-24,TOC Gibson,TOC Dynamic Smasher Mixed,Wendy Pannell,Brian Trum,Sulabh Paudel,Atayal Tu,9,15
+16207,5,2025-06-24,TOC Gibson,TOC Dynamic Smasher Mixed,Jason Andreu,Carol Andreu,Evan Pink,Deepika Sachan,8,15
+16207,6,2025-06-24,TOC Gibson,TOC Dynamic Smasher Mixed,Kurt Gibson,Shelly Blackburn,Deepak Venkatesan,Sampa Sanyal,7,15
+16207,7,2025-06-24,TOC Gibson,TOC Dynamic Smasher Mixed,Wendy Pannell,Brian Trum,Evan Pink,Deepika Sachan,0,15
+16207,8,2025-06-24,TOC Gibson,TOC Dynamic Smasher Mixed,Jason Andreu,Carol Andreu,Deepak Venkatesan,Sampa Sanyal,3,15
+16207,9,2025-06-24,TOC Gibson,TOC Dynamic Smasher Mixed,Kurt Gibson,Shelly Blackburn,Sulabh Paudel,Atayal Tu,9,15
+16208,1,2025-06-24,TOC No Pickle 4 U,TOC Bunch of Gherks,Caroline Connor,Samuel Connor,Naomi VanHorn,Adam Fox,10,15
+16208,2,2025-06-24,TOC No Pickle 4 U,TOC Bunch of Gherks,Godwin Jesudasan,Gitana Jesudasan,Karteek Mudi,Kara Schell,12,15
+16208,3,2025-06-24,TOC No Pickle 4 U,TOC Bunch of Gherks,Matthew Lee,Sherri M Nuckols,Jackson Mathews,Morgan Rachmiel,15,2
+16208,4,2025-06-24,TOC No Pickle 4 U,TOC Bunch of Gherks,Caroline Connor,Samuel Connor,Karteek Mudi,Kara Schell,15,10
+16208,5,2025-06-24,TOC No Pickle 4 U,TOC Bunch of Gherks,Godwin Jesudasan,Gitana Jesudasan,Jackson Mathews,Morgan Rachmiel,15,5
+16208,6,2025-06-24,TOC No Pickle 4 U,TOC Bunch of Gherks,Matthew Lee,Sherri M Nuckols,Naomi VanHorn,Adam Fox,15,12
+16208,7,2025-06-24,TOC No Pickle 4 U,TOC Bunch of Gherks,Caroline Connor,Samuel Connor,Jackson Mathews,Morgan Rachmiel,15,3
+16208,8,2025-06-24,TOC No Pickle 4 U,TOC Bunch of Gherks,Godwin Jesudasan,Gitana Jesudasan,Naomi VanHorn,Adam Fox,10,15
+16208,9,2025-06-24,TOC No Pickle 4 U,TOC Bunch of Gherks,Matthew Lee,Sherri M Nuckols,Karteek Mudi,Kara Schell,15,9
+16209,1,2025-06-29,TOC Dynamic Smasher Mixed,TOC No Pickle 4 U,Namit Luthra,Sampa Sanyal,Deb Hitchcock,Michael R Hitchcock,15,0
+16209,2,2025-06-29,TOC Dynamic Smasher Mixed,TOC No Pickle 4 U,Deepak Venkatesan,Sarika Hardas Mehta,Darren Goldberg,Cherie D Berger,11,15
+16209,3,2025-06-29,TOC Dynamic Smasher Mixed,TOC No Pickle 4 U,Hardas Mehta,Deepika Sachan,Samuel Connor,Caroline Connor,15,7
+16209,4,2025-06-29,TOC Dynamic Smasher Mixed,TOC No Pickle 4 U,Namit Luthra,Sampa Sanyal,Darren Goldberg,Cherie D Berger,15,4
+16209,5,2025-06-29,TOC Dynamic Smasher Mixed,TOC No Pickle 4 U,Deepak Venkatesan,Sarika Hardas Mehta,Samuel Connor,Caroline Connor,16,18
+16209,6,2025-06-29,TOC Dynamic Smasher Mixed,TOC No Pickle 4 U,Hardas Mehta,Deepika Sachan,Deb Hitchcock,Michael R Hitchcock,15,7
+16209,7,2025-06-29,TOC Dynamic Smasher Mixed,TOC No Pickle 4 U,Namit Luthra,Sampa Sanyal,Samuel Connor,Caroline Connor,15,0
+16209,8,2025-06-29,TOC Dynamic Smasher Mixed,TOC No Pickle 4 U,Deepak Venkatesan,Sarika Hardas Mehta,Deb Hitchcock,Michael R Hitchcock,15,2
+16209,9,2025-06-29,TOC Dynamic Smasher Mixed,TOC No Pickle 4 U,Hardas Mehta,Deepika Sachan,Darren Goldberg,Cherie D Berger,15,8
+16210,1,2025-06-29,TOC Mid Court Crisis,TOC Dink Responsibly,Patrick Zoller,Brooke Aeikens,Mark Vincent,Laine Cavanaugh,15,13
+16210,2,2025-06-29,TOC Mid Court Crisis,TOC Dink Responsibly,Dan Santos,Nicole Santos,Prashant Gupta,Cynthia Corley,15,3
+16210,3,2025-06-29,TOC Mid Court Crisis,TOC Dink Responsibly,Daniel Hunter Welch,Molly Robinson Welch,Darren Maske,Anouk Dehandtschutter,15,11
+16210,4,2025-06-29,TOC Mid Court Crisis,TOC Dink Responsibly,Patrick Zoller,Brooke Aeikens,Prashant Gupta,Cynthia Corley,15,6
+16210,5,2025-06-29,TOC Mid Court Crisis,TOC Dink Responsibly,Dan Santos,Nicole Santos,Darren Maske,Anouk Dehandtschutter,15,1
+16210,6,2025-06-29,TOC Mid Court Crisis,TOC Dink Responsibly,Daniel Hunter Welch,Molly Robinson Welch,Mark Vincent,Laine Cavanaugh,7,15
+16210,7,2025-06-29,TOC Mid Court Crisis,TOC Dink Responsibly,Patrick Zoller,Brooke Aeikens,Darren Maske,Anouk Dehandtschutter,15,12
+16210,8,2025-06-29,TOC Mid Court Crisis,TOC Dink Responsibly,Dan Santos,Nicole Santos,Mark Vincent,Laine Cavanaugh,15,7
+16210,9,2025-06-29,TOC Mid Court Crisis,TOC Dink Responsibly,Daniel Hunter Welch,Molly Robinson Welch,Prashant Gupta,Cynthia Corley,15,3
+16211,1,2025-06-29,TOC Paddle Pals,TOC Pickle Pack,Glen delosReyes,Meghan delosReyes,Jose A Reyes,Jennifer S Gibbs,15,4
+16211,2,2025-06-29,TOC Paddle Pals,TOC Pickle Pack,Rajesh Majeti,Wendy Marie Smith,Rhonda Benkiel,Antonio G Wright,15,7
+16211,3,2025-06-29,TOC Paddle Pals,TOC Pickle Pack,Justin Pau,Marlie Madison Barlow,Yolanda McCluney,Wayne Hui,15,2
+16211,4,2025-06-29,TOC Paddle Pals,TOC Pickle Pack,Glen delosReyes,Meghan delosReyes,Rhonda Benkiel,Antonio G Wright,15,5
+16211,5,2025-06-29,TOC Paddle Pals,TOC Pickle Pack,Rajesh Majeti,Wendy Marie Smith,Yolanda McCluney,Wayne Hui,15,2
+16211,6,2025-06-29,TOC Paddle Pals,TOC Pickle Pack,Justin Pau,Marlie Madison Barlow,Jose A Reyes,Jennifer S Gibbs,13,15
+16211,7,2025-06-29,TOC Paddle Pals,TOC Pickle Pack,Glen delosReyes,Meghan delosReyes,Yolanda McCluney,Wayne Hui,15,8
+16211,8,2025-06-29,TOC Paddle Pals,TOC Pickle Pack,Rajesh Majeti,Wendy Marie Smith,Jose A Reyes,Jennifer S Gibbs,15,3
+16211,9,2025-06-29,TOC Paddle Pals,TOC Pickle Pack,Justin Pau,Marlie Madison Barlow,Rhonda Benkiel,Antonio G Wright,11,15
+16217,1,2025-07-01,12OAKS Serve me a Double,TOC Gibson,Brenda Quinn,Steve Michael Smith,Wendy Pannell,Brian Trum,15,11
+16217,2,2025-07-01,12OAKS Serve me a Double,TOC Gibson,Christa Resavy,Shae Herman,Carol Andreu,Jason Andreu,15,4
+16217,3,2025-07-01,12OAKS Serve me a Double,TOC Gibson,Thomas Buell,Sherry Stolfo,Stacie Fernstrum,Peter Fernstrum,15,0
+16217,4,2025-07-01,12OAKS Serve me a Double,TOC Gibson,Brenda Quinn,Steve Michael Smith,Carol Andreu,Jason Andreu,15,7
+16217,5,2025-07-01,12OAKS Serve me a Double,TOC Gibson,Christa Resavy,Shae Herman,Stacie Fernstrum,Peter Fernstrum,15,0
+16217,6,2025-07-01,12OAKS Serve me a Double,TOC Gibson,Thomas Buell,Sherry Stolfo,Wendy Pannell,Brian Trum,15,9
+16217,7,2025-07-01,12OAKS Serve me a Double,TOC Gibson,Brenda Quinn,Steve Michael Smith,Stacie Fernstrum,Peter Fernstrum,15,2
+16217,8,2025-07-01,12OAKS Serve me a Double,TOC Gibson,Christa Resavy,Shae Herman,Wendy Pannell,Brian Trum,15,6
+16217,9,2025-07-01,12OAKS Serve me a Double,TOC Gibson,Thomas Buell,Sherry Stolfo,Carol Andreu,Jason Andreu,15,6
+16218,1,2025-07-01,PEAK The Peakles,TOC Pickle Pack,Prashant Kohli,Usha Ganesh,Kelda Bailey,Eric Webb,15,6
+16218,2,2025-07-01,PEAK The Peakles,TOC Pickle Pack,Ryan Paone,Casey Federovitch,Jose A Reyes,Yolanda McCluney,15,6
+16218,3,2025-07-01,PEAK The Peakles,TOC Pickle Pack,Ethan Holland,Lan Rocham,Jennifer S Gibbs,Mark Aaron Evans,15,1
+16218,4,2025-07-01,PEAK The Peakles,TOC Pickle Pack,Prashant Kohli,Usha Ganesh,Jose A Reyes,Yolanda McCluney,15,6
+16218,5,2025-07-01,PEAK The Peakles,TOC Pickle Pack,Ryan Paone,Casey Federovitch,Jennifer S Gibbs,Mark Aaron Evans,15,9
+16218,6,2025-07-01,PEAK The Peakles,TOC Pickle Pack,Ethan Holland,Lan Rocham,Kelda Bailey,Eric Webb,15,8
+16218,7,2025-07-01,PEAK The Peakles,TOC Pickle Pack,Prashant Kohli,Usha Ganesh,Jennifer S Gibbs,Mark Aaron Evans,15,7
+16218,8,2025-07-01,PEAK The Peakles,TOC Pickle Pack,Ryan Paone,Casey Federovitch,Kelda Bailey,Eric Webb,15,7
+16218,9,2025-07-01,PEAK The Peakles,TOC Pickle Pack,Ethan Holland,Lan Rocham,Jose A Reyes,Yolanda McCluney,15,5
+16219,1,2025-07-01,TOC Dink Responsibly,TOC Paddle Pals,Anouk Dehandtschutter,Jordan Maynard,Rajesh Majeti,Wendy Marie Smith,14,16
+16219,2,2025-07-01,TOC Dink Responsibly,TOC Paddle Pals,Sandrine Tokoto,Alex Vitshteyn,Umesh Pai,Marlie Madison Barlow,4,15
+16219,3,2025-07-01,TOC Dink Responsibly,TOC Paddle Pals,Laine Cavanaugh,Prashant Gupta,Justin Pau,Meghan delosReyes,0,15
+16219,4,2025-07-01,TOC Dink Responsibly,TOC Paddle Pals,Anouk Dehandtschutter,Jordan Maynard,Umesh Pai,Marlie Madison Barlow,13,15
+16219,5,2025-07-01,TOC Dink Responsibly,TOC Paddle Pals,Sandrine Tokoto,Alex Vitshteyn,Justin Pau,Meghan delosReyes,1,15
+16219,6,2025-07-01,TOC Dink Responsibly,TOC Paddle Pals,Laine Cavanaugh,Prashant Gupta,Rajesh Majeti,Wendy Marie Smith,4,15
+16219,7,2025-07-01,TOC Dink Responsibly,TOC Paddle Pals,Anouk Dehandtschutter,Jordan Maynard,Justin Pau,Meghan delosReyes,10,15
+16219,8,2025-07-01,TOC Dink Responsibly,TOC Paddle Pals,Sandrine Tokoto,Alex Vitshteyn,Rajesh Majeti,Wendy Marie Smith,2,15
+16219,9,2025-07-01,TOC Dink Responsibly,TOC Paddle Pals,Laine Cavanaugh,Prashant Gupta,Umesh Pai,Marlie Madison Barlow,11,15
+16220,1,2025-07-01,TOC Bunch of Gherks,TOC Mid Court Crisis,Adam Fox,Naomi VanHorn,Molly Robinson Welch,Daniel Hunter Welch,15,10
+16220,2,2025-07-01,TOC Bunch of Gherks,TOC Mid Court Crisis,Karteek Mudi,Shannon Stewart,Hamilton Dickson,Eva Yip,8,15
+16220,3,2025-07-01,TOC Bunch of Gherks,TOC Mid Court Crisis,Jackson Mathews,Morgan Rachmiel,Patrick Zoller,Brooke Aeikens,4,15
+16220,4,2025-07-01,TOC Bunch of Gherks,TOC Mid Court Crisis,Adam Fox,Naomi VanHorn,Hamilton Dickson,Eva Yip,5,15
+16220,5,2025-07-01,TOC Bunch of Gherks,TOC Mid Court Crisis,Karteek Mudi,Shannon Stewart,Patrick Zoller,Brooke Aeikens,10,15
+16220,6,2025-07-01,TOC Bunch of Gherks,TOC Mid Court Crisis,Jackson Mathews,Morgan Rachmiel,Molly Robinson Welch,Daniel Hunter Welch,6,15
+16220,7,2025-07-01,TOC Bunch of Gherks,TOC Mid Court Crisis,Adam Fox,Naomi VanHorn,Patrick Zoller,Brooke Aeikens,15,9
+16220,8,2025-07-01,TOC Bunch of Gherks,TOC Mid Court Crisis,Karteek Mudi,Shannon Stewart,Molly Robinson Welch,Daniel Hunter Welch,15,12
+16220,9,2025-07-01,TOC Bunch of Gherks,TOC Mid Court Crisis,Jackson Mathews,Morgan Rachmiel,Hamilton Dickson,Eva Yip,4,15
+16226,1,2025-07-08,TOC No Pickle 4 U,12OAKS Serve me a Double,Deb Hitchcock,Michael R Hitchcock,Sherry Stolfo,Thomas Buell,7,15
+16226,2,2025-07-08,TOC No Pickle 4 U,12OAKS Serve me a Double,Sherri M Nuckols,Matthew Lee,AnnMarie Johnson,Richard Boston,15,6
+16226,3,2025-07-08,TOC No Pickle 4 U,12OAKS Serve me a Double,Samuel Connor,Caroline Connor,Amy Smith,Steve Michael Smith,15,6
+16226,4,2025-07-08,TOC No Pickle 4 U,12OAKS Serve me a Double,Deb Hitchcock,Michael R Hitchcock,AnnMarie Johnson,Richard Boston,5,15
+16226,5,2025-07-08,TOC No Pickle 4 U,12OAKS Serve me a Double,Sherri M Nuckols,Matthew Lee,Amy Smith,Steve Michael Smith,15,6
+16226,6,2025-07-08,TOC No Pickle 4 U,12OAKS Serve me a Double,Samuel Connor,Caroline Connor,Sherry Stolfo,Thomas Buell,15,5
+16226,7,2025-07-08,TOC No Pickle 4 U,12OAKS Serve me a Double,Deb Hitchcock,Michael R Hitchcock,Amy Smith,Steve Michael Smith,7,15
+16226,8,2025-07-08,TOC No Pickle 4 U,12OAKS Serve me a Double,Sherri M Nuckols,Matthew Lee,Sherry Stolfo,Thomas Buell,15,11
+16226,9,2025-07-08,TOC No Pickle 4 U,12OAKS Serve me a Double,Samuel Connor,Caroline Connor,AnnMarie Johnson,Richard Boston,15,1
+16227,1,2025-07-08,TOC Gibson,PEAK The Peakles,Kurt Gibson,Stacie Fernstrum,Ryan Paone,Casey Federovitch,3,15
+16227,2,2025-07-08,TOC Gibson,PEAK The Peakles,Wendy Pannell,Brian Trum,Apollos Lee,Usha Ganesh,0,15
+16227,3,2025-07-08,TOC Gibson,PEAK The Peakles,Carol Andreu,Jason Andreu,Ethan Holland,Lan Rocham,3,15
+16227,4,2025-07-08,TOC Gibson,PEAK The Peakles,Kurt Gibson,Stacie Fernstrum,Apollos Lee,Usha Ganesh,5,15
+16227,5,2025-07-08,TOC Gibson,PEAK The Peakles,Wendy Pannell,Brian Trum,Ethan Holland,Lan Rocham,4,15
+16227,6,2025-07-08,TOC Gibson,PEAK The Peakles,Carol Andreu,Jason Andreu,Ryan Paone,Casey Federovitch,5,15
+16227,7,2025-07-08,TOC Gibson,PEAK The Peakles,Kurt Gibson,Stacie Fernstrum,Ethan Holland,Lan Rocham,6,15
+16227,8,2025-07-08,TOC Gibson,PEAK The Peakles,Wendy Pannell,Brian Trum,Ryan Paone,Casey Federovitch,5,15
+16227,9,2025-07-08,TOC Gibson,PEAK The Peakles,Carol Andreu,Jason Andreu,Apollos Lee,Usha Ganesh,5,15
+16228,1,2025-07-13,TOC Paddle Pals,TOC Bunch of Gherks,Glen delosReyes,Aulia Tandradinata,Adam Fox,Naomi VanHorn,7,15
+16228,2,2025-07-13,TOC Paddle Pals,TOC Bunch of Gherks,Rajesh Majeti,Meghan delosReyes,Karteek Mudi,Shannon Stewart,15,4
+16228,3,2025-07-13,TOC Paddle Pals,TOC Bunch of Gherks,Vishal Madichetty,Lon Le,Jackson Mathews,Kara Schell,15,2
+16228,4,2025-07-13,TOC Paddle Pals,TOC Bunch of Gherks,Glen delosReyes,Aulia Tandradinata,Karteek Mudi,Shannon Stewart,5,15
+16228,5,2025-07-13,TOC Paddle Pals,TOC Bunch of Gherks,Rajesh Majeti,Meghan delosReyes,Jackson Mathews,Kara Schell,15,7
+16228,6,2025-07-13,TOC Paddle Pals,TOC Bunch of Gherks,Vishal Madichetty,Lon Le,Adam Fox,Naomi VanHorn,4,15
+16228,7,2025-07-13,TOC Paddle Pals,TOC Bunch of Gherks,Glen delosReyes,Aulia Tandradinata,Jackson Mathews,Kara Schell,15,9
+16228,8,2025-07-13,TOC Paddle Pals,TOC Bunch of Gherks,Rajesh Majeti,Meghan delosReyes,Adam Fox,Naomi VanHorn,14,16
+16228,9,2025-07-13,TOC Paddle Pals,TOC Bunch of Gherks,Vishal Madichetty,Lon Le,Karteek Mudi,Shannon Stewart,8,15
+16230,1,2025-07-13,TOC Mid Court Crisis,TOC Dynamic Smasher Mixed,Patrick Zoller,Brooke Aeikens,Namit Luthra,Sampa Sanyal,7,15
+16230,2,2025-07-13,TOC Mid Court Crisis,TOC Dynamic Smasher Mixed,Daniel Hunter Welch,Eva Yip,Deepak Venkatesan,Hardas Mehta,15,13
+16230,3,2025-07-13,TOC Mid Court Crisis,TOC Dynamic Smasher Mixed,Nicole Santos,Hamilton Dickson,Evan Pink,Sarika Hardas Mehta,15,1
+16230,4,2025-07-13,TOC Mid Court Crisis,TOC Dynamic Smasher Mixed,Patrick Zoller,Brooke Aeikens,Deepak Venkatesan,Hardas Mehta,15,2
+16230,5,2025-07-13,TOC Mid Court Crisis,TOC Dynamic Smasher Mixed,Daniel Hunter Welch,Eva Yip,Evan Pink,Sarika Hardas Mehta,7,15
+16230,6,2025-07-13,TOC Mid Court Crisis,TOC Dynamic Smasher Mixed,Nicole Santos,Hamilton Dickson,Namit Luthra,Sampa Sanyal,15,8
+16230,7,2025-07-13,TOC Mid Court Crisis,TOC Dynamic Smasher Mixed,Patrick Zoller,Brooke Aeikens,Evan Pink,Sarika Hardas Mehta,15,6
+16230,8,2025-07-13,TOC Mid Court Crisis,TOC Dynamic Smasher Mixed,Daniel Hunter Welch,Eva Yip,Namit Luthra,Sampa Sanyal,4,15
+16230,9,2025-07-13,TOC Mid Court Crisis,TOC Dynamic Smasher Mixed,Nicole Santos,Hamilton Dickson,Deepak Venkatesan,Hardas Mehta,15,3
+16236,1,2025-07-15,PEAK The Peakles,TOC Paddle Pals,Ryan Paone,Usha Ganesh,Rajesh Majeti,Meghan delosReyes,15,3
+16236,2,2025-07-15,PEAK The Peakles,TOC Paddle Pals,Ethan Holland,Lan Rocham,Umesh Pai,Lon Le,15,4
+16236,3,2025-07-15,PEAK The Peakles,TOC Paddle Pals,Prashant Kohli,Maria Natalia,Glen delosReyes,Aulia Tandradinata,15,6
+16236,4,2025-07-15,PEAK The Peakles,TOC Paddle Pals,Ryan Paone,Usha Ganesh,Umesh Pai,Lon Le,15,8
+16236,5,2025-07-15,PEAK The Peakles,TOC Paddle Pals,Ethan Holland,Lan Rocham,Glen delosReyes,Aulia Tandradinata,15,7
+16236,6,2025-07-15,PEAK The Peakles,TOC Paddle Pals,Prashant Kohli,Maria Natalia,Rajesh Majeti,Meghan delosReyes,15,7
+16236,7,2025-07-15,PEAK The Peakles,TOC Paddle Pals,Ryan Paone,Usha Ganesh,Glen delosReyes,Aulia Tandradinata,15,3
+16236,8,2025-07-15,PEAK The Peakles,TOC Paddle Pals,Ethan Holland,Lan Rocham,Rajesh Majeti,Meghan delosReyes,15,8
+16236,9,2025-07-15,PEAK The Peakles,TOC Paddle Pals,Prashant Kohli,Maria Natalia,Umesh Pai,Lon Le,15,1
+16237,1,2025-07-15,TOC Dynamic Smasher Mixed,12OAKS Serve me a Double,Deepika Sachan,Evan Pink,Amy Smith,Steve Michael Smith,15,10
+16237,2,2025-07-15,TOC Dynamic Smasher Mixed,12OAKS Serve me a Double,Sampa Sanyal,Namit Luthra,Nikki Orie,Richard Boston,15,4
+16237,3,2025-07-15,TOC Dynamic Smasher Mixed,12OAKS Serve me a Double,Deepak Venkatesan,Sarika Hardas Mehta,AnneMarie Conklin,Chris Teague,15,12
+16237,4,2025-07-15,TOC Dynamic Smasher Mixed,12OAKS Serve me a Double,Deepika Sachan,Evan Pink,Nikki Orie,Richard Boston,15,10
+16237,5,2025-07-15,TOC Dynamic Smasher Mixed,12OAKS Serve me a Double,Sampa Sanyal,Namit Luthra,AnneMarie Conklin,Chris Teague,0,0
+16237,6,2025-07-15,TOC Dynamic Smasher Mixed,12OAKS Serve me a Double,Deepak Venkatesan,Sarika Hardas Mehta,Amy Smith,Steve Michael Smith,15,3
+16237,7,2025-07-15,TOC Dynamic Smasher Mixed,12OAKS Serve me a Double,Deepika Sachan,Evan Pink,AnneMarie Conklin,Chris Teague,15,17
+16237,8,2025-07-15,TOC Dynamic Smasher Mixed,12OAKS Serve me a Double,Sampa Sanyal,Namit Luthra,Amy Smith,Steve Michael Smith,15,3
+16237,9,2025-07-15,TOC Dynamic Smasher Mixed,12OAKS Serve me a Double,Deepak Venkatesan,Sarika Hardas Mehta,Nikki Orie,Richard Boston,15,4
+16238,1,2025-07-15,TOC Pickle Pack,TOC Mid Court Crisis,Wayne Hui,Yolanda McCluney,Nicole Santos,Patrick Zoller,8,15
+16238,2,2025-07-15,TOC Pickle Pack,TOC Mid Court Crisis,Bryan DeLoatch,Pamela DeLoatch,Hamilton Dickson,Eva Yip,5,15
+16238,3,2025-07-15,TOC Pickle Pack,TOC Mid Court Crisis,Mark Aaron Evans,Kelda Bailey,Daniel Hunter Welch,Molly Robinson Welch,15,6
+16238,4,2025-07-15,TOC Pickle Pack,TOC Mid Court Crisis,Wayne Hui,Yolanda McCluney,Hamilton Dickson,Eva Yip,3,15
+16238,5,2025-07-15,TOC Pickle Pack,TOC Mid Court Crisis,Bryan DeLoatch,Pamela DeLoatch,Daniel Hunter Welch,Molly Robinson Welch,9,15
+16238,6,2025-07-15,TOC Pickle Pack,TOC Mid Court Crisis,Mark Aaron Evans,Kelda Bailey,Nicole Santos,Patrick Zoller,1,15
+16238,7,2025-07-15,TOC Pickle Pack,TOC Mid Court Crisis,Wayne Hui,Yolanda McCluney,Daniel Hunter Welch,Molly Robinson Welch,11,15
+16238,8,2025-07-15,TOC Pickle Pack,TOC Mid Court Crisis,Bryan DeLoatch,Pamela DeLoatch,Nicole Santos,Patrick Zoller,5,15
+16238,9,2025-07-15,TOC Pickle Pack,TOC Mid Court Crisis,Mark Aaron Evans,Kelda Bailey,Hamilton Dickson,Eva Yip,10,15
+16239,1,2025-07-20,TOC Dink Responsibly,TOC No Pickle 4 U,Jordan Maynard,Cynthia Corley,Darren Goldberg,Cherie D Berger,9,15
+16239,2,2025-07-20,TOC Dink Responsibly,TOC No Pickle 4 U,Thomas Lerell,Sandrine Tokoto,Gitana Jesudasan,Godwin Jesudasan,7,15
+16239,3,2025-07-20,TOC Dink Responsibly,TOC No Pickle 4 U,Cheryl Briley,Darren Maske,Michael R Hitchcock,Sherri M Nuckols,12,15
+16239,4,2025-07-20,TOC Dink Responsibly,TOC No Pickle 4 U,Jordan Maynard,Cynthia Corley,Gitana Jesudasan,Godwin Jesudasan,6,15
+16239,5,2025-07-20,TOC Dink Responsibly,TOC No Pickle 4 U,Thomas Lerell,Sandrine Tokoto,Michael R Hitchcock,Sherri M Nuckols,2,15
+16239,6,2025-07-20,TOC Dink Responsibly,TOC No Pickle 4 U,Cheryl Briley,Darren Maske,Darren Goldberg,Cherie D Berger,8,15
+16239,7,2025-07-20,TOC Dink Responsibly,TOC No Pickle 4 U,Jordan Maynard,Cynthia Corley,Michael R Hitchcock,Sherri M Nuckols,4,15
+16239,8,2025-07-20,TOC Dink Responsibly,TOC No Pickle 4 U,Thomas Lerell,Sandrine Tokoto,Darren Goldberg,Cherie D Berger,2,15
+16239,9,2025-07-20,TOC Dink Responsibly,TOC No Pickle 4 U,Cheryl Briley,Darren Maske,Gitana Jesudasan,Godwin Jesudasan,6,15
+16240,1,2025-07-20,TOC Bunch of Gherks,TOC Gibson,Adam Fox,Naomi VanHorn,Shelly Blackburn,Kevin Blackburn,15,3
+16240,2,2025-07-20,TOC Bunch of Gherks,TOC Gibson,Paul Allen Bridges,Morgan Rachmiel,Chrissy Mogan,Paul Morgan,15,12
+16240,3,2025-07-20,TOC Bunch of Gherks,TOC Gibson,Karteek Mudi,Shannon Stewart,Wendy Pannell,Brian Trum,15,3
+16240,4,2025-07-20,TOC Bunch of Gherks,TOC Gibson,Adam Fox,Naomi VanHorn,Chrissy Mogan,Paul Morgan,15,3
+16240,5,2025-07-20,TOC Bunch of Gherks,TOC Gibson,Paul Allen Bridges,Morgan Rachmiel,Wendy Pannell,Brian Trum,9,15
+16240,6,2025-07-20,TOC Bunch of Gherks,TOC Gibson,Karteek Mudi,Shannon Stewart,Shelly Blackburn,Kevin Blackburn,15,12
+16240,7,2025-07-20,TOC Bunch of Gherks,TOC Gibson,Adam Fox,Naomi VanHorn,Wendy Pannell,Brian Trum,15,3
+16240,8,2025-07-20,TOC Bunch of Gherks,TOC Gibson,Paul Allen Bridges,Morgan Rachmiel,Shelly Blackburn,Kevin Blackburn,9,15
+16240,9,2025-07-20,TOC Bunch of Gherks,TOC Gibson,Karteek Mudi,Shannon Stewart,Chrissy Mogan,Paul Morgan,15,1
+16246,1,2025-07-22,PEAK The Peakles,TOC No Pickle 4 U,Ryan Paone,Usha Ganesh,Darren Goldberg,Cherie D Berger,15,6
+16246,2,2025-07-22,PEAK The Peakles,TOC No Pickle 4 U,Prashant Kohli,Maria Natalia,Sherri M Nuckols,Matthew Lee,15,6
+16246,3,2025-07-22,PEAK The Peakles,TOC No Pickle 4 U,Ethan Holland,Lan Rocham,DEFAULT,DEFAULT,15,0
+16246,4,2025-07-22,PEAK The Peakles,TOC No Pickle 4 U,Ryan Paone,Usha Ganesh,Sherri M Nuckols,Matthew Lee,15,9
+16246,5,2025-07-22,PEAK The Peakles,TOC No Pickle 4 U,Prashant Kohli,Maria Natalia,DEFAULT,DEFAULT,15,0
+16246,6,2025-07-22,PEAK The Peakles,TOC No Pickle 4 U,Ethan Holland,Lan Rocham,Darren Goldberg,Cherie D Berger,15,10
+16246,7,2025-07-22,PEAK The Peakles,TOC No Pickle 4 U,Ryan Paone,Usha Ganesh,DEFAULT,DEFAULT,15,0
+16246,8,2025-07-22,PEAK The Peakles,TOC No Pickle 4 U,Prashant Kohli,Maria Natalia,Darren Goldberg,Cherie D Berger,15,3
+16246,9,2025-07-22,PEAK The Peakles,TOC No Pickle 4 U,Ethan Holland,Lan Rocham,Sherri M Nuckols,Matthew Lee,15,11
+16229,1,2025-07-22,TOC Pickle Pack,TOC Dink Responsibly,Bryan DeLoatch,Pamela DeLoatch,Jordan Maynard,Cheryl Briley,14,16
+16229,2,2025-07-22,TOC Pickle Pack,TOC Dink Responsibly,Antonio G Wright,Kelda Bailey,Prashant Gupta,Laine Cavanaugh,15,9
+16229,3,2025-07-22,TOC Pickle Pack,TOC Dink Responsibly,Mark Aaron Evans,Rhonda Benkiel,Darren Maske,Sandrine Tokoto,15,6
+16229,4,2025-07-22,TOC Pickle Pack,TOC Dink Responsibly,Bryan DeLoatch,Pamela DeLoatch,Prashant Gupta,Laine Cavanaugh,9,15
+16229,5,2025-07-22,TOC Pickle Pack,TOC Dink Responsibly,Antonio G Wright,Kelda Bailey,Darren Maske,Sandrine Tokoto,15,4
+16229,6,2025-07-22,TOC Pickle Pack,TOC Dink Responsibly,Mark Aaron Evans,Rhonda Benkiel,Jordan Maynard,Cheryl Briley,15,7
+16229,7,2025-07-22,TOC Pickle Pack,TOC Dink Responsibly,Bryan DeLoatch,Pamela DeLoatch,Darren Maske,Sandrine Tokoto,15,8
+16229,8,2025-07-22,TOC Pickle Pack,TOC Dink Responsibly,Antonio G Wright,Kelda Bailey,Jordan Maynard,Cheryl Briley,15,11
+16229,9,2025-07-22,TOC Pickle Pack,TOC Dink Responsibly,Mark Aaron Evans,Rhonda Benkiel,Prashant Gupta,Laine Cavanaugh,15,8
+16248,1,2025-07-22,TOC Mid Court Crisis,TOC Gibson,Patrick Zoller,Brooke Aeikens,Stacie Fernstrum,Peter Fernstrum,15,0
+16248,2,2025-07-22,TOC Mid Court Crisis,TOC Gibson,Eva Yip,Hamilton Dickson,Wendy Pannell,Brian Trum,15,3
+16248,3,2025-07-22,TOC Mid Court Crisis,TOC Gibson,Molly Robinson Welch,Daniel Hunter Welch,Joey Gibson,Kurt Gibson,15,4
+16248,4,2025-07-22,TOC Mid Court Crisis,TOC Gibson,Patrick Zoller,Brooke Aeikens,Wendy Pannell,Brian Trum,15,3
+16248,5,2025-07-22,TOC Mid Court Crisis,TOC Gibson,Eva Yip,Hamilton Dickson,Joey Gibson,Kurt Gibson,15,4
+16248,6,2025-07-22,TOC Mid Court Crisis,TOC Gibson,Molly Robinson Welch,Daniel Hunter Welch,Stacie Fernstrum,Peter Fernstrum,15,0
+16248,7,2025-07-22,TOC Mid Court Crisis,TOC Gibson,Patrick Zoller,Brooke Aeikens,Joey Gibson,Kurt Gibson,15,1
+16248,8,2025-07-22,TOC Mid Court Crisis,TOC Gibson,Eva Yip,Hamilton Dickson,Stacie Fernstrum,Peter Fernstrum,15,2
+16248,9,2025-07-22,TOC Mid Court Crisis,TOC Gibson,Molly Robinson Welch,Daniel Hunter Welch,Wendy Pannell,Brian Trum,15,1
+16249,1,2025-07-27,TOC Pickle Pack,TOC Dynamic Smasher Mixed,Mark Aaron Evans,Rhonda Benkiel,Sulabh Paudel,Deepika Sachan,16,14
+16249,2,2025-07-27,TOC Pickle Pack,TOC Dynamic Smasher Mixed,Antonio G Wright,Pamela DeLoatch,Hardas Mehta,Sampa Sanyal,4,15
+16249,3,2025-07-27,TOC Pickle Pack,TOC Dynamic Smasher Mixed,Eric Webb,Jennifer S Gibbs,Evan Pink,Sarika Hardas Mehta,5,15
+16249,4,2025-07-27,TOC Pickle Pack,TOC Dynamic Smasher Mixed,Mark Aaron Evans,Rhonda Benkiel,Hardas Mehta,Sampa Sanyal,15,12
+16249,5,2025-07-27,TOC Pickle Pack,TOC Dynamic Smasher Mixed,Antonio G Wright,Pamela DeLoatch,Evan Pink,Sarika Hardas Mehta,5,15
+16249,6,2025-07-27,TOC Pickle Pack,TOC Dynamic Smasher Mixed,Eric Webb,Jennifer S Gibbs,Sulabh Paudel,Deepika Sachan,5,15
+16249,7,2025-07-27,TOC Pickle Pack,TOC Dynamic Smasher Mixed,Mark Aaron Evans,Rhonda Benkiel,Evan Pink,Sarika Hardas Mehta,15,13
+16249,8,2025-07-27,TOC Pickle Pack,TOC Dynamic Smasher Mixed,Antonio G Wright,Pamela DeLoatch,Sulabh Paudel,Deepika Sachan,15,8
+16249,9,2025-07-27,TOC Pickle Pack,TOC Dynamic Smasher Mixed,Eric Webb,Jennifer S Gibbs,Hardas Mehta,Sampa Sanyal,4,15
+16250,1,2025-07-27,TOC Dink Responsibly,TOC Bunch of Gherks,Jordan Maynard,Cheryl Briley,Paul Allen Bridges,Shannon Stewart,7,15
+16250,2,2025-07-27,TOC Dink Responsibly,TOC Bunch of Gherks,Prashant Gupta,Cynthia Corley,Adam Fox,Naomi VanHorn,8,15
+16250,3,2025-07-27,TOC Dink Responsibly,TOC Bunch of Gherks,Darren Maske,Sandrine Tokoto,Jackson Mathews,Morgan Rachmiel,15,7
+16250,4,2025-07-27,TOC Dink Responsibly,TOC Bunch of Gherks,Jordan Maynard,Cheryl Briley,Adam Fox,Naomi VanHorn,0,15
+16250,5,2025-07-27,TOC Dink Responsibly,TOC Bunch of Gherks,Prashant Gupta,Cynthia Corley,Jackson Mathews,Morgan Rachmiel,15,6
+16250,6,2025-07-27,TOC Dink Responsibly,TOC Bunch of Gherks,Darren Maske,Sandrine Tokoto,Paul Allen Bridges,Shannon Stewart,9,15
+16250,7,2025-07-27,TOC Dink Responsibly,TOC Bunch of Gherks,Jordan Maynard,Cheryl Briley,Jackson Mathews,Morgan Rachmiel,15,8
+16250,8,2025-07-27,TOC Dink Responsibly,TOC Bunch of Gherks,Prashant Gupta,Cynthia Corley,Paul Allen Bridges,Shannon Stewart,0,15
+16250,9,2025-07-27,TOC Dink Responsibly,TOC Bunch of Gherks,Darren Maske,Sandrine Tokoto,Adam Fox,Naomi VanHorn,4,15
+16256,1,2025-07-29,12OAKS Serve me a Double,TOC Mid Court Crisis,Brenda Quinn,Steve Michael Smith,Brooke Aeikens,Patrick Zoller,11,15
+16256,2,2025-07-29,12OAKS Serve me a Double,TOC Mid Court Crisis,Thomas Buell,AnneMarie Conklin,Daniel Hunter Welch,Molly Robinson Welch,12,15
+16256,3,2025-07-29,12OAKS Serve me a Double,TOC Mid Court Crisis,Sherry Stolfo,Richard Boston,Nicole Santos,Hamilton Dickson,5,15
+16256,4,2025-07-29,12OAKS Serve me a Double,TOC Mid Court Crisis,Brenda Quinn,Steve Michael Smith,Daniel Hunter Welch,Molly Robinson Welch,8,15
+16256,5,2025-07-29,12OAKS Serve me a Double,TOC Mid Court Crisis,Thomas Buell,AnneMarie Conklin,Nicole Santos,Hamilton Dickson,1,15
+16256,6,2025-07-29,12OAKS Serve me a Double,TOC Mid Court Crisis,Sherry Stolfo,Richard Boston,Brooke Aeikens,Patrick Zoller,15,10
+16256,7,2025-07-29,12OAKS Serve me a Double,TOC Mid Court Crisis,Brenda Quinn,Steve Michael Smith,Nicole Santos,Hamilton Dickson,5,15
+16256,8,2025-07-29,12OAKS Serve me a Double,TOC Mid Court Crisis,Thomas Buell,AnneMarie Conklin,Brooke Aeikens,Patrick Zoller,5,15
+16256,9,2025-07-29,12OAKS Serve me a Double,TOC Mid Court Crisis,Sherry Stolfo,Richard Boston,Daniel Hunter Welch,Molly Robinson Welch,15,12
+16257,1,2025-07-29,TOC Dink Responsibly,PEAK The Peakles,Prashant Gupta,Cynthia Corley,Ethan Holland,Lan Rocham,1,15
+16257,2,2025-07-29,TOC Dink Responsibly,PEAK The Peakles,Sandrine Tokoto,Alex Vitshteyn,Usha Ganesh,Apollos Lee,9,15
+16257,3,2025-07-29,TOC Dink Responsibly,PEAK The Peakles,Cheryl Briley,Jordan Maynard,Cameron Scott Causey,Maria Natalia,4,15
+16257,4,2025-07-29,TOC Dink Responsibly,PEAK The Peakles,Prashant Gupta,Cynthia Corley,Usha Ganesh,Apollos Lee,0,15
+16257,5,2025-07-29,TOC Dink Responsibly,PEAK The Peakles,Sandrine Tokoto,Alex Vitshteyn,Cameron Scott Causey,Maria Natalia,8,15
+16257,6,2025-07-29,TOC Dink Responsibly,PEAK The Peakles,Cheryl Briley,Jordan Maynard,Ethan Holland,Lan Rocham,2,15
+16257,7,2025-07-29,TOC Dink Responsibly,PEAK The Peakles,Prashant Gupta,Cynthia Corley,Cameron Scott Causey,Maria Natalia,3,15
+16257,8,2025-07-29,TOC Dink Responsibly,PEAK The Peakles,Sandrine Tokoto,Alex Vitshteyn,Ethan Holland,Lan Rocham,4,15
+16257,9,2025-07-29,TOC Dink Responsibly,PEAK The Peakles,Cheryl Briley,Jordan Maynard,Usha Ganesh,Apollos Lee,8,15
+16258,1,2025-07-29,TOC Dynamic Smasher Mixed,TOC Paddle Pals,Namit Luthra,Sampa Sanyal,Rajesh Majeti,Meghan delosReyes,6,15
+16258,2,2025-07-29,TOC Dynamic Smasher Mixed,TOC Paddle Pals,Deepika Sachan,Deepak Venkatesan,Justin Pau,Stephanie Chua,15,6
+16258,3,2025-07-29,TOC Dynamic Smasher Mixed,TOC Paddle Pals,Evan Pink,Sarika Hardas Mehta,Glen delosReyes,Lon Le,15,4
+16258,4,2025-07-29,TOC Dynamic Smasher Mixed,TOC Paddle Pals,Namit Luthra,Sampa Sanyal,Justin Pau,Stephanie Chua,15,1
+16258,5,2025-07-29,TOC Dynamic Smasher Mixed,TOC Paddle Pals,Deepika Sachan,Deepak Venkatesan,Glen delosReyes,Lon Le,7,15
+16258,6,2025-07-29,TOC Dynamic Smasher Mixed,TOC Paddle Pals,Evan Pink,Sarika Hardas Mehta,Rajesh Majeti,Meghan delosReyes,12,15
+16258,7,2025-07-29,TOC Dynamic Smasher Mixed,TOC Paddle Pals,Namit Luthra,Sampa Sanyal,Glen delosReyes,Lon Le,15,6
+16258,8,2025-07-29,TOC Dynamic Smasher Mixed,TOC Paddle Pals,Deepika Sachan,Deepak Venkatesan,Rajesh Majeti,Meghan delosReyes,15,3
+16258,9,2025-07-29,TOC Dynamic Smasher Mixed,TOC Paddle Pals,Evan Pink,Sarika Hardas Mehta,Justin Pau,Stephanie Chua,15,10
+16259,1,2025-08-03,TOC Bunch of Gherks,TOC Pickle Pack,Adam Fox,Naomi VanHorn,Jose A Reyes,Michelle Reyes,15,11
+16259,2,2025-08-03,TOC Bunch of Gherks,TOC Pickle Pack,Karteek Mudi,Shannon Stewart,Bryan DeLoatch,Pamela DeLoatch,15,12
+16259,3,2025-08-03,TOC Bunch of Gherks,TOC Pickle Pack,Paul Allen Bridges,Kara Schell,Rhonda Benkiel,Antonio G Wright,4,15
+16259,4,2025-08-03,TOC Bunch of Gherks,TOC Pickle Pack,Adam Fox,Naomi VanHorn,Bryan DeLoatch,Pamela DeLoatch,15,3
+16259,5,2025-08-03,TOC Bunch of Gherks,TOC Pickle Pack,Karteek Mudi,Shannon Stewart,Rhonda Benkiel,Antonio G Wright,15,5
+16259,6,2025-08-03,TOC Bunch of Gherks,TOC Pickle Pack,Paul Allen Bridges,Kara Schell,Jose A Reyes,Michelle Reyes,4,15
+16259,7,2025-08-03,TOC Bunch of Gherks,TOC Pickle Pack,Adam Fox,Naomi VanHorn,Rhonda Benkiel,Antonio G Wright,15,7
+16259,8,2025-08-03,TOC Bunch of Gherks,TOC Pickle Pack,Karteek Mudi,Shannon Stewart,Jose A Reyes,Michelle Reyes,15,12
+16259,9,2025-08-03,TOC Bunch of Gherks,TOC Pickle Pack,Paul Allen Bridges,Kara Schell,Bryan DeLoatch,Pamela DeLoatch,15,12
+16260,1,2025-08-03,TOC Gibson,TOC No Pickle 4 U,Carol Andreu,Jason Andreu,Darren Goldberg,Cherie D Berger,4,15
+16260,2,2025-08-03,TOC Gibson,TOC No Pickle 4 U,DEFAULT,DEFAULT,Godwin Jesudasan,Gitana Jesudasan,0,15
+16260,3,2025-08-03,TOC Gibson,TOC No Pickle 4 U,Chrissy Mogan,Brian Trum,Caroline Connor,Samuel Connor,2,15
+16260,4,2025-08-03,TOC Gibson,TOC No Pickle 4 U,Carol Andreu,Jason Andreu,Godwin Jesudasan,Gitana Jesudasan,3,15
+16260,5,2025-08-03,TOC Gibson,TOC No Pickle 4 U,DEFAULT,DEFAULT,Caroline Connor,Samuel Connor,0,15
+16260,6,2025-08-03,TOC Gibson,TOC No Pickle 4 U,Chrissy Mogan,Brian Trum,Darren Goldberg,Cherie D Berger,1,15
+16260,7,2025-08-03,TOC Gibson,TOC No Pickle 4 U,Carol Andreu,Jason Andreu,Caroline Connor,Samuel Connor,6,15
+16260,8,2025-08-03,TOC Gibson,TOC No Pickle 4 U,DEFAULT,DEFAULT,Darren Goldberg,Cherie D Berger,0,15
+16260,9,2025-08-03,TOC Gibson,TOC No Pickle 4 U,Chrissy Mogan,Brian Trum,Godwin Jesudasan,Gitana Jesudasan,8,15
+16266,1,2025-08-05,PEAK The Peakles,TOC Bunch of Gherks,Prashant Kohli,Usha Ganesh,Karteek Mudi,Shannon Stewart,15,6
+16266,2,2025-08-05,PEAK The Peakles,TOC Bunch of Gherks,Ryan Paone,Casey Federovitch,Paul Allen Bridges,Kara Schell,15,8
+16266,3,2025-08-05,PEAK The Peakles,TOC Bunch of Gherks,Ethan Holland,Lan Rocham,Adam Fox,Naomi VanHorn,15,13
+16266,4,2025-08-05,PEAK The Peakles,TOC Bunch of Gherks,Prashant Kohli,Usha Ganesh,Paul Allen Bridges,Kara Schell,15,3
+16266,5,2025-08-05,PEAK The Peakles,TOC Bunch of Gherks,Ryan Paone,Casey Federovitch,Adam Fox,Naomi VanHorn,11,15
+16266,6,2025-08-05,PEAK The Peakles,TOC Bunch of Gherks,Ethan Holland,Lan Rocham,Karteek Mudi,Shannon Stewart,10,15
+16266,7,2025-08-05,PEAK The Peakles,TOC Bunch of Gherks,Prashant Kohli,Usha Ganesh,Adam Fox,Naomi VanHorn,15,9
+16266,8,2025-08-05,PEAK The Peakles,TOC Bunch of Gherks,Ryan Paone,Casey Federovitch,Karteek Mudi,Shannon Stewart,15,9
+16266,9,2025-08-05,PEAK The Peakles,TOC Bunch of Gherks,Ethan Holland,Lan Rocham,Paul Allen Bridges,Kara Schell,15,3
+16267,1,2025-08-05,12OAKS Serve me a Double,TOC Pickle Pack,Christa Resavy,Shae Herman,Eric Webb,Michelle Reyes,15,12
+16267,2,2025-08-05,12OAKS Serve me a Double,TOC Pickle Pack,Ken Orie,AnnMarie Johnson,Antonio G Wright,Pamela DeLoatch,12,15
+16267,3,2025-08-05,12OAKS Serve me a Double,TOC Pickle Pack,Sherry Stolfo,Steve Michael Smith,Wayne Hui,Jennifer S Gibbs,15,8
+16267,4,2025-08-05,12OAKS Serve me a Double,TOC Pickle Pack,Christa Resavy,Shae Herman,Antonio G Wright,Pamela DeLoatch,15,9
+16267,5,2025-08-05,12OAKS Serve me a Double,TOC Pickle Pack,Ken Orie,AnnMarie Johnson,Wayne Hui,Jennifer S Gibbs,10,15
+16267,6,2025-08-05,12OAKS Serve me a Double,TOC Pickle Pack,Sherry Stolfo,Steve Michael Smith,Eric Webb,Michelle Reyes,15,9
+16267,7,2025-08-05,12OAKS Serve me a Double,TOC Pickle Pack,Christa Resavy,Shae Herman,Wayne Hui,Jennifer S Gibbs,15,13
+16267,8,2025-08-05,12OAKS Serve me a Double,TOC Pickle Pack,Ken Orie,AnnMarie Johnson,Eric Webb,Michelle Reyes,16,14
+16267,9,2025-08-05,12OAKS Serve me a Double,TOC Pickle Pack,Sherry Stolfo,Steve Michael Smith,Antonio G Wright,Pamela DeLoatch,15,6
+16268,1,2025-08-05,TOC Gibson,TOC Paddle Pals,Kurt Gibson,Joey Gibson,Glen delosReyes,Meghan delosReyes,3,15
+16268,2,2025-08-05,TOC Gibson,TOC Paddle Pals,Brian Trum,Chrissy Mogan,Stephanie Chua,Umesh Pai,1,15
+16268,3,2025-08-05,TOC Gibson,TOC Paddle Pals,Shelly Blackburn,Kevin Blackburn,Justin Pau,Wendy Marie Smith,7,15
+16268,4,2025-08-05,TOC Gibson,TOC Paddle Pals,Kurt Gibson,Joey Gibson,Stephanie Chua,Umesh Pai,1,15
+16268,5,2025-08-05,TOC Gibson,TOC Paddle Pals,Brian Trum,Chrissy Mogan,Justin Pau,Wendy Marie Smith,6,15
+16268,6,2025-08-05,TOC Gibson,TOC Paddle Pals,Shelly Blackburn,Kevin Blackburn,Glen delosReyes,Meghan delosReyes,5,8
+16268,7,2025-08-05,TOC Gibson,TOC Paddle Pals,Kurt Gibson,Joey Gibson,Justin Pau,Wendy Marie Smith,2,15
+16268,8,2025-08-05,TOC Gibson,TOC Paddle Pals,Brian Trum,Chrissy Mogan,Glen delosReyes,Meghan delosReyes,1,15
+16268,9,2025-08-05,TOC Gibson,TOC Paddle Pals,Shelly Blackburn,Kevin Blackburn,Stephanie Chua,Umesh Pai,15,10
+16269,1,2025-08-05,TOC Dynamic Smasher Mixed,TOC Dink Responsibly,Lisa Rigsbee Wall,Christopher Lee Wall,DEFAULT,DEFAULT,15,0
+16269,2,2025-08-05,TOC Dynamic Smasher Mixed,TOC Dink Responsibly,Kaleb S Kominski,Deepika Sachan,DEFAULT,DEFAULT,15,0
+16269,3,2025-08-05,TOC Dynamic Smasher Mixed,TOC Dink Responsibly,Evan Pink,Sarika Hardas Mehta,DEFAULT,DEFAULT,15,0
+16269,4,2025-08-05,TOC Dynamic Smasher Mixed,TOC Dink Responsibly,Lisa Rigsbee Wall,Christopher Lee Wall,DEFAULT,DEFAULT,15,0
+16269,5,2025-08-05,TOC Dynamic Smasher Mixed,TOC Dink Responsibly,Kaleb S Kominski,Deepika Sachan,DEFAULT,DEFAULT,15,0
+16269,6,2025-08-05,TOC Dynamic Smasher Mixed,TOC Dink Responsibly,Evan Pink,Sarika Hardas Mehta,DEFAULT,DEFAULT,15,0
+16269,7,2025-08-05,TOC Dynamic Smasher Mixed,TOC Dink Responsibly,Lisa Rigsbee Wall,Christopher Lee Wall,DEFAULT,DEFAULT,15,0
+16269,8,2025-08-05,TOC Dynamic Smasher Mixed,TOC Dink Responsibly,Kaleb S Kominski,Deepika Sachan,DEFAULT,DEFAULT,15,0
+16269,9,2025-08-05,TOC Dynamic Smasher Mixed,TOC Dink Responsibly,Evan Pink,Sarika Hardas Mehta,DEFAULT,DEFAULT,15,0
+16270,1,2025-08-10,TOC No Pickle 4 U,TOC Mid Court Crisis,Darren Goldberg,Cherie D Berger,Brooke Aeikens,Patrick Zoller,7,15
+16270,2,2025-08-10,TOC No Pickle 4 U,TOC Mid Court Crisis,Matthew Lee,Sherri M Nuckols,Hamilton Dickson,Nicole Santos,14,16
+16270,3,2025-08-10,TOC No Pickle 4 U,TOC Mid Court Crisis,Gitana Jesudasan,Godwin Jesudasan,DEFAULT,DEFAULT,15,0
+16270,4,2025-08-10,TOC No Pickle 4 U,TOC Mid Court Crisis,Darren Goldberg,Cherie D Berger,Hamilton Dickson,Nicole Santos,12,15
+16270,5,2025-08-10,TOC No Pickle 4 U,TOC Mid Court Crisis,Matthew Lee,Sherri M Nuckols,DEFAULT,DEFAULT,15,0
+16270,6,2025-08-10,TOC No Pickle 4 U,TOC Mid Court Crisis,Gitana Jesudasan,Godwin Jesudasan,Brooke Aeikens,Patrick Zoller,6,15
+16270,7,2025-08-10,TOC No Pickle 4 U,TOC Mid Court Crisis,Darren Goldberg,Cherie D Berger,DEFAULT,DEFAULT,15,0
+16270,8,2025-08-10,TOC No Pickle 4 U,TOC Mid Court Crisis,Matthew Lee,Sherri M Nuckols,Brooke Aeikens,Patrick Zoller,4,15
+16270,9,2025-08-10,TOC No Pickle 4 U,TOC Mid Court Crisis,Gitana Jesudasan,Godwin Jesudasan,Hamilton Dickson,Nicole Santos,4,15
+16275,1,2025-08-12,TOC Mid Court Crisis,TOC Dynamic Smasher Mixed,Patrick Zoller,Brooke Aeikens,Deepika Sachan,Namit Luthra,9,15
+16275,2,2025-08-12,TOC Mid Court Crisis,TOC Dynamic Smasher Mixed,Hamilton Dickson,Nicole Santos,Deepak Venkatesan,Sampa Sanyal,15,6
+16275,3,2025-08-12,TOC Mid Court Crisis,TOC Dynamic Smasher Mixed,Daniel Hunter Welch,Eva Yip,Evan Pink,Sarika Hardas Mehta,11,15
+16275,4,2025-08-12,TOC Mid Court Crisis,TOC Dynamic Smasher Mixed,Patrick Zoller,Brooke Aeikens,Deepak Venkatesan,Sampa Sanyal,15,8
+16275,5,2025-08-12,TOC Mid Court Crisis,TOC Dynamic Smasher Mixed,Hamilton Dickson,Nicole Santos,Evan Pink,Sarika Hardas Mehta,15,4
+16275,6,2025-08-12,TOC Mid Court Crisis,TOC Dynamic Smasher Mixed,Daniel Hunter Welch,Eva Yip,Deepika Sachan,Namit Luthra,15,6
+16275,7,2025-08-12,TOC Mid Court Crisis,TOC Dynamic Smasher Mixed,Patrick Zoller,Brooke Aeikens,Evan Pink,Sarika Hardas Mehta,17,15
+16275,8,2025-08-12,TOC Mid Court Crisis,TOC Dynamic Smasher Mixed,Hamilton Dickson,Nicole Santos,Deepika Sachan,Namit Luthra,13,15
+16275,9,2025-08-12,TOC Mid Court Crisis,TOC Dynamic Smasher Mixed,Daniel Hunter Welch,Eva Yip,Deepak Venkatesan,Sampa Sanyal,12,15

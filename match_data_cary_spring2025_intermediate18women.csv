@@ -1,0 +1,163 @@
+match_id,game_id,match_date,team1_name,team2_name,partner1,partner2,opponent1,opponent2,team1_points,team2_points
+15813,1,2025-03-17,LOCH The Dinkerbells,TOC Volleywood Stars,MaryBeth Dahlstein,Lisa Means,Stephanie Chua,Joan Vistro,2,15
+15813,2,2025-03-17,LOCH The Dinkerbells,TOC Volleywood Stars,Connie Kannarr,Lisa C,Lon Le,Aulia Tandradinata,3,15
+15813,3,2025-03-17,LOCH The Dinkerbells,TOC Volleywood Stars,Ginger Haroldson,Nicole Baker Crain,Caroline Bouchayer,Jennifer Brunetti,9,15
+15813,4,2025-03-17,LOCH The Dinkerbells,TOC Volleywood Stars,MaryBeth Dahlstein,Lisa Means,Lon Le,Aulia Tandradinata,9,15
+15813,5,2025-03-17,LOCH The Dinkerbells,TOC Volleywood Stars,Connie Kannarr,Lisa C,Caroline Bouchayer,Jennifer Brunetti,8,15
+15813,6,2025-03-17,LOCH The Dinkerbells,TOC Volleywood Stars,Ginger Haroldson,Nicole Baker Crain,Stephanie Chua,Joan Vistro,12,15
+15813,7,2025-03-17,LOCH The Dinkerbells,TOC Volleywood Stars,MaryBeth Dahlstein,Lisa Means,Caroline Bouchayer,Jennifer Brunetti,15,13
+15813,8,2025-03-17,LOCH The Dinkerbells,TOC Volleywood Stars,Connie Kannarr,Lisa C,Stephanie Chua,Joan Vistro,2,15
+15813,9,2025-03-17,LOCH The Dinkerbells,TOC Volleywood Stars,Ginger Haroldson,Nicole Baker Crain,Lon Le,Aulia Tandradinata,5,15
+15814,1,2025-03-17,TOC OMG (one more game),MD Dinks On Us,Kelly Alison Martin,Susan Barsky,Ann Leuth,Susan Bowser,15,10
+15814,2,2025-03-17,TOC OMG (one more game),MD Dinks On Us,Callie Ellison,Nicole Santos,Jennifer Reese,Katherine Hansen,7,15
+15814,3,2025-03-17,TOC OMG (one more game),MD Dinks On Us,Carmen Curi,Eva Yip,Amelia Lyons,Jennifer I Wells,15,8
+15814,4,2025-03-17,TOC OMG (one more game),MD Dinks On Us,Kelly Alison Martin,Susan Barsky,Jennifer Reese,Katherine Hansen,15,9
+15814,5,2025-03-17,TOC OMG (one more game),MD Dinks On Us,Callie Ellison,Nicole Santos,Amelia Lyons,Jennifer I Wells,15,3
+15814,6,2025-03-17,TOC OMG (one more game),MD Dinks On Us,Carmen Curi,Eva Yip,Ann Leuth,Susan Bowser,15,5
+15814,7,2025-03-17,TOC OMG (one more game),MD Dinks On Us,Kelly Alison Martin,Susan Barsky,Amelia Lyons,Jennifer I Wells,15,1
+15814,8,2025-03-17,TOC OMG (one more game),MD Dinks On Us,Callie Ellison,Nicole Santos,Ann Leuth,Susan Bowser,15,12
+15814,9,2025-03-17,TOC OMG (one more game),MD Dinks On Us,Carmen Curi,Eva Yip,Jennifer Reese,Katherine Hansen,10,15
+15830,1,2025-03-24,MD Dinks On Us,LOCH The Dinkerbells,Fiona Degnan,Marti Bowker,Melanie Blondin,Pam Hunter,15,8
+15830,2,2025-03-24,MD Dinks On Us,LOCH The Dinkerbells,Christina Lynn Zadell,Cindy Winzenz,MaryBeth Dahlstein,Lisa C,15,7
+15830,3,2025-03-24,MD Dinks On Us,LOCH The Dinkerbells,Carol Scott Ashworth,Molly Reilly,Connie Kannarr,Lisa Means,15,12
+15830,4,2025-03-24,MD Dinks On Us,LOCH The Dinkerbells,Fiona Degnan,Marti Bowker,MaryBeth Dahlstein,Lisa C,15,5
+15830,5,2025-03-24,MD Dinks On Us,LOCH The Dinkerbells,Christina Lynn Zadell,Cindy Winzenz,Connie Kannarr,Lisa Means,15,6
+15830,6,2025-03-24,MD Dinks On Us,LOCH The Dinkerbells,Carol Scott Ashworth,Molly Reilly,Melanie Blondin,Pam Hunter,7,15
+15830,7,2025-03-24,MD Dinks On Us,LOCH The Dinkerbells,Fiona Degnan,Marti Bowker,Connie Kannarr,Lisa Means,15,6
+15830,8,2025-03-24,MD Dinks On Us,LOCH The Dinkerbells,Christina Lynn Zadell,Cindy Winzenz,Melanie Blondin,Pam Hunter,15,3
+15830,9,2025-03-24,MD Dinks On Us,LOCH The Dinkerbells,Carol Scott Ashworth,Molly Reilly,MaryBeth Dahlstein,Lisa C,15,11
+15831,1,2025-03-24,TOC Volleywood Stars,TOC OMG (one more game),Stephanie Chua,Joan Vistro,Susan Barsky,Kelly Alison Martin,10,15
+15831,2,2025-03-24,TOC Volleywood Stars,TOC OMG (one more game),Dawn Worthington,Angie Willis,Jill Keller,Carmen Curi,15,7
+15831,3,2025-03-24,TOC Volleywood Stars,TOC OMG (one more game),Lon Le,Aulia Tandradinata,Eva Yip,Callie Ellison,18,16
+15831,4,2025-03-24,TOC Volleywood Stars,TOC OMG (one more game),Stephanie Chua,Joan Vistro,Jill Keller,Carmen Curi,15,4
+15831,5,2025-03-24,TOC Volleywood Stars,TOC OMG (one more game),Dawn Worthington,Angie Willis,Eva Yip,Callie Ellison,7,15
+15831,6,2025-03-24,TOC Volleywood Stars,TOC OMG (one more game),Lon Le,Aulia Tandradinata,Susan Barsky,Kelly Alison Martin,8,15
+15831,7,2025-03-24,TOC Volleywood Stars,TOC OMG (one more game),Stephanie Chua,Joan Vistro,Eva Yip,Callie Ellison,6,15
+15831,8,2025-03-24,TOC Volleywood Stars,TOC OMG (one more game),Dawn Worthington,Angie Willis,Susan Barsky,Kelly Alison Martin,3,15
+15831,9,2025-03-24,TOC Volleywood Stars,TOC OMG (one more game),Lon Le,Aulia Tandradinata,Jill Keller,Carmen Curi,15,4
+15848,1,2025-03-31,LOCH The Dinkerbells,TOC OMG (one more game),Melanie Blondin,MaryBeth Dahlstein,Callie Ellison,Kelly Alison Martin,7,15
+15848,2,2025-03-31,LOCH The Dinkerbells,TOC OMG (one more game),Ginger Haroldson,Nicole Baker Crain,Carmen Curi,Jill Keller,11,15
+15848,3,2025-03-31,LOCH The Dinkerbells,TOC OMG (one more game),Christie Benjamin,Lisa C,Nicole Santos,Brooke Aeikens,4,15
+15848,4,2025-03-31,LOCH The Dinkerbells,TOC OMG (one more game),Melanie Blondin,MaryBeth Dahlstein,Carmen Curi,Jill Keller,15,11
+15848,5,2025-03-31,LOCH The Dinkerbells,TOC OMG (one more game),Ginger Haroldson,Nicole Baker Crain,Nicole Santos,Brooke Aeikens,2,15
+15848,6,2025-03-31,LOCH The Dinkerbells,TOC OMG (one more game),Christie Benjamin,Lisa C,Callie Ellison,Kelly Alison Martin,5,15
+15848,7,2025-03-31,LOCH The Dinkerbells,TOC OMG (one more game),Melanie Blondin,MaryBeth Dahlstein,Nicole Santos,Brooke Aeikens,0,0
+15848,8,2025-03-31,LOCH The Dinkerbells,TOC OMG (one more game),Ginger Haroldson,Nicole Baker Crain,Callie Ellison,Kelly Alison Martin,0,0
+15848,9,2025-03-31,LOCH The Dinkerbells,TOC OMG (one more game),Christie Benjamin,Lisa C,Carmen Curi,Jill Keller,0,0
+15858,1,2025-04-07,TOC Volleywood Stars,TOC OMG (one more game),Lon Le,Aulia Tandradinata,Kelly Alison Martin,Susan Barsky,9,15
+15858,2,2025-04-07,TOC Volleywood Stars,TOC OMG (one more game),Stephanie Chua,Dawn Worthington,Nicole Santos,Brooke Aeikens,9,15
+15858,3,2025-04-07,TOC Volleywood Stars,TOC OMG (one more game),Joan Vistro,Glenda Kempiz,Eva Yip,Callie Ellison,6,15
+15858,4,2025-04-07,TOC Volleywood Stars,TOC OMG (one more game),Lon Le,Aulia Tandradinata,Nicole Santos,Brooke Aeikens,7,15
+15858,5,2025-04-07,TOC Volleywood Stars,TOC OMG (one more game),Stephanie Chua,Dawn Worthington,Eva Yip,Callie Ellison,10,15
+15858,6,2025-04-07,TOC Volleywood Stars,TOC OMG (one more game),Joan Vistro,Glenda Kempiz,Kelly Alison Martin,Susan Barsky,4,15
+15858,7,2025-04-07,TOC Volleywood Stars,TOC OMG (one more game),Lon Le,Aulia Tandradinata,Eva Yip,Callie Ellison,15,17
+15858,8,2025-04-07,TOC Volleywood Stars,TOC OMG (one more game),Stephanie Chua,Dawn Worthington,Kelly Alison Martin,Susan Barsky,15,9
+15858,9,2025-04-07,TOC Volleywood Stars,TOC OMG (one more game),Joan Vistro,Glenda Kempiz,Nicole Santos,Brooke Aeikens,5,15
+15857,1,2025-04-13,MD Dinks On Us,LOCH The Dinkerbells,Fiona Degnan,Susan Bowser,Melanie Blondin,MaryBeth Dahlstein,15,10
+15857,2,2025-04-13,MD Dinks On Us,LOCH The Dinkerbells,Carol Scott Ashworth,Jennifer I Wells,Ginger Haroldson,Lisa C,15,6
+15857,3,2025-04-13,MD Dinks On Us,LOCH The Dinkerbells,Molly Reilly,Janine Gerber,Lisa Means,Pam Hunter,15,4
+15857,4,2025-04-13,MD Dinks On Us,LOCH The Dinkerbells,Fiona Degnan,Susan Bowser,Ginger Haroldson,Lisa C,15,6
+15857,5,2025-04-13,MD Dinks On Us,LOCH The Dinkerbells,Carol Scott Ashworth,Jennifer I Wells,Lisa Means,Pam Hunter,7,15
+15857,6,2025-04-13,MD Dinks On Us,LOCH The Dinkerbells,Molly Reilly,Janine Gerber,Melanie Blondin,MaryBeth Dahlstein,2,15
+15857,7,2025-04-13,MD Dinks On Us,LOCH The Dinkerbells,Fiona Degnan,Susan Bowser,Lisa Means,Pam Hunter,15,4
+15857,8,2025-04-13,MD Dinks On Us,LOCH The Dinkerbells,Carol Scott Ashworth,Jennifer I Wells,Melanie Blondin,MaryBeth Dahlstein,8,15
+15857,9,2025-04-13,MD Dinks On Us,LOCH The Dinkerbells,Molly Reilly,Janine Gerber,Ginger Haroldson,Lisa C,5,15
+15875,1,2025-04-14,MD Dinks On Us,TOC Volleywood Stars,Jennifer Reese,Katherine Hansen,Lon Le,Aulia Tandradinata,15,13
+15875,2,2025-04-14,MD Dinks On Us,TOC Volleywood Stars,Amelia Lyons,Janine Gerber,Stephanie Chua,Joan Vistro,9,15
+15875,3,2025-04-14,MD Dinks On Us,TOC Volleywood Stars,Christina Lynn Zadell,Laura Lynn Lucas,Caroline Bouchayer,Angie Willis,7,15
+15875,4,2025-04-14,MD Dinks On Us,TOC Volleywood Stars,Jennifer Reese,Katherine Hansen,Stephanie Chua,Joan Vistro,15,5
+15875,5,2025-04-14,MD Dinks On Us,TOC Volleywood Stars,Amelia Lyons,Janine Gerber,Caroline Bouchayer,Angie Willis,15,5
+15875,6,2025-04-14,MD Dinks On Us,TOC Volleywood Stars,Christina Lynn Zadell,Laura Lynn Lucas,Lon Le,Aulia Tandradinata,12,15
+15875,7,2025-04-14,MD Dinks On Us,TOC Volleywood Stars,Jennifer Reese,Katherine Hansen,Caroline Bouchayer,Angie Willis,15,7
+15875,8,2025-04-14,MD Dinks On Us,TOC Volleywood Stars,Amelia Lyons,Janine Gerber,Lon Le,Aulia Tandradinata,5,15
+15875,9,2025-04-14,MD Dinks On Us,TOC Volleywood Stars,Christina Lynn Zadell,Laura Lynn Lucas,Stephanie Chua,Joan Vistro,16,14
+15876,1,2025-04-14,TOC OMG (one more game),LOCH The Dinkerbells,Susan Barsky,Callie Ellison,Lisa Means,Pam Hunter,15,2
+15876,2,2025-04-14,TOC OMG (one more game),LOCH The Dinkerbells,Nicole Santos,Brooke Aeikens,MaryBeth Dahlstein,Lisa C,15,7
+15876,3,2025-04-14,TOC OMG (one more game),LOCH The Dinkerbells,Eva Yip,Carmen Curi,Ginger Haroldson,Christie Benjamin,17,15
+15876,4,2025-04-14,TOC OMG (one more game),LOCH The Dinkerbells,Susan Barsky,Callie Ellison,MaryBeth Dahlstein,Lisa C,15,5
+15876,5,2025-04-14,TOC OMG (one more game),LOCH The Dinkerbells,Nicole Santos,Brooke Aeikens,Ginger Haroldson,Christie Benjamin,15,5
+15876,6,2025-04-14,TOC OMG (one more game),LOCH The Dinkerbells,Eva Yip,Carmen Curi,Lisa Means,Pam Hunter,15,5
+15876,7,2025-04-14,TOC OMG (one more game),LOCH The Dinkerbells,Susan Barsky,Callie Ellison,Ginger Haroldson,Christie Benjamin,15,11
+15876,8,2025-04-14,TOC OMG (one more game),LOCH The Dinkerbells,Nicole Santos,Brooke Aeikens,Lisa Means,Pam Hunter,15,4
+15876,9,2025-04-14,TOC OMG (one more game),LOCH The Dinkerbells,Eva Yip,Carmen Curi,MaryBeth Dahlstein,Lisa C,15,5
+15889,1,2025-04-21,MD Dinks On Us,TOC OMG (one more game),Fiona Degnan,Christina Lynn Zadell,Kelly Alison Martin,Susan Barsky,15,5
+15889,2,2025-04-21,MD Dinks On Us,TOC OMG (one more game),Amelia Lyons,Janine Gerber,Nicole Santos,Jill Keller,5,15
+15889,3,2025-04-21,MD Dinks On Us,TOC OMG (one more game),Cindy Winzenz,Carol Scott Ashworth,Carmen Curi,Eva Yip,4,15
+15889,4,2025-04-21,MD Dinks On Us,TOC OMG (one more game),Fiona Degnan,Christina Lynn Zadell,Nicole Santos,Jill Keller,15,2
+15889,5,2025-04-21,MD Dinks On Us,TOC OMG (one more game),Amelia Lyons,Janine Gerber,Carmen Curi,Eva Yip,13,15
+15889,6,2025-04-21,MD Dinks On Us,TOC OMG (one more game),Cindy Winzenz,Carol Scott Ashworth,Kelly Alison Martin,Susan Barsky,5,15
+15889,7,2025-04-21,MD Dinks On Us,TOC OMG (one more game),Fiona Degnan,Christina Lynn Zadell,Carmen Curi,Eva Yip,15,11
+15889,8,2025-04-21,MD Dinks On Us,TOC OMG (one more game),Amelia Lyons,Janine Gerber,Kelly Alison Martin,Susan Barsky,4,15
+15889,9,2025-04-21,MD Dinks On Us,TOC OMG (one more game),Cindy Winzenz,Carol Scott Ashworth,Nicole Santos,Jill Keller,6,15
+15890,1,2025-04-21,TOC Volleywood Stars,LOCH The Dinkerbells,Lon Le,Aulia Tandradinata,Lisa Means,Francine Pearce,15,0
+15890,2,2025-04-21,TOC Volleywood Stars,LOCH The Dinkerbells,Stephanie Chua,Dawn Worthington,Pam Hunter,Lisa C,15,5
+15890,3,2025-04-21,TOC Volleywood Stars,LOCH The Dinkerbells,Caroline Bouchayer,Glenda Kempiz,Christie Benjamin,Ginger Haroldson,5,15
+15890,4,2025-04-21,TOC Volleywood Stars,LOCH The Dinkerbells,Lon Le,Aulia Tandradinata,Pam Hunter,Lisa C,15,2
+15890,5,2025-04-21,TOC Volleywood Stars,LOCH The Dinkerbells,Stephanie Chua,Dawn Worthington,Christie Benjamin,Ginger Haroldson,15,11
+15890,6,2025-04-21,TOC Volleywood Stars,LOCH The Dinkerbells,Caroline Bouchayer,Glenda Kempiz,Lisa Means,Francine Pearce,15,12
+15890,7,2025-04-21,TOC Volleywood Stars,LOCH The Dinkerbells,Lon Le,Aulia Tandradinata,Christie Benjamin,Ginger Haroldson,15,2
+15890,8,2025-04-21,TOC Volleywood Stars,LOCH The Dinkerbells,Stephanie Chua,Dawn Worthington,Lisa Means,Francine Pearce,15,7
+15890,9,2025-04-21,TOC Volleywood Stars,LOCH The Dinkerbells,Caroline Bouchayer,Glenda Kempiz,Pam Hunter,Lisa C,15,5
+15907,1,2025-04-28,LOCH The Dinkerbells,MD Dinks On Us,MaryBeth Dahlstein,Melanie Blondin,Jennifer Reese,Katherine Hansen,8,15
+15907,2,2025-04-28,LOCH The Dinkerbells,MD Dinks On Us,Lisa C,Nicole Baker Crain,Ann Leuth,Fiona Degnan,3,15
+15907,3,2025-04-28,LOCH The Dinkerbells,MD Dinks On Us,Ginger Haroldson,Christie Benjamin,Molly Reilly,Susan Bowser,9,15
+15907,4,2025-04-28,LOCH The Dinkerbells,MD Dinks On Us,MaryBeth Dahlstein,Melanie Blondin,Ann Leuth,Fiona Degnan,6,15
+15907,5,2025-04-28,LOCH The Dinkerbells,MD Dinks On Us,Lisa C,Nicole Baker Crain,Molly Reilly,Susan Bowser,15,3
+15907,6,2025-04-28,LOCH The Dinkerbells,MD Dinks On Us,Ginger Haroldson,Christie Benjamin,Jennifer Reese,Katherine Hansen,14,16
+15907,7,2025-04-28,LOCH The Dinkerbells,MD Dinks On Us,MaryBeth Dahlstein,Melanie Blondin,Molly Reilly,Susan Bowser,15,2
+15907,8,2025-04-28,LOCH The Dinkerbells,MD Dinks On Us,Lisa C,Nicole Baker Crain,Jennifer Reese,Katherine Hansen,3,15
+15907,9,2025-04-28,LOCH The Dinkerbells,MD Dinks On Us,Ginger Haroldson,Christie Benjamin,Ann Leuth,Fiona Degnan,4,15
+15909,1,2025-04-28,TOC OMG (one more game),TOC Volleywood Stars,Callie Ellison,Kelly Alison Martin,Lon Le,Aulia Tandradinata,15,3
+15909,2,2025-04-28,TOC OMG (one more game),TOC Volleywood Stars,Nicole Santos,Susan Barsky,Dawn Worthington,Joan Vistro,11,15
+15909,3,2025-04-28,TOC OMG (one more game),TOC Volleywood Stars,Eva Yip,Carmen Curi,Angie Willis,Glenda Kempiz,8,15
+15909,4,2025-04-28,TOC OMG (one more game),TOC Volleywood Stars,Callie Ellison,Kelly Alison Martin,Dawn Worthington,Joan Vistro,15,9
+15909,5,2025-04-28,TOC OMG (one more game),TOC Volleywood Stars,Nicole Santos,Susan Barsky,Angie Willis,Glenda Kempiz,15,11
+15909,6,2025-04-28,TOC OMG (one more game),TOC Volleywood Stars,Eva Yip,Carmen Curi,Lon Le,Aulia Tandradinata,3,15
+15909,7,2025-04-28,TOC OMG (one more game),TOC Volleywood Stars,Callie Ellison,Kelly Alison Martin,Angie Willis,Glenda Kempiz,15,4
+15909,8,2025-04-28,TOC OMG (one more game),TOC Volleywood Stars,Nicole Santos,Susan Barsky,Lon Le,Aulia Tandradinata,11,15
+15909,9,2025-04-28,TOC OMG (one more game),TOC Volleywood Stars,Eva Yip,Carmen Curi,Dawn Worthington,Joan Vistro,15,3
+15925,1,2025-05-05,MD Dinks On Us,TOC Volleywood Stars,Fiona Degnan,Christina Lynn Zadell,Stephanie Chua,Dawn Worthington,15,7
+15925,2,2025-05-05,MD Dinks On Us,TOC Volleywood Stars,Ann Leuth,Amelia Lyons,Joan Vistro,Lon Le,6,15
+15925,3,2025-05-05,MD Dinks On Us,TOC Volleywood Stars,Laura Lynn Lucas,Janine Gerber,Caroline Bouchayer,Glenda Kempiz,11,15
+15925,4,2025-05-05,MD Dinks On Us,TOC Volleywood Stars,Fiona Degnan,Christina Lynn Zadell,Joan Vistro,Lon Le,5,15
+15925,5,2025-05-05,MD Dinks On Us,TOC Volleywood Stars,Ann Leuth,Amelia Lyons,Caroline Bouchayer,Glenda Kempiz,10,15
+15925,6,2025-05-05,MD Dinks On Us,TOC Volleywood Stars,Laura Lynn Lucas,Janine Gerber,Stephanie Chua,Dawn Worthington,3,15
+15925,7,2025-05-05,MD Dinks On Us,TOC Volleywood Stars,Fiona Degnan,Christina Lynn Zadell,Caroline Bouchayer,Glenda Kempiz,15,5
+15925,8,2025-05-05,MD Dinks On Us,TOC Volleywood Stars,Ann Leuth,Amelia Lyons,Stephanie Chua,Dawn Worthington,10,15
+15925,9,2025-05-05,MD Dinks On Us,TOC Volleywood Stars,Laura Lynn Lucas,Janine Gerber,Joan Vistro,Lon Le,5,15
+15926,1,2025-05-05,TOC OMG (one more game),LOCH The Dinkerbells,Callie Ellison,Jill Keller,Melanie Blondin,Francine Pearce,16,14
+15926,2,2025-05-05,TOC OMG (one more game),LOCH The Dinkerbells,Nicole Santos,Eva Yip,MaryBeth Dahlstein,Pam Hunter,15,7
+15926,3,2025-05-05,TOC OMG (one more game),LOCH The Dinkerbells,Susan Barsky,Carmen Curi,Ginger Haroldson,Lisa C,15,8
+15926,4,2025-05-05,TOC OMG (one more game),LOCH The Dinkerbells,Callie Ellison,Jill Keller,MaryBeth Dahlstein,Pam Hunter,15,1
+15926,5,2025-05-05,TOC OMG (one more game),LOCH The Dinkerbells,Nicole Santos,Eva Yip,Ginger Haroldson,Lisa C,15,5
+15926,6,2025-05-05,TOC OMG (one more game),LOCH The Dinkerbells,Susan Barsky,Carmen Curi,Melanie Blondin,Francine Pearce,15,7
+15926,7,2025-05-05,TOC OMG (one more game),LOCH The Dinkerbells,Callie Ellison,Jill Keller,Ginger Haroldson,Lisa C,15,7
+15926,8,2025-05-05,TOC OMG (one more game),LOCH The Dinkerbells,Nicole Santos,Eva Yip,Melanie Blondin,Francine Pearce,11,15
+15926,9,2025-05-05,TOC OMG (one more game),LOCH The Dinkerbells,Susan Barsky,Carmen Curi,MaryBeth Dahlstein,Pam Hunter,15,3
+15942,1,2025-05-17,LOCH The Dinkerbells,TOC Volleywood Stars,Melanie Blondin,MaryBeth Dahlstein,DEFAULT,DEFAULT,15,0
+15942,2,2025-05-17,LOCH The Dinkerbells,TOC Volleywood Stars,Christie Benjamin,Connie Kannarr,DEFAULT,DEFAULT,15,0
+15942,3,2025-05-17,LOCH The Dinkerbells,TOC Volleywood Stars,Pam Hunter,Lisa C,DEFAULT,DEFAULT,15,0
+15942,4,2025-05-17,LOCH The Dinkerbells,TOC Volleywood Stars,Melanie Blondin,MaryBeth Dahlstein,DEFAULT,DEFAULT,15,0
+15942,5,2025-05-17,LOCH The Dinkerbells,TOC Volleywood Stars,Christie Benjamin,Connie Kannarr,DEFAULT,DEFAULT,15,0
+15942,6,2025-05-17,LOCH The Dinkerbells,TOC Volleywood Stars,Pam Hunter,Lisa C,DEFAULT,DEFAULT,15,0
+15942,7,2025-05-17,LOCH The Dinkerbells,TOC Volleywood Stars,Melanie Blondin,MaryBeth Dahlstein,DEFAULT,DEFAULT,15,0
+15942,8,2025-05-17,LOCH The Dinkerbells,TOC Volleywood Stars,Christie Benjamin,Connie Kannarr,DEFAULT,DEFAULT,15,0
+15942,9,2025-05-17,LOCH The Dinkerbells,TOC Volleywood Stars,Pam Hunter,Lisa C,DEFAULT,DEFAULT,15,0
+15850,1,2025-05-19,TOC Volleywood Stars,MD Dinks On Us,Dawn Worthington,Stephanie Chua,Katherine Hansen,Jennifer Reese,15,11
+15850,2,2025-05-19,TOC Volleywood Stars,MD Dinks On Us,Aulia Tandradinata,Joan Vistro,Marti Bowker,Susan Bowser,13,15
+15850,3,2025-05-19,TOC Volleywood Stars,MD Dinks On Us,Caroline Bouchayer,Glenda Kempiz,Carol Scott Ashworth,Jennifer I Wells,15,9
+15850,4,2025-05-19,TOC Volleywood Stars,MD Dinks On Us,Dawn Worthington,Stephanie Chua,Marti Bowker,Susan Bowser,15,7
+15850,5,2025-05-19,TOC Volleywood Stars,MD Dinks On Us,Aulia Tandradinata,Joan Vistro,Carol Scott Ashworth,Jennifer I Wells,11,11
+15850,6,2025-05-19,TOC Volleywood Stars,MD Dinks On Us,Caroline Bouchayer,Glenda Kempiz,Katherine Hansen,Jennifer Reese,4,15
+15850,7,2025-05-19,TOC Volleywood Stars,MD Dinks On Us,Dawn Worthington,Stephanie Chua,Carol Scott Ashworth,Jennifer I Wells,15,3
+15850,8,2025-05-19,TOC Volleywood Stars,MD Dinks On Us,Aulia Tandradinata,Joan Vistro,Katherine Hansen,Jennifer Reese,0,15
+15850,9,2025-05-19,TOC Volleywood Stars,MD Dinks On Us,Caroline Bouchayer,Glenda Kempiz,Marti Bowker,Susan Bowser,10,15
+15980,1,2025-06-07,TOC OMG (one more game),MD Dinks On Us,Carmen Curi,Brooke Aeikens,Fiona Degnan,Ann Leuth,5,15
+15980,2,2025-06-07,TOC OMG (one more game),MD Dinks On Us,Jill Keller,Callie Ellison,Jennifer Reese,Amelia Lyons,15,11
+15980,3,2025-06-07,TOC OMG (one more game),MD Dinks On Us,Eva Yip,Nicole Santos,Molly Reilly,Janine Gerber,15,1
+15980,4,2025-06-07,TOC OMG (one more game),MD Dinks On Us,Carmen Curi,Brooke Aeikens,Jennifer Reese,Amelia Lyons,5,15
+15980,5,2025-06-07,TOC OMG (one more game),MD Dinks On Us,Jill Keller,Callie Ellison,Molly Reilly,Janine Gerber,15,5
+15980,6,2025-06-07,TOC OMG (one more game),MD Dinks On Us,Eva Yip,Nicole Santos,Fiona Degnan,Ann Leuth,15,12
+15980,7,2025-06-07,TOC OMG (one more game),MD Dinks On Us,Carmen Curi,Brooke Aeikens,Molly Reilly,Janine Gerber,14,16
+15980,8,2025-06-07,TOC OMG (one more game),MD Dinks On Us,Jill Keller,Callie Ellison,Fiona Degnan,Ann Leuth,6,15
+15980,9,2025-06-07,TOC OMG (one more game),MD Dinks On Us,Eva Yip,Nicole Santos,Jennifer Reese,Amelia Lyons,13,15

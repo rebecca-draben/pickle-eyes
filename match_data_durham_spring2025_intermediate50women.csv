@@ -1,0 +1,226 @@
+match_id,game_id,match_date,team1_name,team2_name,partner1,partner2,opponent1,opponent2,team1_points,team2_points
+15349,1,2025-03-18,FARM Farm Fresh Picklers,HVCC Designated Dinkers,Shay Charles,Melinda Vigolo,Jennifer Frazer,Renee Hodges,14,16
+15349,2,2025-03-18,FARM Farm Fresh Picklers,HVCC Designated Dinkers,Suzan Bumby,Ferrell Carpenter,Nancy Wagner Pike,Laura Shaffer,15,13
+15349,3,2025-03-18,FARM Farm Fresh Picklers,HVCC Designated Dinkers,Kit Carson,Suzanne Plambeck,Lynn Toms,Bonnie Boone,15,5
+15349,4,2025-03-18,FARM Farm Fresh Picklers,HVCC Designated Dinkers,Shay Charles,Melinda Vigolo,Nancy Wagner Pike,Laura Shaffer,15,4
+15349,5,2025-03-18,FARM Farm Fresh Picklers,HVCC Designated Dinkers,Suzan Bumby,Ferrell Carpenter,Lynn Toms,Bonnie Boone,15,12
+15349,6,2025-03-18,FARM Farm Fresh Picklers,HVCC Designated Dinkers,Kit Carson,Suzanne Plambeck,Jennifer Frazer,Renee Hodges,7,15
+15349,7,2025-03-18,FARM Farm Fresh Picklers,HVCC Designated Dinkers,Shay Charles,Melinda Vigolo,Lynn Toms,Bonnie Boone,15,10
+15349,8,2025-03-18,FARM Farm Fresh Picklers,HVCC Designated Dinkers,Suzan Bumby,Ferrell Carpenter,Jennifer Frazer,Renee Hodges,10,15
+15349,9,2025-03-18,FARM Farm Fresh Picklers,HVCC Designated Dinkers,Kit Carson,Suzanne Plambeck,Nancy Wagner Pike,Laura Shaffer,1,15
+15350,1,2025-03-18,PINEY PB&F,DUKE Devilish Dinkers,Pattie Lopez,Amy Brisley,Rachel m Campbell,Janet Stolp,15,11
+15350,2,2025-03-18,PINEY PB&F,DUKE Devilish Dinkers,Hilary Raymond,Charissa Aclin,Laura Schanberg,Mary Thomas,9,15
+15350,3,2025-03-18,PINEY PB&F,DUKE Devilish Dinkers,Celia C Bradley,Joanne M Kochuk,DEFAULT,DEFAULT,15,0
+15350,4,2025-03-18,PINEY PB&F,DUKE Devilish Dinkers,Pattie Lopez,Amy Brisley,Laura Schanberg,Mary Thomas,9,15
+15350,5,2025-03-18,PINEY PB&F,DUKE Devilish Dinkers,Hilary Raymond,Charissa Aclin,DEFAULT,DEFAULT,15,0
+15350,6,2025-03-18,PINEY PB&F,DUKE Devilish Dinkers,Celia C Bradley,Joanne M Kochuk,Rachel m Campbell,Janet Stolp,15,11
+15350,7,2025-03-18,PINEY PB&F,DUKE Devilish Dinkers,Pattie Lopez,Amy Brisley,DEFAULT,DEFAULT,15,0
+15350,8,2025-03-18,PINEY PB&F,DUKE Devilish Dinkers,Hilary Raymond,Charissa Aclin,Rachel m Campbell,Janet Stolp,10,15
+15350,9,2025-03-18,PINEY PB&F,DUKE Devilish Dinkers,Celia C Bradley,Joanne M Kochuk,Laura Schanberg,Mary Thomas,13,15
+15351,1,2025-03-18,FENDOL Female Picklers,GOV Red Hot Chili Picklers,MaryBeth Quinn,Kim Carpenter,Paige Dixon,Laura Goldman,15,6
+15351,2,2025-03-18,FENDOL Female Picklers,GOV Red Hot Chili Picklers,Debi Collins,Heidi O Sloan,Bitsy Rhoda,Caroline Alter,11,15
+15351,3,2025-03-18,FENDOL Female Picklers,GOV Red Hot Chili Picklers,Barbara Noblin,Donna T McCarrell,Michele Klasson,Kerry Salatino,15,12
+15351,4,2025-03-18,FENDOL Female Picklers,GOV Red Hot Chili Picklers,MaryBeth Quinn,Kim Carpenter,Bitsy Rhoda,Caroline Alter,15,7
+15351,5,2025-03-18,FENDOL Female Picklers,GOV Red Hot Chili Picklers,Debi Collins,Heidi O Sloan,Michele Klasson,Kerry Salatino,15,7
+15351,6,2025-03-18,FENDOL Female Picklers,GOV Red Hot Chili Picklers,Barbara Noblin,Donna T McCarrell,Paige Dixon,Laura Goldman,16,14
+15351,7,2025-03-18,FENDOL Female Picklers,GOV Red Hot Chili Picklers,MaryBeth Quinn,Kim Carpenter,Michele Klasson,Kerry Salatino,15,5
+15351,8,2025-03-18,FENDOL Female Picklers,GOV Red Hot Chili Picklers,Debi Collins,Heidi O Sloan,Paige Dixon,Laura Goldman,17,15
+15351,9,2025-03-18,FENDOL Female Picklers,GOV Red Hot Chili Picklers,Barbara Noblin,Donna T McCarrell,Bitsy Rhoda,Caroline Alter,10,15
+15381,1,2025-03-25,HVCC Designated Dinkers,PINEY PB&F,Nancy Wagner Pike,Renee Hodges,Marcia Anne Modica,Celia C Bradley,13,15
+15381,2,2025-03-25,HVCC Designated Dinkers,PINEY PB&F,Laurie Myer,Laura Shaffer,Pattie Lopez,Amy Brisley,12,15
+15381,3,2025-03-25,HVCC Designated Dinkers,PINEY PB&F,Bonnie Boone,Della L McDowell,Hilary Raymond,Joanne M Kochuk,15,12
+15381,4,2025-03-25,HVCC Designated Dinkers,PINEY PB&F,Nancy Wagner Pike,Renee Hodges,Pattie Lopez,Amy Brisley,15,7
+15381,5,2025-03-25,HVCC Designated Dinkers,PINEY PB&F,Laurie Myer,Laura Shaffer,Hilary Raymond,Joanne M Kochuk,7,15
+15381,6,2025-03-25,HVCC Designated Dinkers,PINEY PB&F,Bonnie Boone,Della L McDowell,Marcia Anne Modica,Celia C Bradley,9,15
+15381,7,2025-03-25,HVCC Designated Dinkers,PINEY PB&F,Nancy Wagner Pike,Renee Hodges,Hilary Raymond,Joanne M Kochuk,15,7
+15381,8,2025-03-25,HVCC Designated Dinkers,PINEY PB&F,Laurie Myer,Laura Shaffer,Marcia Anne Modica,Celia C Bradley,10,15
+15381,9,2025-03-25,HVCC Designated Dinkers,PINEY PB&F,Bonnie Boone,Della L McDowell,Pattie Lopez,Amy Brisley,15,12
+15382,1,2025-03-25,PINEY Paddle Tappers,GOV Red Hot Chili Picklers,Jacqueline Torain,Michelle Hunt,Pam Capone,Karen Carroll,2,15
+15382,2,2025-03-25,PINEY Paddle Tappers,GOV Red Hot Chili Picklers,Dorothea Griffiths,Sandra McKinnon,Caroline Alter,Kerry Salatino,16,14
+15382,3,2025-03-25,PINEY Paddle Tappers,GOV Red Hot Chili Picklers,Anni Saludo,Sandra Padden,Michele Klasson,Kelly Laubach,10,15
+15382,4,2025-03-25,PINEY Paddle Tappers,GOV Red Hot Chili Picklers,Jacqueline Torain,Michelle Hunt,Caroline Alter,Kerry Salatino,15,11
+15382,5,2025-03-25,PINEY Paddle Tappers,GOV Red Hot Chili Picklers,Dorothea Griffiths,Sandra McKinnon,Michele Klasson,Kelly Laubach,15,7
+15382,6,2025-03-25,PINEY Paddle Tappers,GOV Red Hot Chili Picklers,Anni Saludo,Sandra Padden,Pam Capone,Karen Carroll,12,15
+15382,7,2025-03-25,PINEY Paddle Tappers,GOV Red Hot Chili Picklers,Jacqueline Torain,Michelle Hunt,Michele Klasson,Kelly Laubach,15,2
+15382,8,2025-03-25,PINEY Paddle Tappers,GOV Red Hot Chili Picklers,Dorothea Griffiths,Sandra McKinnon,Pam Capone,Karen Carroll,7,15
+15382,9,2025-03-25,PINEY Paddle Tappers,GOV Red Hot Chili Picklers,Anni Saludo,Sandra Padden,Caroline Alter,Kerry Salatino,10,15
+15383,1,2025-03-25,DUKE Devilish Dinkers,FENDOL Female Picklers,Susana Harvey,Cecilia Csapo,MaryBeth Quinn,Kim Carpenter,11,15
+15383,2,2025-03-25,DUKE Devilish Dinkers,FENDOL Female Picklers,Lisa Purtell,Kris Selig,Laura Maness,Robin Dozer,15,5
+15383,3,2025-03-25,DUKE Devilish Dinkers,FENDOL Female Picklers,Diana McNeill,Christina Christopoulos,Diane Michaud,Debi Collins,15,1
+15383,4,2025-03-25,DUKE Devilish Dinkers,FENDOL Female Picklers,Susana Harvey,Cecilia Csapo,Laura Maness,Robin Dozer,13,15
+15383,5,2025-03-25,DUKE Devilish Dinkers,FENDOL Female Picklers,Lisa Purtell,Kris Selig,Diane Michaud,Debi Collins,15,2
+15383,6,2025-03-25,DUKE Devilish Dinkers,FENDOL Female Picklers,Diana McNeill,Christina Christopoulos,MaryBeth Quinn,Kim Carpenter,7,15
+15383,7,2025-03-25,DUKE Devilish Dinkers,FENDOL Female Picklers,Susana Harvey,Cecilia Csapo,Diane Michaud,Debi Collins,15,1
+15383,8,2025-03-25,DUKE Devilish Dinkers,FENDOL Female Picklers,Lisa Purtell,Kris Selig,MaryBeth Quinn,Kim Carpenter,15,1
+15383,9,2025-03-25,DUKE Devilish Dinkers,FENDOL Female Picklers,Diana McNeill,Christina Christopoulos,Laura Maness,Robin Dozer,15,11
+15412,1,2025-04-01,FENDOL Female Picklers,PINEY PB&F,MaryBeth Quinn,Heidi O Sloan,Pattie Lopez,Tina L Quick,15,9
+15412,2,2025-04-01,FENDOL Female Picklers,PINEY PB&F,Laura Maness,Barbara Noblin,Marcia Anne Modica,Celia C Bradley,16,14
+15412,3,2025-04-01,FENDOL Female Picklers,PINEY PB&F,Donna T McCarrell,Robin Dozer,Charissa Aclin,Joanne M Kochuk,15,13
+15412,4,2025-04-01,FENDOL Female Picklers,PINEY PB&F,MaryBeth Quinn,Heidi O Sloan,Marcia Anne Modica,Celia C Bradley,15,7
+15412,5,2025-04-01,FENDOL Female Picklers,PINEY PB&F,Laura Maness,Barbara Noblin,Charissa Aclin,Joanne M Kochuk,15,4
+15412,6,2025-04-01,FENDOL Female Picklers,PINEY PB&F,Donna T McCarrell,Robin Dozer,Pattie Lopez,Tina L Quick,8,15
+15412,7,2025-04-01,FENDOL Female Picklers,PINEY PB&F,MaryBeth Quinn,Heidi O Sloan,Charissa Aclin,Joanne M Kochuk,15,2
+15412,8,2025-04-01,FENDOL Female Picklers,PINEY PB&F,Laura Maness,Barbara Noblin,Pattie Lopez,Tina L Quick,7,15
+15412,9,2025-04-01,FENDOL Female Picklers,PINEY PB&F,Donna T McCarrell,Robin Dozer,Marcia Anne Modica,Celia C Bradley,15,5
+15413,1,2025-04-01,HVCC Designated Dinkers,GOV Red Hot Chili Picklers,Anne Henley Eberdt,Amanda Gaston Ballew,Pam Capone,Bitsy Rhoda,1,15
+15413,2,2025-04-01,HVCC Designated Dinkers,GOV Red Hot Chili Picklers,Lynn Toms,Della L McDowell,Karen Carroll,Suzanne Kalbas,4,15
+15413,3,2025-04-01,HVCC Designated Dinkers,GOV Red Hot Chili Picklers,Beth Beam Sholtz,Renee Hodges,Caroline Alter,Kelly Laubach,15,13
+15413,4,2025-04-01,HVCC Designated Dinkers,GOV Red Hot Chili Picklers,Anne Henley Eberdt,Amanda Gaston Ballew,Karen Carroll,Suzanne Kalbas,3,15
+15413,5,2025-04-01,HVCC Designated Dinkers,GOV Red Hot Chili Picklers,Lynn Toms,Della L McDowell,Caroline Alter,Kelly Laubach,12,15
+15413,6,2025-04-01,HVCC Designated Dinkers,GOV Red Hot Chili Picklers,Beth Beam Sholtz,Renee Hodges,Pam Capone,Bitsy Rhoda,13,15
+15413,7,2025-04-01,HVCC Designated Dinkers,GOV Red Hot Chili Picklers,Anne Henley Eberdt,Amanda Gaston Ballew,Caroline Alter,Kelly Laubach,9,15
+15413,8,2025-04-01,HVCC Designated Dinkers,GOV Red Hot Chili Picklers,Lynn Toms,Della L McDowell,Pam Capone,Bitsy Rhoda,8,15
+15413,9,2025-04-01,HVCC Designated Dinkers,GOV Red Hot Chili Picklers,Beth Beam Sholtz,Renee Hodges,Karen Carroll,Suzanne Kalbas,15,13
+15414,1,2025-04-01,PINEY Paddle Tappers,FARM Farm Fresh Picklers,Anni Saludo,Sue Cowell,Suzan Bumby,Susan Breen,16,14
+15414,2,2025-04-01,PINEY Paddle Tappers,FARM Farm Fresh Picklers,Sandra McKinnon,Cynthia L Blum,Georgia Pierce,Monica Song,9,15
+15414,3,2025-04-01,PINEY Paddle Tappers,FARM Farm Fresh Picklers,Sandra Padden,Jacqueline Torain,Brenda K Pratt,Katie Sanders,15,9
+15414,4,2025-04-01,PINEY Paddle Tappers,FARM Farm Fresh Picklers,Anni Saludo,Sue Cowell,Georgia Pierce,Monica Song,9,15
+15414,5,2025-04-01,PINEY Paddle Tappers,FARM Farm Fresh Picklers,Sandra McKinnon,Cynthia L Blum,Brenda K Pratt,Katie Sanders,12,15
+15414,6,2025-04-01,PINEY Paddle Tappers,FARM Farm Fresh Picklers,Sandra Padden,Jacqueline Torain,Suzan Bumby,Susan Breen,14,16
+15414,7,2025-04-01,PINEY Paddle Tappers,FARM Farm Fresh Picklers,Anni Saludo,Sue Cowell,Brenda K Pratt,Katie Sanders,7,15
+15414,8,2025-04-01,PINEY Paddle Tappers,FARM Farm Fresh Picklers,Sandra McKinnon,Cynthia L Blum,Suzan Bumby,Susan Breen,8,15
+15414,9,2025-04-01,PINEY Paddle Tappers,FARM Farm Fresh Picklers,Sandra Padden,Jacqueline Torain,Georgia Pierce,Monica Song,15,7
+15447,1,2025-04-08,GOV Red Hot Chili Picklers,FARM Farm Fresh Picklers,Karen Carroll,Suzanne Kalbas,Susan Breen,Melinda Vigolo,12,15
+15447,2,2025-04-08,GOV Red Hot Chili Picklers,FARM Farm Fresh Picklers,Lauren Nathan,Caroline Alter,Suzan Bumby,Joan Krause,7,15
+15447,3,2025-04-08,GOV Red Hot Chili Picklers,FARM Farm Fresh Picklers,Paige Dixon,Kelly Foster,Kit Carson,Katherine A Leary,13,15
+15447,4,2025-04-08,GOV Red Hot Chili Picklers,FARM Farm Fresh Picklers,Karen Carroll,Suzanne Kalbas,Suzan Bumby,Joan Krause,15,12
+15447,5,2025-04-08,GOV Red Hot Chili Picklers,FARM Farm Fresh Picklers,Lauren Nathan,Caroline Alter,Kit Carson,Katherine A Leary,15,7
+15447,6,2025-04-08,GOV Red Hot Chili Picklers,FARM Farm Fresh Picklers,Paige Dixon,Kelly Foster,Susan Breen,Melinda Vigolo,8,15
+15447,7,2025-04-08,GOV Red Hot Chili Picklers,FARM Farm Fresh Picklers,Karen Carroll,Suzanne Kalbas,Kit Carson,Katherine A Leary,15,10
+15447,8,2025-04-08,GOV Red Hot Chili Picklers,FARM Farm Fresh Picklers,Lauren Nathan,Caroline Alter,Susan Breen,Melinda Vigolo,7,15
+15447,9,2025-04-08,GOV Red Hot Chili Picklers,FARM Farm Fresh Picklers,Paige Dixon,Kelly Foster,Suzan Bumby,Joan Krause,3,15
+15445,1,2025-04-09,PINEY PB&F,PINEY Paddle Tappers,Marcia Anne Modica,Celia C Bradley,Michelle Hunt,Sue Cowell,13,15
+15445,2,2025-04-09,PINEY PB&F,PINEY Paddle Tappers,Amy Brisley,Hilary Raymond,Wendy Mickunas,Sandra Padden,15,7
+15445,3,2025-04-09,PINEY PB&F,PINEY Paddle Tappers,Pattie Lopez,Tina L Quick,Sandra McKinnon,Dorothea Griffiths,10,15
+15445,4,2025-04-09,PINEY PB&F,PINEY Paddle Tappers,Marcia Anne Modica,Celia C Bradley,Wendy Mickunas,Sandra Padden,15,8
+15445,5,2025-04-09,PINEY PB&F,PINEY Paddle Tappers,Amy Brisley,Hilary Raymond,Sandra McKinnon,Dorothea Griffiths,14,16
+15445,6,2025-04-09,PINEY PB&F,PINEY Paddle Tappers,Pattie Lopez,Tina L Quick,Michelle Hunt,Sue Cowell,5,15
+15445,7,2025-04-09,PINEY PB&F,PINEY Paddle Tappers,Marcia Anne Modica,Celia C Bradley,Sandra McKinnon,Dorothea Griffiths,15,10
+15445,8,2025-04-09,PINEY PB&F,PINEY Paddle Tappers,Amy Brisley,Hilary Raymond,Michelle Hunt,Sue Cowell,7,15
+15445,9,2025-04-09,PINEY PB&F,PINEY Paddle Tappers,Pattie Lopez,Tina L Quick,Wendy Mickunas,Sandra Padden,15,12
+15478,1,2025-04-15,FARM Farm Fresh Picklers,FENDOL Female Picklers,Shay Charles,Suzanne Plambeck,Laura Maness,Donna T McCarrell,15,10
+15478,2,2025-04-15,FARM Farm Fresh Picklers,FENDOL Female Picklers,Georgia Pierce,Monica Song,Vanissa Boyd Conklin,Barbara Noblin,15,13
+15478,3,2025-04-15,FARM Farm Fresh Picklers,FENDOL Female Picklers,Tammy Bradley,Katie Sanders,Kim Carpenter,Diane Michaud,15,5
+15478,4,2025-04-15,FARM Farm Fresh Picklers,FENDOL Female Picklers,Shay Charles,Suzanne Plambeck,Vanissa Boyd Conklin,Barbara Noblin,15,7
+15478,5,2025-04-15,FARM Farm Fresh Picklers,FENDOL Female Picklers,Georgia Pierce,Monica Song,Kim Carpenter,Diane Michaud,10,15
+15478,6,2025-04-15,FARM Farm Fresh Picklers,FENDOL Female Picklers,Tammy Bradley,Katie Sanders,Laura Maness,Donna T McCarrell,15,12
+15478,7,2025-04-15,FARM Farm Fresh Picklers,FENDOL Female Picklers,Shay Charles,Suzanne Plambeck,Kim Carpenter,Diane Michaud,15,13
+15478,8,2025-04-15,FARM Farm Fresh Picklers,FENDOL Female Picklers,Georgia Pierce,Monica Song,Laura Maness,Donna T McCarrell,15,9
+15478,9,2025-04-15,FARM Farm Fresh Picklers,FENDOL Female Picklers,Tammy Bradley,Katie Sanders,Vanissa Boyd Conklin,Barbara Noblin,15,5
+15479,1,2025-04-15,PINEY Paddle Tappers,HVCC Designated Dinkers,Cynthia L Blum,Sandra Padden,Bonnie Boone,Jennifer Frazer,15,5
+15479,2,2025-04-15,PINEY Paddle Tappers,HVCC Designated Dinkers,Michelle Hunt,Sandra McKinnon,Susan Ruch,Amanda Gaston Ballew,15,1
+15479,3,2025-04-15,PINEY Paddle Tappers,HVCC Designated Dinkers,Jacqueline Torain,Wendy Mickunas,Lynn Toms,Thekla Pappas,15,2
+15479,4,2025-04-15,PINEY Paddle Tappers,HVCC Designated Dinkers,Cynthia L Blum,Sandra Padden,Susan Ruch,Amanda Gaston Ballew,15,5
+15479,5,2025-04-15,PINEY Paddle Tappers,HVCC Designated Dinkers,Michelle Hunt,Sandra McKinnon,Lynn Toms,Thekla Pappas,15,5
+15479,6,2025-04-15,PINEY Paddle Tappers,HVCC Designated Dinkers,Jacqueline Torain,Wendy Mickunas,Bonnie Boone,Jennifer Frazer,15,5
+15479,7,2025-04-15,PINEY Paddle Tappers,HVCC Designated Dinkers,Cynthia L Blum,Sandra Padden,Lynn Toms,Thekla Pappas,15,2
+15479,8,2025-04-15,PINEY Paddle Tappers,HVCC Designated Dinkers,Michelle Hunt,Sandra McKinnon,Bonnie Boone,Jennifer Frazer,15,0
+15479,9,2025-04-15,PINEY Paddle Tappers,HVCC Designated Dinkers,Jacqueline Torain,Wendy Mickunas,Susan Ruch,Amanda Gaston Ballew,15,7
+15480,1,2025-04-15,GOV Red Hot Chili Picklers,DUKE Devilish Dinkers,Bitsy Rhoda,Pam Capone,Cecilia Csapo,Laura Schanberg,12,15
+15480,2,2025-04-15,GOV Red Hot Chili Picklers,DUKE Devilish Dinkers,Karen Carroll,Rose Cody,Elizabeth Goettman Christopher,Lisa Purtell,4,15
+15480,3,2025-04-15,GOV Red Hot Chili Picklers,DUKE Devilish Dinkers,Laura Goldman,Kelly Laubach,Mary Thomas,Rachel m Campbell,10,15
+15480,4,2025-04-15,GOV Red Hot Chili Picklers,DUKE Devilish Dinkers,Bitsy Rhoda,Pam Capone,Elizabeth Goettman Christopher,Lisa Purtell,15,6
+15480,5,2025-04-15,GOV Red Hot Chili Picklers,DUKE Devilish Dinkers,Karen Carroll,Rose Cody,Mary Thomas,Rachel m Campbell,15,6
+15480,6,2025-04-15,GOV Red Hot Chili Picklers,DUKE Devilish Dinkers,Laura Goldman,Kelly Laubach,Cecilia Csapo,Laura Schanberg,10,15
+15480,7,2025-04-15,GOV Red Hot Chili Picklers,DUKE Devilish Dinkers,Bitsy Rhoda,Pam Capone,Mary Thomas,Rachel m Campbell,15,12
+15480,8,2025-04-15,GOV Red Hot Chili Picklers,DUKE Devilish Dinkers,Karen Carroll,Rose Cody,Cecilia Csapo,Laura Schanberg,7,15
+15480,9,2025-04-15,GOV Red Hot Chili Picklers,DUKE Devilish Dinkers,Laura Goldman,Kelly Laubach,Elizabeth Goettman Christopher,Lisa Purtell,5,15
+15496,1,2025-04-22,FARM Farm Fresh Picklers,DUKE Devilish Dinkers,Suzan Bumby,Ferrell Carpenter,Cecilia Csapo,Susana Harvey,12,15
+15496,2,2025-04-22,FARM Farm Fresh Picklers,DUKE Devilish Dinkers,Katherine A Leary,Monica Song,Diana McNeill,Kris Selig,10,15
+15496,3,2025-04-22,FARM Farm Fresh Picklers,DUKE Devilish Dinkers,Brenda K Pratt,Tammy Bradley,Elizabeth Goettman Christopher,Mary Thomas,13,15
+15496,4,2025-04-22,FARM Farm Fresh Picklers,DUKE Devilish Dinkers,Suzan Bumby,Ferrell Carpenter,Diana McNeill,Kris Selig,15,7
+15496,5,2025-04-22,FARM Farm Fresh Picklers,DUKE Devilish Dinkers,Katherine A Leary,Monica Song,Elizabeth Goettman Christopher,Mary Thomas,2,15
+15496,6,2025-04-22,FARM Farm Fresh Picklers,DUKE Devilish Dinkers,Brenda K Pratt,Tammy Bradley,Cecilia Csapo,Susana Harvey,15,8
+15496,7,2025-04-22,FARM Farm Fresh Picklers,DUKE Devilish Dinkers,Suzan Bumby,Ferrell Carpenter,Elizabeth Goettman Christopher,Mary Thomas,11,15
+15496,8,2025-04-22,FARM Farm Fresh Picklers,DUKE Devilish Dinkers,Katherine A Leary,Monica Song,Cecilia Csapo,Susana Harvey,1,15
+15496,9,2025-04-22,FARM Farm Fresh Picklers,DUKE Devilish Dinkers,Brenda K Pratt,Tammy Bradley,Diana McNeill,Kris Selig,15,10
+15497,1,2025-04-22,FENDOL Female Picklers,PINEY Paddle Tappers,Diane Michaud,Laura Maness,Jacqueline Torain,Kirsten Stacey-Bothwell,5,15
+15497,2,2025-04-22,FENDOL Female Picklers,PINEY Paddle Tappers,Debi Collins,Heidi O Sloan,Dorothea Griffiths,Cynthia L Blum,11,15
+15497,3,2025-04-22,FENDOL Female Picklers,PINEY Paddle Tappers,Kim Carpenter,Vanissa Boyd Conklin,Sue Cowell,Wendy Mickunas,12,15
+15497,4,2025-04-22,FENDOL Female Picklers,PINEY Paddle Tappers,Diane Michaud,Laura Maness,Dorothea Griffiths,Cynthia L Blum,7,15
+15497,5,2025-04-22,FENDOL Female Picklers,PINEY Paddle Tappers,Debi Collins,Heidi O Sloan,Sue Cowell,Wendy Mickunas,11,15
+15497,6,2025-04-22,FENDOL Female Picklers,PINEY Paddle Tappers,Kim Carpenter,Vanissa Boyd Conklin,Jacqueline Torain,Kirsten Stacey-Bothwell,15,9
+15497,7,2025-04-22,FENDOL Female Picklers,PINEY Paddle Tappers,Diane Michaud,Laura Maness,Sue Cowell,Wendy Mickunas,13,15
+15497,8,2025-04-22,FENDOL Female Picklers,PINEY Paddle Tappers,Debi Collins,Heidi O Sloan,Jacqueline Torain,Kirsten Stacey-Bothwell,8,15
+15497,9,2025-04-22,FENDOL Female Picklers,PINEY Paddle Tappers,Kim Carpenter,Vanissa Boyd Conklin,Dorothea Griffiths,Cynthia L Blum,15,11
+15498,1,2025-04-22,GOV Red Hot Chili Picklers,PINEY PB&F,Karen Carroll,Caroline Alter,Hilary Raymond,Sharon Paye,17,15
+15498,2,2025-04-22,GOV Red Hot Chili Picklers,PINEY PB&F,Suzanne Kalbas,Bitsy Rhoda,Marcia Anne Modica,Charissa Aclin,15,9
+15498,3,2025-04-22,GOV Red Hot Chili Picklers,PINEY PB&F,Laura Goldman,Melissa Staples,Pattie Lopez,Amy Brisley,5,15
+15498,4,2025-04-22,GOV Red Hot Chili Picklers,PINEY PB&F,Karen Carroll,Caroline Alter,Marcia Anne Modica,Charissa Aclin,15,7
+15498,5,2025-04-22,GOV Red Hot Chili Picklers,PINEY PB&F,Suzanne Kalbas,Bitsy Rhoda,Pattie Lopez,Amy Brisley,12,15
+15498,6,2025-04-22,GOV Red Hot Chili Picklers,PINEY PB&F,Laura Goldman,Melissa Staples,Hilary Raymond,Sharon Paye,17,15
+15498,7,2025-04-22,GOV Red Hot Chili Picklers,PINEY PB&F,Karen Carroll,Caroline Alter,Pattie Lopez,Amy Brisley,15,8
+15498,8,2025-04-22,GOV Red Hot Chili Picklers,PINEY PB&F,Suzanne Kalbas,Bitsy Rhoda,Hilary Raymond,Sharon Paye,10,15
+15498,9,2025-04-22,GOV Red Hot Chili Picklers,PINEY PB&F,Laura Goldman,Melissa Staples,Marcia Anne Modica,Charissa Aclin,15,8
+15521,1,2025-04-29,PINEY PB&F,FARM Farm Fresh Picklers,Hilary Raymond,Sharon Paye,Shay Charles,Suzan Bumby,5,15
+15521,2,2025-04-29,PINEY PB&F,FARM Farm Fresh Picklers,Pattie Lopez,Tina L Quick,Monica Song,Susan Breen,15,7
+15521,3,2025-04-29,PINEY PB&F,FARM Farm Fresh Picklers,Joanne M Kochuk,Charissa Aclin,Joan Krause,Suzanne Plambeck,15,5
+15521,4,2025-04-29,PINEY PB&F,FARM Farm Fresh Picklers,Hilary Raymond,Sharon Paye,Monica Song,Susan Breen,15,17
+15521,5,2025-04-29,PINEY PB&F,FARM Farm Fresh Picklers,Pattie Lopez,Tina L Quick,Joan Krause,Suzanne Plambeck,15,11
+15521,6,2025-04-29,PINEY PB&F,FARM Farm Fresh Picklers,Joanne M Kochuk,Charissa Aclin,Shay Charles,Suzan Bumby,3,15
+15521,7,2025-04-29,PINEY PB&F,FARM Farm Fresh Picklers,Hilary Raymond,Sharon Paye,Joan Krause,Suzanne Plambeck,10,15
+15521,8,2025-04-29,PINEY PB&F,FARM Farm Fresh Picklers,Pattie Lopez,Tina L Quick,Shay Charles,Suzan Bumby,10,15
+15521,9,2025-04-29,PINEY PB&F,FARM Farm Fresh Picklers,Joanne M Kochuk,Charissa Aclin,Monica Song,Susan Breen,6,15
+15522,1,2025-04-29,HVCC Designated Dinkers,FENDOL Female Picklers,Nancy Wagner Pike,Bonnie Boone,Laura Maness,Donna T McCarrell,12,15
+15522,2,2025-04-29,HVCC Designated Dinkers,FENDOL Female Picklers,Beth Beam Sholtz,Thekla Pappas,Robin Dozer,Barbara Noblin,10,15
+15522,3,2025-04-29,HVCC Designated Dinkers,FENDOL Female Picklers,Anne Henley Eberdt,Marel Shaffer Woody,Diane Michaud,Debi Collins,15,7
+15522,4,2025-04-29,HVCC Designated Dinkers,FENDOL Female Picklers,Nancy Wagner Pike,Bonnie Boone,Robin Dozer,Barbara Noblin,6,15
+15522,5,2025-04-29,HVCC Designated Dinkers,FENDOL Female Picklers,Beth Beam Sholtz,Thekla Pappas,Diane Michaud,Debi Collins,15,13
+15522,6,2025-04-29,HVCC Designated Dinkers,FENDOL Female Picklers,Anne Henley Eberdt,Marel Shaffer Woody,Laura Maness,Donna T McCarrell,15,17
+15522,7,2025-04-29,HVCC Designated Dinkers,FENDOL Female Picklers,Nancy Wagner Pike,Bonnie Boone,Diane Michaud,Debi Collins,10,15
+15522,8,2025-04-29,HVCC Designated Dinkers,FENDOL Female Picklers,Beth Beam Sholtz,Thekla Pappas,Laura Maness,Donna T McCarrell,15,4
+15522,9,2025-04-29,HVCC Designated Dinkers,FENDOL Female Picklers,Anne Henley Eberdt,Marel Shaffer Woody,Robin Dozer,Barbara Noblin,7,15
+15523,1,2025-04-29,DUKE Devilish Dinkers,PINEY Paddle Tappers,Elizabeth Goettman Christopher,Laura Schanberg,Michelle Hunt,Jacqueline Torain,15,7
+15523,2,2025-04-29,DUKE Devilish Dinkers,PINEY Paddle Tappers,Lisa Purtell,Rachel m Campbell,Kirsten Stacey-Bothwell,Lisa Nadler,15,12
+15523,3,2025-04-29,DUKE Devilish Dinkers,PINEY Paddle Tappers,Kelli A Dugan,Janet Stolp,Wendy Mickunas,Dorothea Griffiths,11,15
+15523,4,2025-04-29,DUKE Devilish Dinkers,PINEY Paddle Tappers,Elizabeth Goettman Christopher,Laura Schanberg,Kirsten Stacey-Bothwell,Lisa Nadler,13,15
+15523,5,2025-04-29,DUKE Devilish Dinkers,PINEY Paddle Tappers,Lisa Purtell,Rachel m Campbell,Wendy Mickunas,Dorothea Griffiths,15,5
+15523,6,2025-04-29,DUKE Devilish Dinkers,PINEY Paddle Tappers,Kelli A Dugan,Janet Stolp,Michelle Hunt,Jacqueline Torain,2,15
+15523,7,2025-04-29,DUKE Devilish Dinkers,PINEY Paddle Tappers,Elizabeth Goettman Christopher,Laura Schanberg,Wendy Mickunas,Dorothea Griffiths,8,15
+15523,8,2025-04-29,DUKE Devilish Dinkers,PINEY Paddle Tappers,Lisa Purtell,Rachel m Campbell,Michelle Hunt,Jacqueline Torain,11,15
+15523,9,2025-04-29,DUKE Devilish Dinkers,PINEY Paddle Tappers,Kelli A Dugan,Janet Stolp,Kirsten Stacey-Bothwell,Lisa Nadler,4,15
+15446,1,2025-05-06,DUKE Devilish Dinkers,HVCC Designated Dinkers,Rachel m Campbell,Elizabeth Goettman Christopher,Renee Hodges,Thekla Pappas,15,10
+15446,2,2025-05-06,DUKE Devilish Dinkers,HVCC Designated Dinkers,Lisa Purtell,Kris Selig,Anne Henley Eberdt,Nancy Wagner Pike,15,13
+15446,3,2025-05-06,DUKE Devilish Dinkers,HVCC Designated Dinkers,Susana Harvey,Janet Stolp,Beth Beam Sholtz,Marel Shaffer Woody,15,7
+15446,4,2025-05-06,DUKE Devilish Dinkers,HVCC Designated Dinkers,Rachel m Campbell,Elizabeth Goettman Christopher,Anne Henley Eberdt,Nancy Wagner Pike,15,11
+15446,5,2025-05-06,DUKE Devilish Dinkers,HVCC Designated Dinkers,Lisa Purtell,Kris Selig,Beth Beam Sholtz,Marel Shaffer Woody,15,3
+15446,6,2025-05-06,DUKE Devilish Dinkers,HVCC Designated Dinkers,Susana Harvey,Janet Stolp,Renee Hodges,Thekla Pappas,15,13
+15446,7,2025-05-06,DUKE Devilish Dinkers,HVCC Designated Dinkers,Rachel m Campbell,Elizabeth Goettman Christopher,Beth Beam Sholtz,Marel Shaffer Woody,15,11
+15446,8,2025-05-06,DUKE Devilish Dinkers,HVCC Designated Dinkers,Lisa Purtell,Kris Selig,Renee Hodges,Thekla Pappas,15,9
+15446,9,2025-05-06,DUKE Devilish Dinkers,HVCC Designated Dinkers,Susana Harvey,Janet Stolp,Anne Henley Eberdt,Nancy Wagner Pike,15,5
+15584,1,2025-05-13,PINEY PB&F,HVCC Designated Dinkers,Pattie Lopez,Amy Brisley,Bonnie Boone,Amanda Gaston Ballew,15,12
+15584,2,2025-05-13,PINEY PB&F,HVCC Designated Dinkers,Marcia Anne Modica,Charissa Aclin,Laura Shaffer,Anne Henley Eberdt,15,13
+15584,3,2025-05-13,PINEY PB&F,HVCC Designated Dinkers,DEFAULT,DEFAULT,Lynn Toms,Thekla Pappas,0,15
+15584,4,2025-05-13,PINEY PB&F,HVCC Designated Dinkers,Pattie Lopez,Amy Brisley,Laura Shaffer,Anne Henley Eberdt,15,13
+15584,5,2025-05-13,PINEY PB&F,HVCC Designated Dinkers,Marcia Anne Modica,Charissa Aclin,Lynn Toms,Thekla Pappas,15,11
+15584,6,2025-05-13,PINEY PB&F,HVCC Designated Dinkers,DEFAULT,DEFAULT,Bonnie Boone,Amanda Gaston Ballew,0,15
+15584,7,2025-05-13,PINEY PB&F,HVCC Designated Dinkers,Pattie Lopez,Amy Brisley,Lynn Toms,Thekla Pappas,15,5
+15584,8,2025-05-13,PINEY PB&F,HVCC Designated Dinkers,Marcia Anne Modica,Charissa Aclin,Bonnie Boone,Amanda Gaston Ballew,15,7
+15584,9,2025-05-13,PINEY PB&F,HVCC Designated Dinkers,DEFAULT,DEFAULT,Laura Shaffer,Anne Henley Eberdt,0,15
+15582,1,2025-05-20,FARM Farm Fresh Picklers,FENDOL Female Picklers,Suzan Bumby,Shay Charles,Laura Maness,Kim Carpenter,12,15
+15582,2,2025-05-20,FARM Farm Fresh Picklers,FENDOL Female Picklers,Melinda Vigolo,Susan Breen,Debi Collins,Barbara Noblin,15,6
+15582,3,2025-05-20,FARM Farm Fresh Picklers,FENDOL Female Picklers,Brenda K Pratt,Tammy Bradley,Heidi O Sloan,Donna T McCarrell,15,10
+15582,4,2025-05-20,FARM Farm Fresh Picklers,FENDOL Female Picklers,Suzan Bumby,Shay Charles,Debi Collins,Barbara Noblin,12,15
+15582,5,2025-05-20,FARM Farm Fresh Picklers,FENDOL Female Picklers,Melinda Vigolo,Susan Breen,Heidi O Sloan,Donna T McCarrell,15,5
+15582,6,2025-05-20,FARM Farm Fresh Picklers,FENDOL Female Picklers,Brenda K Pratt,Tammy Bradley,Laura Maness,Kim Carpenter,15,8
+15582,7,2025-05-20,FARM Farm Fresh Picklers,FENDOL Female Picklers,Suzan Bumby,Shay Charles,Heidi O Sloan,Donna T McCarrell,15,9
+15582,8,2025-05-20,FARM Farm Fresh Picklers,FENDOL Female Picklers,Melinda Vigolo,Susan Breen,Laura Maness,Kim Carpenter,15,6
+15582,9,2025-05-20,FARM Farm Fresh Picklers,FENDOL Female Picklers,Brenda K Pratt,Tammy Bradley,Debi Collins,Barbara Noblin,15,5
+15583,1,2025-05-20,PINEY Paddle Tappers,DUKE Devilish Dinkers,Sandra McKinnon,Kirsten Stacey-Bothwell,Elizabeth Goettman Christopher,Laura Schanberg,8,15
+15583,2,2025-05-20,PINEY Paddle Tappers,DUKE Devilish Dinkers,Jacqueline Torain,Dorothea Griffiths,Lisa Purtell,Kris Selig,9,15
+15583,3,2025-05-20,PINEY Paddle Tappers,DUKE Devilish Dinkers,Sandra Padden,Anni Saludo,Rachel m Campbell,Diana McNeill,5,15
+15583,4,2025-05-20,PINEY Paddle Tappers,DUKE Devilish Dinkers,Sandra McKinnon,Kirsten Stacey-Bothwell,Lisa Purtell,Kris Selig,3,15
+15583,5,2025-05-20,PINEY Paddle Tappers,DUKE Devilish Dinkers,Jacqueline Torain,Dorothea Griffiths,Rachel m Campbell,Diana McNeill,15,2
+15583,6,2025-05-20,PINEY Paddle Tappers,DUKE Devilish Dinkers,Sandra Padden,Anni Saludo,Elizabeth Goettman Christopher,Laura Schanberg,15,10
+15583,7,2025-05-20,PINEY Paddle Tappers,DUKE Devilish Dinkers,Sandra McKinnon,Kirsten Stacey-Bothwell,Rachel m Campbell,Diana McNeill,15,13
+15583,8,2025-05-20,PINEY Paddle Tappers,DUKE Devilish Dinkers,Jacqueline Torain,Dorothea Griffiths,Elizabeth Goettman Christopher,Laura Schanberg,13,15
+15583,9,2025-05-20,PINEY Paddle Tappers,DUKE Devilish Dinkers,Sandra Padden,Anni Saludo,Lisa Purtell,Kris Selig,2,15
+15623,1,2025-05-31,FARM Farm Fresh Picklers,DUKE Devilish Dinkers,Susan Breen,Melinda Vigolo,Elizabeth Goettman Christopher,Lisa Purtell,11,15
+15623,2,2025-05-31,FARM Farm Fresh Picklers,DUKE Devilish Dinkers,Suzan Bumby,Shay Charles,Rachel m Campbell,Christina Christopoulos,15,8
+15623,3,2025-05-31,FARM Farm Fresh Picklers,DUKE Devilish Dinkers,Brenda K Pratt,Tammy Bradley,Janet Stolp,Diana McNeill,15,10
+15623,4,2025-05-31,FARM Farm Fresh Picklers,DUKE Devilish Dinkers,Susan Breen,Melinda Vigolo,Rachel m Campbell,Christina Christopoulos,15,8
+15623,5,2025-05-31,FARM Farm Fresh Picklers,DUKE Devilish Dinkers,Suzan Bumby,Shay Charles,Janet Stolp,Diana McNeill,15,11
+15623,6,2025-05-31,FARM Farm Fresh Picklers,DUKE Devilish Dinkers,Brenda K Pratt,Tammy Bradley,Elizabeth Goettman Christopher,Lisa Purtell,7,15
+15623,7,2025-05-31,FARM Farm Fresh Picklers,DUKE Devilish Dinkers,Susan Breen,Melinda Vigolo,Janet Stolp,Diana McNeill,15,4
+15623,8,2025-05-31,FARM Farm Fresh Picklers,DUKE Devilish Dinkers,Suzan Bumby,Shay Charles,Elizabeth Goettman Christopher,Lisa Purtell,15,9
+15623,9,2025-05-31,FARM Farm Fresh Picklers,DUKE Devilish Dinkers,Brenda K Pratt,Tammy Bradley,Rachel m Campbell,Christina Christopoulos,11,15

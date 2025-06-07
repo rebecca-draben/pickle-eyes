@@ -1,0 +1,118 @@
+match_id,game_id,match_date,team1_name,team2_name,partner1,partner2,opponent1,opponent2,team1_points,team2_points
+16760,1,2025-08-18,NHC North Hills Dinking Problem,UNDR Lady Legends,Kendall Willis,Jode Ritsema,Meray Assaad Maalouf,Susan Bobo,15,11
+16760,2,2025-08-18,NHC North Hills Dinking Problem,UNDR Lady Legends,Lou Garvey,Caki Watkins,Yvette Stevens Wall,Tracey Taylor,15,9
+16760,3,2025-08-18,NHC North Hills Dinking Problem,UNDR Lady Legends,Amy Pena,Jennifer Romano,Alicia M Fitzpatrick,Sue Titka,4,15
+16760,4,2025-08-18,NHC North Hills Dinking Problem,UNDR Lady Legends,Kendall Willis,Jode Ritsema,Yvette Stevens Wall,Tracey Taylor,10,15
+16760,5,2025-08-18,NHC North Hills Dinking Problem,UNDR Lady Legends,Lou Garvey,Caki Watkins,Alicia M Fitzpatrick,Sue Titka,15,11
+16760,6,2025-08-18,NHC North Hills Dinking Problem,UNDR Lady Legends,Amy Pena,Jennifer Romano,Meray Assaad Maalouf,Susan Bobo,0,15
+16760,7,2025-08-18,NHC North Hills Dinking Problem,UNDR Lady Legends,Kendall Willis,Jode Ritsema,Alicia M Fitzpatrick,Sue Titka,14,16
+16760,8,2025-08-18,NHC North Hills Dinking Problem,UNDR Lady Legends,Lou Garvey,Caki Watkins,Meray Assaad Maalouf,Susan Bobo,8,15
+16760,9,2025-08-18,NHC North Hills Dinking Problem,UNDR Lady Legends,Amy Pena,Jennifer Romano,Yvette Stevens Wall,Tracey Taylor,2,15
+16785,1,2025-08-25,UNDR Lady Legends,PIN Pin Point Ladies,Alicia M Fitzpatrick,Meray Assaad Maalouf,Lauren Perry,Sang Lim,15,11
+16785,2,2025-08-25,UNDR Lady Legends,PIN Pin Point Ladies,Kelly Glass,Delphine V Peller,Emily Monk,Amanda Rametta,7,15
+16785,3,2025-08-25,UNDR Lady Legends,PIN Pin Point Ladies,Yvette Stevens Wall,Molly Moore,Meredith Fennie,Maddie Fowler,15,17
+16785,4,2025-08-25,UNDR Lady Legends,PIN Pin Point Ladies,Alicia M Fitzpatrick,Meray Assaad Maalouf,Emily Monk,Amanda Rametta,15,10
+16785,5,2025-08-25,UNDR Lady Legends,PIN Pin Point Ladies,Kelly Glass,Delphine V Peller,Meredith Fennie,Maddie Fowler,10,15
+16785,6,2025-08-25,UNDR Lady Legends,PIN Pin Point Ladies,Yvette Stevens Wall,Molly Moore,Lauren Perry,Sang Lim,14,16
+16785,7,2025-08-25,UNDR Lady Legends,PIN Pin Point Ladies,Alicia M Fitzpatrick,Meray Assaad Maalouf,Meredith Fennie,Maddie Fowler,11,15
+16785,8,2025-08-25,UNDR Lady Legends,PIN Pin Point Ladies,Kelly Glass,Delphine V Peller,Lauren Perry,Sang Lim,3,15
+16785,9,2025-08-25,UNDR Lady Legends,PIN Pin Point Ladies,Yvette Stevens Wall,Molly Moore,Emily Monk,Amanda Rametta,6,15
+16818,1,2025-09-08,PIN Pin Point Ladies,NHC North Hills Dinking Problem,Maddie Fowler,Meredith Fennie,Caki Watkins,Hilary Kuss,16,14
+16818,2,2025-09-08,PIN Pin Point Ladies,NHC North Hills Dinking Problem,Kacey Schwartz,Molly Perdue,Lou Garvey,Amy Pena,15,2
+16818,3,2025-09-08,PIN Pin Point Ladies,NHC North Hills Dinking Problem,Emily Monk,Sang Lim,Lindsey Kenney,Kendall Willis,14,16
+16818,4,2025-09-08,PIN Pin Point Ladies,NHC North Hills Dinking Problem,Maddie Fowler,Meredith Fennie,Lou Garvey,Amy Pena,15,3
+16818,5,2025-09-08,PIN Pin Point Ladies,NHC North Hills Dinking Problem,Kacey Schwartz,Molly Perdue,Lindsey Kenney,Kendall Willis,11,15
+16818,6,2025-09-08,PIN Pin Point Ladies,NHC North Hills Dinking Problem,Emily Monk,Sang Lim,Caki Watkins,Hilary Kuss,15,13
+16818,7,2025-09-08,PIN Pin Point Ladies,NHC North Hills Dinking Problem,Maddie Fowler,Meredith Fennie,Lindsey Kenney,Kendall Willis,9,15
+16818,8,2025-09-08,PIN Pin Point Ladies,NHC North Hills Dinking Problem,Kacey Schwartz,Molly Perdue,Caki Watkins,Hilary Kuss,15,11
+16818,9,2025-09-08,PIN Pin Point Ladies,NHC North Hills Dinking Problem,Emily Monk,Sang Lim,Lou Garvey,Amy Pena,15,2
+16844,1,2025-09-15,UNDR Lady Legends,NHC North Hills Dinking Problem,Molly Moore,Mari Popolizio,Caki Watkins,Jode Ritsema,10,15
+16844,2,2025-09-15,UNDR Lady Legends,NHC North Hills Dinking Problem,Delphine V Peller,Sue Titka,Susan Smith Johnson,Lou Garvey,15,4
+16844,3,2025-09-15,UNDR Lady Legends,NHC North Hills Dinking Problem,Meray Assaad Maalouf,Susan Bobo,Hilary Kuss,Kendall Willis,15,4
+16844,4,2025-09-15,UNDR Lady Legends,NHC North Hills Dinking Problem,Molly Moore,Mari Popolizio,Susan Smith Johnson,Lou Garvey,1,15
+16844,5,2025-09-15,UNDR Lady Legends,NHC North Hills Dinking Problem,Delphine V Peller,Sue Titka,Hilary Kuss,Kendall Willis,15,4
+16844,6,2025-09-15,UNDR Lady Legends,NHC North Hills Dinking Problem,Meray Assaad Maalouf,Susan Bobo,Caki Watkins,Jode Ritsema,9,15
+16844,7,2025-09-15,UNDR Lady Legends,NHC North Hills Dinking Problem,Molly Moore,Mari Popolizio,Hilary Kuss,Kendall Willis,11,15
+16844,8,2025-09-15,UNDR Lady Legends,NHC North Hills Dinking Problem,Delphine V Peller,Sue Titka,Caki Watkins,Jode Ritsema,10,15
+16844,9,2025-09-15,UNDR Lady Legends,NHC North Hills Dinking Problem,Meray Assaad Maalouf,Susan Bobo,Susan Smith Johnson,Lou Garvey,9,15
+16866,1,2025-09-22,PIN Pin Point Ladies,UNDR Lady Legends,Sang Lim,Lauren Perry,Sue Titka,Tanya Parise,15,2
+16866,2,2025-09-22,PIN Pin Point Ladies,UNDR Lady Legends,Molly Perdue,Kacey Schwartz,Meray Assaad Maalouf,Alicia M Fitzpatrick,12,15
+16866,3,2025-09-22,PIN Pin Point Ladies,UNDR Lady Legends,Emily Monk,Amanda Rametta,Tracey Taylor,Susan Bobo,15,8
+16866,4,2025-09-22,PIN Pin Point Ladies,UNDR Lady Legends,Sang Lim,Lauren Perry,Meray Assaad Maalouf,Alicia M Fitzpatrick,16,14
+16866,5,2025-09-22,PIN Pin Point Ladies,UNDR Lady Legends,Molly Perdue,Kacey Schwartz,Tracey Taylor,Susan Bobo,13,15
+16866,6,2025-09-22,PIN Pin Point Ladies,UNDR Lady Legends,Emily Monk,Amanda Rametta,Sue Titka,Tanya Parise,11,15
+16866,7,2025-09-22,PIN Pin Point Ladies,UNDR Lady Legends,Sang Lim,Lauren Perry,Tracey Taylor,Susan Bobo,16,14
+16866,8,2025-09-22,PIN Pin Point Ladies,UNDR Lady Legends,Molly Perdue,Kacey Schwartz,Sue Titka,Tanya Parise,10,15
+16866,9,2025-09-22,PIN Pin Point Ladies,UNDR Lady Legends,Emily Monk,Amanda Rametta,Meray Assaad Maalouf,Alicia M Fitzpatrick,11,15
+16887,1,2025-09-29,NHC North Hills Dinking Problem,PIN Pin Point Ladies,Kendall Willis,Lindsey Kenney,Meredith Fennie,Maddie Fowler,15,5
+16887,2,2025-09-29,NHC North Hills Dinking Problem,PIN Pin Point Ladies,Jode Ritsema,Caki Watkins,Lauren Perry,Amanda Rametta,9,15
+16887,3,2025-09-29,NHC North Hills Dinking Problem,PIN Pin Point Ladies,Hilary Kuss,Lou Garvey,Molly Perdue,Sang Lim,6,15
+16887,4,2025-09-29,NHC North Hills Dinking Problem,PIN Pin Point Ladies,Kendall Willis,Lindsey Kenney,Lauren Perry,Amanda Rametta,15,11
+16887,5,2025-09-29,NHC North Hills Dinking Problem,PIN Pin Point Ladies,Jode Ritsema,Caki Watkins,Molly Perdue,Sang Lim,15,6
+16887,6,2025-09-29,NHC North Hills Dinking Problem,PIN Pin Point Ladies,Hilary Kuss,Lou Garvey,Meredith Fennie,Maddie Fowler,11,15
+16887,7,2025-09-29,NHC North Hills Dinking Problem,PIN Pin Point Ladies,Kendall Willis,Lindsey Kenney,Molly Perdue,Sang Lim,4,15
+16887,8,2025-09-29,NHC North Hills Dinking Problem,PIN Pin Point Ladies,Jode Ritsema,Caki Watkins,Meredith Fennie,Maddie Fowler,13,15
+16887,9,2025-09-29,NHC North Hills Dinking Problem,PIN Pin Point Ladies,Hilary Kuss,Lou Garvey,Lauren Perry,Amanda Rametta,8,15
+16911,1,2025-10-06,NHC North Hills Dinking Problem,UNDR Lady Legends,Lou Garvey,Susan Smith Johnson,Tanya Parise,Sue Titka,5,15
+16911,2,2025-10-06,NHC North Hills Dinking Problem,UNDR Lady Legends,Caki Watkins,Jode Ritsema,Mari Popolizio,Molly Moore,15,13
+16911,3,2025-10-06,NHC North Hills Dinking Problem,UNDR Lady Legends,Kendall Willis,Lindsey Kenney,Allison Ostrander,Delphine V Peller,15,3
+16911,4,2025-10-06,NHC North Hills Dinking Problem,UNDR Lady Legends,Lou Garvey,Susan Smith Johnson,Mari Popolizio,Molly Moore,7,15
+16911,5,2025-10-06,NHC North Hills Dinking Problem,UNDR Lady Legends,Caki Watkins,Jode Ritsema,Allison Ostrander,Delphine V Peller,15,5
+16911,6,2025-10-06,NHC North Hills Dinking Problem,UNDR Lady Legends,Kendall Willis,Lindsey Kenney,Tanya Parise,Sue Titka,15,7
+16911,7,2025-10-06,NHC North Hills Dinking Problem,UNDR Lady Legends,Lou Garvey,Susan Smith Johnson,Allison Ostrander,Delphine V Peller,15,13
+16911,8,2025-10-06,NHC North Hills Dinking Problem,UNDR Lady Legends,Caki Watkins,Jode Ritsema,Tanya Parise,Sue Titka,15,1
+16911,9,2025-10-06,NHC North Hills Dinking Problem,UNDR Lady Legends,Kendall Willis,Lindsey Kenney,Mari Popolizio,Molly Moore,15,2
+16936,1,2025-10-13,UNDR Lady Legends,PIN Pin Point Ladies,Sue Titka,Tanya Parise,Lauren Perry,Sang Lim,16,14
+16936,2,2025-10-13,UNDR Lady Legends,PIN Pin Point Ladies,Tracey Taylor,Meray Assaad Maalouf,Meredith Fennie,Emily Monk,11,15
+16936,3,2025-10-13,UNDR Lady Legends,PIN Pin Point Ladies,Kelly Glass,Yvette Stevens Wall,Kacey Schwartz,Molly Perdue,15,10
+16936,4,2025-10-13,UNDR Lady Legends,PIN Pin Point Ladies,Sue Titka,Tanya Parise,Meredith Fennie,Emily Monk,6,15
+16936,5,2025-10-13,UNDR Lady Legends,PIN Pin Point Ladies,Tracey Taylor,Meray Assaad Maalouf,Kacey Schwartz,Molly Perdue,15,7
+16936,6,2025-10-13,UNDR Lady Legends,PIN Pin Point Ladies,Kelly Glass,Yvette Stevens Wall,Lauren Perry,Sang Lim,7,15
+16936,7,2025-10-13,UNDR Lady Legends,PIN Pin Point Ladies,Sue Titka,Tanya Parise,Kacey Schwartz,Molly Perdue,15,12
+16936,8,2025-10-13,UNDR Lady Legends,PIN Pin Point Ladies,Tracey Taylor,Meray Assaad Maalouf,Lauren Perry,Sang Lim,15,6
+16936,9,2025-10-13,UNDR Lady Legends,PIN Pin Point Ladies,Kelly Glass,Yvette Stevens Wall,Meredith Fennie,Emily Monk,8,15
+16951,1,2025-10-16,NHC North Hills Dinking Problem,PIN Pin Point Ladies,Jode Ritsema,Caki Watkins,Emily Monk,Kacey Schwartz,15,13
+16951,2,2025-10-16,NHC North Hills Dinking Problem,PIN Pin Point Ladies,Kendall Willis,Lindsey Kenney,Lauren Perry,Amanda Rametta,15,7
+16951,3,2025-10-16,NHC North Hills Dinking Problem,PIN Pin Point Ladies,Lou Garvey,Hilary Kuss,Meredith Fennie,Maddie Fowler,0,15
+16951,4,2025-10-16,NHC North Hills Dinking Problem,PIN Pin Point Ladies,Jode Ritsema,Caki Watkins,Lauren Perry,Amanda Rametta,13,15
+16951,5,2025-10-16,NHC North Hills Dinking Problem,PIN Pin Point Ladies,Kendall Willis,Lindsey Kenney,Meredith Fennie,Maddie Fowler,12,15
+16951,6,2025-10-16,NHC North Hills Dinking Problem,PIN Pin Point Ladies,Lou Garvey,Hilary Kuss,Emily Monk,Kacey Schwartz,10,15
+16951,7,2025-10-16,NHC North Hills Dinking Problem,PIN Pin Point Ladies,Jode Ritsema,Caki Watkins,Meredith Fennie,Maddie Fowler,15,10
+16951,8,2025-10-16,NHC North Hills Dinking Problem,PIN Pin Point Ladies,Kendall Willis,Lindsey Kenney,Emily Monk,Kacey Schwartz,15,6
+16951,9,2025-10-16,NHC North Hills Dinking Problem,PIN Pin Point Ladies,Lou Garvey,Hilary Kuss,Lauren Perry,Amanda Rametta,5,15
+16957,1,2025-10-20,PIN Pin Point Ladies,NHC North Hills Dinking Problem,Kacey Schwartz,Amanda Rametta,Jode Ritsema,Lou Garvey,15,4
+16957,2,2025-10-20,PIN Pin Point Ladies,NHC North Hills Dinking Problem,Molly Perdue,Maddie Fowler,Kendall Willis,Lindsey Kenney,11,15
+16957,3,2025-10-20,PIN Pin Point Ladies,NHC North Hills Dinking Problem,Meredith Fennie,Emily Monk,DEFAULT,DEFAULT,15,0
+16957,4,2025-10-20,PIN Pin Point Ladies,NHC North Hills Dinking Problem,Kacey Schwartz,Amanda Rametta,Kendall Willis,Lindsey Kenney,15,8
+16957,5,2025-10-20,PIN Pin Point Ladies,NHC North Hills Dinking Problem,Molly Perdue,Maddie Fowler,DEFAULT,DEFAULT,15,0
+16957,6,2025-10-20,PIN Pin Point Ladies,NHC North Hills Dinking Problem,Meredith Fennie,Emily Monk,Jode Ritsema,Lou Garvey,15,0
+16957,7,2025-10-20,PIN Pin Point Ladies,NHC North Hills Dinking Problem,Kacey Schwartz,Amanda Rametta,DEFAULT,DEFAULT,15,0
+16957,8,2025-10-20,PIN Pin Point Ladies,NHC North Hills Dinking Problem,Molly Perdue,Maddie Fowler,Jode Ritsema,Lou Garvey,11,15
+16957,9,2025-10-20,PIN Pin Point Ladies,NHC North Hills Dinking Problem,Meredith Fennie,Emily Monk,Kendall Willis,Lindsey Kenney,15,7
+16969,1,2025-10-27,UNDR Lady Legends,NHC North Hills Dinking Problem,Sue Titka,Tanya Parise,Jode Ritsema,Caki Watkins,11,15
+16969,2,2025-10-27,UNDR Lady Legends,NHC North Hills Dinking Problem,Delphine V Peller,Alicia M Fitzpatrick,Lou Garvey,Susan Smith Johnson,15,4
+16969,3,2025-10-27,UNDR Lady Legends,NHC North Hills Dinking Problem,Kelly Glass,Yvette Stevens Wall,Lindsey Kenney,Kendall Willis,15,13
+16969,4,2025-10-27,UNDR Lady Legends,NHC North Hills Dinking Problem,Sue Titka,Tanya Parise,Lou Garvey,Susan Smith Johnson,15,10
+16969,5,2025-10-27,UNDR Lady Legends,NHC North Hills Dinking Problem,Delphine V Peller,Alicia M Fitzpatrick,Lindsey Kenney,Kendall Willis,15,13
+16969,6,2025-10-27,UNDR Lady Legends,NHC North Hills Dinking Problem,Kelly Glass,Yvette Stevens Wall,Jode Ritsema,Caki Watkins,15,11
+16969,7,2025-10-27,UNDR Lady Legends,NHC North Hills Dinking Problem,Sue Titka,Tanya Parise,Lindsey Kenney,Kendall Willis,2,15
+16969,8,2025-10-27,UNDR Lady Legends,NHC North Hills Dinking Problem,Delphine V Peller,Alicia M Fitzpatrick,Jode Ritsema,Caki Watkins,16,14
+16969,9,2025-10-27,UNDR Lady Legends,NHC North Hills Dinking Problem,Kelly Glass,Yvette Stevens Wall,Lou Garvey,Susan Smith Johnson,15,1
+16978,1,2025-11-03,PIN Pin Point Ladies,UNDR Lady Legends,Lauren Perry,Amanda Rametta,Sue Titka,Delphine V Peller,15,8
+16978,2,2025-11-03,PIN Pin Point Ladies,UNDR Lady Legends,Meredith Fennie,Kacey Schwartz,Kelly Glass,Alicia M Fitzpatrick,15,6
+16978,3,2025-11-03,PIN Pin Point Ladies,UNDR Lady Legends,Molly Perdue,Emily Monk,Meray Assaad Maalouf,Tracey Taylor,14,16
+16978,4,2025-11-03,PIN Pin Point Ladies,UNDR Lady Legends,Lauren Perry,Amanda Rametta,Kelly Glass,Alicia M Fitzpatrick,8,15
+16978,5,2025-11-03,PIN Pin Point Ladies,UNDR Lady Legends,Meredith Fennie,Kacey Schwartz,Meray Assaad Maalouf,Tracey Taylor,15,13
+16978,6,2025-11-03,PIN Pin Point Ladies,UNDR Lady Legends,Molly Perdue,Emily Monk,Sue Titka,Delphine V Peller,15,4
+16978,7,2025-11-03,PIN Pin Point Ladies,UNDR Lady Legends,Lauren Perry,Amanda Rametta,Meray Assaad Maalouf,Tracey Taylor,15,13
+16978,8,2025-11-03,PIN Pin Point Ladies,UNDR Lady Legends,Meredith Fennie,Kacey Schwartz,Sue Titka,Delphine V Peller,15,11
+16978,9,2025-11-03,PIN Pin Point Ladies,UNDR Lady Legends,Molly Perdue,Emily Monk,Kelly Glass,Alicia M Fitzpatrick,7,15
+16985,1,2025-11-10,PIN Pin Point Ladies,UNDR Lady Legends,Lauren Perry,Amanda Rametta,Tracey Taylor,Alicia M Fitzpatrick,15,12
+16985,2,2025-11-10,PIN Pin Point Ladies,UNDR Lady Legends,Molly Perdue,Maddie Fowler,Meray Assaad Maalouf,Delphine V Peller,2,15
+16985,3,2025-11-10,PIN Pin Point Ladies,UNDR Lady Legends,Meredith Fennie,Emily Monk,Kelly Glass,Sue Titka,15,4
+16985,4,2025-11-10,PIN Pin Point Ladies,UNDR Lady Legends,Lauren Perry,Amanda Rametta,Meray Assaad Maalouf,Delphine V Peller,15,12
+16985,5,2025-11-10,PIN Pin Point Ladies,UNDR Lady Legends,Molly Perdue,Maddie Fowler,Kelly Glass,Sue Titka,12,15
+16985,6,2025-11-10,PIN Pin Point Ladies,UNDR Lady Legends,Meredith Fennie,Emily Monk,Tracey Taylor,Alicia M Fitzpatrick,15,17
+16985,7,2025-11-10,PIN Pin Point Ladies,UNDR Lady Legends,Lauren Perry,Amanda Rametta,Kelly Glass,Sue Titka,15,7
+16985,8,2025-11-10,PIN Pin Point Ladies,UNDR Lady Legends,Molly Perdue,Maddie Fowler,Tracey Taylor,Alicia M Fitzpatrick,15,5
+16985,9,2025-11-10,PIN Pin Point Ladies,UNDR Lady Legends,Meredith Fennie,Emily Monk,Meray Assaad Maalouf,Delphine V Peller,17,15

@@ -1,0 +1,235 @@
+match_id,game_id,match_date,team1_name,team2_name,partner1,partner2,opponent1,opponent2,team1_points,team2_points
+15631,1,2025-03-18,WPCC Pickled Pink (PM),7OAKS Late Night Kitchen (PM),Mary Casson,Nancy Page,Olga DeGroff,Michelle Vedder,2,15
+15631,2,2025-03-18,WPCC Pickled Pink (PM),7OAKS Late Night Kitchen (PM),Courtney McKim,April Haas,Jeanette Gerould,Danielle Stringer,15,4
+15631,3,2025-03-18,WPCC Pickled Pink (PM),7OAKS Late Night Kitchen (PM),Lori Parkman,Stacey Giglio,Ann Willard,Karen Southern,15,4
+15631,4,2025-03-18,WPCC Pickled Pink (PM),7OAKS Late Night Kitchen (PM),Mary Casson,Nancy Page,Jeanette Gerould,Danielle Stringer,2,15
+15631,5,2025-03-18,WPCC Pickled Pink (PM),7OAKS Late Night Kitchen (PM),Courtney McKim,April Haas,Ann Willard,Karen Southern,15,10
+15631,6,2025-03-18,WPCC Pickled Pink (PM),7OAKS Late Night Kitchen (PM),Lori Parkman,Stacey Giglio,Olga DeGroff,Michelle Vedder,4,15
+15631,7,2025-03-18,WPCC Pickled Pink (PM),7OAKS Late Night Kitchen (PM),Mary Casson,Nancy Page,Ann Willard,Karen Southern,15,8
+15631,8,2025-03-18,WPCC Pickled Pink (PM),7OAKS Late Night Kitchen (PM),Courtney McKim,April Haas,Olga DeGroff,Michelle Vedder,4,15
+15631,9,2025-03-18,WPCC Pickled Pink (PM),7OAKS Late Night Kitchen (PM),Lori Parkman,Stacey Giglio,Jeanette Gerould,Danielle Stringer,15,4
+15632,1,2025-03-18,BCCC Dinkin Buddies (PM),HASEN Made Ya Dink!! (PM),Helen Ryan,Kristen DiMillio Howering,Betsy Perkinson,Jennifer Lynn Bouck,15,8
+15632,2,2025-03-18,BCCC Dinkin Buddies (PM),HASEN Made Ya Dink!! (PM),Bobbie Ann west,Kathleen Burns,Janet Hammond,Sharon Louise Lambe,4,15
+15632,3,2025-03-18,BCCC Dinkin Buddies (PM),HASEN Made Ya Dink!! (PM),Rachel DeNorchia,Anne Redmond,Emily Rubin,Melinda White Coutts,6,15
+15632,4,2025-03-18,BCCC Dinkin Buddies (PM),HASEN Made Ya Dink!! (PM),Helen Ryan,Kristen DiMillio Howering,Janet Hammond,Sharon Louise Lambe,15,7
+15632,5,2025-03-18,BCCC Dinkin Buddies (PM),HASEN Made Ya Dink!! (PM),Bobbie Ann west,Kathleen Burns,Emily Rubin,Melinda White Coutts,7,15
+15632,6,2025-03-18,BCCC Dinkin Buddies (PM),HASEN Made Ya Dink!! (PM),Rachel DeNorchia,Anne Redmond,Betsy Perkinson,Jennifer Lynn Bouck,1,15
+15632,7,2025-03-18,BCCC Dinkin Buddies (PM),HASEN Made Ya Dink!! (PM),Helen Ryan,Kristen DiMillio Howering,Emily Rubin,Melinda White Coutts,15,4
+15632,8,2025-03-18,BCCC Dinkin Buddies (PM),HASEN Made Ya Dink!! (PM),Bobbie Ann west,Kathleen Burns,Betsy Perkinson,Jennifer Lynn Bouck,15,13
+15632,9,2025-03-18,BCCC Dinkin Buddies (PM),HASEN Made Ya Dink!! (PM),Rachel DeNorchia,Anne Redmond,Janet Hammond,Sharon Louise Lambe,1,15
+15633,1,2025-03-19,7OAKS SPRING PEEPS (AM),WPCC Dinking Divas (PM),Sherry Lynn Goodson,Victoria Bell,Leigh Kimball,Dane Hewett Brackett,15,6
+15633,2,2025-03-19,7OAKS SPRING PEEPS (AM),WPCC Dinking Divas (PM),MaryJo Caldwell,Bethany Upton Squires,Cathy Werder,Louella M Venable,15,9
+15633,3,2025-03-19,7OAKS SPRING PEEPS (AM),WPCC Dinking Divas (PM),Ada Gonzalez,Linda Nuxoll,Gina Myers,Jane Stutzman,15,3
+15633,4,2025-03-19,7OAKS SPRING PEEPS (AM),WPCC Dinking Divas (PM),Sherry Lynn Goodson,Victoria Bell,Cathy Werder,Louella M Venable,15,7
+15633,5,2025-03-19,7OAKS SPRING PEEPS (AM),WPCC Dinking Divas (PM),MaryJo Caldwell,Bethany Upton Squires,Gina Myers,Jane Stutzman,15,3
+15633,6,2025-03-19,7OAKS SPRING PEEPS (AM),WPCC Dinking Divas (PM),Ada Gonzalez,Linda Nuxoll,Leigh Kimball,Dane Hewett Brackett,10,15
+15633,7,2025-03-19,7OAKS SPRING PEEPS (AM),WPCC Dinking Divas (PM),Sherry Lynn Goodson,Victoria Bell,Gina Myers,Jane Stutzman,15,5
+15633,8,2025-03-19,7OAKS SPRING PEEPS (AM),WPCC Dinking Divas (PM),MaryJo Caldwell,Bethany Upton Squires,Leigh Kimball,Dane Hewett Brackett,15,12
+15633,9,2025-03-19,7OAKS SPRING PEEPS (AM),WPCC Dinking Divas (PM),Ada Gonzalez,Linda Nuxoll,Cathy Werder,Louella M Venable,15,14
+15647,1,2025-03-25,WPCC Pickled Pink (PM),WPCC The Dill Breakers (PM),Candan Burati,Melissa Michael,Kate Pirrung,Dafnie Driscoll,8,15
+15647,2,2025-03-25,WPCC Pickled Pink (PM),WPCC The Dill Breakers (PM),Courtney McKim,Marilyn Slaymaker,Melissa Kirk Landry,Jessica Brimmer,1,15
+15647,3,2025-03-25,WPCC Pickled Pink (PM),WPCC The Dill Breakers (PM),Kathryn W Kiel,April Haas,Lori Larrabee,Teesa McKinley,4,15
+15647,4,2025-03-25,WPCC Pickled Pink (PM),WPCC The Dill Breakers (PM),Candan Burati,Melissa Michael,Melissa Kirk Landry,Jessica Brimmer,3,15
+15647,5,2025-03-25,WPCC Pickled Pink (PM),WPCC The Dill Breakers (PM),Courtney McKim,Marilyn Slaymaker,Lori Larrabee,Teesa McKinley,12,15
+15647,6,2025-03-25,WPCC Pickled Pink (PM),WPCC The Dill Breakers (PM),Kathryn W Kiel,April Haas,Kate Pirrung,Dafnie Driscoll,3,15
+15647,7,2025-03-25,WPCC Pickled Pink (PM),WPCC The Dill Breakers (PM),Candan Burati,Melissa Michael,Lori Larrabee,Teesa McKinley,2,15
+15647,8,2025-03-25,WPCC Pickled Pink (PM),WPCC The Dill Breakers (PM),Courtney McKim,Marilyn Slaymaker,Kate Pirrung,Dafnie Driscoll,13,15
+15647,9,2025-03-25,WPCC Pickled Pink (PM),WPCC The Dill Breakers (PM),Kathryn W Kiel,April Haas,Melissa Kirk Landry,Jessica Brimmer,8,15
+15648,1,2025-03-25,7OAKS Late Night Kitchen (PM),WPCC Dinking Divas (PM),Andra Kinlaw,Michele Adams,Susan Hembarsky,Wendy Brooker Burns,15,7
+15648,2,2025-03-25,7OAKS Late Night Kitchen (PM),WPCC Dinking Divas (PM),Jeanette Gerould,Maggie Patterson,Bobbie Jean Weiler,Sonya Rhiver,15,8
+15648,3,2025-03-25,7OAKS Late Night Kitchen (PM),WPCC Dinking Divas (PM),Olga DeGroff,Michelle Vedder,Gina Myers,Jody Hill,15,1
+15648,4,2025-03-25,7OAKS Late Night Kitchen (PM),WPCC Dinking Divas (PM),Andra Kinlaw,Michele Adams,Bobbie Jean Weiler,Sonya Rhiver,15,6
+15648,5,2025-03-25,7OAKS Late Night Kitchen (PM),WPCC Dinking Divas (PM),Jeanette Gerould,Maggie Patterson,Gina Myers,Jody Hill,15,12
+15648,6,2025-03-25,7OAKS Late Night Kitchen (PM),WPCC Dinking Divas (PM),Olga DeGroff,Michelle Vedder,Susan Hembarsky,Wendy Brooker Burns,15,7
+15648,7,2025-03-25,7OAKS Late Night Kitchen (PM),WPCC Dinking Divas (PM),Andra Kinlaw,Michele Adams,Gina Myers,Jody Hill,15,8
+15648,8,2025-03-25,7OAKS Late Night Kitchen (PM),WPCC Dinking Divas (PM),Jeanette Gerould,Maggie Patterson,Susan Hembarsky,Wendy Brooker Burns,15,11
+15648,9,2025-03-25,7OAKS Late Night Kitchen (PM),WPCC Dinking Divas (PM),Olga DeGroff,Michelle Vedder,Bobbie Jean Weiler,Sonya Rhiver,15,8
+15649,1,2025-03-26,HASEN Made Ya Dink!! (PM),7OAKS SPRING PEEPS (AM),Samantha Starr,Sharon T Cole,Donna Cuomo,Sherry Lynn Goodson,15,6
+15649,2,2025-03-26,HASEN Made Ya Dink!! (PM),7OAKS SPRING PEEPS (AM),Jade Paunovich,Sharon Louise Lambe,Debra Lynne Cox,Linda Nuxoll,10,15
+15649,3,2025-03-26,HASEN Made Ya Dink!! (PM),7OAKS SPRING PEEPS (AM),Amy DiGiuseppe,Jennifer Lynn Bouck,Karen Gearing,Kellie Marie Bradley,15,7
+15649,4,2025-03-26,HASEN Made Ya Dink!! (PM),7OAKS SPRING PEEPS (AM),Samantha Starr,Sharon T Cole,Debra Lynne Cox,Linda Nuxoll,15,9
+15649,5,2025-03-26,HASEN Made Ya Dink!! (PM),7OAKS SPRING PEEPS (AM),Jade Paunovich,Sharon Louise Lambe,Karen Gearing,Kellie Marie Bradley,15,6
+15649,6,2025-03-26,HASEN Made Ya Dink!! (PM),7OAKS SPRING PEEPS (AM),Amy DiGiuseppe,Jennifer Lynn Bouck,Donna Cuomo,Sherry Lynn Goodson,16,14
+15649,7,2025-03-26,HASEN Made Ya Dink!! (PM),7OAKS SPRING PEEPS (AM),Samantha Starr,Sharon T Cole,Karen Gearing,Kellie Marie Bradley,15,10
+15649,8,2025-03-26,HASEN Made Ya Dink!! (PM),7OAKS SPRING PEEPS (AM),Jade Paunovich,Sharon Louise Lambe,Donna Cuomo,Sherry Lynn Goodson,3,15
+15649,9,2025-03-26,HASEN Made Ya Dink!! (PM),7OAKS SPRING PEEPS (AM),Amy DiGiuseppe,Jennifer Lynn Bouck,Debra Lynne Cox,Linda Nuxoll,16,14
+15667,1,2025-04-01,WPCC Dinking Divas (PM),HASEN Made Ya Dink!! (PM),Margie Molloy,Sylvie Daigle,Ashley McCollum,Genevieve Daurity,6,15
+15667,2,2025-04-01,WPCC Dinking Divas (PM),HASEN Made Ya Dink!! (PM),Lisa DeMarco,Sonya Rhiver,Sharon T Cole,Ginger Craig,5,15
+15667,3,2025-04-01,WPCC Dinking Divas (PM),HASEN Made Ya Dink!! (PM),Wendy Brooker Burns,Cathy Werder,Michelle Rubin,Emily Rubin,6,15
+15667,4,2025-04-01,WPCC Dinking Divas (PM),HASEN Made Ya Dink!! (PM),Margie Molloy,Sylvie Daigle,Sharon T Cole,Ginger Craig,15,11
+15667,5,2025-04-01,WPCC Dinking Divas (PM),HASEN Made Ya Dink!! (PM),Lisa DeMarco,Sonya Rhiver,Michelle Rubin,Emily Rubin,5,15
+15667,6,2025-04-01,WPCC Dinking Divas (PM),HASEN Made Ya Dink!! (PM),Wendy Brooker Burns,Cathy Werder,Ashley McCollum,Genevieve Daurity,2,15
+15667,7,2025-04-01,WPCC Dinking Divas (PM),HASEN Made Ya Dink!! (PM),Margie Molloy,Sylvie Daigle,Michelle Rubin,Emily Rubin,15,8
+15667,8,2025-04-01,WPCC Dinking Divas (PM),HASEN Made Ya Dink!! (PM),Lisa DeMarco,Sonya Rhiver,Ashley McCollum,Genevieve Daurity,13,15
+15667,9,2025-04-01,WPCC Dinking Divas (PM),HASEN Made Ya Dink!! (PM),Wendy Brooker Burns,Cathy Werder,Sharon T Cole,Ginger Craig,15,5
+15668,1,2025-04-01,BCCC Dinkin Buddies (PM),WPCC Pickled Pink (PM),Katie Burke,Julia Fligman,Andrea Ellen McCartney,Lori Parkman,9,15
+15668,2,2025-04-01,BCCC Dinkin Buddies (PM),WPCC Pickled Pink (PM),Sandy Ball,Helen Ryan,Stacey Giglio,April Haas,15,7
+15668,3,2025-04-01,BCCC Dinkin Buddies (PM),WPCC Pickled Pink (PM),Anne Redmond,Bobbie Ann west,Nancy Page,Tina Mcintyre,12,15
+15668,4,2025-04-01,BCCC Dinkin Buddies (PM),WPCC Pickled Pink (PM),Katie Burke,Julia Fligman,Stacey Giglio,April Haas,8,15
+15668,5,2025-04-01,BCCC Dinkin Buddies (PM),WPCC Pickled Pink (PM),Sandy Ball,Helen Ryan,Nancy Page,Tina Mcintyre,15,8
+15668,6,2025-04-01,BCCC Dinkin Buddies (PM),WPCC Pickled Pink (PM),Anne Redmond,Bobbie Ann west,Andrea Ellen McCartney,Lori Parkman,3,15
+15668,7,2025-04-01,BCCC Dinkin Buddies (PM),WPCC Pickled Pink (PM),Katie Burke,Julia Fligman,Nancy Page,Tina Mcintyre,8,15
+15668,8,2025-04-01,BCCC Dinkin Buddies (PM),WPCC Pickled Pink (PM),Sandy Ball,Helen Ryan,Andrea Ellen McCartney,Lori Parkman,15,5
+15668,9,2025-04-01,BCCC Dinkin Buddies (PM),WPCC Pickled Pink (PM),Anne Redmond,Bobbie Ann west,Stacey Giglio,April Haas,7,15
+15669,1,2025-04-02,WPCC The Dill Breakers (PM),7OAKS SPRING PEEPS (AM),Monica Collins,Dafnie Driscoll,Bethany Upton Squires,Donna Cuomo,15,8
+15669,2,2025-04-02,WPCC The Dill Breakers (PM),7OAKS SPRING PEEPS (AM),Amanda Viele,Lori Larrabee,Micha P Gittelman,Victoria Bell,6,15
+15669,3,2025-04-02,WPCC The Dill Breakers (PM),7OAKS SPRING PEEPS (AM),Teesa McKinley,Nancy Gugliotta,Linda Nuxoll,MaryJo Caldwell,15,6
+15669,4,2025-04-02,WPCC The Dill Breakers (PM),7OAKS SPRING PEEPS (AM),Monica Collins,Dafnie Driscoll,Micha P Gittelman,Victoria Bell,12,15
+15669,5,2025-04-02,WPCC The Dill Breakers (PM),7OAKS SPRING PEEPS (AM),Amanda Viele,Lori Larrabee,Linda Nuxoll,MaryJo Caldwell,8,15
+15669,6,2025-04-02,WPCC The Dill Breakers (PM),7OAKS SPRING PEEPS (AM),Teesa McKinley,Nancy Gugliotta,Bethany Upton Squires,Donna Cuomo,15,7
+15669,7,2025-04-02,WPCC The Dill Breakers (PM),7OAKS SPRING PEEPS (AM),Monica Collins,Dafnie Driscoll,Linda Nuxoll,MaryJo Caldwell,13,15
+15669,8,2025-04-02,WPCC The Dill Breakers (PM),7OAKS SPRING PEEPS (AM),Amanda Viele,Lori Larrabee,Bethany Upton Squires,Donna Cuomo,1,15
+15669,9,2025-04-02,WPCC The Dill Breakers (PM),7OAKS SPRING PEEPS (AM),Teesa McKinley,Nancy Gugliotta,Micha P Gittelman,Victoria Bell,15,10
+15688,1,2025-04-08,HASEN Made Ya Dink!! (PM),WPCC Pickled Pink (PM),Betsy Perkinson,Janet Hammond,Courtney McKim,Mary Casson,15,1
+15688,2,2025-04-08,HASEN Made Ya Dink!! (PM),WPCC Pickled Pink (PM),Samantha Starr,Ginger Craig,Kathryn W Kiel,Melissa Michael,15,6
+15688,3,2025-04-08,HASEN Made Ya Dink!! (PM),WPCC Pickled Pink (PM),Ashley McCollum,Genevieve Daurity,April Haas,Andrea Ellen McCartney,15,7
+15688,4,2025-04-08,HASEN Made Ya Dink!! (PM),WPCC Pickled Pink (PM),Betsy Perkinson,Janet Hammond,Kathryn W Kiel,Melissa Michael,15,9
+15688,5,2025-04-08,HASEN Made Ya Dink!! (PM),WPCC Pickled Pink (PM),Samantha Starr,Ginger Craig,April Haas,Andrea Ellen McCartney,15,2
+15688,6,2025-04-08,HASEN Made Ya Dink!! (PM),WPCC Pickled Pink (PM),Ashley McCollum,Genevieve Daurity,Courtney McKim,Mary Casson,15,0
+15688,7,2025-04-08,HASEN Made Ya Dink!! (PM),WPCC Pickled Pink (PM),Betsy Perkinson,Janet Hammond,April Haas,Andrea Ellen McCartney,15,2
+15688,8,2025-04-08,HASEN Made Ya Dink!! (PM),WPCC Pickled Pink (PM),Samantha Starr,Ginger Craig,Courtney McKim,Mary Casson,15,2
+15688,9,2025-04-08,HASEN Made Ya Dink!! (PM),WPCC Pickled Pink (PM),Ashley McCollum,Genevieve Daurity,Kathryn W Kiel,Melissa Michael,15,3
+15689,1,2025-04-08,BCCC Dinkin Buddies (PM),WPCC The Dill Breakers (PM),Kristen DiMillio Howering,MaryEllen Wetzler-Behar,Kate Pirrung,Melissa Kirk Landry,6,15
+15689,2,2025-04-08,BCCC Dinkin Buddies (PM),WPCC The Dill Breakers (PM),Katie Burke,Gwen Hedgepeth,Pamela Spell,Donna Louise Driscoll,13,15
+15689,3,2025-04-08,BCCC Dinkin Buddies (PM),WPCC The Dill Breakers (PM),Julia Fligman,Dina Requena,Melissa S Green,Janice D Lewis,11,15
+15689,4,2025-04-08,BCCC Dinkin Buddies (PM),WPCC The Dill Breakers (PM),Kristen DiMillio Howering,MaryEllen Wetzler-Behar,Pamela Spell,Donna Louise Driscoll,16,14
+15689,5,2025-04-08,BCCC Dinkin Buddies (PM),WPCC The Dill Breakers (PM),Katie Burke,Gwen Hedgepeth,Melissa S Green,Janice D Lewis,15,4
+15689,6,2025-04-08,BCCC Dinkin Buddies (PM),WPCC The Dill Breakers (PM),Julia Fligman,Dina Requena,Kate Pirrung,Melissa Kirk Landry,3,15
+15689,7,2025-04-08,BCCC Dinkin Buddies (PM),WPCC The Dill Breakers (PM),Kristen DiMillio Howering,MaryEllen Wetzler-Behar,Melissa S Green,Janice D Lewis,15,10
+15689,8,2025-04-08,BCCC Dinkin Buddies (PM),WPCC The Dill Breakers (PM),Katie Burke,Gwen Hedgepeth,Kate Pirrung,Melissa Kirk Landry,5,15
+15689,9,2025-04-08,BCCC Dinkin Buddies (PM),WPCC The Dill Breakers (PM),Julia Fligman,Dina Requena,Pamela Spell,Donna Louise Driscoll,7,15
+15690,1,2025-04-09,7OAKS SPRING PEEPS (AM),7OAKS Late Night Kitchen (PM),Micha P Gittelman,Victoria Bell,Annette Page,Sherrie L Lefere,15,6
+15690,2,2025-04-09,7OAKS SPRING PEEPS (AM),7OAKS Late Night Kitchen (PM),Ada Gonzalez,Karen Gearing,Ann Willard,Julie A Leon,15,11
+15690,3,2025-04-09,7OAKS SPRING PEEPS (AM),7OAKS Late Night Kitchen (PM),Alix Winfield Ballantyne,Sherry Lynn Goodson,Michele Adams,Danielle Stringer,14,16
+15690,4,2025-04-09,7OAKS SPRING PEEPS (AM),7OAKS Late Night Kitchen (PM),Micha P Gittelman,Victoria Bell,Ann Willard,Julie A Leon,15,4
+15690,5,2025-04-09,7OAKS SPRING PEEPS (AM),7OAKS Late Night Kitchen (PM),Ada Gonzalez,Karen Gearing,Michele Adams,Danielle Stringer,12,15
+15690,6,2025-04-09,7OAKS SPRING PEEPS (AM),7OAKS Late Night Kitchen (PM),Alix Winfield Ballantyne,Sherry Lynn Goodson,Annette Page,Sherrie L Lefere,15,2
+15690,7,2025-04-09,7OAKS SPRING PEEPS (AM),7OAKS Late Night Kitchen (PM),Micha P Gittelman,Victoria Bell,Michele Adams,Danielle Stringer,15,10
+15690,8,2025-04-09,7OAKS SPRING PEEPS (AM),7OAKS Late Night Kitchen (PM),Ada Gonzalez,Karen Gearing,Annette Page,Sherrie L Lefere,13,15
+15690,9,2025-04-09,7OAKS SPRING PEEPS (AM),7OAKS Late Night Kitchen (PM),Alix Winfield Ballantyne,Sherry Lynn Goodson,Ann Willard,Julie A Leon,15,6
+15708,1,2025-04-15,WPCC The Dill Breakers (PM),HASEN Made Ya Dink!! (PM),Donna Louise Driscoll,Nancy Gugliotta,Samantha Starr,Janet Hammond,15,7
+15708,2,2025-04-15,WPCC The Dill Breakers (PM),HASEN Made Ya Dink!! (PM),Kate Pirrung,Dafnie Driscoll,Jade Paunovich,Betsy Perkinson,12,15
+15708,3,2025-04-15,WPCC The Dill Breakers (PM),HASEN Made Ya Dink!! (PM),Melissa S Green,Monica Collins,Sharon T Cole,Ashley McCollum,15,4
+15708,4,2025-04-15,WPCC The Dill Breakers (PM),HASEN Made Ya Dink!! (PM),Donna Louise Driscoll,Nancy Gugliotta,Jade Paunovich,Betsy Perkinson,13,15
+15708,5,2025-04-15,WPCC The Dill Breakers (PM),HASEN Made Ya Dink!! (PM),Kate Pirrung,Dafnie Driscoll,Sharon T Cole,Ashley McCollum,15,13
+15708,6,2025-04-15,WPCC The Dill Breakers (PM),HASEN Made Ya Dink!! (PM),Melissa S Green,Monica Collins,Samantha Starr,Janet Hammond,4,15
+15708,7,2025-04-15,WPCC The Dill Breakers (PM),HASEN Made Ya Dink!! (PM),Donna Louise Driscoll,Nancy Gugliotta,Sharon T Cole,Ashley McCollum,10,15
+15708,8,2025-04-15,WPCC The Dill Breakers (PM),HASEN Made Ya Dink!! (PM),Kate Pirrung,Dafnie Driscoll,Samantha Starr,Janet Hammond,10,15
+15708,9,2025-04-15,WPCC The Dill Breakers (PM),HASEN Made Ya Dink!! (PM),Melissa S Green,Monica Collins,Jade Paunovich,Betsy Perkinson,15,6
+15709,1,2025-04-15,7OAKS Late Night Kitchen (PM),BCCC Dinkin Buddies (PM),Olga DeGroff,Michelle Vedder,Rachel DeNorchia,Julia Woodson,15,5
+15709,2,2025-04-15,7OAKS Late Night Kitchen (PM),BCCC Dinkin Buddies (PM),Jeanette Gerould,Karen Southern,Kathleen Burns,Sandy Ball,3,15
+15709,3,2025-04-15,7OAKS Late Night Kitchen (PM),BCCC Dinkin Buddies (PM),Andra Kinlaw,Michele Adams,MaryEllen Wetzler-Behar,Vickie Gibbs,15,12
+15709,4,2025-04-15,7OAKS Late Night Kitchen (PM),BCCC Dinkin Buddies (PM),Olga DeGroff,Michelle Vedder,Kathleen Burns,Sandy Ball,15,5
+15709,5,2025-04-15,7OAKS Late Night Kitchen (PM),BCCC Dinkin Buddies (PM),Jeanette Gerould,Karen Southern,MaryEllen Wetzler-Behar,Vickie Gibbs,15,8
+15709,6,2025-04-15,7OAKS Late Night Kitchen (PM),BCCC Dinkin Buddies (PM),Andra Kinlaw,Michele Adams,Rachel DeNorchia,Julia Woodson,15,7
+15709,7,2025-04-15,7OAKS Late Night Kitchen (PM),BCCC Dinkin Buddies (PM),Olga DeGroff,Michelle Vedder,MaryEllen Wetzler-Behar,Vickie Gibbs,15,3
+15709,8,2025-04-15,7OAKS Late Night Kitchen (PM),BCCC Dinkin Buddies (PM),Jeanette Gerould,Karen Southern,Rachel DeNorchia,Julia Woodson,9,15
+15709,9,2025-04-15,7OAKS Late Night Kitchen (PM),BCCC Dinkin Buddies (PM),Andra Kinlaw,Michele Adams,Kathleen Burns,Sandy Ball,15,6
+15710,1,2025-04-15,WPCC Dinking Divas (PM),WPCC Pickled Pink (PM),Sonya Rhiver,Lisa DeMarco,Andrea Ellen McCartney,Lori Parkman,7,15
+15710,2,2025-04-15,WPCC Dinking Divas (PM),WPCC Pickled Pink (PM),Wendy Brooker Burns,Louella M Venable,April Haas,Courtney McKim,15,8
+15710,3,2025-04-15,WPCC Dinking Divas (PM),WPCC Pickled Pink (PM),Margie Molloy,Sylvie Daigle,Melissa Michael,Nancy Page,16,14
+15710,4,2025-04-15,WPCC Dinking Divas (PM),WPCC Pickled Pink (PM),Sonya Rhiver,Lisa DeMarco,April Haas,Courtney McKim,15,8
+15710,5,2025-04-15,WPCC Dinking Divas (PM),WPCC Pickled Pink (PM),Wendy Brooker Burns,Louella M Venable,Melissa Michael,Nancy Page,8,15
+15710,6,2025-04-15,WPCC Dinking Divas (PM),WPCC Pickled Pink (PM),Margie Molloy,Sylvie Daigle,Andrea Ellen McCartney,Lori Parkman,6,15
+15710,7,2025-04-15,WPCC Dinking Divas (PM),WPCC Pickled Pink (PM),Sonya Rhiver,Lisa DeMarco,Melissa Michael,Nancy Page,10,15
+15710,8,2025-04-15,WPCC Dinking Divas (PM),WPCC Pickled Pink (PM),Wendy Brooker Burns,Louella M Venable,Andrea Ellen McCartney,Lori Parkman,8,15
+15710,9,2025-04-15,WPCC Dinking Divas (PM),WPCC Pickled Pink (PM),Margie Molloy,Sylvie Daigle,April Haas,Courtney McKim,15,10
+15724,1,2025-04-22,WPCC The Dill Breakers (PM),WPCC Dinking Divas (PM),Monica Collins,Melissa S Green,Louella M Venable,Dane Hewett Brackett,15,9
+15724,2,2025-04-22,WPCC The Dill Breakers (PM),WPCC Dinking Divas (PM),Melissa Kirk Landry,Jessica Brimmer,Sonya Rhiver,Susan Hembarsky,15,13
+15724,3,2025-04-22,WPCC The Dill Breakers (PM),WPCC Dinking Divas (PM),Kate Pirrung,Janice D Lewis,Leigh Kimball,Margie Molloy,15,8
+15724,4,2025-04-22,WPCC The Dill Breakers (PM),WPCC Dinking Divas (PM),Monica Collins,Melissa S Green,Sonya Rhiver,Susan Hembarsky,15,6
+15724,5,2025-04-22,WPCC The Dill Breakers (PM),WPCC Dinking Divas (PM),Melissa Kirk Landry,Jessica Brimmer,Leigh Kimball,Margie Molloy,15,12
+15724,6,2025-04-22,WPCC The Dill Breakers (PM),WPCC Dinking Divas (PM),Kate Pirrung,Janice D Lewis,Louella M Venable,Dane Hewett Brackett,15,6
+15724,7,2025-04-22,WPCC The Dill Breakers (PM),WPCC Dinking Divas (PM),Monica Collins,Melissa S Green,Leigh Kimball,Margie Molloy,15,13
+15724,8,2025-04-22,WPCC The Dill Breakers (PM),WPCC Dinking Divas (PM),Melissa Kirk Landry,Jessica Brimmer,Louella M Venable,Dane Hewett Brackett,15,1
+15724,9,2025-04-22,WPCC The Dill Breakers (PM),WPCC Dinking Divas (PM),Kate Pirrung,Janice D Lewis,Sonya Rhiver,Susan Hembarsky,12,15
+15725,1,2025-04-22,HASEN Made Ya Dink!! (PM),7OAKS Late Night Kitchen (PM),Ginger Craig,Sharon Louise Lambe,Danielle Stringer,Julia Killian,5,15
+15725,2,2025-04-22,HASEN Made Ya Dink!! (PM),7OAKS Late Night Kitchen (PM),Amy DiGiuseppe,Jennifer Lynn Bouck,Julie A Leon,Sherrie L Lefere,15,7
+15725,3,2025-04-22,HASEN Made Ya Dink!! (PM),7OAKS Late Night Kitchen (PM),Samantha Starr,Melinda White Coutts,Debra Nagele Hauge,Karen Southern,15,3
+15725,4,2025-04-22,HASEN Made Ya Dink!! (PM),7OAKS Late Night Kitchen (PM),Ginger Craig,Sharon Louise Lambe,Julie A Leon,Sherrie L Lefere,15,12
+15725,5,2025-04-22,HASEN Made Ya Dink!! (PM),7OAKS Late Night Kitchen (PM),Amy DiGiuseppe,Jennifer Lynn Bouck,Debra Nagele Hauge,Karen Southern,15,6
+15725,6,2025-04-22,HASEN Made Ya Dink!! (PM),7OAKS Late Night Kitchen (PM),Samantha Starr,Melinda White Coutts,Danielle Stringer,Julia Killian,15,7
+15725,7,2025-04-22,HASEN Made Ya Dink!! (PM),7OAKS Late Night Kitchen (PM),Ginger Craig,Sharon Louise Lambe,Debra Nagele Hauge,Karen Southern,15,4
+15725,8,2025-04-22,HASEN Made Ya Dink!! (PM),7OAKS Late Night Kitchen (PM),Amy DiGiuseppe,Jennifer Lynn Bouck,Danielle Stringer,Julia Killian,12,15
+15725,9,2025-04-22,HASEN Made Ya Dink!! (PM),7OAKS Late Night Kitchen (PM),Samantha Starr,Melinda White Coutts,Julie A Leon,Sherrie L Lefere,15,4
+15726,1,2025-04-23,7OAKS SPRING PEEPS (AM),BCCC Dinkin Buddies (PM),Alix Winfield Ballantyne,Kellie Marie Bradley,Vickie Gibbs,Katie Burke,15,0
+15726,2,2025-04-23,7OAKS SPRING PEEPS (AM),BCCC Dinkin Buddies (PM),Ada Gonzalez,Karen Gearing,Dina Requena,Julia Fligman,15,2
+15726,3,2025-04-23,7OAKS SPRING PEEPS (AM),BCCC Dinkin Buddies (PM),Bethany Upton Squires,Micha P Gittelman,DEFAULT,DEFAULT,15,0
+15726,4,2025-04-23,7OAKS SPRING PEEPS (AM),BCCC Dinkin Buddies (PM),Alix Winfield Ballantyne,Kellie Marie Bradley,Dina Requena,Julia Fligman,15,9
+15726,5,2025-04-23,7OAKS SPRING PEEPS (AM),BCCC Dinkin Buddies (PM),Ada Gonzalez,Karen Gearing,DEFAULT,DEFAULT,15,0
+15726,6,2025-04-23,7OAKS SPRING PEEPS (AM),BCCC Dinkin Buddies (PM),Bethany Upton Squires,Micha P Gittelman,Vickie Gibbs,Katie Burke,15,4
+15726,7,2025-04-23,7OAKS SPRING PEEPS (AM),BCCC Dinkin Buddies (PM),Alix Winfield Ballantyne,Kellie Marie Bradley,DEFAULT,DEFAULT,15,0
+15726,8,2025-04-23,7OAKS SPRING PEEPS (AM),BCCC Dinkin Buddies (PM),Ada Gonzalez,Karen Gearing,Vickie Gibbs,Katie Burke,9,15
+15726,9,2025-04-23,7OAKS SPRING PEEPS (AM),BCCC Dinkin Buddies (PM),Bethany Upton Squires,Micha P Gittelman,Dina Requena,Julia Fligman,15,2
+15744,1,2025-04-29,WPCC Dinking Divas (PM),BCCC Dinkin Buddies (PM),Leigh Kimball,Susan Hembarsky,Helen Ryan,Dina Requena,15,8
+15744,2,2025-04-29,WPCC Dinking Divas (PM),BCCC Dinkin Buddies (PM),Cathy Werder,Gina Myers,Julia Woodson,Julia Fligman,8,15
+15744,3,2025-04-29,WPCC Dinking Divas (PM),BCCC Dinkin Buddies (PM),Jane Stutzman,Bobbie Jean Weiler,DEFAULT,DEFAULT,15,0
+15744,4,2025-04-29,WPCC Dinking Divas (PM),BCCC Dinkin Buddies (PM),Leigh Kimball,Susan Hembarsky,Julia Woodson,Julia Fligman,15,1
+15744,5,2025-04-29,WPCC Dinking Divas (PM),BCCC Dinkin Buddies (PM),Cathy Werder,Gina Myers,DEFAULT,DEFAULT,15,0
+15744,6,2025-04-29,WPCC Dinking Divas (PM),BCCC Dinkin Buddies (PM),Jane Stutzman,Bobbie Jean Weiler,Helen Ryan,Dina Requena,11,15
+15744,7,2025-04-29,WPCC Dinking Divas (PM),BCCC Dinkin Buddies (PM),Leigh Kimball,Susan Hembarsky,DEFAULT,DEFAULT,15,0
+15744,8,2025-04-29,WPCC Dinking Divas (PM),BCCC Dinkin Buddies (PM),Cathy Werder,Gina Myers,Helen Ryan,Dina Requena,11,15
+15744,9,2025-04-29,WPCC Dinking Divas (PM),BCCC Dinkin Buddies (PM),Jane Stutzman,Bobbie Jean Weiler,Julia Woodson,Julia Fligman,15,12
+15745,1,2025-04-30,WPCC Pickled Pink (PM),7OAKS SPRING PEEPS (AM),Andrea Ellen McCartney,Courtney McKim,Kellie Marie Bradley,Bethany Upton Squires,15,6
+15745,2,2025-04-30,WPCC Pickled Pink (PM),7OAKS SPRING PEEPS (AM),Candan Burati,Lori Parkman,Alix Winfield Ballantyne,Donna Cuomo,3,15
+15745,3,2025-04-30,WPCC Pickled Pink (PM),7OAKS SPRING PEEPS (AM),Nancy Page,Tina Mcintyre,Victoria Bell,MaryJo Caldwell,15,12
+15745,4,2025-04-30,WPCC Pickled Pink (PM),7OAKS SPRING PEEPS (AM),Andrea Ellen McCartney,Courtney McKim,Alix Winfield Ballantyne,Donna Cuomo,15,6
+15745,5,2025-04-30,WPCC Pickled Pink (PM),7OAKS SPRING PEEPS (AM),Candan Burati,Lori Parkman,Victoria Bell,MaryJo Caldwell,6,15
+15745,6,2025-04-30,WPCC Pickled Pink (PM),7OAKS SPRING PEEPS (AM),Nancy Page,Tina Mcintyre,Kellie Marie Bradley,Bethany Upton Squires,11,15
+15745,7,2025-04-30,WPCC Pickled Pink (PM),7OAKS SPRING PEEPS (AM),Andrea Ellen McCartney,Courtney McKim,Victoria Bell,MaryJo Caldwell,15,8
+15745,8,2025-04-30,WPCC Pickled Pink (PM),7OAKS SPRING PEEPS (AM),Candan Burati,Lori Parkman,Kellie Marie Bradley,Bethany Upton Squires,13,15
+15745,9,2025-04-30,WPCC Pickled Pink (PM),7OAKS SPRING PEEPS (AM),Nancy Page,Tina Mcintyre,Alix Winfield Ballantyne,Donna Cuomo,5,15
+15764,1,2025-05-06,7OAKS Late Night Kitchen (PM),WPCC The Dill Breakers (PM),Danielle Stringer,Michele Adams,Amanda Viele,Donna Louise Driscoll,15,2
+15764,2,2025-05-06,7OAKS Late Night Kitchen (PM),WPCC The Dill Breakers (PM),Julia Killian,Maggie Patterson,Jessica Brimmer,Melissa Kirk Landry,7,15
+15764,3,2025-05-06,7OAKS Late Night Kitchen (PM),WPCC The Dill Breakers (PM),Michelle Vedder,Olga DeGroff,Nancy Gugliotta,Kate Pirrung,15,1
+15764,4,2025-05-06,7OAKS Late Night Kitchen (PM),WPCC The Dill Breakers (PM),Danielle Stringer,Michele Adams,Jessica Brimmer,Melissa Kirk Landry,5,15
+15764,5,2025-05-06,7OAKS Late Night Kitchen (PM),WPCC The Dill Breakers (PM),Julia Killian,Maggie Patterson,Nancy Gugliotta,Kate Pirrung,15,10
+15764,6,2025-05-06,7OAKS Late Night Kitchen (PM),WPCC The Dill Breakers (PM),Michelle Vedder,Olga DeGroff,Amanda Viele,Donna Louise Driscoll,15,0
+15764,7,2025-05-06,7OAKS Late Night Kitchen (PM),WPCC The Dill Breakers (PM),Danielle Stringer,Michele Adams,Nancy Gugliotta,Kate Pirrung,15,12
+15764,8,2025-05-06,7OAKS Late Night Kitchen (PM),WPCC The Dill Breakers (PM),Julia Killian,Maggie Patterson,Amanda Viele,Donna Louise Driscoll,15,6
+15764,9,2025-05-06,7OAKS Late Night Kitchen (PM),WPCC The Dill Breakers (PM),Michelle Vedder,Olga DeGroff,Jessica Brimmer,Melissa Kirk Landry,15,6
+15781,1,2025-05-13,HASEN Made Ya Dink!! (PM),7OAKS Late Night Kitchen (PM),Janet Hammond,Samantha Starr,Michele Adams,Andra Kinlaw,15,6
+15781,2,2025-05-13,HASEN Made Ya Dink!! (PM),7OAKS Late Night Kitchen (PM),Jennifer Lynn Bouck,Amy DiGiuseppe,Olga DeGroff,Michelle Vedder,5,15
+15781,3,2025-05-13,HASEN Made Ya Dink!! (PM),7OAKS Late Night Kitchen (PM),Sharon T Cole,Emily Rubin,Maggie Patterson,Danielle Stringer,8,15
+15781,4,2025-05-13,HASEN Made Ya Dink!! (PM),7OAKS Late Night Kitchen (PM),Janet Hammond,Samantha Starr,Olga DeGroff,Michelle Vedder,11,15
+15781,5,2025-05-13,HASEN Made Ya Dink!! (PM),7OAKS Late Night Kitchen (PM),Jennifer Lynn Bouck,Amy DiGiuseppe,Maggie Patterson,Danielle Stringer,9,15
+15781,6,2025-05-13,HASEN Made Ya Dink!! (PM),7OAKS Late Night Kitchen (PM),Sharon T Cole,Emily Rubin,Michele Adams,Andra Kinlaw,10,15
+15781,7,2025-05-13,HASEN Made Ya Dink!! (PM),7OAKS Late Night Kitchen (PM),Janet Hammond,Samantha Starr,Maggie Patterson,Danielle Stringer,15,9
+15781,8,2025-05-13,HASEN Made Ya Dink!! (PM),7OAKS Late Night Kitchen (PM),Jennifer Lynn Bouck,Amy DiGiuseppe,Michele Adams,Andra Kinlaw,5,15
+15781,9,2025-05-13,HASEN Made Ya Dink!! (PM),7OAKS Late Night Kitchen (PM),Sharon T Cole,Emily Rubin,Olga DeGroff,Michelle Vedder,10,15
+15782,1,2025-05-13,7OAKS SPRING PEEPS (AM),WPCC The Dill Breakers (PM),Sherry Lynn Goodson,Micha P Gittelman,Melissa S Green,Lori Larrabee,15,8
+15782,2,2025-05-13,7OAKS SPRING PEEPS (AM),WPCC The Dill Breakers (PM),Ada Gonzalez,Karen Gearing,Donna Louise Driscoll,Amanda Viele,15,11
+15782,3,2025-05-13,7OAKS SPRING PEEPS (AM),WPCC The Dill Breakers (PM),Donna Cuomo,Alix Winfield Ballantyne,Dafnie Driscoll,Kate Pirrung,15,5
+15782,4,2025-05-13,7OAKS SPRING PEEPS (AM),WPCC The Dill Breakers (PM),Sherry Lynn Goodson,Micha P Gittelman,Donna Louise Driscoll,Amanda Viele,15,9
+15782,5,2025-05-13,7OAKS SPRING PEEPS (AM),WPCC The Dill Breakers (PM),Ada Gonzalez,Karen Gearing,Dafnie Driscoll,Kate Pirrung,10,15
+15782,6,2025-05-13,7OAKS SPRING PEEPS (AM),WPCC The Dill Breakers (PM),Donna Cuomo,Alix Winfield Ballantyne,Melissa S Green,Lori Larrabee,15,10
+15782,7,2025-05-13,7OAKS SPRING PEEPS (AM),WPCC The Dill Breakers (PM),Sherry Lynn Goodson,Micha P Gittelman,Dafnie Driscoll,Kate Pirrung,1,15
+15782,8,2025-05-13,7OAKS SPRING PEEPS (AM),WPCC The Dill Breakers (PM),Ada Gonzalez,Karen Gearing,Melissa S Green,Lori Larrabee,13,15
+15782,9,2025-05-13,7OAKS SPRING PEEPS (AM),WPCC The Dill Breakers (PM),Donna Cuomo,Alix Winfield Ballantyne,Donna Louise Driscoll,Amanda Viele,15,8
+15783,1,2025-05-13,WPCC Dinking Divas (PM),BCCC Dinkin Buddies (PM),Louella M Venable,Dane Hewett Brackett,Helen Ryan,Kristen DiMillio Howering,5,15
+15783,2,2025-05-13,WPCC Dinking Divas (PM),BCCC Dinkin Buddies (PM),Leigh Kimball,Jody Hill,Katie Burke,MaryEllen Wetzler-Behar,15,8
+15783,3,2025-05-13,WPCC Dinking Divas (PM),BCCC Dinkin Buddies (PM),Bobbie Jean Weiler,Jane Stutzman,Sandy Ball,Vickie Gibbs,15,6
+15783,4,2025-05-13,WPCC Dinking Divas (PM),BCCC Dinkin Buddies (PM),Louella M Venable,Dane Hewett Brackett,Katie Burke,MaryEllen Wetzler-Behar,9,15
+15783,5,2025-05-13,WPCC Dinking Divas (PM),BCCC Dinkin Buddies (PM),Leigh Kimball,Jody Hill,Sandy Ball,Vickie Gibbs,15,6
+15783,6,2025-05-13,WPCC Dinking Divas (PM),BCCC Dinkin Buddies (PM),Bobbie Jean Weiler,Jane Stutzman,Helen Ryan,Kristen DiMillio Howering,2,15
+15783,7,2025-05-13,WPCC Dinking Divas (PM),BCCC Dinkin Buddies (PM),Louella M Venable,Dane Hewett Brackett,Sandy Ball,Vickie Gibbs,3,15
+15783,8,2025-05-13,WPCC Dinking Divas (PM),BCCC Dinkin Buddies (PM),Leigh Kimball,Jody Hill,Helen Ryan,Kristen DiMillio Howering,6,15
+15783,9,2025-05-13,WPCC Dinking Divas (PM),BCCC Dinkin Buddies (PM),Bobbie Jean Weiler,Jane Stutzman,Katie Burke,MaryEllen Wetzler-Behar,3,15
+15799,1,2025-05-20,WPCC Pickled Pink (PM),BCCC Dinkin Buddies (PM),Nancy Page,Lori Parkman,Katie Burke,Sandy Ball,15,9
+15799,2,2025-05-20,WPCC Pickled Pink (PM),BCCC Dinkin Buddies (PM),Kathryn W Kiel,Marilyn Slaymaker,Kristen DiMillio Howering,Kathleen Burns,3,15
+15799,3,2025-05-20,WPCC Pickled Pink (PM),BCCC Dinkin Buddies (PM),Mary Casson,Melissa Michael,Vickie Gibbs,Julia Woodson,8,15
+15799,4,2025-05-20,WPCC Pickled Pink (PM),BCCC Dinkin Buddies (PM),Nancy Page,Lori Parkman,Kristen DiMillio Howering,Kathleen Burns,12,15
+15799,5,2025-05-20,WPCC Pickled Pink (PM),BCCC Dinkin Buddies (PM),Kathryn W Kiel,Marilyn Slaymaker,Vickie Gibbs,Julia Woodson,15,10
+15799,6,2025-05-20,WPCC Pickled Pink (PM),BCCC Dinkin Buddies (PM),Mary Casson,Melissa Michael,Katie Burke,Sandy Ball,1,15
+15799,7,2025-05-20,WPCC Pickled Pink (PM),BCCC Dinkin Buddies (PM),Nancy Page,Lori Parkman,Vickie Gibbs,Julia Woodson,15,8
+15799,8,2025-05-20,WPCC Pickled Pink (PM),BCCC Dinkin Buddies (PM),Kathryn W Kiel,Marilyn Slaymaker,Katie Burke,Sandy Ball,15,11
+15799,9,2025-05-20,WPCC Pickled Pink (PM),BCCC Dinkin Buddies (PM),Mary Casson,Melissa Michael,Kristen DiMillio Howering,Kathleen Burns,3,15
+15808,1,2025-06-07,7OAKS Late Night Kitchen (PM),7OAKS SPRING PEEPS (AM),Michele Adams,Sherrie L Lefere,Sherry Lynn Goodson,Victoria Bell,9,15
+15808,2,2025-06-07,7OAKS Late Night Kitchen (PM),7OAKS SPRING PEEPS (AM),Michelle Vedder,Olga DeGroff,Karen Gearing,Ada Gonzalez,15,6
+15808,3,2025-06-07,7OAKS Late Night Kitchen (PM),7OAKS SPRING PEEPS (AM),Julia Killian,Maggie Patterson,Alix Winfield Ballantyne,Donna Cuomo,13,15
+15808,4,2025-06-07,7OAKS Late Night Kitchen (PM),7OAKS SPRING PEEPS (AM),Michele Adams,Sherrie L Lefere,Karen Gearing,Ada Gonzalez,7,15
+15808,5,2025-06-07,7OAKS Late Night Kitchen (PM),7OAKS SPRING PEEPS (AM),Michelle Vedder,Olga DeGroff,Alix Winfield Ballantyne,Donna Cuomo,18,16
+15808,6,2025-06-07,7OAKS Late Night Kitchen (PM),7OAKS SPRING PEEPS (AM),Julia Killian,Maggie Patterson,Sherry Lynn Goodson,Victoria Bell,15,12
+15808,7,2025-06-07,7OAKS Late Night Kitchen (PM),7OAKS SPRING PEEPS (AM),Michele Adams,Sherrie L Lefere,Alix Winfield Ballantyne,Donna Cuomo,15,13
+15808,8,2025-06-07,7OAKS Late Night Kitchen (PM),7OAKS SPRING PEEPS (AM),Michelle Vedder,Olga DeGroff,Sherry Lynn Goodson,Victoria Bell,13,15
+15808,9,2025-06-07,7OAKS Late Night Kitchen (PM),7OAKS SPRING PEEPS (AM),Julia Killian,Maggie Patterson,Karen Gearing,Ada Gonzalez,15,6

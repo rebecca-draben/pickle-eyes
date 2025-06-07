@@ -1,0 +1,289 @@
+match_id,game_id,match_date,team1_name,team2_name,partner1,partner2,opponent1,opponent2,team1_points,team2_points
+17745,1,2026-01-13,Dinking Queens 50+,Loud Hands,Amy S Fisher,Pam Hunter,Juliet Barbin,Donna B Platt,15,8
+17745,2,2026-01-13,Dinking Queens 50+,Loud Hands,Connie Kannarr,Francine Pearce,AJ Sondossi,Elicia Mabunga,15,0
+17745,3,2026-01-13,Dinking Queens 50+,Loud Hands,Kathy R Painter,Susan Larson Frazier,Victoria E Stremel,Chloe DeRosa,15,2
+17745,4,2026-01-13,Dinking Queens 50+,Loud Hands,Amy S Fisher,Pam Hunter,AJ Sondossi,Elicia Mabunga,15,7
+17745,5,2026-01-13,Dinking Queens 50+,Loud Hands,Connie Kannarr,Francine Pearce,Victoria E Stremel,Chloe DeRosa,15,3
+17745,6,2026-01-13,Dinking Queens 50+,Loud Hands,Kathy R Painter,Susan Larson Frazier,Juliet Barbin,Donna B Platt,15,8
+17745,7,2026-01-13,Dinking Queens 50+,Loud Hands,Amy S Fisher,Pam Hunter,Victoria E Stremel,Chloe DeRosa,15,2
+17745,8,2026-01-13,Dinking Queens 50+,Loud Hands,Connie Kannarr,Francine Pearce,Juliet Barbin,Donna B Platt,15,2
+17745,9,2026-01-13,Dinking Queens 50+,Loud Hands,Kathy R Painter,Susan Larson Frazier,AJ Sondossi,Elicia Mabunga,15,12
+17746,1,2026-01-13,A Stiff Dink,McGregor Dinking Divas (W),Michele Mulcahy,Jessica Revels,Diane Laber,Kari Wetherall,15,9
+17746,2,2026-01-13,A Stiff Dink,McGregor Dinking Divas (W),Elizabeth Parrish,Jamie Hinckley,Mary S Bailey,Colby Benevides,14,16
+17746,3,2026-01-13,A Stiff Dink,McGregor Dinking Divas (W),Leslie Britt Roper,Tiffani Neal Campbell,Savannah G Snyder,Heather Cheslek,15,8
+17746,4,2026-01-13,A Stiff Dink,McGregor Dinking Divas (W),Michele Mulcahy,Jessica Revels,Mary S Bailey,Colby Benevides,15,8
+17746,5,2026-01-13,A Stiff Dink,McGregor Dinking Divas (W),Elizabeth Parrish,Jamie Hinckley,Savannah G Snyder,Heather Cheslek,15,9
+17746,6,2026-01-13,A Stiff Dink,McGregor Dinking Divas (W),Leslie Britt Roper,Tiffani Neal Campbell,Diane Laber,Kari Wetherall,11,15
+17746,7,2026-01-13,A Stiff Dink,McGregor Dinking Divas (W),Michele Mulcahy,Jessica Revels,Savannah G Snyder,Heather Cheslek,15,8
+17746,8,2026-01-13,A Stiff Dink,McGregor Dinking Divas (W),Elizabeth Parrish,Jamie Hinckley,Diane Laber,Kari Wetherall,16,14
+17746,9,2026-01-13,A Stiff Dink,McGregor Dinking Divas (W),Leslie Britt Roper,Tiffani Neal Campbell,Mary S Bailey,Colby Benevides,15,7
+17747,1,2026-01-13,Pickle Me Pink 50+,Paddlettes 50+,Denise Wilson,Kate Rees,Jenny Mattingly,Bobbi Bell,4,15
+17747,2,2026-01-13,Pickle Me Pink 50+,Paddlettes 50+,Judy Lindhout,Patty Spining,Anita C Barker,Deborah J Kramer,11,15
+17747,3,2026-01-13,Pickle Me Pink 50+,Paddlettes 50+,Kristin Patterson,Leslie Garlinghouse,Hannah L'Hommedieu,Lisa Dominick,0,15
+17747,4,2026-01-13,Pickle Me Pink 50+,Paddlettes 50+,Denise Wilson,Kate Rees,Anita C Barker,Deborah J Kramer,9,15
+17747,5,2026-01-13,Pickle Me Pink 50+,Paddlettes 50+,Judy Lindhout,Patty Spining,Hannah L'Hommedieu,Lisa Dominick,13,15
+17747,6,2026-01-13,Pickle Me Pink 50+,Paddlettes 50+,Kristin Patterson,Leslie Garlinghouse,Jenny Mattingly,Bobbi Bell,0,15
+17747,7,2026-01-13,Pickle Me Pink 50+,Paddlettes 50+,Denise Wilson,Kate Rees,Hannah L'Hommedieu,Lisa Dominick,9,15
+17747,8,2026-01-13,Pickle Me Pink 50+,Paddlettes 50+,Judy Lindhout,Patty Spining,Jenny Mattingly,Bobbi Bell,3,15
+17747,9,2026-01-13,Pickle Me Pink 50+,Paddlettes 50+,Kristin Patterson,Leslie Garlinghouse,Anita C Barker,Deborah J Kramer,1,15
+17748,1,2026-01-13,Pickle Besties,Smash and Sass,Sassy Pengyou,Nikki Potts,Nicole Gagnon,Parul Patel,15,4
+17748,2,2026-01-13,Pickle Besties,Smash and Sass,Wen Zheng,Phoebe Pham,Manali Sonawane,Pragya Luintel,15,4
+17748,3,2026-01-13,Pickle Besties,Smash and Sass,Tammy Mleziva,Nicole Fox,Rajita Shine,Pushpalata Arjun Sail,15,6
+17748,4,2026-01-13,Pickle Besties,Smash and Sass,Sassy Pengyou,Nikki Potts,Manali Sonawane,Pragya Luintel,15,11
+17748,5,2026-01-13,Pickle Besties,Smash and Sass,Wen Zheng,Phoebe Pham,Rajita Shine,Pushpalata Arjun Sail,15,1
+17748,6,2026-01-13,Pickle Besties,Smash and Sass,Tammy Mleziva,Nicole Fox,Nicole Gagnon,Parul Patel,15,11
+17748,7,2026-01-13,Pickle Besties,Smash and Sass,Sassy Pengyou,Nikki Potts,Rajita Shine,Pushpalata Arjun Sail,15,2
+17748,8,2026-01-13,Pickle Besties,Smash and Sass,Wen Zheng,Phoebe Pham,Nicole Gagnon,Parul Patel,15,0
+17748,9,2026-01-13,Pickle Besties,Smash and Sass,Tammy Mleziva,Nicole Fox,Manali Sonawane,Pragya Luintel,13,15
+17755,1,2026-01-20,Pickle Besties,A Stiff Dink,Tammy Mleziva,Wen Zheng,Michele Mulcahy,Jessica Revels,15,8
+17755,2,2026-01-20,Pickle Besties,A Stiff Dink,Phoebe Pham,Manju Dafforn,Leslie Britt Roper,Tiffani Neal Campbell,15,2
+17755,3,2026-01-20,Pickle Besties,A Stiff Dink,Sassy Pengyou,Jana Giese,Amy Condon,Elizabeth Parrish,15,9
+17755,4,2026-01-20,Pickle Besties,A Stiff Dink,Tammy Mleziva,Wen Zheng,Leslie Britt Roper,Tiffani Neal Campbell,15,3
+17755,5,2026-01-20,Pickle Besties,A Stiff Dink,Phoebe Pham,Manju Dafforn,Amy Condon,Elizabeth Parrish,15,10
+17755,6,2026-01-20,Pickle Besties,A Stiff Dink,Sassy Pengyou,Jana Giese,Michele Mulcahy,Jessica Revels,13,15
+17755,7,2026-01-20,Pickle Besties,A Stiff Dink,Tammy Mleziva,Wen Zheng,Amy Condon,Elizabeth Parrish,15,10
+17755,8,2026-01-20,Pickle Besties,A Stiff Dink,Phoebe Pham,Manju Dafforn,Michele Mulcahy,Jessica Revels,15,1
+17755,9,2026-01-20,Pickle Besties,A Stiff Dink,Sassy Pengyou,Jana Giese,Leslie Britt Roper,Tiffani Neal Campbell,15,5
+17756,1,2026-01-20,Pickle Me Pink 50+,McGregor Dinking Divas (W),Patty Spining,Joanna L Fontaine,Jessica Tanaka,Kendra McCormick,1,15
+17756,2,2026-01-20,Pickle Me Pink 50+,McGregor Dinking Divas (W),Jacqui Heck,Kristin Patterson,Stephanie Wyatt,Beth Simpson,11,15
+17756,3,2026-01-20,Pickle Me Pink 50+,McGregor Dinking Divas (W),Jessica W Fairfax,Leslie Garlinghouse,Heather Cheslek,Diane Laber,4,15
+17756,4,2026-01-20,Pickle Me Pink 50+,McGregor Dinking Divas (W),Patty Spining,Joanna L Fontaine,Stephanie Wyatt,Beth Simpson,12,15
+17756,5,2026-01-20,Pickle Me Pink 50+,McGregor Dinking Divas (W),Jacqui Heck,Kristin Patterson,Heather Cheslek,Diane Laber,1,15
+17756,6,2026-01-20,Pickle Me Pink 50+,McGregor Dinking Divas (W),Jessica W Fairfax,Leslie Garlinghouse,Jessica Tanaka,Kendra McCormick,4,15
+17756,7,2026-01-20,Pickle Me Pink 50+,McGregor Dinking Divas (W),Patty Spining,Joanna L Fontaine,Heather Cheslek,Diane Laber,0,15
+17756,8,2026-01-20,Pickle Me Pink 50+,McGregor Dinking Divas (W),Jacqui Heck,Kristin Patterson,Jessica Tanaka,Kendra McCormick,2,15
+17756,9,2026-01-20,Pickle Me Pink 50+,McGregor Dinking Divas (W),Jessica W Fairfax,Leslie Garlinghouse,Stephanie Wyatt,Beth Simpson,15,9
+17757,1,2026-01-20,Paddlettes 50+,Dinking Queens 50+,Jenny Mattingly,Bobbi Bell,Francine Pearce,Connie Kannarr,15,4
+17757,2,2026-01-20,Paddlettes 50+,Dinking Queens 50+,Anita C Barker,Vicki Rohde,Amy S Fisher,Pam Hunter,15,4
+17757,3,2026-01-20,Paddlettes 50+,Dinking Queens 50+,Hannah L'Hommedieu,Lisa Dominick,Genean Hill,Lori Nichols,15,4
+17757,4,2026-01-20,Paddlettes 50+,Dinking Queens 50+,Jenny Mattingly,Bobbi Bell,Amy S Fisher,Pam Hunter,15,7
+17757,5,2026-01-20,Paddlettes 50+,Dinking Queens 50+,Anita C Barker,Vicki Rohde,Genean Hill,Lori Nichols,15,4
+17757,6,2026-01-20,Paddlettes 50+,Dinking Queens 50+,Hannah L'Hommedieu,Lisa Dominick,Francine Pearce,Connie Kannarr,17,15
+17757,7,2026-01-20,Paddlettes 50+,Dinking Queens 50+,Jenny Mattingly,Bobbi Bell,Genean Hill,Lori Nichols,15,10
+17757,8,2026-01-20,Paddlettes 50+,Dinking Queens 50+,Anita C Barker,Vicki Rohde,Francine Pearce,Connie Kannarr,15,13
+17757,9,2026-01-20,Paddlettes 50+,Dinking Queens 50+,Hannah L'Hommedieu,Lisa Dominick,Amy S Fisher,Pam Hunter,16,14
+17758,1,2026-01-20,Smash and Sass,Loud Hands,Parul Patel,Nicole Gagnon,Juliet Barbin,Elicia Mabunga,15,11
+17758,2,2026-01-20,Smash and Sass,Loud Hands,Manali Sonawane,Pragya Luintel,AJ Sondossi,Chloe DeRosa,15,0
+17758,3,2026-01-20,Smash and Sass,Loud Hands,Pushpalata Arjun Sail,Rajita Shine,DEFAULT,DEFAULT,15,0
+17758,4,2026-01-20,Smash and Sass,Loud Hands,Parul Patel,Nicole Gagnon,AJ Sondossi,Chloe DeRosa,15,2
+17758,5,2026-01-20,Smash and Sass,Loud Hands,Manali Sonawane,Pragya Luintel,DEFAULT,DEFAULT,15,0
+17758,6,2026-01-20,Smash and Sass,Loud Hands,Pushpalata Arjun Sail,Rajita Shine,Juliet Barbin,Elicia Mabunga,4,15
+17758,7,2026-01-20,Smash and Sass,Loud Hands,Parul Patel,Nicole Gagnon,DEFAULT,DEFAULT,15,0
+17758,8,2026-01-20,Smash and Sass,Loud Hands,Manali Sonawane,Pragya Luintel,Juliet Barbin,Elicia Mabunga,9,15
+17758,9,2026-01-20,Smash and Sass,Loud Hands,Pushpalata Arjun Sail,Rajita Shine,AJ Sondossi,Chloe DeRosa,15,4
+17765,1,2026-01-27,Dinking Queens 50+,Pickle Me Pink 50+,Susan Larson Frazier,Kathy R Painter,Patty Spining,Leslie Garlinghouse,15,5
+17765,2,2026-01-27,Dinking Queens 50+,Pickle Me Pink 50+,Lori Nichols,Cecily L Thompson,Denise Wilson,Jessica W Fairfax,13,15
+17765,3,2026-01-27,Dinking Queens 50+,Pickle Me Pink 50+,Amy S Fisher,Pam Hunter,Judy Lindhout,Jacqui Heck,15,4
+17765,4,2026-01-27,Dinking Queens 50+,Pickle Me Pink 50+,Susan Larson Frazier,Kathy R Painter,Denise Wilson,Jessica W Fairfax,7,15
+17765,5,2026-01-27,Dinking Queens 50+,Pickle Me Pink 50+,Lori Nichols,Cecily L Thompson,Judy Lindhout,Jacqui Heck,15,3
+17765,6,2026-01-27,Dinking Queens 50+,Pickle Me Pink 50+,Amy S Fisher,Pam Hunter,Patty Spining,Leslie Garlinghouse,15,5
+17765,7,2026-01-27,Dinking Queens 50+,Pickle Me Pink 50+,Susan Larson Frazier,Kathy R Painter,Judy Lindhout,Jacqui Heck,15,4
+17765,8,2026-01-27,Dinking Queens 50+,Pickle Me Pink 50+,Lori Nichols,Cecily L Thompson,Patty Spining,Leslie Garlinghouse,16,14
+17765,9,2026-01-27,Dinking Queens 50+,Pickle Me Pink 50+,Amy S Fisher,Pam Hunter,Denise Wilson,Jessica W Fairfax,15,5
+17766,1,2026-01-27,Smash and Sass,Paddlettes 50+,Manali Sonawane,Pragya Luintel,Anita C Barker,Lorri Lyon,0,15
+17766,2,2026-01-27,Smash and Sass,Paddlettes 50+,Pushpalata Arjun Sail,Rajita Shine,Deborah J Kramer,Hannah L'Hommedieu,3,15
+17766,3,2026-01-27,Smash and Sass,Paddlettes 50+,Nicole Gagnon,Parul Patel,Jenny Mattingly,Bobbi Bell,6,15
+17766,4,2026-01-27,Smash and Sass,Paddlettes 50+,Manali Sonawane,Pragya Luintel,Deborah J Kramer,Hannah L'Hommedieu,4,15
+17766,5,2026-01-27,Smash and Sass,Paddlettes 50+,Pushpalata Arjun Sail,Rajita Shine,Jenny Mattingly,Bobbi Bell,6,15
+17766,6,2026-01-27,Smash and Sass,Paddlettes 50+,Nicole Gagnon,Parul Patel,Anita C Barker,Lorri Lyon,6,15
+17766,7,2026-01-27,Smash and Sass,Paddlettes 50+,Manali Sonawane,Pragya Luintel,Jenny Mattingly,Bobbi Bell,1,15
+17766,8,2026-01-27,Smash and Sass,Paddlettes 50+,Pushpalata Arjun Sail,Rajita Shine,Anita C Barker,Lorri Lyon,1,15
+17766,9,2026-01-27,Smash and Sass,Paddlettes 50+,Nicole Gagnon,Parul Patel,Deborah J Kramer,Hannah L'Hommedieu,4,15
+17767,1,2026-01-27,Loud Hands,A Stiff Dink,Juliet Barbin,Chloe DeRosa,Britney Harrison,Michele Mulcahy,5,15
+17767,2,2026-01-27,Loud Hands,A Stiff Dink,AJ Sondossi,Donna B Platt,Leslie Britt Roper,Elizabeth Parrish,5,15
+17767,3,2026-01-27,Loud Hands,A Stiff Dink,Victoria E Stremel,Elicia Mabunga,DEFAULT,DEFAULT,15,0
+17767,4,2026-01-27,Loud Hands,A Stiff Dink,Juliet Barbin,Chloe DeRosa,Leslie Britt Roper,Elizabeth Parrish,6,15
+17767,5,2026-01-27,Loud Hands,A Stiff Dink,AJ Sondossi,Donna B Platt,DEFAULT,DEFAULT,15,0
+17767,6,2026-01-27,Loud Hands,A Stiff Dink,Victoria E Stremel,Elicia Mabunga,Britney Harrison,Michele Mulcahy,12,15
+17767,7,2026-01-27,Loud Hands,A Stiff Dink,Juliet Barbin,Chloe DeRosa,DEFAULT,DEFAULT,15,0
+17767,8,2026-01-27,Loud Hands,A Stiff Dink,AJ Sondossi,Donna B Platt,Britney Harrison,Michele Mulcahy,0,15
+17767,9,2026-01-27,Loud Hands,A Stiff Dink,Victoria E Stremel,Elicia Mabunga,Leslie Britt Roper,Elizabeth Parrish,10,15
+17768,1,2026-01-27,McGregor Dinking Divas (W),Pickle Besties,Kari Wetherall,Savannah G Snyder,Nikki Potts,Jana Giese,1,15
+17768,2,2026-01-27,McGregor Dinking Divas (W),Pickle Besties,Diane Laber,Janine Gerber,Fabrienne Wicker,Nicole Fox,15,5
+17768,3,2026-01-27,McGregor Dinking Divas (W),Pickle Besties,Mary S Bailey,Colby Benevides,Wen Zheng,Sassy Pengyou,7,15
+17768,4,2026-01-27,McGregor Dinking Divas (W),Pickle Besties,Kari Wetherall,Savannah G Snyder,Fabrienne Wicker,Nicole Fox,3,15
+17768,5,2026-01-27,McGregor Dinking Divas (W),Pickle Besties,Diane Laber,Janine Gerber,Wen Zheng,Sassy Pengyou,13,15
+17768,6,2026-01-27,McGregor Dinking Divas (W),Pickle Besties,Mary S Bailey,Colby Benevides,Nikki Potts,Jana Giese,4,15
+17768,7,2026-01-27,McGregor Dinking Divas (W),Pickle Besties,Kari Wetherall,Savannah G Snyder,Wen Zheng,Sassy Pengyou,8,15
+17768,8,2026-01-27,McGregor Dinking Divas (W),Pickle Besties,Diane Laber,Janine Gerber,Nikki Potts,Jana Giese,15,7
+17768,9,2026-01-27,McGregor Dinking Divas (W),Pickle Besties,Mary S Bailey,Colby Benevides,Fabrienne Wicker,Nicole Fox,3,15
+17775,1,2026-02-03,Pickle Me Pink 50+,A Stiff Dink,Jacqui Heck,Jessica W Fairfax,Amy Condon,Britney Harrison,15,7
+17775,2,2026-02-03,Pickle Me Pink 50+,A Stiff Dink,Judy Lindhout,Joanna L Fontaine,Jamie Hinckley,Jessica Revels,15,10
+17775,3,2026-02-03,Pickle Me Pink 50+,A Stiff Dink,Denise Wilson,Patty Spining,DEFAULT,DEFAULT,15,0
+17775,4,2026-02-03,Pickle Me Pink 50+,A Stiff Dink,Jacqui Heck,Jessica W Fairfax,Jamie Hinckley,Jessica Revels,6,15
+17775,5,2026-02-03,Pickle Me Pink 50+,A Stiff Dink,Judy Lindhout,Joanna L Fontaine,DEFAULT,DEFAULT,15,0
+17775,6,2026-02-03,Pickle Me Pink 50+,A Stiff Dink,Denise Wilson,Patty Spining,Amy Condon,Britney Harrison,12,15
+17775,7,2026-02-03,Pickle Me Pink 50+,A Stiff Dink,Jacqui Heck,Jessica W Fairfax,DEFAULT,DEFAULT,15,0
+17775,8,2026-02-03,Pickle Me Pink 50+,A Stiff Dink,Judy Lindhout,Joanna L Fontaine,Amy Condon,Britney Harrison,14,16
+17775,9,2026-02-03,Pickle Me Pink 50+,A Stiff Dink,Denise Wilson,Patty Spining,Jamie Hinckley,Jessica Revels,15,17
+17776,1,2026-02-03,Loud Hands,McGregor Dinking Divas (W),Juliet Barbin,AJ Sondossi,Sheridan Orr,Jessica Tanaka,15,8
+17776,2,2026-02-03,Loud Hands,McGregor Dinking Divas (W),Chloe DeRosa,Victoria E Stremel,Mary S Bailey,Savannah G Snyder,12,15
+17776,3,2026-02-03,Loud Hands,McGregor Dinking Divas (W),Elicia Mabunga,Donna B Platt,Colby Benevides,Beth Simpson,9,15
+17776,4,2026-02-03,Loud Hands,McGregor Dinking Divas (W),Juliet Barbin,AJ Sondossi,Mary S Bailey,Savannah G Snyder,15,5
+17776,5,2026-02-03,Loud Hands,McGregor Dinking Divas (W),Chloe DeRosa,Victoria E Stremel,Colby Benevides,Beth Simpson,1,15
+17776,6,2026-02-03,Loud Hands,McGregor Dinking Divas (W),Elicia Mabunga,Donna B Platt,Sheridan Orr,Jessica Tanaka,7,15
+17776,7,2026-02-03,Loud Hands,McGregor Dinking Divas (W),Juliet Barbin,AJ Sondossi,Colby Benevides,Beth Simpson,15,10
+17776,8,2026-02-03,Loud Hands,McGregor Dinking Divas (W),Chloe DeRosa,Victoria E Stremel,Sheridan Orr,Jessica Tanaka,3,15
+17776,9,2026-02-03,Loud Hands,McGregor Dinking Divas (W),Elicia Mabunga,Donna B Platt,Mary S Bailey,Savannah G Snyder,6,15
+17777,1,2026-02-03,Smash and Sass,Dinking Queens 50+,Pragya Luintel,Smitha Parswanath,Amy S Fisher,Pam Hunter,10,15
+17777,2,2026-02-03,Smash and Sass,Dinking Queens 50+,Manali Sonawane,Nicole Gagnon,Susan Larson Frazier,Lori Nichols,15,11
+17777,3,2026-02-03,Smash and Sass,Dinking Queens 50+,Rajita Shine,Pushpalata Arjun Sail,Connie Kannarr,Francine Pearce,3,15
+17777,4,2026-02-03,Smash and Sass,Dinking Queens 50+,Pragya Luintel,Smitha Parswanath,Susan Larson Frazier,Lori Nichols,3,15
+17777,5,2026-02-03,Smash and Sass,Dinking Queens 50+,Manali Sonawane,Nicole Gagnon,Connie Kannarr,Francine Pearce,4,15
+17777,6,2026-02-03,Smash and Sass,Dinking Queens 50+,Rajita Shine,Pushpalata Arjun Sail,Amy S Fisher,Pam Hunter,8,15
+17777,7,2026-02-03,Smash and Sass,Dinking Queens 50+,Pragya Luintel,Smitha Parswanath,Connie Kannarr,Francine Pearce,7,15
+17777,8,2026-02-03,Smash and Sass,Dinking Queens 50+,Manali Sonawane,Nicole Gagnon,Amy S Fisher,Pam Hunter,15,13
+17777,9,2026-02-03,Smash and Sass,Dinking Queens 50+,Rajita Shine,Pushpalata Arjun Sail,Susan Larson Frazier,Lori Nichols,5,15
+17778,1,2026-02-03,Paddlettes 50+,Pickle Besties,Jenny Mattingly,Bobbi Bell,Phoebe Pham,Nikki Potts,15,13
+17778,2,2026-02-03,Paddlettes 50+,Pickle Besties,Vicki Rohde,Anita C Barker,Tammy Mleziva,Manju Dafforn,15,8
+17778,3,2026-02-03,Paddlettes 50+,Pickle Besties,Hannah L'Hommedieu,Lisa Dominick,Sassy Pengyou,Fabrienne Wicker,15,13
+17778,4,2026-02-03,Paddlettes 50+,Pickle Besties,Jenny Mattingly,Bobbi Bell,Tammy Mleziva,Manju Dafforn,15,9
+17778,5,2026-02-03,Paddlettes 50+,Pickle Besties,Vicki Rohde,Anita C Barker,Sassy Pengyou,Fabrienne Wicker,10,15
+17778,6,2026-02-03,Paddlettes 50+,Pickle Besties,Hannah L'Hommedieu,Lisa Dominick,Phoebe Pham,Nikki Potts,15,9
+17778,7,2026-02-03,Paddlettes 50+,Pickle Besties,Jenny Mattingly,Bobbi Bell,Sassy Pengyou,Fabrienne Wicker,5,15
+17778,8,2026-02-03,Paddlettes 50+,Pickle Besties,Vicki Rohde,Anita C Barker,Phoebe Pham,Nikki Potts,15,13
+17778,9,2026-02-03,Paddlettes 50+,Pickle Besties,Hannah L'Hommedieu,Lisa Dominick,Tammy Mleziva,Manju Dafforn,15,9
+17785,1,2026-02-10,Dinking Queens 50+,McGregor Dinking Divas (W),Francine Pearce,Connie Kannarr,Heather Cheslek,Jessica Tanaka,15,3
+17785,2,2026-02-10,Dinking Queens 50+,McGregor Dinking Divas (W),Amy S Fisher,Cecily L Thompson,Sheridan Orr,Mary S Bailey,15,5
+17785,3,2026-02-10,Dinking Queens 50+,McGregor Dinking Divas (W),Genean Hill,Lori Nichols,Colby Benevides,Savannah G Snyder,15,4
+17785,4,2026-02-10,Dinking Queens 50+,McGregor Dinking Divas (W),Francine Pearce,Connie Kannarr,Sheridan Orr,Mary S Bailey,15,1
+17785,5,2026-02-10,Dinking Queens 50+,McGregor Dinking Divas (W),Amy S Fisher,Cecily L Thompson,Colby Benevides,Savannah G Snyder,15,7
+17785,6,2026-02-10,Dinking Queens 50+,McGregor Dinking Divas (W),Genean Hill,Lori Nichols,Heather Cheslek,Jessica Tanaka,15,11
+17785,7,2026-02-10,Dinking Queens 50+,McGregor Dinking Divas (W),Francine Pearce,Connie Kannarr,Colby Benevides,Savannah G Snyder,15,1
+17785,8,2026-02-10,Dinking Queens 50+,McGregor Dinking Divas (W),Amy S Fisher,Cecily L Thompson,Heather Cheslek,Jessica Tanaka,15,11
+17785,9,2026-02-10,Dinking Queens 50+,McGregor Dinking Divas (W),Genean Hill,Lori Nichols,Sheridan Orr,Mary S Bailey,15,6
+17786,1,2026-02-10,A Stiff Dink,Paddlettes 50+,Shae Mary Condon,Kaitlin Melton,Anita C Barker,Vicki Rohde,0,15
+17786,2,2026-02-10,A Stiff Dink,Paddlettes 50+,Britney Harrison,Elizabeth Parrish,Bobbi Bell,Lisa Dominick,5,15
+17786,3,2026-02-10,A Stiff Dink,Paddlettes 50+,Jamie Hinckley,Allison Keelor,Deborah J Kramer,Lorri Lyon,2,15
+17786,4,2026-02-10,A Stiff Dink,Paddlettes 50+,Shae Mary Condon,Kaitlin Melton,Bobbi Bell,Lisa Dominick,5,15
+17786,5,2026-02-10,A Stiff Dink,Paddlettes 50+,Britney Harrison,Elizabeth Parrish,Deborah J Kramer,Lorri Lyon,8,15
+17786,6,2026-02-10,A Stiff Dink,Paddlettes 50+,Jamie Hinckley,Allison Keelor,Anita C Barker,Vicki Rohde,1,15
+17786,7,2026-02-10,A Stiff Dink,Paddlettes 50+,Shae Mary Condon,Kaitlin Melton,Deborah J Kramer,Lorri Lyon,2,15
+17786,8,2026-02-10,A Stiff Dink,Paddlettes 50+,Britney Harrison,Elizabeth Parrish,Anita C Barker,Vicki Rohde,2,15
+17786,9,2026-02-10,A Stiff Dink,Paddlettes 50+,Jamie Hinckley,Allison Keelor,Bobbi Bell,Lisa Dominick,2,15
+17787,1,2026-02-10,Pickle Me Pink 50+,Smash and Sass,Denise Wilson,Jacqui Heck,Manali Sonawane,Pragya Luintel,15,12
+17787,2,2026-02-10,Pickle Me Pink 50+,Smash and Sass,Patty Spining,Joanna L Fontaine,Pushpalata Arjun Sail,Rajita Shine,12,15
+17787,3,2026-02-10,Pickle Me Pink 50+,Smash and Sass,Leslie Garlinghouse,Kristin Patterson,Parul Patel,Nicole Gagnon,1,15
+17787,4,2026-02-10,Pickle Me Pink 50+,Smash and Sass,Denise Wilson,Jacqui Heck,Pushpalata Arjun Sail,Rajita Shine,15,9
+17787,5,2026-02-10,Pickle Me Pink 50+,Smash and Sass,Patty Spining,Joanna L Fontaine,Parul Patel,Nicole Gagnon,1,15
+17787,6,2026-02-10,Pickle Me Pink 50+,Smash and Sass,Leslie Garlinghouse,Kristin Patterson,Manali Sonawane,Pragya Luintel,2,15
+17787,7,2026-02-10,Pickle Me Pink 50+,Smash and Sass,Denise Wilson,Jacqui Heck,Parul Patel,Nicole Gagnon,3,15
+17787,8,2026-02-10,Pickle Me Pink 50+,Smash and Sass,Patty Spining,Joanna L Fontaine,Manali Sonawane,Pragya Luintel,8,15
+17787,9,2026-02-10,Pickle Me Pink 50+,Smash and Sass,Leslie Garlinghouse,Kristin Patterson,Pushpalata Arjun Sail,Rajita Shine,5,15
+17788,1,2026-02-10,Pickle Besties,Loud Hands,Nikki Potts,Fabrienne Wicker,Juliet Barbin,Victoria E Stremel,15,1
+17788,2,2026-02-10,Pickle Besties,Loud Hands,Jana Giese,Sassy Pengyou,AJ Sondossi,Elicia Mabunga,15,12
+17788,3,2026-02-10,Pickle Besties,Loud Hands,Tammy Mleziva,Phoebe Pham,Donna B Platt,Chloe DeRosa,15,2
+17788,4,2026-02-10,Pickle Besties,Loud Hands,Nikki Potts,Fabrienne Wicker,AJ Sondossi,Elicia Mabunga,15,1
+17788,5,2026-02-10,Pickle Besties,Loud Hands,Jana Giese,Sassy Pengyou,Donna B Platt,Chloe DeRosa,15,1
+17788,6,2026-02-10,Pickle Besties,Loud Hands,Tammy Mleziva,Phoebe Pham,Juliet Barbin,Victoria E Stremel,15,0
+17788,7,2026-02-10,Pickle Besties,Loud Hands,Nikki Potts,Fabrienne Wicker,Donna B Platt,Chloe DeRosa,15,0
+17788,8,2026-02-10,Pickle Besties,Loud Hands,Jana Giese,Sassy Pengyou,Juliet Barbin,Victoria E Stremel,15,0
+17788,9,2026-02-10,Pickle Besties,Loud Hands,Tammy Mleziva,Phoebe Pham,AJ Sondossi,Elicia Mabunga,15,8
+17795,1,2026-02-17,Loud Hands,Pickle Me Pink 50+,Juliet Barbin,Chloe DeRosa,Denise Wilson,Judy Lindhout,3,15
+17795,2,2026-02-17,Loud Hands,Pickle Me Pink 50+,AJ Sondossi,Victoria E Stremel,Jacqui Heck,Leslie Garlinghouse,10,15
+17795,3,2026-02-17,Loud Hands,Pickle Me Pink 50+,Donna B Platt,Elicia Mabunga,Joanna L Fontaine,Kristin Patterson,15,5
+17795,4,2026-02-17,Loud Hands,Pickle Me Pink 50+,Juliet Barbin,Chloe DeRosa,Jacqui Heck,Leslie Garlinghouse,15,9
+17795,5,2026-02-17,Loud Hands,Pickle Me Pink 50+,AJ Sondossi,Victoria E Stremel,Joanna L Fontaine,Kristin Patterson,15,5
+17795,6,2026-02-17,Loud Hands,Pickle Me Pink 50+,Donna B Platt,Elicia Mabunga,Denise Wilson,Judy Lindhout,1,15
+17795,7,2026-02-17,Loud Hands,Pickle Me Pink 50+,Juliet Barbin,Chloe DeRosa,Joanna L Fontaine,Kristin Patterson,15,7
+17795,8,2026-02-17,Loud Hands,Pickle Me Pink 50+,AJ Sondossi,Victoria E Stremel,Denise Wilson,Judy Lindhout,2,15
+17795,9,2026-02-17,Loud Hands,Pickle Me Pink 50+,Donna B Platt,Elicia Mabunga,Jacqui Heck,Leslie Garlinghouse,15,9
+17796,1,2026-02-17,McGregor Dinking Divas (W),Paddlettes 50+,Heather Giulianotti,Diane Laber,Anita C Barker,Vicki Rohde,11,15
+17796,2,2026-02-17,McGregor Dinking Divas (W),Paddlettes 50+,Kari Wetherall,Jessica Tanaka,Jenny Mattingly,Lisa Dominick,6,15
+17796,3,2026-02-17,McGregor Dinking Divas (W),Paddlettes 50+,Kelly Shields,Stephanie Wyatt,Deborah J Kramer,Lorri Lyon,11,15
+17796,4,2026-02-17,McGregor Dinking Divas (W),Paddlettes 50+,Heather Giulianotti,Diane Laber,Jenny Mattingly,Lisa Dominick,5,15
+17796,5,2026-02-17,McGregor Dinking Divas (W),Paddlettes 50+,Kari Wetherall,Jessica Tanaka,Deborah J Kramer,Lorri Lyon,9,15
+17796,6,2026-02-17,McGregor Dinking Divas (W),Paddlettes 50+,Kelly Shields,Stephanie Wyatt,Anita C Barker,Vicki Rohde,3,15
+17796,7,2026-02-17,McGregor Dinking Divas (W),Paddlettes 50+,Heather Giulianotti,Diane Laber,Deborah J Kramer,Lorri Lyon,8,15
+17796,8,2026-02-17,McGregor Dinking Divas (W),Paddlettes 50+,Kari Wetherall,Jessica Tanaka,Anita C Barker,Vicki Rohde,2,15
+17796,9,2026-02-17,McGregor Dinking Divas (W),Paddlettes 50+,Kelly Shields,Stephanie Wyatt,Jenny Mattingly,Lisa Dominick,4,15
+17797,1,2026-02-17,Dinking Queens 50+,Pickle Besties,Connie Kannarr,Francine Pearce,Tammy Mleziva,Nikki Potts,15,7
+17797,2,2026-02-17,Dinking Queens 50+,Pickle Besties,Lori Nichols,Genean Hill,Fabrienne Wicker,Sassy Pengyou,2,15
+17797,3,2026-02-17,Dinking Queens 50+,Pickle Besties,Cecily L Thompson,Susan Larson Frazier,Manju Dafforn,Phoebe Pham,7,15
+17797,4,2026-02-17,Dinking Queens 50+,Pickle Besties,Connie Kannarr,Francine Pearce,Fabrienne Wicker,Sassy Pengyou,7,15
+17797,5,2026-02-17,Dinking Queens 50+,Pickle Besties,Lori Nichols,Genean Hill,Manju Dafforn,Phoebe Pham,3,15
+17797,6,2026-02-17,Dinking Queens 50+,Pickle Besties,Cecily L Thompson,Susan Larson Frazier,Tammy Mleziva,Nikki Potts,15,9
+17797,7,2026-02-17,Dinking Queens 50+,Pickle Besties,Connie Kannarr,Francine Pearce,Manju Dafforn,Phoebe Pham,15,7
+17797,8,2026-02-17,Dinking Queens 50+,Pickle Besties,Lori Nichols,Genean Hill,Tammy Mleziva,Nikki Potts,6,15
+17797,9,2026-02-17,Dinking Queens 50+,Pickle Besties,Cecily L Thompson,Susan Larson Frazier,Fabrienne Wicker,Sassy Pengyou,3,15
+17798,1,2026-02-17,A Stiff Dink,Smash and Sass,Britney Harrison,Leslie Britt Roper,Parul Patel,Nicole Gagnon,9,15
+17798,2,2026-02-17,A Stiff Dink,Smash and Sass,Jamie Hinckley,Jessica Revels,Pragya Luintel,Manali Sonawane,15,10
+17798,3,2026-02-17,A Stiff Dink,Smash and Sass,DEFAULT,DEFAULT,Smitha Parswanath,Pushpalata Arjun Sail,0,15
+17798,4,2026-02-17,A Stiff Dink,Smash and Sass,Britney Harrison,Leslie Britt Roper,Pragya Luintel,Manali Sonawane,3,15
+17798,5,2026-02-17,A Stiff Dink,Smash and Sass,Jamie Hinckley,Jessica Revels,Smitha Parswanath,Pushpalata Arjun Sail,15,3
+17798,6,2026-02-17,A Stiff Dink,Smash and Sass,DEFAULT,DEFAULT,Parul Patel,Nicole Gagnon,0,15
+17798,7,2026-02-17,A Stiff Dink,Smash and Sass,Britney Harrison,Leslie Britt Roper,Smitha Parswanath,Pushpalata Arjun Sail,11,15
+17798,8,2026-02-17,A Stiff Dink,Smash and Sass,Jamie Hinckley,Jessica Revels,Parul Patel,Nicole Gagnon,13,15
+17798,9,2026-02-17,A Stiff Dink,Smash and Sass,DEFAULT,DEFAULT,Pragya Luintel,Manali Sonawane,0,15
+17805,1,2026-02-24,A Stiff Dink,Dinking Queens 50+,Allison Keelor,Elizabeth Parrish,Connie Kannarr,Amy S Fisher,1,15
+17805,2,2026-02-24,A Stiff Dink,Dinking Queens 50+,Jamie Hinckley,Tiffani Neal Campbell,Susan Larson Frazier,Kathy R Painter,15,12
+17805,3,2026-02-24,A Stiff Dink,Dinking Queens 50+,DEFAULT,DEFAULT,Pam Hunter,Lori Nichols,0,15
+17805,4,2026-02-24,A Stiff Dink,Dinking Queens 50+,Allison Keelor,Elizabeth Parrish,Susan Larson Frazier,Kathy R Painter,10,15
+17805,5,2026-02-24,A Stiff Dink,Dinking Queens 50+,Jamie Hinckley,Tiffani Neal Campbell,Pam Hunter,Lori Nichols,15,9
+17805,6,2026-02-24,A Stiff Dink,Dinking Queens 50+,DEFAULT,DEFAULT,Connie Kannarr,Amy S Fisher,0,15
+17805,7,2026-02-24,A Stiff Dink,Dinking Queens 50+,Allison Keelor,Elizabeth Parrish,Pam Hunter,Lori Nichols,9,15
+17805,8,2026-02-24,A Stiff Dink,Dinking Queens 50+,Jamie Hinckley,Tiffani Neal Campbell,Connie Kannarr,Amy S Fisher,0,15
+17805,9,2026-02-24,A Stiff Dink,Dinking Queens 50+,DEFAULT,DEFAULT,Susan Larson Frazier,Kathy R Painter,0,15
+17806,1,2026-02-24,Paddlettes 50+,Loud Hands,Jenny Mattingly,Bobbi Bell,Juliet Barbin,Donna B Platt,15,2
+17806,2,2026-02-24,Paddlettes 50+,Loud Hands,Vicki Rohde,Lisa Dominick,AJ Sondossi,Elicia Mabunga,15,2
+17806,3,2026-02-24,Paddlettes 50+,Loud Hands,Deborah J Kramer,Lorri Lyon,DEFAULT,DEFAULT,15,0
+17806,4,2026-02-24,Paddlettes 50+,Loud Hands,Jenny Mattingly,Bobbi Bell,AJ Sondossi,Elicia Mabunga,15,7
+17806,5,2026-02-24,Paddlettes 50+,Loud Hands,Vicki Rohde,Lisa Dominick,DEFAULT,DEFAULT,15,0
+17806,6,2026-02-24,Paddlettes 50+,Loud Hands,Deborah J Kramer,Lorri Lyon,Juliet Barbin,Donna B Platt,15,5
+17806,7,2026-02-24,Paddlettes 50+,Loud Hands,Jenny Mattingly,Bobbi Bell,DEFAULT,DEFAULT,15,0
+17806,8,2026-02-24,Paddlettes 50+,Loud Hands,Vicki Rohde,Lisa Dominick,Juliet Barbin,Donna B Platt,15,1
+17806,9,2026-02-24,Paddlettes 50+,Loud Hands,Deborah J Kramer,Lorri Lyon,AJ Sondossi,Elicia Mabunga,15,8
+17807,1,2026-02-24,Pickle Besties,Pickle Me Pink 50+,Fabrienne Wicker,Jana Giese,Jessica W Fairfax,Jacqui Heck,15,7
+17807,2,2026-02-24,Pickle Besties,Pickle Me Pink 50+,Manju Dafforn,Phoebe Pham,Denise Wilson,Patty Spining,15,6
+17807,3,2026-02-24,Pickle Besties,Pickle Me Pink 50+,Nikki Potts,Sassy Pengyou,Joanna L Fontaine,Kristin Patterson,15,1
+17807,4,2026-02-24,Pickle Besties,Pickle Me Pink 50+,Fabrienne Wicker,Jana Giese,Denise Wilson,Patty Spining,15,4
+17807,5,2026-02-24,Pickle Besties,Pickle Me Pink 50+,Manju Dafforn,Phoebe Pham,Joanna L Fontaine,Kristin Patterson,15,1
+17807,6,2026-02-24,Pickle Besties,Pickle Me Pink 50+,Nikki Potts,Sassy Pengyou,Jessica W Fairfax,Jacqui Heck,15,6
+17807,7,2026-02-24,Pickle Besties,Pickle Me Pink 50+,Fabrienne Wicker,Jana Giese,Joanna L Fontaine,Kristin Patterson,15,0
+17807,8,2026-02-24,Pickle Besties,Pickle Me Pink 50+,Manju Dafforn,Phoebe Pham,Jessica W Fairfax,Jacqui Heck,15,4
+17807,9,2026-02-24,Pickle Besties,Pickle Me Pink 50+,Nikki Potts,Sassy Pengyou,Denise Wilson,Patty Spining,15,9
+17808,1,2026-02-24,McGregor Dinking Divas (W),Smash and Sass,Kari Wetherall,Stephanie Wyatt,Manali Sonawane,Pragya Luintel,11,15
+17808,2,2026-02-24,McGregor Dinking Divas (W),Smash and Sass,Janine Gerber,Diane Laber,Parul Patel,Nicole Gagnon,15,8
+17808,3,2026-02-24,McGregor Dinking Divas (W),Smash and Sass,Beth Simpson,Savannah G Snyder,Rajita Shine,Smitha Parswanath,5,15
+17808,4,2026-02-24,McGregor Dinking Divas (W),Smash and Sass,Kari Wetherall,Stephanie Wyatt,Parul Patel,Nicole Gagnon,15,6
+17808,5,2026-02-24,McGregor Dinking Divas (W),Smash and Sass,Janine Gerber,Diane Laber,Rajita Shine,Smitha Parswanath,15,3
+17808,6,2026-02-24,McGregor Dinking Divas (W),Smash and Sass,Beth Simpson,Savannah G Snyder,Manali Sonawane,Pragya Luintel,16,14
+17808,7,2026-02-24,McGregor Dinking Divas (W),Smash and Sass,Kari Wetherall,Stephanie Wyatt,Rajita Shine,Smitha Parswanath,13,15
+17808,8,2026-02-24,McGregor Dinking Divas (W),Smash and Sass,Janine Gerber,Diane Laber,Manali Sonawane,Pragya Luintel,15,7
+17808,9,2026-02-24,McGregor Dinking Divas (W),Smash and Sass,Beth Simpson,Savannah G Snyder,Parul Patel,Nicole Gagnon,9,15
+17815,1,2026-03-03,Smash and Sass,Pickle Besties,Rajita Shine,Smitha Parswanath,Tammy Mleziva,Phoebe Pham,6,15
+17815,2,2026-03-03,Smash and Sass,Pickle Besties,Manali Sonawane,Nicole Gagnon,Sassy Pengyou,Manju Dafforn,16,14
+17815,3,2026-03-03,Smash and Sass,Pickle Besties,Pushpalata Arjun Sail,Pragya Luintel,Jana Giese,Nicole Fox,15,9
+17815,4,2026-03-03,Smash and Sass,Pickle Besties,Rajita Shine,Smitha Parswanath,Sassy Pengyou,Manju Dafforn,3,15
+17815,5,2026-03-03,Smash and Sass,Pickle Besties,Manali Sonawane,Nicole Gagnon,Jana Giese,Nicole Fox,15,7
+17815,6,2026-03-03,Smash and Sass,Pickle Besties,Pushpalata Arjun Sail,Pragya Luintel,Tammy Mleziva,Phoebe Pham,2,15
+17815,7,2026-03-03,Smash and Sass,Pickle Besties,Rajita Shine,Smitha Parswanath,Jana Giese,Nicole Fox,5,15
+17815,8,2026-03-03,Smash and Sass,Pickle Besties,Manali Sonawane,Nicole Gagnon,Tammy Mleziva,Phoebe Pham,5,15
+17815,9,2026-03-03,Smash and Sass,Pickle Besties,Pushpalata Arjun Sail,Pragya Luintel,Sassy Pengyou,Manju Dafforn,8,15
+17816,1,2026-03-03,McGregor Dinking Divas (W),A Stiff Dink,Heather Giulianotti,Jessica Tanaka,Jamie Hinckley,Britney Harrison,13,15
+17816,2,2026-03-03,McGregor Dinking Divas (W),A Stiff Dink,Kelly Shields,Kendra McCormick,Jessica Revels,Michele Mulcahy,16,14
+17816,3,2026-03-03,McGregor Dinking Divas (W),A Stiff Dink,Stephanie Wyatt,Diane Laber,DEFAULT,DEFAULT,15,0
+17816,4,2026-03-03,McGregor Dinking Divas (W),A Stiff Dink,Heather Giulianotti,Jessica Tanaka,Jessica Revels,Michele Mulcahy,15,12
+17816,5,2026-03-03,McGregor Dinking Divas (W),A Stiff Dink,Kelly Shields,Kendra McCormick,DEFAULT,DEFAULT,15,0
+17816,6,2026-03-03,McGregor Dinking Divas (W),A Stiff Dink,Stephanie Wyatt,Diane Laber,Jamie Hinckley,Britney Harrison,12,15
+17816,7,2026-03-03,McGregor Dinking Divas (W),A Stiff Dink,Heather Giulianotti,Jessica Tanaka,DEFAULT,DEFAULT,15,0
+17816,8,2026-03-03,McGregor Dinking Divas (W),A Stiff Dink,Kelly Shields,Kendra McCormick,Jamie Hinckley,Britney Harrison,6,15
+17816,9,2026-03-03,McGregor Dinking Divas (W),A Stiff Dink,Stephanie Wyatt,Diane Laber,Jessica Revels,Michele Mulcahy,15,7
+17817,1,2026-03-03,Paddlettes 50+,Pickle Me Pink 50+,Jenny Mattingly,Bobbi Bell,Patty Spining,Joanna L Fontaine,15,5
+17817,2,2026-03-03,Paddlettes 50+,Pickle Me Pink 50+,Vicki Rohde,Lisa Dominick,Kristin Patterson,Judy Lindhout,15,0
+17817,3,2026-03-03,Paddlettes 50+,Pickle Me Pink 50+,Deborah J Kramer,Lorri Lyon,Jessica W Fairfax,Jacqui Heck,15,3
+17817,4,2026-03-03,Paddlettes 50+,Pickle Me Pink 50+,Jenny Mattingly,Bobbi Bell,Kristin Patterson,Judy Lindhout,15,2
+17817,5,2026-03-03,Paddlettes 50+,Pickle Me Pink 50+,Vicki Rohde,Lisa Dominick,Jessica W Fairfax,Jacqui Heck,15,1
+17817,6,2026-03-03,Paddlettes 50+,Pickle Me Pink 50+,Deborah J Kramer,Lorri Lyon,Patty Spining,Joanna L Fontaine,16,14
+17817,7,2026-03-03,Paddlettes 50+,Pickle Me Pink 50+,Jenny Mattingly,Bobbi Bell,Jessica W Fairfax,Jacqui Heck,15,4
+17817,8,2026-03-03,Paddlettes 50+,Pickle Me Pink 50+,Vicki Rohde,Lisa Dominick,Patty Spining,Joanna L Fontaine,15,2
+17817,9,2026-03-03,Paddlettes 50+,Pickle Me Pink 50+,Deborah J Kramer,Lorri Lyon,Kristin Patterson,Judy Lindhout,15,0
+17818,1,2026-03-03,Loud Hands,Dinking Queens 50+,Juliet Barbin,Elicia Mabunga,Lori Nichols,Genean Hill,5,15
+17818,2,2026-03-03,Loud Hands,Dinking Queens 50+,AJ Sondossi,Chloe DeRosa,Kathy R Painter,Susan Larson Frazier,5,15
+17818,3,2026-03-03,Loud Hands,Dinking Queens 50+,Victoria E Stremel,Donna B Platt,Connie Kannarr,Cecily L Thompson,0,15
+17818,4,2026-03-03,Loud Hands,Dinking Queens 50+,Juliet Barbin,Elicia Mabunga,Kathy R Painter,Susan Larson Frazier,6,15
+17818,5,2026-03-03,Loud Hands,Dinking Queens 50+,AJ Sondossi,Chloe DeRosa,Connie Kannarr,Cecily L Thompson,4,15
+17818,6,2026-03-03,Loud Hands,Dinking Queens 50+,Victoria E Stremel,Donna B Platt,Lori Nichols,Genean Hill,0,15
+17818,7,2026-03-03,Loud Hands,Dinking Queens 50+,Juliet Barbin,Elicia Mabunga,Connie Kannarr,Cecily L Thompson,7,15
+17818,8,2026-03-03,Loud Hands,Dinking Queens 50+,AJ Sondossi,Chloe DeRosa,Lori Nichols,Genean Hill,2,15
+17818,9,2026-03-03,Loud Hands,Dinking Queens 50+,Victoria E Stremel,Donna B Platt,Kathy R Painter,Susan Larson Frazier,3,15

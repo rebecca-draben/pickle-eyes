@@ -1,0 +1,64 @@
+match_id,game_id,match_date,team1_name,team2_name,partner1,partner2,opponent1,opponent2,team1_points,team2_points
+13939,1,2024-07-12,LAWN Harts Attackers (S),FARM Farm Fresh Picklers (F),Buffy Boyce,Laura Lee Gant,Ferrell Carpenter,Georgia Pierce,11,9
+13939,2,2024-07-12,LAWN Harts Attackers (S),FARM Farm Fresh Picklers (F),Liz Hart,Anneli Bennett,Heather Kane,Susan Breen,5,11
+13939,3,2024-07-12,LAWN Harts Attackers (S),FARM Farm Fresh Picklers (F),Selena Rogers,Denise Rene Schroeder,Sheryl Blackwell,Katherine A Leary,11,5
+13939,4,2024-07-12,LAWN Harts Attackers (S),FARM Farm Fresh Picklers (F),Buffy Boyce,Laura Lee Gant,Heather Kane,Susan Breen,11,9
+13939,5,2024-07-12,LAWN Harts Attackers (S),FARM Farm Fresh Picklers (F),Liz Hart,Anneli Bennett,Sheryl Blackwell,Katherine A Leary,11,8
+13939,6,2024-07-12,LAWN Harts Attackers (S),FARM Farm Fresh Picklers (F),Selena Rogers,Denise Rene Schroeder,Ferrell Carpenter,Georgia Pierce,6,11
+13939,7,2024-07-12,LAWN Harts Attackers (S),FARM Farm Fresh Picklers (F),Buffy Boyce,Laura Lee Gant,Sheryl Blackwell,Katherine A Leary,11,1
+13939,8,2024-07-12,LAWN Harts Attackers (S),FARM Farm Fresh Picklers (F),Liz Hart,Anneli Bennett,Ferrell Carpenter,Georgia Pierce,11,9
+13939,9,2024-07-12,LAWN Harts Attackers (S),FARM Farm Fresh Picklers (F),Selena Rogers,Denise Rene Schroeder,Heather Kane,Susan Breen,10,12
+13940,1,2024-07-12,HASEN Dink Responsibly (S),SEDGE Kitchen Crew (S),Jennifer Lynn Bouck,Sharon Louise Lambe,Beatriz Aguirre,Carol V Hall,3,11
+13940,2,2024-07-12,HASEN Dink Responsibly (S),SEDGE Kitchen Crew (S),Debra Skiko,Cybele Martin Brockmann,Paige C Wilkerson,Cindi Caudle Watts,11,6
+13940,3,2024-07-12,HASEN Dink Responsibly (S),SEDGE Kitchen Crew (S),Diane Werner,Regina Heroux,Sharon Griffith,Julie S Riggins,11,2
+13940,4,2024-07-12,HASEN Dink Responsibly (S),SEDGE Kitchen Crew (S),Jennifer Lynn Bouck,Sharon Louise Lambe,Paige C Wilkerson,Cindi Caudle Watts,4,11
+13940,5,2024-07-12,HASEN Dink Responsibly (S),SEDGE Kitchen Crew (S),Debra Skiko,Cybele Martin Brockmann,Sharon Griffith,Julie S Riggins,11,5
+13940,6,2024-07-12,HASEN Dink Responsibly (S),SEDGE Kitchen Crew (S),Diane Werner,Regina Heroux,Beatriz Aguirre,Carol V Hall,11,7
+13940,7,2024-07-12,HASEN Dink Responsibly (S),SEDGE Kitchen Crew (S),Jennifer Lynn Bouck,Sharon Louise Lambe,Sharon Griffith,Julie S Riggins,5,11
+13940,8,2024-07-12,HASEN Dink Responsibly (S),SEDGE Kitchen Crew (S),Debra Skiko,Cybele Martin Brockmann,Beatriz Aguirre,Carol V Hall,11,0
+13940,9,2024-07-12,HASEN Dink Responsibly (S),SEDGE Kitchen Crew (S),Diane Werner,Regina Heroux,Paige C Wilkerson,Cindi Caudle Watts,11,3
+13941,1,2024-07-12,SEDGE Kitchen Crew (S),LAWN Harts Attackers (S),Paige C Wilkerson,Cindi Caudle Watts,Buffy Boyce,Laura Lee Gant,4,11
+13941,2,2024-07-12,SEDGE Kitchen Crew (S),LAWN Harts Attackers (S),Carol V Hall,Beatriz Aguirre,Liz Hart,Jan Helis,11,6
+13941,3,2024-07-12,SEDGE Kitchen Crew (S),LAWN Harts Attackers (S),Sharon Griffith,Julie S Riggins,Selena Rogers,Denise Rene Schroeder,12,10
+13941,4,2024-07-12,SEDGE Kitchen Crew (S),LAWN Harts Attackers (S),Paige C Wilkerson,Cindi Caudle Watts,Liz Hart,Jan Helis,6,11
+13941,5,2024-07-12,SEDGE Kitchen Crew (S),LAWN Harts Attackers (S),Carol V Hall,Beatriz Aguirre,Selena Rogers,Denise Rene Schroeder,11,5
+13941,6,2024-07-12,SEDGE Kitchen Crew (S),LAWN Harts Attackers (S),Sharon Griffith,Julie S Riggins,Buffy Boyce,Laura Lee Gant,8,11
+13941,7,2024-07-12,SEDGE Kitchen Crew (S),LAWN Harts Attackers (S),Paige C Wilkerson,Cindi Caudle Watts,Selena Rogers,Denise Rene Schroeder,11,4
+13941,8,2024-07-12,SEDGE Kitchen Crew (S),LAWN Harts Attackers (S),Carol V Hall,Beatriz Aguirre,Buffy Boyce,Laura Lee Gant,8,11
+13941,9,2024-07-12,SEDGE Kitchen Crew (S),LAWN Harts Attackers (S),Sharon Griffith,Julie S Riggins,Liz Hart,Jan Helis,9,11
+13942,1,2024-07-12,FARM Farm Fresh Picklers (F),HASEN Dink Responsibly (S),Georgia Pierce,Ferrell Carpenter,Jade Paunovich,Mary Jo Nugent,10,12
+13942,2,2024-07-12,FARM Farm Fresh Picklers (F),HASEN Dink Responsibly (S),Heather Kane,Susan Breen,Sandy T Wood,Cybele Martin Brockmann,11,7
+13942,3,2024-07-12,FARM Farm Fresh Picklers (F),HASEN Dink Responsibly (S),Katherine A Leary,Sheryl Blackwell,Susan Flanagan,Diane Werner,0,11
+13942,4,2024-07-12,FARM Farm Fresh Picklers (F),HASEN Dink Responsibly (S),Georgia Pierce,Ferrell Carpenter,Sandy T Wood,Cybele Martin Brockmann,2,11
+13942,5,2024-07-12,FARM Farm Fresh Picklers (F),HASEN Dink Responsibly (S),Heather Kane,Susan Breen,Susan Flanagan,Diane Werner,12,10
+13942,6,2024-07-12,FARM Farm Fresh Picklers (F),HASEN Dink Responsibly (S),Katherine A Leary,Sheryl Blackwell,Jade Paunovich,Mary Jo Nugent,6,11
+13942,7,2024-07-12,FARM Farm Fresh Picklers (F),HASEN Dink Responsibly (S),Georgia Pierce,Ferrell Carpenter,Susan Flanagan,Diane Werner,6,11
+13942,8,2024-07-12,FARM Farm Fresh Picklers (F),HASEN Dink Responsibly (S),Heather Kane,Susan Breen,Jade Paunovich,Mary Jo Nugent,11,3
+13942,9,2024-07-12,FARM Farm Fresh Picklers (F),HASEN Dink Responsibly (S),Katherine A Leary,Sheryl Blackwell,Sandy T Wood,Cybele Martin Brockmann,2,11
+13943,1,2024-07-13,LAWN Harts Attackers (S),HASEN Dink Responsibly (S),Liz Hart,Anneli Bennett,Sandy T Wood,Mary Jo Nugent,10,12
+13943,2,2024-07-13,LAWN Harts Attackers (S),HASEN Dink Responsibly (S),Laura Lee Gant,Buffy Boyce,Debra Skiko,Cybele Martin Brockmann,9,11
+13943,3,2024-07-13,LAWN Harts Attackers (S),HASEN Dink Responsibly (S),Denise Rene Schroeder,Selena Rogers,Susan Flanagan,Regina Heroux,9,11
+13943,4,2024-07-13,LAWN Harts Attackers (S),HASEN Dink Responsibly (S),Liz Hart,Anneli Bennett,Debra Skiko,Cybele Martin Brockmann,12,10
+13943,5,2024-07-13,LAWN Harts Attackers (S),HASEN Dink Responsibly (S),Laura Lee Gant,Buffy Boyce,Susan Flanagan,Regina Heroux,8,11
+13943,6,2024-07-13,LAWN Harts Attackers (S),HASEN Dink Responsibly (S),Denise Rene Schroeder,Selena Rogers,Sandy T Wood,Mary Jo Nugent,11,9
+13943,7,2024-07-13,LAWN Harts Attackers (S),HASEN Dink Responsibly (S),Liz Hart,Anneli Bennett,Susan Flanagan,Regina Heroux,11,9
+13943,8,2024-07-13,LAWN Harts Attackers (S),HASEN Dink Responsibly (S),Laura Lee Gant,Buffy Boyce,Sandy T Wood,Mary Jo Nugent,10,12
+13943,9,2024-07-13,LAWN Harts Attackers (S),HASEN Dink Responsibly (S),Denise Rene Schroeder,Selena Rogers,Debra Skiko,Cybele Martin Brockmann,4,11
+13944,1,2024-07-13,SEDGE Kitchen Crew (S),FARM Farm Fresh Picklers (F),Beatriz Aguirre,Carol V Hall,Ferrell Carpenter,Georgia Pierce,11,6
+13944,2,2024-07-13,SEDGE Kitchen Crew (S),FARM Farm Fresh Picklers (F),Paige C Wilkerson,Cindi Caudle Watts,Heather Kane,Susan Breen,5,11
+13944,3,2024-07-13,SEDGE Kitchen Crew (S),FARM Farm Fresh Picklers (F),Sharon Griffith,Julie S Riggins,Katherine A Leary,Sheryl Blackwell,11,8
+13944,4,2024-07-13,SEDGE Kitchen Crew (S),FARM Farm Fresh Picklers (F),Beatriz Aguirre,Carol V Hall,Heather Kane,Susan Breen,11,13
+13944,5,2024-07-13,SEDGE Kitchen Crew (S),FARM Farm Fresh Picklers (F),Paige C Wilkerson,Cindi Caudle Watts,Katherine A Leary,Sheryl Blackwell,11,9
+13944,6,2024-07-13,SEDGE Kitchen Crew (S),FARM Farm Fresh Picklers (F),Sharon Griffith,Julie S Riggins,Ferrell Carpenter,Georgia Pierce,11,5
+13944,7,2024-07-13,SEDGE Kitchen Crew (S),FARM Farm Fresh Picklers (F),Beatriz Aguirre,Carol V Hall,Katherine A Leary,Sheryl Blackwell,11,8
+13944,8,2024-07-13,SEDGE Kitchen Crew (S),FARM Farm Fresh Picklers (F),Paige C Wilkerson,Cindi Caudle Watts,Ferrell Carpenter,Georgia Pierce,11,6
+13944,9,2024-07-13,SEDGE Kitchen Crew (S),FARM Farm Fresh Picklers (F),Sharon Griffith,Julie S Riggins,Heather Kane,Susan Breen,8,11
+13945,1,2024-07-13,HASEN Dink Responsibly (S),LAWN Harts Attackers (S),Cybele Martin Brockmann,Debra Skiko,Buffy Boyce,Laura Lee Gant,15,17
+13945,2,2024-07-13,HASEN Dink Responsibly (S),LAWN Harts Attackers (S),Regina Heroux,Diane Werner,Anneli Bennett,Liz Hart,8,15
+13945,3,2024-07-13,HASEN Dink Responsibly (S),LAWN Harts Attackers (S),Sandy T Wood,Mary Jo Nugent,Selena Rogers,Denise Rene Schroeder,4,15
+13945,4,2024-07-13,HASEN Dink Responsibly (S),LAWN Harts Attackers (S),Cybele Martin Brockmann,Debra Skiko,Anneli Bennett,Liz Hart,5,15
+13945,5,2024-07-13,HASEN Dink Responsibly (S),LAWN Harts Attackers (S),Regina Heroux,Diane Werner,Selena Rogers,Denise Rene Schroeder,15,3
+13945,6,2024-07-13,HASEN Dink Responsibly (S),LAWN Harts Attackers (S),Sandy T Wood,Mary Jo Nugent,Buffy Boyce,Laura Lee Gant,13,15
+13945,7,2024-07-13,HASEN Dink Responsibly (S),LAWN Harts Attackers (S),Cybele Martin Brockmann,Debra Skiko,Selena Rogers,Denise Rene Schroeder,15,3
+13945,8,2024-07-13,HASEN Dink Responsibly (S),LAWN Harts Attackers (S),Regina Heroux,Diane Werner,Buffy Boyce,Laura Lee Gant,15,9
+13945,9,2024-07-13,HASEN Dink Responsibly (S),LAWN Harts Attackers (S),Sandy T Wood,Mary Jo Nugent,Anneli Bennett,Liz Hart,5,15

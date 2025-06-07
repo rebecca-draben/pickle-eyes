@@ -1,0 +1,118 @@
+match_id,game_id,match_date,team1_name,team2_name,partner1,partner2,opponent1,opponent2,team1_points,team2_points
+18333,1,2026-03-16,NHC Dink Pony Club,7OAKS Stop Drop and Pickle,Kristi Koren,Emmy Garvey,Molly Bradsher Briggs,Erin Stelling,15,5
+18333,2,2026-03-16,NHC Dink Pony Club,7OAKS Stop Drop and Pickle,Amy Pena,Julie Sullivan,Jen Plante,Liz Broadway,15,6
+18333,3,2026-03-16,NHC Dink Pony Club,7OAKS Stop Drop and Pickle,Susan Smith Johnson,Jean Harrold,Leigh Magee,Dana Rawls,15,6
+18333,4,2026-03-16,NHC Dink Pony Club,7OAKS Stop Drop and Pickle,Kristi Koren,Emmy Garvey,Jen Plante,Liz Broadway,15,10
+18333,5,2026-03-16,NHC Dink Pony Club,7OAKS Stop Drop and Pickle,Amy Pena,Julie Sullivan,Leigh Magee,Dana Rawls,15,10
+18333,6,2026-03-16,NHC Dink Pony Club,7OAKS Stop Drop and Pickle,Susan Smith Johnson,Jean Harrold,Molly Bradsher Briggs,Erin Stelling,7,15
+18333,7,2026-03-16,NHC Dink Pony Club,7OAKS Stop Drop and Pickle,Kristi Koren,Emmy Garvey,Leigh Magee,Dana Rawls,15,6
+18333,8,2026-03-16,NHC Dink Pony Club,7OAKS Stop Drop and Pickle,Amy Pena,Julie Sullivan,Molly Bradsher Briggs,Erin Stelling,17,15
+18333,9,2026-03-16,NHC Dink Pony Club,7OAKS Stop Drop and Pickle,Susan Smith Johnson,Jean Harrold,Jen Plante,Liz Broadway,15,11
+18360,1,2026-03-23,SAND Side Out Sisters,NHC Dink Pony Club,Yvette LeBlanc,Tess Handy,Susan Smith Johnson,Emmy Garvey,14,16
+18360,2,2026-03-23,SAND Side Out Sisters,NHC Dink Pony Club,Angela Kochuba,Robin Keturah Anderson,Kristi Koren,Jean Harrold,15,2
+18360,3,2026-03-23,SAND Side Out Sisters,NHC Dink Pony Club,Suzanne Haight,Rachel Quade,Julie Sullivan,Hilary Kuss,15,10
+18360,4,2026-03-23,SAND Side Out Sisters,NHC Dink Pony Club,Yvette LeBlanc,Tess Handy,Kristi Koren,Jean Harrold,15,9
+18360,5,2026-03-23,SAND Side Out Sisters,NHC Dink Pony Club,Angela Kochuba,Robin Keturah Anderson,Julie Sullivan,Hilary Kuss,15,7
+18360,6,2026-03-23,SAND Side Out Sisters,NHC Dink Pony Club,Suzanne Haight,Rachel Quade,Susan Smith Johnson,Emmy Garvey,15,10
+18360,7,2026-03-23,SAND Side Out Sisters,NHC Dink Pony Club,Yvette LeBlanc,Tess Handy,Julie Sullivan,Hilary Kuss,4,15
+18360,8,2026-03-23,SAND Side Out Sisters,NHC Dink Pony Club,Angela Kochuba,Robin Keturah Anderson,Susan Smith Johnson,Emmy Garvey,5,15
+18360,9,2026-03-23,SAND Side Out Sisters,NHC Dink Pony Club,Suzanne Haight,Rachel Quade,Kristi Koren,Jean Harrold,15,3
+18383,1,2026-03-30,7OAKS Stop Drop and Pickle,SAND Side Out Sisters,Erin Stelling,Dana Rawls,Sandy DeMaioNewton,Rachel Quade,15,12
+18383,2,2026-03-30,7OAKS Stop Drop and Pickle,SAND Side Out Sisters,Jen Plante,Dolores Beck Quesenberry,Andra J Willis,Karina Pacheco,11,15
+18383,3,2026-03-30,7OAKS Stop Drop and Pickle,SAND Side Out Sisters,Tori Sutler,Pamela Sue Rigsby,Robin Keturah Anderson,Tess Handy,15,10
+18383,4,2026-03-30,7OAKS Stop Drop and Pickle,SAND Side Out Sisters,Erin Stelling,Dana Rawls,Andra J Willis,Karina Pacheco,5,15
+18383,5,2026-03-30,7OAKS Stop Drop and Pickle,SAND Side Out Sisters,Jen Plante,Dolores Beck Quesenberry,Robin Keturah Anderson,Tess Handy,6,15
+18383,6,2026-03-30,7OAKS Stop Drop and Pickle,SAND Side Out Sisters,Tori Sutler,Pamela Sue Rigsby,Sandy DeMaioNewton,Rachel Quade,15,12
+18383,7,2026-03-30,7OAKS Stop Drop and Pickle,SAND Side Out Sisters,Erin Stelling,Dana Rawls,Robin Keturah Anderson,Tess Handy,13,15
+18383,8,2026-03-30,7OAKS Stop Drop and Pickle,SAND Side Out Sisters,Jen Plante,Dolores Beck Quesenberry,Sandy DeMaioNewton,Rachel Quade,4,15
+18383,9,2026-03-30,7OAKS Stop Drop and Pickle,SAND Side Out Sisters,Tori Sutler,Pamela Sue Rigsby,Andra J Willis,Karina Pacheco,15,13
+18391,1,2026-04-06,7OAKS Stop Drop and Pickle,NHC Dink Pony Club,Tori Sutler,Leigh Magee,Jessica McIntyre,Emmy Garvey,14,16
+18391,2,2026-04-06,7OAKS Stop Drop and Pickle,NHC Dink Pony Club,Molly Bradsher Briggs,Olga DeGroff,Amy Pena,Jean Harrold,1,15
+18391,3,2026-04-06,7OAKS Stop Drop and Pickle,NHC Dink Pony Club,Amy A Lindsey,Dana Rawls,DEFAULT,DEFAULT,15,0
+18391,4,2026-04-06,7OAKS Stop Drop and Pickle,NHC Dink Pony Club,Tori Sutler,Leigh Magee,Amy Pena,Jean Harrold,5,15
+18391,5,2026-04-06,7OAKS Stop Drop and Pickle,NHC Dink Pony Club,Molly Bradsher Briggs,Olga DeGroff,DEFAULT,DEFAULT,15,0
+18391,6,2026-04-06,7OAKS Stop Drop and Pickle,NHC Dink Pony Club,Amy A Lindsey,Dana Rawls,Jessica McIntyre,Emmy Garvey,10,15
+18391,7,2026-04-06,7OAKS Stop Drop and Pickle,NHC Dink Pony Club,Tori Sutler,Leigh Magee,DEFAULT,DEFAULT,15,0
+18391,8,2026-04-06,7OAKS Stop Drop and Pickle,NHC Dink Pony Club,Molly Bradsher Briggs,Olga DeGroff,Jessica McIntyre,Emmy Garvey,5,15
+18391,9,2026-04-06,7OAKS Stop Drop and Pickle,NHC Dink Pony Club,Amy A Lindsey,Dana Rawls,Amy Pena,Jean Harrold,7,15
+18415,1,2026-04-13,NHC Dink Pony Club,SAND Side Out Sisters,Jessica Willetts,Susan Smith Johnson,Suzanne Haight,Angela Kochuba,10,15
+18415,2,2026-04-13,NHC Dink Pony Club,SAND Side Out Sisters,Emmy Garvey,Caki Watkins,Sandy DeMaioNewton,Yvette LeBlanc,15,6
+18415,3,2026-04-13,NHC Dink Pony Club,SAND Side Out Sisters,Amy Pena,Jean Harrold,Tess Handy,Karina Pacheco,15,9
+18415,4,2026-04-13,NHC Dink Pony Club,SAND Side Out Sisters,Jessica Willetts,Susan Smith Johnson,Sandy DeMaioNewton,Yvette LeBlanc,15,5
+18415,5,2026-04-13,NHC Dink Pony Club,SAND Side Out Sisters,Emmy Garvey,Caki Watkins,Tess Handy,Karina Pacheco,15,10
+18415,6,2026-04-13,NHC Dink Pony Club,SAND Side Out Sisters,Amy Pena,Jean Harrold,Suzanne Haight,Angela Kochuba,14,16
+18415,7,2026-04-13,NHC Dink Pony Club,SAND Side Out Sisters,Jessica Willetts,Susan Smith Johnson,Tess Handy,Karina Pacheco,9,15
+18415,8,2026-04-13,NHC Dink Pony Club,SAND Side Out Sisters,Emmy Garvey,Caki Watkins,Suzanne Haight,Angela Kochuba,15,2
+18415,9,2026-04-13,NHC Dink Pony Club,SAND Side Out Sisters,Amy Pena,Jean Harrold,Sandy DeMaioNewton,Yvette LeBlanc,15,9
+18442,1,2026-04-20,SAND Side Out Sisters,7OAKS Stop Drop and Pickle,Angela Kochuba,Robin Keturah Anderson,Erin Stelling,Leigh Magee,15,8
+18442,2,2026-04-20,SAND Side Out Sisters,7OAKS Stop Drop and Pickle,Andra J Willis,Yvette LeBlanc,Jen Plante,Liz Broadway,15,3
+18442,3,2026-04-20,SAND Side Out Sisters,7OAKS Stop Drop and Pickle,Sandy DeMaioNewton,Suzanne Haight,Amy A Lindsey,Pamela Sue Rigsby,15,5
+18442,4,2026-04-20,SAND Side Out Sisters,7OAKS Stop Drop and Pickle,Angela Kochuba,Robin Keturah Anderson,Jen Plante,Liz Broadway,15,6
+18442,5,2026-04-20,SAND Side Out Sisters,7OAKS Stop Drop and Pickle,Andra J Willis,Yvette LeBlanc,Amy A Lindsey,Pamela Sue Rigsby,15,2
+18442,6,2026-04-20,SAND Side Out Sisters,7OAKS Stop Drop and Pickle,Sandy DeMaioNewton,Suzanne Haight,Erin Stelling,Leigh Magee,15,6
+18442,7,2026-04-20,SAND Side Out Sisters,7OAKS Stop Drop and Pickle,Angela Kochuba,Robin Keturah Anderson,Amy A Lindsey,Pamela Sue Rigsby,15,6
+18442,8,2026-04-20,SAND Side Out Sisters,7OAKS Stop Drop and Pickle,Andra J Willis,Yvette LeBlanc,Erin Stelling,Leigh Magee,15,4
+18442,9,2026-04-20,SAND Side Out Sisters,7OAKS Stop Drop and Pickle,Sandy DeMaioNewton,Suzanne Haight,Jen Plante,Liz Broadway,15,10
+18467,1,2026-04-27,NHC Dink Pony Club,7OAKS Stop Drop and Pickle,Caki Watkins,Lou Garvey,Dana Rawls,Olga DeGroff,15,4
+18467,2,2026-04-27,NHC Dink Pony Club,7OAKS Stop Drop and Pickle,Jessica McIntyre,Jennifer Romano,Pamela Sue Rigsby,Dolores Beck Quesenberry,15,4
+18467,3,2026-04-27,NHC Dink Pony Club,7OAKS Stop Drop and Pickle,Jessica Willetts,Emmy Garvey,Jen Plante,Molly Bradsher Briggs,15,10
+18467,4,2026-04-27,NHC Dink Pony Club,7OAKS Stop Drop and Pickle,Caki Watkins,Lou Garvey,Pamela Sue Rigsby,Dolores Beck Quesenberry,15,5
+18467,5,2026-04-27,NHC Dink Pony Club,7OAKS Stop Drop and Pickle,Jessica McIntyre,Jennifer Romano,Jen Plante,Molly Bradsher Briggs,7,15
+18467,6,2026-04-27,NHC Dink Pony Club,7OAKS Stop Drop and Pickle,Jessica Willetts,Emmy Garvey,Dana Rawls,Olga DeGroff,12,15
+18467,7,2026-04-27,NHC Dink Pony Club,7OAKS Stop Drop and Pickle,Caki Watkins,Lou Garvey,Jen Plante,Molly Bradsher Briggs,15,3
+18467,8,2026-04-27,NHC Dink Pony Club,7OAKS Stop Drop and Pickle,Jessica McIntyre,Jennifer Romano,Dana Rawls,Olga DeGroff,4,15
+18467,9,2026-04-27,NHC Dink Pony Club,7OAKS Stop Drop and Pickle,Jessica Willetts,Emmy Garvey,Pamela Sue Rigsby,Dolores Beck Quesenberry,15,2
+18470,1,2026-04-27,SAND Side Out Sisters,NHC Dink Pony Club,Angela Kochuba,Robin Keturah Anderson,Caki Watkins,Lou Garvey,13,15
+18470,2,2026-04-27,SAND Side Out Sisters,NHC Dink Pony Club,Andra J Willis,Yvette LeBlanc,Amy Pena,Karen Rothschild Rembert,15,12
+18470,3,2026-04-27,SAND Side Out Sisters,NHC Dink Pony Club,Sandy DeMaioNewton,Rhonda Benkiel,Susan Smith Johnson,Jean Harrold,12,15
+18470,4,2026-04-27,SAND Side Out Sisters,NHC Dink Pony Club,Angela Kochuba,Robin Keturah Anderson,Amy Pena,Karen Rothschild Rembert,15,6
+18470,5,2026-04-27,SAND Side Out Sisters,NHC Dink Pony Club,Andra J Willis,Yvette LeBlanc,Susan Smith Johnson,Jean Harrold,11,15
+18470,6,2026-04-27,SAND Side Out Sisters,NHC Dink Pony Club,Sandy DeMaioNewton,Rhonda Benkiel,Caki Watkins,Lou Garvey,6,15
+18470,7,2026-04-27,SAND Side Out Sisters,NHC Dink Pony Club,Angela Kochuba,Robin Keturah Anderson,Susan Smith Johnson,Jean Harrold,13,15
+18470,8,2026-04-27,SAND Side Out Sisters,NHC Dink Pony Club,Andra J Willis,Yvette LeBlanc,Caki Watkins,Lou Garvey,8,15
+18470,9,2026-04-27,SAND Side Out Sisters,NHC Dink Pony Club,Sandy DeMaioNewton,Rhonda Benkiel,Amy Pena,Karen Rothschild Rembert,7,15
+18496,1,2026-05-04,7OAKS Stop Drop and Pickle,SAND Side Out Sisters,Dana Rawls,Tori Sutler,Angela Kochuba,Karina Pacheco,10,15
+18496,2,2026-05-04,7OAKS Stop Drop and Pickle,SAND Side Out Sisters,Amy A Lindsey,Priscilla Hicks,Rhonda Benkiel,Cathy Culton,1,15
+18496,3,2026-05-04,7OAKS Stop Drop and Pickle,SAND Side Out Sisters,Molly Bradsher Briggs,Olga DeGroff,Yvette LeBlanc,Andra J Willis,3,15
+18496,4,2026-05-04,7OAKS Stop Drop and Pickle,SAND Side Out Sisters,Dana Rawls,Tori Sutler,Rhonda Benkiel,Cathy Culton,15,11
+18496,5,2026-05-04,7OAKS Stop Drop and Pickle,SAND Side Out Sisters,Amy A Lindsey,Priscilla Hicks,Yvette LeBlanc,Andra J Willis,3,15
+18496,6,2026-05-04,7OAKS Stop Drop and Pickle,SAND Side Out Sisters,Molly Bradsher Briggs,Olga DeGroff,Angela Kochuba,Karina Pacheco,7,15
+18496,7,2026-05-04,7OAKS Stop Drop and Pickle,SAND Side Out Sisters,Dana Rawls,Tori Sutler,Yvette LeBlanc,Andra J Willis,5,15
+18496,8,2026-05-04,7OAKS Stop Drop and Pickle,SAND Side Out Sisters,Amy A Lindsey,Priscilla Hicks,Angela Kochuba,Karina Pacheco,3,15
+18496,9,2026-05-04,7OAKS Stop Drop and Pickle,SAND Side Out Sisters,Molly Bradsher Briggs,Olga DeGroff,Rhonda Benkiel,Cathy Culton,15,9
+18517,1,2026-05-11,7OAKS Stop Drop and Pickle,NHC Dink Pony Club,Molly Bradsher Briggs,Tori Sutler,Lou Garvey,Karen Rothschild Rembert,11,15
+18517,2,2026-05-11,7OAKS Stop Drop and Pickle,NHC Dink Pony Club,Dana Rawls,Olga DeGroff,Susan Smith Johnson,Jean Harrold,15,11
+18517,3,2026-05-11,7OAKS Stop Drop and Pickle,NHC Dink Pony Club,Jen Plante,Liz Broadway,DEFAULT,DEFAULT,15,0
+18517,4,2026-05-11,7OAKS Stop Drop and Pickle,NHC Dink Pony Club,Molly Bradsher Briggs,Tori Sutler,Susan Smith Johnson,Jean Harrold,16,14
+18517,5,2026-05-11,7OAKS Stop Drop and Pickle,NHC Dink Pony Club,Dana Rawls,Olga DeGroff,DEFAULT,DEFAULT,15,0
+18517,6,2026-05-11,7OAKS Stop Drop and Pickle,NHC Dink Pony Club,Jen Plante,Liz Broadway,Lou Garvey,Karen Rothschild Rembert,12,15
+18517,7,2026-05-11,7OAKS Stop Drop and Pickle,NHC Dink Pony Club,Molly Bradsher Briggs,Tori Sutler,DEFAULT,DEFAULT,15,0
+18517,8,2026-05-11,7OAKS Stop Drop and Pickle,NHC Dink Pony Club,Dana Rawls,Olga DeGroff,Lou Garvey,Karen Rothschild Rembert,4,15
+18517,9,2026-05-11,7OAKS Stop Drop and Pickle,NHC Dink Pony Club,Jen Plante,Liz Broadway,Susan Smith Johnson,Jean Harrold,12,15
+18540,1,2026-05-18,NHC Dink Pony Club,SAND Side Out Sisters,Amy Pena,Julie Sullivan,Rachel Quade,Suzanne Haight,4,15
+18540,2,2026-05-18,NHC Dink Pony Club,SAND Side Out Sisters,Lou Garvey,Karen Rothschild Rembert,Angela Kochuba,Karina Pacheco,15,11
+18540,3,2026-05-18,NHC Dink Pony Club,SAND Side Out Sisters,Kristi Koren,Emmy Garvey,Robin Keturah Anderson,Yvette LeBlanc,15,6
+18540,4,2026-05-18,NHC Dink Pony Club,SAND Side Out Sisters,Amy Pena,Julie Sullivan,Angela Kochuba,Karina Pacheco,9,15
+18540,5,2026-05-18,NHC Dink Pony Club,SAND Side Out Sisters,Lou Garvey,Karen Rothschild Rembert,Robin Keturah Anderson,Yvette LeBlanc,10,15
+18540,6,2026-05-18,NHC Dink Pony Club,SAND Side Out Sisters,Kristi Koren,Emmy Garvey,Rachel Quade,Suzanne Haight,3,15
+18540,7,2026-05-18,NHC Dink Pony Club,SAND Side Out Sisters,Amy Pena,Julie Sullivan,Robin Keturah Anderson,Yvette LeBlanc,8,15
+18540,8,2026-05-18,NHC Dink Pony Club,SAND Side Out Sisters,Lou Garvey,Karen Rothschild Rembert,Rachel Quade,Suzanne Haight,15,6
+18540,9,2026-05-18,NHC Dink Pony Club,SAND Side Out Sisters,Kristi Koren,Emmy Garvey,Angela Kochuba,Karina Pacheco,2,15
+18575,1,2026-06-01,SAND Side Out Sisters,7OAKS Stop Drop and Pickle,Andra J Willis,Yvette LeBlanc,Erin Stelling,Amy A Lindsey,15,12
+18575,2,2026-06-01,SAND Side Out Sisters,7OAKS Stop Drop and Pickle,Angela Kochuba,Suzanne Haight,Jen Plante,Priscilla Hicks,13,15
+18575,3,2026-06-01,SAND Side Out Sisters,7OAKS Stop Drop and Pickle,Sandy DeMaioNewton,Karina Pacheco,Molly Bradsher Briggs,Liz Broadway,15,7
+18575,4,2026-06-01,SAND Side Out Sisters,7OAKS Stop Drop and Pickle,Andra J Willis,Yvette LeBlanc,Jen Plante,Priscilla Hicks,15,4
+18575,5,2026-06-01,SAND Side Out Sisters,7OAKS Stop Drop and Pickle,Angela Kochuba,Suzanne Haight,Molly Bradsher Briggs,Liz Broadway,15,6
+18575,6,2026-06-01,SAND Side Out Sisters,7OAKS Stop Drop and Pickle,Sandy DeMaioNewton,Karina Pacheco,Erin Stelling,Amy A Lindsey,15,8
+18575,7,2026-06-01,SAND Side Out Sisters,7OAKS Stop Drop and Pickle,Andra J Willis,Yvette LeBlanc,Molly Bradsher Briggs,Liz Broadway,15,6
+18575,8,2026-06-01,SAND Side Out Sisters,7OAKS Stop Drop and Pickle,Angela Kochuba,Suzanne Haight,Erin Stelling,Amy A Lindsey,15,6
+18575,9,2026-06-01,SAND Side Out Sisters,7OAKS Stop Drop and Pickle,Sandy DeMaioNewton,Karina Pacheco,Jen Plante,Priscilla Hicks,15,13
+18580,1,2026-06-06,SAND Side Out Sisters,NHC Dink Pony Club,Andra J Willis,Yvette LeBlanc,Emmy Garvey,Susan Smith Johnson,12,15
+18580,2,2026-06-06,SAND Side Out Sisters,NHC Dink Pony Club,Suzanne Haight,Rhonda Benkiel,Lou Garvey,Caki Watkins,8,15
+18580,3,2026-06-06,SAND Side Out Sisters,NHC Dink Pony Club,Sandy DeMaioNewton,Karina Pacheco,Amy Pena,Jean Harrold,11,15
+18580,4,2026-06-06,SAND Side Out Sisters,NHC Dink Pony Club,Andra J Willis,Yvette LeBlanc,Lou Garvey,Caki Watkins,7,15
+18580,5,2026-06-06,SAND Side Out Sisters,NHC Dink Pony Club,Suzanne Haight,Rhonda Benkiel,Amy Pena,Jean Harrold,13,15
+18580,6,2026-06-06,SAND Side Out Sisters,NHC Dink Pony Club,Sandy DeMaioNewton,Karina Pacheco,Emmy Garvey,Susan Smith Johnson,8,15
+18580,7,2026-06-06,SAND Side Out Sisters,NHC Dink Pony Club,Andra J Willis,Yvette LeBlanc,Amy Pena,Jean Harrold,2,15
+18580,8,2026-06-06,SAND Side Out Sisters,NHC Dink Pony Club,Suzanne Haight,Rhonda Benkiel,Emmy Garvey,Susan Smith Johnson,15,12
+18580,9,2026-06-06,SAND Side Out Sisters,NHC Dink Pony Club,Sandy DeMaioNewton,Karina Pacheco,Lou Garvey,Caki Watkins,3,15

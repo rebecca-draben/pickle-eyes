@@ -1,0 +1,388 @@
+match_id,game_id,match_date,team1_name,team2_name,partner1,partner2,opponent1,opponent2,team1_points,team2_points
+16515,1,2025-08-19,TOC Dill Breakers,TOC Dink Divas,Kelly Polizzi,Stacie Fernstrum,Suzanne Trexler,Elizabeth Curtis,2,15
+16515,2,2025-08-19,TOC Dill Breakers,TOC Dink Divas,Chrissy Mogan,Anne Farmer,Susan Washburn,Daisy VanCauwenbergh,15,6
+16515,3,2025-08-19,TOC Dill Breakers,TOC Dink Divas,Nelda Vanaarde,Colleen Derks,Tammy Bevan,MaryBeth Munz,6,15
+16515,4,2025-08-19,TOC Dill Breakers,TOC Dink Divas,Kelly Polizzi,Stacie Fernstrum,Susan Washburn,Daisy VanCauwenbergh,5,15
+16515,5,2025-08-19,TOC Dill Breakers,TOC Dink Divas,Chrissy Mogan,Anne Farmer,Tammy Bevan,MaryBeth Munz,13,15
+16515,6,2025-08-19,TOC Dill Breakers,TOC Dink Divas,Nelda Vanaarde,Colleen Derks,Suzanne Trexler,Elizabeth Curtis,1,15
+16515,7,2025-08-19,TOC Dill Breakers,TOC Dink Divas,Kelly Polizzi,Stacie Fernstrum,Tammy Bevan,MaryBeth Munz,5,15
+16515,8,2025-08-19,TOC Dill Breakers,TOC Dink Divas,Chrissy Mogan,Anne Farmer,Suzanne Trexler,Elizabeth Curtis,15,12
+16515,9,2025-08-19,TOC Dill Breakers,TOC Dink Divas,Nelda Vanaarde,Colleen Derks,Susan Washburn,Daisy VanCauwenbergh,7,15
+16523,1,2025-08-21,TOC Mid-Court Crisis,LOCH Lochmere Ladies Picklers,Kelly Young,Ali Mallison,Sandra C Jolly,Linda Lemire,15,5
+16523,2,2025-08-21,TOC Mid-Court Crisis,LOCH Lochmere Ladies Picklers,Christy H Edwards,Ellen A Elliott,Tammy McNeill,Vanessa Uecker Martini,15,7
+16523,3,2025-08-21,TOC Mid-Court Crisis,LOCH Lochmere Ladies Picklers,Tracie Stolove,Dani Devinney,Becky Leblond,Marilyn Terrill,6,15
+16523,4,2025-08-21,TOC Mid-Court Crisis,LOCH Lochmere Ladies Picklers,Kelly Young,Ali Mallison,Tammy McNeill,Vanessa Uecker Martini,15,1
+16523,5,2025-08-21,TOC Mid-Court Crisis,LOCH Lochmere Ladies Picklers,Christy H Edwards,Ellen A Elliott,Becky Leblond,Marilyn Terrill,15,8
+16523,6,2025-08-21,TOC Mid-Court Crisis,LOCH Lochmere Ladies Picklers,Tracie Stolove,Dani Devinney,Sandra C Jolly,Linda Lemire,13,15
+16523,7,2025-08-21,TOC Mid-Court Crisis,LOCH Lochmere Ladies Picklers,Kelly Young,Ali Mallison,Becky Leblond,Marilyn Terrill,15,12
+16523,8,2025-08-21,TOC Mid-Court Crisis,LOCH Lochmere Ladies Picklers,Christy H Edwards,Ellen A Elliott,Sandra C Jolly,Linda Lemire,8,15
+16523,9,2025-08-21,TOC Mid-Court Crisis,LOCH Lochmere Ladies Picklers,Tracie Stolove,Dani Devinney,Tammy McNeill,Vanessa Uecker Martini,15,7
+16524,1,2025-08-21,TOC Desperate Housewives of Wake County,TOC Kitchen Masters,AnneMarie Conklin,Christa Resavy,Janeth Pearl,Lisa C,15,4
+16524,2,2025-08-21,TOC Desperate Housewives of Wake County,TOC Kitchen Masters,Julie T Stallman,Lynelle Boorey,Joanne Eder,Amy Ballard,17,15
+16524,3,2025-08-21,TOC Desperate Housewives of Wake County,TOC Kitchen Masters,Valerie Dorrier,Wendy Pannell,Cynthia H Baker,Susan Oglesby Reeves,15,8
+16524,4,2025-08-21,TOC Desperate Housewives of Wake County,TOC Kitchen Masters,AnneMarie Conklin,Christa Resavy,Joanne Eder,Amy Ballard,15,9
+16524,5,2025-08-21,TOC Desperate Housewives of Wake County,TOC Kitchen Masters,Julie T Stallman,Lynelle Boorey,Cynthia H Baker,Susan Oglesby Reeves,14,16
+16524,6,2025-08-21,TOC Desperate Housewives of Wake County,TOC Kitchen Masters,Valerie Dorrier,Wendy Pannell,Janeth Pearl,Lisa C,7,15
+16524,7,2025-08-21,TOC Desperate Housewives of Wake County,TOC Kitchen Masters,AnneMarie Conklin,Christa Resavy,Cynthia H Baker,Susan Oglesby Reeves,15,8
+16524,8,2025-08-21,TOC Desperate Housewives of Wake County,TOC Kitchen Masters,Julie T Stallman,Lynelle Boorey,Janeth Pearl,Lisa C,3,15
+16524,9,2025-08-21,TOC Desperate Housewives of Wake County,TOC Kitchen Masters,Valerie Dorrier,Wendy Pannell,Joanne Eder,Amy Ballard,11,15
+16540,1,2025-08-26,TOC Desperate Housewives of Wake County,TOC Volley Girls 2.0,Wendy Pannell,Ruth Coon,Michelle Reyes,Kate Morse Falkiner,12,15
+16540,2,2025-08-26,TOC Desperate Housewives of Wake County,TOC Volley Girls 2.0,Lynelle Boorey,Julie T Stallman,Pamela DeLoatch,Stacy Zotter,8,15
+16540,3,2025-08-26,TOC Desperate Housewives of Wake County,TOC Volley Girls 2.0,Valerie Dorrier,Christa Resavy,Rebecca Drabenstott,Cathy Culton,5,15
+16540,4,2025-08-26,TOC Desperate Housewives of Wake County,TOC Volley Girls 2.0,Wendy Pannell,Ruth Coon,Pamela DeLoatch,Stacy Zotter,9,15
+16540,5,2025-08-26,TOC Desperate Housewives of Wake County,TOC Volley Girls 2.0,Lynelle Boorey,Julie T Stallman,Rebecca Drabenstott,Cathy Culton,3,15
+16540,6,2025-08-26,TOC Desperate Housewives of Wake County,TOC Volley Girls 2.0,Valerie Dorrier,Christa Resavy,Michelle Reyes,Kate Morse Falkiner,15,10
+16540,7,2025-08-26,TOC Desperate Housewives of Wake County,TOC Volley Girls 2.0,Wendy Pannell,Ruth Coon,Rebecca Drabenstott,Cathy Culton,12,15
+16540,8,2025-08-26,TOC Desperate Housewives of Wake County,TOC Volley Girls 2.0,Lynelle Boorey,Julie T Stallman,Michelle Reyes,Kate Morse Falkiner,3,15
+16540,9,2025-08-26,TOC Desperate Housewives of Wake County,TOC Volley Girls 2.0,Valerie Dorrier,Christa Resavy,Pamela DeLoatch,Stacy Zotter,15,7
+16546,1,2025-08-28,LOCH Lochmere Ladies Picklers,TOC Dill Breakers,Elizabeth Slight,Lynn Koonce,Caroline Connor,Nelda Vanaarde,3,15
+16546,2,2025-08-28,LOCH Lochmere Ladies Picklers,TOC Dill Breakers,Becky Leblond,Linda Lemire,Chrissy Mogan,Nadine Williams,15,3
+16546,3,2025-08-28,LOCH Lochmere Ladies Picklers,TOC Dill Breakers,Eileen Cavanaugh,Marilyn Terrill,Kelly Polizzi,Nicole Baker Crain,15,4
+16546,4,2025-08-28,LOCH Lochmere Ladies Picklers,TOC Dill Breakers,Elizabeth Slight,Lynn Koonce,Chrissy Mogan,Nadine Williams,9,15
+16546,5,2025-08-28,LOCH Lochmere Ladies Picklers,TOC Dill Breakers,Becky Leblond,Linda Lemire,Kelly Polizzi,Nicole Baker Crain,15,6
+16546,6,2025-08-28,LOCH Lochmere Ladies Picklers,TOC Dill Breakers,Eileen Cavanaugh,Marilyn Terrill,Caroline Connor,Nelda Vanaarde,7,15
+16546,7,2025-08-28,LOCH Lochmere Ladies Picklers,TOC Dill Breakers,Elizabeth Slight,Lynn Koonce,Kelly Polizzi,Nicole Baker Crain,13,15
+16546,8,2025-08-28,LOCH Lochmere Ladies Picklers,TOC Dill Breakers,Becky Leblond,Linda Lemire,Caroline Connor,Nelda Vanaarde,15,8
+16546,9,2025-08-28,LOCH Lochmere Ladies Picklers,TOC Dill Breakers,Eileen Cavanaugh,Marilyn Terrill,Chrissy Mogan,Nadine Williams,15,4
+16548,1,2025-08-28,TOC Volley Girls 2.0,TOC Dink Divas,Cathy Culton,Yolanda McCluney,Susan Washburn,MaryBeth Munz,15,10
+16548,2,2025-08-28,TOC Volley Girls 2.0,TOC Dink Divas,Michelle Reyes,Rebecca Drabenstott,Daisy VanCauwenbergh,Suzanne Trexler,15,6
+16548,3,2025-08-28,TOC Volley Girls 2.0,TOC Dink Divas,Kate Morse Falkiner,Pamela DeLoatch,Julie Brown Moye,Renee M Getz,15,7
+16548,4,2025-08-28,TOC Volley Girls 2.0,TOC Dink Divas,Cathy Culton,Yolanda McCluney,Daisy VanCauwenbergh,Suzanne Trexler,15,5
+16548,5,2025-08-28,TOC Volley Girls 2.0,TOC Dink Divas,Michelle Reyes,Rebecca Drabenstott,Julie Brown Moye,Renee M Getz,15,7
+16548,6,2025-08-28,TOC Volley Girls 2.0,TOC Dink Divas,Kate Morse Falkiner,Pamela DeLoatch,Susan Washburn,MaryBeth Munz,15,7
+16548,7,2025-08-28,TOC Volley Girls 2.0,TOC Dink Divas,Cathy Culton,Yolanda McCluney,Julie Brown Moye,Renee M Getz,15,12
+16548,8,2025-08-28,TOC Volley Girls 2.0,TOC Dink Divas,Michelle Reyes,Rebecca Drabenstott,Susan Washburn,MaryBeth Munz,15,1
+16548,9,2025-08-28,TOC Volley Girls 2.0,TOC Dink Divas,Kate Morse Falkiner,Pamela DeLoatch,Daisy VanCauwenbergh,Suzanne Trexler,15,4
+16549,1,2025-08-28,TOC Kitchen Masters,TOC Mid-Court Crisis,Amy Ballard,Karen Carroll,Cherie D Berger,Dawn Worthington,11,15
+16549,2,2025-08-28,TOC Kitchen Masters,TOC Mid-Court Crisis,Janeth Pearl,Joanne Eder,Christy H Edwards,Ellen A Elliott,15,4
+16549,3,2025-08-28,TOC Kitchen Masters,TOC Mid-Court Crisis,Susan Oglesby Reeves,Lisa C,Francie Low,Karen Espenhahn,15,10
+16549,4,2025-08-28,TOC Kitchen Masters,TOC Mid-Court Crisis,Amy Ballard,Karen Carroll,Christy H Edwards,Ellen A Elliott,14,16
+16549,5,2025-08-28,TOC Kitchen Masters,TOC Mid-Court Crisis,Janeth Pearl,Joanne Eder,Francie Low,Karen Espenhahn,15,7
+16549,6,2025-08-28,TOC Kitchen Masters,TOC Mid-Court Crisis,Susan Oglesby Reeves,Lisa C,Cherie D Berger,Dawn Worthington,4,15
+16549,7,2025-08-28,TOC Kitchen Masters,TOC Mid-Court Crisis,Amy Ballard,Karen Carroll,Francie Low,Karen Espenhahn,15,8
+16549,8,2025-08-28,TOC Kitchen Masters,TOC Mid-Court Crisis,Janeth Pearl,Joanne Eder,Cherie D Berger,Dawn Worthington,15,13
+16549,9,2025-08-28,TOC Kitchen Masters,TOC Mid-Court Crisis,Susan Oglesby Reeves,Lisa C,Christy H Edwards,Ellen A Elliott,15,9
+16553,1,2025-09-02,TOC Dill Breakers,TOC Mid-Court Crisis,Denise Wilson,Caroline Connor,Ali Mallison,Cherie D Berger,4,15
+16553,2,2025-09-02,TOC Dill Breakers,TOC Mid-Court Crisis,Jami Kim-Rowley,Nicole Baker Crain,Christy H Edwards,Ellen A Elliott,6,15
+16553,3,2025-09-02,TOC Dill Breakers,TOC Mid-Court Crisis,Anne Farmer,Chrissy Mogan,Francie Low,Karen Espenhahn,11,15
+16553,4,2025-09-02,TOC Dill Breakers,TOC Mid-Court Crisis,Denise Wilson,Caroline Connor,Christy H Edwards,Ellen A Elliott,15,10
+16553,5,2025-09-02,TOC Dill Breakers,TOC Mid-Court Crisis,Jami Kim-Rowley,Nicole Baker Crain,Francie Low,Karen Espenhahn,12,15
+16553,6,2025-09-02,TOC Dill Breakers,TOC Mid-Court Crisis,Anne Farmer,Chrissy Mogan,Ali Mallison,Cherie D Berger,10,15
+16553,7,2025-09-02,TOC Dill Breakers,TOC Mid-Court Crisis,Denise Wilson,Caroline Connor,Francie Low,Karen Espenhahn,12,15
+16553,8,2025-09-02,TOC Dill Breakers,TOC Mid-Court Crisis,Jami Kim-Rowley,Nicole Baker Crain,Ali Mallison,Cherie D Berger,8,15
+16553,9,2025-09-02,TOC Dill Breakers,TOC Mid-Court Crisis,Anne Farmer,Chrissy Mogan,Christy H Edwards,Ellen A Elliott,15,5
+16555,1,2025-09-02,LOCH Lochmere Ladies Picklers,TOC Dink Divas,Melissa Feuerstein,Tammy McNeill,Julie Brown Moye,Suzanne Trexler,2,15
+16555,2,2025-09-02,LOCH Lochmere Ladies Picklers,TOC Dink Divas,Becky Leblond,Linda Lemire,Avery DiMaggio,Clara Mccall,13,15
+16555,3,2025-09-02,LOCH Lochmere Ladies Picklers,TOC Dink Divas,Eileen Cavanaugh,Marilyn Terrill,Elizabeth Curtis,Susan Washburn,15,7
+16555,4,2025-09-02,LOCH Lochmere Ladies Picklers,TOC Dink Divas,Melissa Feuerstein,Tammy McNeill,Avery DiMaggio,Clara Mccall,4,15
+16555,5,2025-09-02,LOCH Lochmere Ladies Picklers,TOC Dink Divas,Becky Leblond,Linda Lemire,Elizabeth Curtis,Susan Washburn,15,3
+16555,6,2025-09-02,LOCH Lochmere Ladies Picklers,TOC Dink Divas,Eileen Cavanaugh,Marilyn Terrill,Julie Brown Moye,Suzanne Trexler,11,15
+16555,7,2025-09-02,LOCH Lochmere Ladies Picklers,TOC Dink Divas,Melissa Feuerstein,Tammy McNeill,Elizabeth Curtis,Susan Washburn,6,15
+16555,8,2025-09-02,LOCH Lochmere Ladies Picklers,TOC Dink Divas,Becky Leblond,Linda Lemire,Julie Brown Moye,Suzanne Trexler,15,4
+16555,9,2025-09-02,LOCH Lochmere Ladies Picklers,TOC Dink Divas,Eileen Cavanaugh,Marilyn Terrill,Avery DiMaggio,Clara Mccall,5,15
+16557,1,2025-09-04,TOC Volley Girls 2.0,TOC Desperate Housewives of Wake County,Yolanda McCluney,Kelda Bailey,Heather Kane,Valerie Dorrier,14,16
+16557,2,2025-09-04,TOC Volley Girls 2.0,TOC Desperate Housewives of Wake County,Stacy Zotter,Kate Morse Falkiner,Wendy Pannell,AnneMarie Conklin,7,15
+16557,3,2025-09-04,TOC Volley Girls 2.0,TOC Desperate Housewives of Wake County,Cathy Culton,Pamela DeLoatch,Ruth Coon,Nicole Gagnon,15,3
+16557,4,2025-09-04,TOC Volley Girls 2.0,TOC Desperate Housewives of Wake County,Yolanda McCluney,Kelda Bailey,Wendy Pannell,AnneMarie Conklin,10,15
+16557,5,2025-09-04,TOC Volley Girls 2.0,TOC Desperate Housewives of Wake County,Stacy Zotter,Kate Morse Falkiner,Ruth Coon,Nicole Gagnon,15,4
+16557,6,2025-09-04,TOC Volley Girls 2.0,TOC Desperate Housewives of Wake County,Cathy Culton,Pamela DeLoatch,Heather Kane,Valerie Dorrier,15,10
+16557,7,2025-09-04,TOC Volley Girls 2.0,TOC Desperate Housewives of Wake County,Yolanda McCluney,Kelda Bailey,Ruth Coon,Nicole Gagnon,15,7
+16557,8,2025-09-04,TOC Volley Girls 2.0,TOC Desperate Housewives of Wake County,Stacy Zotter,Kate Morse Falkiner,Heather Kane,Valerie Dorrier,13,15
+16557,9,2025-09-04,TOC Volley Girls 2.0,TOC Desperate Housewives of Wake County,Cathy Culton,Pamela DeLoatch,Wendy Pannell,AnneMarie Conklin,12,15
+16558,1,2025-09-04,TOC Kitchen Masters,TOC Dink Divas,Cynthia H Baker,Debbie Horne Dupree,Clara Mccall,Julie Brown Moye,7,15
+16558,2,2025-09-04,TOC Kitchen Masters,TOC Dink Divas,Joanne Eder,Janeth Pearl,Daisy VanCauwenbergh,MaryBeth Munz,15,2
+16558,3,2025-09-04,TOC Kitchen Masters,TOC Dink Divas,Lynette Peterson,Lisa C,Suzanne Trexler,Susan Washburn,15,10
+16558,4,2025-09-04,TOC Kitchen Masters,TOC Dink Divas,Cynthia H Baker,Debbie Horne Dupree,Daisy VanCauwenbergh,MaryBeth Munz,11,15
+16558,5,2025-09-04,TOC Kitchen Masters,TOC Dink Divas,Joanne Eder,Janeth Pearl,Suzanne Trexler,Susan Washburn,15,5
+16558,6,2025-09-04,TOC Kitchen Masters,TOC Dink Divas,Lynette Peterson,Lisa C,Clara Mccall,Julie Brown Moye,9,15
+16558,7,2025-09-04,TOC Kitchen Masters,TOC Dink Divas,Cynthia H Baker,Debbie Horne Dupree,Suzanne Trexler,Susan Washburn,15,10
+16558,8,2025-09-04,TOC Kitchen Masters,TOC Dink Divas,Joanne Eder,Janeth Pearl,Clara Mccall,Julie Brown Moye,16,18
+16558,9,2025-09-04,TOC Kitchen Masters,TOC Dink Divas,Lynette Peterson,Lisa C,Daisy VanCauwenbergh,MaryBeth Munz,8,15
+16572,1,2025-09-09,TOC Dill Breakers,TOC Desperate Housewives of Wake County,Colleen Derks,Nadine Williams,Heather Kane,Valerie Dorrier,5,15
+16572,2,2025-09-09,TOC Dill Breakers,TOC Desperate Housewives of Wake County,Jami Kim-Rowley,Nelda Vanaarde,Christa Resavy,AnneMarie Conklin,1,15
+16572,3,2025-09-09,TOC Dill Breakers,TOC Desperate Housewives of Wake County,Denise Wilson,Caroline Connor,Kathryn L Jezior,Dawn Losito,15,7
+16572,4,2025-09-09,TOC Dill Breakers,TOC Desperate Housewives of Wake County,Colleen Derks,Nadine Williams,Christa Resavy,AnneMarie Conklin,4,15
+16572,5,2025-09-09,TOC Dill Breakers,TOC Desperate Housewives of Wake County,Jami Kim-Rowley,Nelda Vanaarde,Kathryn L Jezior,Dawn Losito,10,15
+16572,6,2025-09-09,TOC Dill Breakers,TOC Desperate Housewives of Wake County,Denise Wilson,Caroline Connor,Heather Kane,Valerie Dorrier,6,15
+16572,7,2025-09-09,TOC Dill Breakers,TOC Desperate Housewives of Wake County,Colleen Derks,Nadine Williams,Kathryn L Jezior,Dawn Losito,11,15
+16572,8,2025-09-09,TOC Dill Breakers,TOC Desperate Housewives of Wake County,Jami Kim-Rowley,Nelda Vanaarde,Heather Kane,Valerie Dorrier,0,15
+16572,9,2025-09-09,TOC Dill Breakers,TOC Desperate Housewives of Wake County,Denise Wilson,Caroline Connor,Christa Resavy,AnneMarie Conklin,9,15
+16579,1,2025-09-11,LOCH Lochmere Ladies Picklers,TOC Kitchen Masters,Sandra C Jolly,Melissa Feuerstein,Karen Carroll,Amy Ballard,4,15
+16579,2,2025-09-11,LOCH Lochmere Ladies Picklers,TOC Kitchen Masters,Vanessa Uecker Martini,Eileen Cavanaugh,Janeth Pearl,Joanne Eder,4,15
+16579,3,2025-09-11,LOCH Lochmere Ladies Picklers,TOC Kitchen Masters,Peggy Williams Weatherspoon,Elizabeth Slight,Lisa C,Lynette Peterson,10,15
+16579,4,2025-09-11,LOCH Lochmere Ladies Picklers,TOC Kitchen Masters,Sandra C Jolly,Melissa Feuerstein,Janeth Pearl,Joanne Eder,9,15
+16579,5,2025-09-11,LOCH Lochmere Ladies Picklers,TOC Kitchen Masters,Vanessa Uecker Martini,Eileen Cavanaugh,Lisa C,Lynette Peterson,15,12
+16579,6,2025-09-11,LOCH Lochmere Ladies Picklers,TOC Kitchen Masters,Peggy Williams Weatherspoon,Elizabeth Slight,Karen Carroll,Amy Ballard,6,15
+16579,7,2025-09-11,LOCH Lochmere Ladies Picklers,TOC Kitchen Masters,Sandra C Jolly,Melissa Feuerstein,Lisa C,Lynette Peterson,15,6
+16579,8,2025-09-11,LOCH Lochmere Ladies Picklers,TOC Kitchen Masters,Vanessa Uecker Martini,Eileen Cavanaugh,Karen Carroll,Amy Ballard,1,15
+16579,9,2025-09-11,LOCH Lochmere Ladies Picklers,TOC Kitchen Masters,Peggy Williams Weatherspoon,Elizabeth Slight,Janeth Pearl,Joanne Eder,5,15
+16580,1,2025-09-11,TOC Dink Divas,TOC Desperate Housewives of Wake County,Lori Bidgood,Renee M Getz,AnneMarie Conklin,Christa Resavy,4,15
+16580,2,2025-09-11,TOC Dink Divas,TOC Desperate Housewives of Wake County,Clara Mccall,Daisy VanCauwenbergh,Heather Kane,Lynelle Boorey,2,15
+16580,3,2025-09-11,TOC Dink Divas,TOC Desperate Housewives of Wake County,Susan Washburn,Tammy Bevan,Holly Haney,Nicole Gagnon,15,6
+16580,4,2025-09-11,TOC Dink Divas,TOC Desperate Housewives of Wake County,Lori Bidgood,Renee M Getz,Heather Kane,Lynelle Boorey,3,15
+16580,5,2025-09-11,TOC Dink Divas,TOC Desperate Housewives of Wake County,Clara Mccall,Daisy VanCauwenbergh,Holly Haney,Nicole Gagnon,15,2
+16580,6,2025-09-11,TOC Dink Divas,TOC Desperate Housewives of Wake County,Susan Washburn,Tammy Bevan,AnneMarie Conklin,Christa Resavy,2,15
+16580,7,2025-09-11,TOC Dink Divas,TOC Desperate Housewives of Wake County,Lori Bidgood,Renee M Getz,Holly Haney,Nicole Gagnon,15,11
+16580,8,2025-09-11,TOC Dink Divas,TOC Desperate Housewives of Wake County,Clara Mccall,Daisy VanCauwenbergh,AnneMarie Conklin,Christa Resavy,8,15
+16580,9,2025-09-11,TOC Dink Divas,TOC Desperate Housewives of Wake County,Susan Washburn,Tammy Bevan,Heather Kane,Lynelle Boorey,7,15
+16595,1,2025-09-16,TOC Dink Divas,TOC Mid-Court Crisis,Elizabeth Curtis,Suzanne Trexler,Kelly Young,Ali Mallison,3,15
+16595,2,2025-09-16,TOC Dink Divas,TOC Mid-Court Crisis,Clara Mccall,Avery DiMaggio,Tracie Stolove,Dani Devinney,15,8
+16595,3,2025-09-16,TOC Dink Divas,TOC Mid-Court Crisis,Renee M Getz,Tammy Bevan,Cherie D Berger,Dawn Worthington,8,15
+16595,4,2025-09-16,TOC Dink Divas,TOC Mid-Court Crisis,Elizabeth Curtis,Suzanne Trexler,Tracie Stolove,Dani Devinney,10,15
+16595,5,2025-09-16,TOC Dink Divas,TOC Mid-Court Crisis,Clara Mccall,Avery DiMaggio,Cherie D Berger,Dawn Worthington,6,15
+16595,6,2025-09-16,TOC Dink Divas,TOC Mid-Court Crisis,Renee M Getz,Tammy Bevan,Kelly Young,Ali Mallison,8,15
+16595,7,2025-09-16,TOC Dink Divas,TOC Mid-Court Crisis,Elizabeth Curtis,Suzanne Trexler,Cherie D Berger,Dawn Worthington,7,15
+16595,8,2025-09-16,TOC Dink Divas,TOC Mid-Court Crisis,Clara Mccall,Avery DiMaggio,Kelly Young,Ali Mallison,6,15
+16595,9,2025-09-16,TOC Dink Divas,TOC Mid-Court Crisis,Renee M Getz,Tammy Bevan,Tracie Stolove,Dani Devinney,7,15
+16596,1,2025-09-16,TOC Dill Breakers,TOC Kitchen Masters,Colleen Derks,Nadine Williams,Cynthia H Baker,Debbie Horne Dupree,6,15
+16596,2,2025-09-16,TOC Dill Breakers,TOC Kitchen Masters,Anne Farmer,Jami Kim-Rowley,Janeth Pearl,Joanne Eder,9,15
+16596,3,2025-09-16,TOC Dill Breakers,TOC Kitchen Masters,Denise Wilson,Caroline Connor,Lisa C,Lynette Peterson,15,0
+16596,4,2025-09-16,TOC Dill Breakers,TOC Kitchen Masters,Colleen Derks,Nadine Williams,Janeth Pearl,Joanne Eder,0,15
+16596,5,2025-09-16,TOC Dill Breakers,TOC Kitchen Masters,Anne Farmer,Jami Kim-Rowley,Lisa C,Lynette Peterson,15,4
+16596,6,2025-09-16,TOC Dill Breakers,TOC Kitchen Masters,Denise Wilson,Caroline Connor,Cynthia H Baker,Debbie Horne Dupree,15,6
+16596,7,2025-09-16,TOC Dill Breakers,TOC Kitchen Masters,Colleen Derks,Nadine Williams,Lisa C,Lynette Peterson,11,15
+16596,8,2025-09-16,TOC Dill Breakers,TOC Kitchen Masters,Anne Farmer,Jami Kim-Rowley,Cynthia H Baker,Debbie Horne Dupree,10,15
+16596,9,2025-09-16,TOC Dill Breakers,TOC Kitchen Masters,Denise Wilson,Caroline Connor,Janeth Pearl,Joanne Eder,6,15
+16604,1,2025-09-18,TOC Desperate Housewives of Wake County,LOCH Lochmere Ladies Picklers,Christa Resavy,Julie T Stallman,Sandra C Jolly,Linda Lemire,14,16
+16604,2,2025-09-18,TOC Desperate Housewives of Wake County,LOCH Lochmere Ladies Picklers,Heather Kane,Lynelle Boorey,Melissa Feuerstein,Barbara Jean Reichelt,15,0
+16604,3,2025-09-18,TOC Desperate Housewives of Wake County,LOCH Lochmere Ladies Picklers,Ruth Coon,Valerie Dorrier,Coleen Northeim,Peggy Williams Weatherspoon,15,2
+16604,4,2025-09-18,TOC Desperate Housewives of Wake County,LOCH Lochmere Ladies Picklers,Christa Resavy,Julie T Stallman,Melissa Feuerstein,Barbara Jean Reichelt,15,10
+16604,5,2025-09-18,TOC Desperate Housewives of Wake County,LOCH Lochmere Ladies Picklers,Heather Kane,Lynelle Boorey,Coleen Northeim,Peggy Williams Weatherspoon,15,7
+16604,6,2025-09-18,TOC Desperate Housewives of Wake County,LOCH Lochmere Ladies Picklers,Ruth Coon,Valerie Dorrier,Sandra C Jolly,Linda Lemire,15,6
+16604,7,2025-09-18,TOC Desperate Housewives of Wake County,LOCH Lochmere Ladies Picklers,Christa Resavy,Julie T Stallman,Coleen Northeim,Peggy Williams Weatherspoon,15,11
+16604,8,2025-09-18,TOC Desperate Housewives of Wake County,LOCH Lochmere Ladies Picklers,Heather Kane,Lynelle Boorey,Sandra C Jolly,Linda Lemire,15,13
+16604,9,2025-09-18,TOC Desperate Housewives of Wake County,LOCH Lochmere Ladies Picklers,Ruth Coon,Valerie Dorrier,Melissa Feuerstein,Barbara Jean Reichelt,6,15
+16605,1,2025-09-18,TOC Dill Breakers,TOC Volley Girls 2.0,Kelly Polizzi,Joey Gibson,Rhonda Benkiel,Michelle Reyes,5,15
+16605,2,2025-09-18,TOC Dill Breakers,TOC Volley Girls 2.0,Nelda Vanaarde,Nadine Williams,Stacy Zotter,Yolanda McCluney,1,15
+16605,3,2025-09-18,TOC Dill Breakers,TOC Volley Girls 2.0,Anne Farmer,Chrissy Mogan,Rebecca Drabenstott,Kelda Bailey,2,15
+16605,4,2025-09-18,TOC Dill Breakers,TOC Volley Girls 2.0,Kelly Polizzi,Joey Gibson,Stacy Zotter,Yolanda McCluney,0,15
+16605,5,2025-09-18,TOC Dill Breakers,TOC Volley Girls 2.0,Nelda Vanaarde,Nadine Williams,Rebecca Drabenstott,Kelda Bailey,0,15
+16605,6,2025-09-18,TOC Dill Breakers,TOC Volley Girls 2.0,Anne Farmer,Chrissy Mogan,Rhonda Benkiel,Michelle Reyes,2,15
+16605,7,2025-09-18,TOC Dill Breakers,TOC Volley Girls 2.0,Kelly Polizzi,Joey Gibson,Rebecca Drabenstott,Kelda Bailey,5,15
+16605,8,2025-09-18,TOC Dill Breakers,TOC Volley Girls 2.0,Nelda Vanaarde,Nadine Williams,Rhonda Benkiel,Michelle Reyes,1,15
+16605,9,2025-09-18,TOC Dill Breakers,TOC Volley Girls 2.0,Anne Farmer,Chrissy Mogan,Stacy Zotter,Yolanda McCluney,11,15
+16618,1,2025-09-23,TOC Mid-Court Crisis,TOC Volley Girls 2.0,Tracie Stolove,Dani Devinney,Kate Morse Falkiner,Michelle Reyes,4,15
+16618,2,2025-09-23,TOC Mid-Court Crisis,TOC Volley Girls 2.0,Ali Mallison,Ellen A Elliott,Rhonda Benkiel,Cathy Culton,2,15
+16618,3,2025-09-23,TOC Mid-Court Crisis,TOC Volley Girls 2.0,Cherie D Berger,Dawn Worthington,Stacy Zotter,Pamela DeLoatch,15,7
+16618,4,2025-09-23,TOC Mid-Court Crisis,TOC Volley Girls 2.0,Tracie Stolove,Dani Devinney,Rhonda Benkiel,Cathy Culton,3,15
+16618,5,2025-09-23,TOC Mid-Court Crisis,TOC Volley Girls 2.0,Ali Mallison,Ellen A Elliott,Stacy Zotter,Pamela DeLoatch,15,6
+16618,6,2025-09-23,TOC Mid-Court Crisis,TOC Volley Girls 2.0,Cherie D Berger,Dawn Worthington,Kate Morse Falkiner,Michelle Reyes,15,5
+16618,7,2025-09-23,TOC Mid-Court Crisis,TOC Volley Girls 2.0,Tracie Stolove,Dani Devinney,Stacy Zotter,Pamela DeLoatch,16,14
+16618,8,2025-09-23,TOC Mid-Court Crisis,TOC Volley Girls 2.0,Ali Mallison,Ellen A Elliott,Kate Morse Falkiner,Michelle Reyes,3,15
+16618,9,2025-09-23,TOC Mid-Court Crisis,TOC Volley Girls 2.0,Cherie D Berger,Dawn Worthington,Rhonda Benkiel,Cathy Culton,6,15
+16619,1,2025-09-23,TOC Dink Divas,TOC Kitchen Masters,Elizabeth Curtis,Susan Washburn,Lisa C,Susan Oglesby Reeves,6,15
+16619,2,2025-09-23,TOC Dink Divas,TOC Kitchen Masters,Daisy VanCauwenbergh,Tammy Bevan,Amy Ballard,Joanne Eder,8,15
+16619,3,2025-09-23,TOC Dink Divas,TOC Kitchen Masters,Clara Mccall,Lori Bidgood,Janeth Pearl,Janny Frazier,5,15
+16619,4,2025-09-23,TOC Dink Divas,TOC Kitchen Masters,Elizabeth Curtis,Susan Washburn,Amy Ballard,Joanne Eder,7,15
+16619,5,2025-09-23,TOC Dink Divas,TOC Kitchen Masters,Daisy VanCauwenbergh,Tammy Bevan,Janeth Pearl,Janny Frazier,6,15
+16619,6,2025-09-23,TOC Dink Divas,TOC Kitchen Masters,Clara Mccall,Lori Bidgood,Lisa C,Susan Oglesby Reeves,15,9
+16619,7,2025-09-23,TOC Dink Divas,TOC Kitchen Masters,Elizabeth Curtis,Susan Washburn,Janeth Pearl,Janny Frazier,3,15
+16619,8,2025-09-23,TOC Dink Divas,TOC Kitchen Masters,Daisy VanCauwenbergh,Tammy Bevan,Lisa C,Susan Oglesby Reeves,9,15
+16619,9,2025-09-23,TOC Dink Divas,TOC Kitchen Masters,Clara Mccall,Lori Bidgood,Amy Ballard,Joanne Eder,16,18
+16627,1,2025-09-25,LOCH Lochmere Ladies Picklers,TOC Mid-Court Crisis,Eileen Cavanaugh,Sandra C Jolly,Ellen A Elliott,Christy H Edwards,15,8
+16627,2,2025-09-25,LOCH Lochmere Ladies Picklers,TOC Mid-Court Crisis,Marilyn Terrill,Barbara Jean Reichelt,Dawn Worthington,Ali Mallison,15,9
+16627,3,2025-09-25,LOCH Lochmere Ladies Picklers,TOC Mid-Court Crisis,Linda Lemire,Coleen Northeim,Tracie Stolove,Dani Devinney,7,15
+16627,4,2025-09-25,LOCH Lochmere Ladies Picklers,TOC Mid-Court Crisis,Eileen Cavanaugh,Sandra C Jolly,Dawn Worthington,Ali Mallison,12,15
+16627,5,2025-09-25,LOCH Lochmere Ladies Picklers,TOC Mid-Court Crisis,Marilyn Terrill,Barbara Jean Reichelt,Tracie Stolove,Dani Devinney,9,15
+16627,6,2025-09-25,LOCH Lochmere Ladies Picklers,TOC Mid-Court Crisis,Linda Lemire,Coleen Northeim,Ellen A Elliott,Christy H Edwards,15,8
+16627,7,2025-09-25,LOCH Lochmere Ladies Picklers,TOC Mid-Court Crisis,Eileen Cavanaugh,Sandra C Jolly,Tracie Stolove,Dani Devinney,7,15
+16627,8,2025-09-25,LOCH Lochmere Ladies Picklers,TOC Mid-Court Crisis,Marilyn Terrill,Barbara Jean Reichelt,Ellen A Elliott,Christy H Edwards,9,15
+16627,9,2025-09-25,LOCH Lochmere Ladies Picklers,TOC Mid-Court Crisis,Linda Lemire,Coleen Northeim,Dawn Worthington,Ali Mallison,6,15
+16628,1,2025-09-25,TOC Kitchen Masters,TOC Desperate Housewives of Wake County,Susan Oglesby Reeves,Lisa C,Heather Kane,Lynelle Boorey,16,14
+16628,2,2025-09-25,TOC Kitchen Masters,TOC Desperate Housewives of Wake County,Lisa Means,Joanne Eder,Kathryn L Jezior,Nicole Gagnon,15,11
+16628,3,2025-09-25,TOC Kitchen Masters,TOC Desperate Housewives of Wake County,Amy Ballard,Karen Carroll,Wendy Pannell,Christa Resavy,3,15
+16628,4,2025-09-25,TOC Kitchen Masters,TOC Desperate Housewives of Wake County,Susan Oglesby Reeves,Lisa C,Kathryn L Jezior,Nicole Gagnon,15,7
+16628,5,2025-09-25,TOC Kitchen Masters,TOC Desperate Housewives of Wake County,Lisa Means,Joanne Eder,Wendy Pannell,Christa Resavy,6,15
+16628,6,2025-09-25,TOC Kitchen Masters,TOC Desperate Housewives of Wake County,Amy Ballard,Karen Carroll,Heather Kane,Lynelle Boorey,6,15
+16628,7,2025-09-25,TOC Kitchen Masters,TOC Desperate Housewives of Wake County,Susan Oglesby Reeves,Lisa C,Wendy Pannell,Christa Resavy,11,15
+16628,8,2025-09-25,TOC Kitchen Masters,TOC Desperate Housewives of Wake County,Lisa Means,Joanne Eder,Heather Kane,Lynelle Boorey,12,15
+16628,9,2025-09-25,TOC Kitchen Masters,TOC Desperate Housewives of Wake County,Amy Ballard,Karen Carroll,Kathryn L Jezior,Nicole Gagnon,15,5
+16629,1,2025-09-25,TOC Dink Divas,TOC Dill Breakers,Elizabeth Curtis,Lori Bidgood,Nicole Baker Crain,Nelda Vanaarde,15,6
+16629,2,2025-09-25,TOC Dink Divas,TOC Dill Breakers,Daisy VanCauwenbergh,Tammy Bevan,Kelly Polizzi,Nadine Williams,15,10
+16629,3,2025-09-25,TOC Dink Divas,TOC Dill Breakers,MaryBeth Munz,Renee M Getz,Anne Farmer,Chrissy Mogan,15,8
+16629,4,2025-09-25,TOC Dink Divas,TOC Dill Breakers,Elizabeth Curtis,Lori Bidgood,Kelly Polizzi,Nadine Williams,15,3
+16629,5,2025-09-25,TOC Dink Divas,TOC Dill Breakers,Daisy VanCauwenbergh,Tammy Bevan,Anne Farmer,Chrissy Mogan,15,8
+16629,6,2025-09-25,TOC Dink Divas,TOC Dill Breakers,MaryBeth Munz,Renee M Getz,Nicole Baker Crain,Nelda Vanaarde,15,4
+16629,7,2025-09-25,TOC Dink Divas,TOC Dill Breakers,Elizabeth Curtis,Lori Bidgood,Anne Farmer,Chrissy Mogan,10,15
+16629,8,2025-09-25,TOC Dink Divas,TOC Dill Breakers,Daisy VanCauwenbergh,Tammy Bevan,Nicole Baker Crain,Nelda Vanaarde,15,4
+16629,9,2025-09-25,TOC Dink Divas,TOC Dill Breakers,MaryBeth Munz,Renee M Getz,Kelly Polizzi,Nadine Williams,15,10
+16643,1,2025-09-30,TOC Mid-Court Crisis,TOC Dill Breakers,Francie Low,Karen Espenhahn,Joey Gibson,Colleen Derks,15,11
+16643,2,2025-09-30,TOC Mid-Court Crisis,TOC Dill Breakers,Christy H Edwards,Ellen A Elliott,Jami Kim-Rowley,Chrissy Mogan,8,15
+16643,3,2025-09-30,TOC Mid-Court Crisis,TOC Dill Breakers,Tracie Stolove,Dani Devinney,Nicole Baker Crain,Nelda Vanaarde,15,6
+16643,4,2025-09-30,TOC Mid-Court Crisis,TOC Dill Breakers,Francie Low,Karen Espenhahn,Jami Kim-Rowley,Chrissy Mogan,15,8
+16643,5,2025-09-30,TOC Mid-Court Crisis,TOC Dill Breakers,Christy H Edwards,Ellen A Elliott,Nicole Baker Crain,Nelda Vanaarde,15,9
+16643,6,2025-09-30,TOC Mid-Court Crisis,TOC Dill Breakers,Tracie Stolove,Dani Devinney,Joey Gibson,Colleen Derks,15,6
+16643,7,2025-09-30,TOC Mid-Court Crisis,TOC Dill Breakers,Francie Low,Karen Espenhahn,Nicole Baker Crain,Nelda Vanaarde,15,12
+16643,8,2025-09-30,TOC Mid-Court Crisis,TOC Dill Breakers,Christy H Edwards,Ellen A Elliott,Joey Gibson,Colleen Derks,15,8
+16643,9,2025-09-30,TOC Mid-Court Crisis,TOC Dill Breakers,Tracie Stolove,Dani Devinney,Jami Kim-Rowley,Chrissy Mogan,14,16
+16700,1,2025-09-30,TOC Volley Girls 2.0,LOCH Lochmere Ladies Picklers,Kelda Bailey,Cathy Culton,Sandra C Jolly,Eileen Cavanaugh,15,2
+16700,2,2025-09-30,TOC Volley Girls 2.0,LOCH Lochmere Ladies Picklers,Kate Morse Falkiner,Pamela DeLoatch,Becky Leblond,Linda Lemire,15,10
+16700,3,2025-09-30,TOC Volley Girls 2.0,LOCH Lochmere Ladies Picklers,Stacy Zotter,Rebecca Drabenstott,Melissa Feuerstein,Marilyn Terrill,15,3
+16700,4,2025-09-30,TOC Volley Girls 2.0,LOCH Lochmere Ladies Picklers,Kelda Bailey,Cathy Culton,Becky Leblond,Linda Lemire,15,6
+16700,5,2025-09-30,TOC Volley Girls 2.0,LOCH Lochmere Ladies Picklers,Kate Morse Falkiner,Pamela DeLoatch,Melissa Feuerstein,Marilyn Terrill,15,2
+16700,6,2025-09-30,TOC Volley Girls 2.0,LOCH Lochmere Ladies Picklers,Stacy Zotter,Rebecca Drabenstott,Sandra C Jolly,Eileen Cavanaugh,15,2
+16700,7,2025-09-30,TOC Volley Girls 2.0,LOCH Lochmere Ladies Picklers,Kelda Bailey,Cathy Culton,Melissa Feuerstein,Marilyn Terrill,15,7
+16700,8,2025-09-30,TOC Volley Girls 2.0,LOCH Lochmere Ladies Picklers,Kate Morse Falkiner,Pamela DeLoatch,Sandra C Jolly,Eileen Cavanaugh,15,10
+16700,9,2025-09-30,TOC Volley Girls 2.0,LOCH Lochmere Ladies Picklers,Stacy Zotter,Rebecca Drabenstott,Becky Leblond,Linda Lemire,15,8
+16651,1,2025-10-02,LOCH Lochmere Ladies Picklers,TOC Volley Girls 2.0,Becky Leblond,Peggy Williams Weatherspoon,Rhonda Benkiel,Yolanda McCluney,5,15
+16651,2,2025-10-02,LOCH Lochmere Ladies Picklers,TOC Volley Girls 2.0,Sandra C Jolly,Eileen Cavanaugh,Michelle Reyes,Rebecca Drabenstott,6,15
+16651,3,2025-10-02,LOCH Lochmere Ladies Picklers,TOC Volley Girls 2.0,Melissa Feuerstein,Lynn Koonce,Kelda Bailey,Pamela DeLoatch,14,16
+16651,4,2025-10-02,LOCH Lochmere Ladies Picklers,TOC Volley Girls 2.0,Becky Leblond,Peggy Williams Weatherspoon,Michelle Reyes,Rebecca Drabenstott,11,15
+16651,5,2025-10-02,LOCH Lochmere Ladies Picklers,TOC Volley Girls 2.0,Sandra C Jolly,Eileen Cavanaugh,Kelda Bailey,Pamela DeLoatch,12,15
+16651,6,2025-10-02,LOCH Lochmere Ladies Picklers,TOC Volley Girls 2.0,Melissa Feuerstein,Lynn Koonce,Rhonda Benkiel,Yolanda McCluney,4,15
+16651,7,2025-10-02,LOCH Lochmere Ladies Picklers,TOC Volley Girls 2.0,Becky Leblond,Peggy Williams Weatherspoon,Kelda Bailey,Pamela DeLoatch,12,15
+16651,8,2025-10-02,LOCH Lochmere Ladies Picklers,TOC Volley Girls 2.0,Sandra C Jolly,Eileen Cavanaugh,Rhonda Benkiel,Yolanda McCluney,9,15
+16651,9,2025-10-02,LOCH Lochmere Ladies Picklers,TOC Volley Girls 2.0,Melissa Feuerstein,Lynn Koonce,Michelle Reyes,Rebecca Drabenstott,4,15
+16652,1,2025-10-02,TOC Kitchen Masters,TOC Dill Breakers,Lisa C,Susan Oglesby Reeves,Colleen Derks,Nelda Vanaarde,15,7
+16652,2,2025-10-02,TOC Kitchen Masters,TOC Dill Breakers,Amy Ballard,Joanne Eder,Jami Kim-Rowley,Anne Farmer,7,15
+16652,3,2025-10-02,TOC Kitchen Masters,TOC Dill Breakers,Debbie Horne Dupree,Lynette Peterson,Kelly Polizzi,Nadine Williams,8,15
+16652,4,2025-10-02,TOC Kitchen Masters,TOC Dill Breakers,Lisa C,Susan Oglesby Reeves,Jami Kim-Rowley,Anne Farmer,10,15
+16652,5,2025-10-02,TOC Kitchen Masters,TOC Dill Breakers,Amy Ballard,Joanne Eder,Kelly Polizzi,Nadine Williams,15,7
+16652,6,2025-10-02,TOC Kitchen Masters,TOC Dill Breakers,Debbie Horne Dupree,Lynette Peterson,Colleen Derks,Nelda Vanaarde,15,9
+16652,7,2025-10-02,TOC Kitchen Masters,TOC Dill Breakers,Lisa C,Susan Oglesby Reeves,Kelly Polizzi,Nadine Williams,15,5
+16652,8,2025-10-02,TOC Kitchen Masters,TOC Dill Breakers,Amy Ballard,Joanne Eder,Colleen Derks,Nelda Vanaarde,15,3
+16652,9,2025-10-02,TOC Kitchen Masters,TOC Dill Breakers,Debbie Horne Dupree,Lynette Peterson,Jami Kim-Rowley,Anne Farmer,13,15
+16653,1,2025-10-02,TOC Mid-Court Crisis,TOC Desperate Housewives of Wake County,Cherie D Berger,Dawn Worthington,Christa Resavy,Wendy Pannell,15,13
+16653,2,2025-10-02,TOC Mid-Court Crisis,TOC Desperate Housewives of Wake County,Tracie Stolove,Dani Devinney,Ruth Coon,AnneMarie Conklin,9,15
+16653,3,2025-10-02,TOC Mid-Court Crisis,TOC Desperate Housewives of Wake County,Christy H Edwards,Kelly Young,Valerie Dorrier,Holly Haney,2,15
+16653,4,2025-10-02,TOC Mid-Court Crisis,TOC Desperate Housewives of Wake County,Cherie D Berger,Dawn Worthington,Ruth Coon,AnneMarie Conklin,15,5
+16653,5,2025-10-02,TOC Mid-Court Crisis,TOC Desperate Housewives of Wake County,Tracie Stolove,Dani Devinney,Valerie Dorrier,Holly Haney,15,8
+16653,6,2025-10-02,TOC Mid-Court Crisis,TOC Desperate Housewives of Wake County,Christy H Edwards,Kelly Young,Christa Resavy,Wendy Pannell,3,15
+16653,7,2025-10-02,TOC Mid-Court Crisis,TOC Desperate Housewives of Wake County,Cherie D Berger,Dawn Worthington,Valerie Dorrier,Holly Haney,15,4
+16653,8,2025-10-02,TOC Mid-Court Crisis,TOC Desperate Housewives of Wake County,Tracie Stolove,Dani Devinney,Christa Resavy,Wendy Pannell,7,15
+16653,9,2025-10-02,TOC Mid-Court Crisis,TOC Desperate Housewives of Wake County,Christy H Edwards,Kelly Young,Ruth Coon,AnneMarie Conklin,2,15
+16668,1,2025-10-07,TOC Dink Divas,LOCH Lochmere Ladies Picklers,Elizabeth Curtis,Susan Washburn,Lynn Koonce,Eileen Cavanaugh,11,15
+16668,2,2025-10-07,TOC Dink Divas,LOCH Lochmere Ladies Picklers,Lori Bidgood,Suzanne Trexler,Sandra C Jolly,Coleen Northeim,15,5
+16668,3,2025-10-07,TOC Dink Divas,LOCH Lochmere Ladies Picklers,Daisy VanCauwenbergh,Avery DiMaggio,Becky Leblond,Barbara Jean Reichelt,15,13
+16668,4,2025-10-07,TOC Dink Divas,LOCH Lochmere Ladies Picklers,Elizabeth Curtis,Susan Washburn,Sandra C Jolly,Coleen Northeim,5,15
+16668,5,2025-10-07,TOC Dink Divas,LOCH Lochmere Ladies Picklers,Lori Bidgood,Suzanne Trexler,Becky Leblond,Barbara Jean Reichelt,10,15
+16668,6,2025-10-07,TOC Dink Divas,LOCH Lochmere Ladies Picklers,Daisy VanCauwenbergh,Avery DiMaggio,Lynn Koonce,Eileen Cavanaugh,15,11
+16668,7,2025-10-07,TOC Dink Divas,LOCH Lochmere Ladies Picklers,Elizabeth Curtis,Susan Washburn,Becky Leblond,Barbara Jean Reichelt,11,15
+16668,8,2025-10-07,TOC Dink Divas,LOCH Lochmere Ladies Picklers,Lori Bidgood,Suzanne Trexler,Lynn Koonce,Eileen Cavanaugh,15,9
+16668,9,2025-10-07,TOC Dink Divas,LOCH Lochmere Ladies Picklers,Daisy VanCauwenbergh,Avery DiMaggio,Sandra C Jolly,Coleen Northeim,8,15
+16676,1,2025-10-09,TOC Volley Girls 2.0,TOC Kitchen Masters,Rebecca Drabenstott,Rhonda Benkiel,Janeth Pearl,Janny Frazier,15,6
+16676,2,2025-10-09,TOC Volley Girls 2.0,TOC Kitchen Masters,Pamela DeLoatch,Kate Morse Falkiner,Joanne Eder,Lisa C,15,9
+16676,3,2025-10-09,TOC Volley Girls 2.0,TOC Kitchen Masters,Stacy Zotter,Kelda Bailey,Lisa Means,Susan Oglesby Reeves,15,7
+16676,4,2025-10-09,TOC Volley Girls 2.0,TOC Kitchen Masters,Rebecca Drabenstott,Rhonda Benkiel,Joanne Eder,Lisa C,15,10
+16676,5,2025-10-09,TOC Volley Girls 2.0,TOC Kitchen Masters,Pamela DeLoatch,Kate Morse Falkiner,Lisa Means,Susan Oglesby Reeves,16,14
+16676,6,2025-10-09,TOC Volley Girls 2.0,TOC Kitchen Masters,Stacy Zotter,Kelda Bailey,Janeth Pearl,Janny Frazier,13,15
+16676,7,2025-10-09,TOC Volley Girls 2.0,TOC Kitchen Masters,Rebecca Drabenstott,Rhonda Benkiel,Lisa Means,Susan Oglesby Reeves,15,3
+16676,8,2025-10-09,TOC Volley Girls 2.0,TOC Kitchen Masters,Pamela DeLoatch,Kate Morse Falkiner,Janeth Pearl,Janny Frazier,14,16
+16676,9,2025-10-09,TOC Volley Girls 2.0,TOC Kitchen Masters,Stacy Zotter,Kelda Bailey,Joanne Eder,Lisa C,15,11
+16677,1,2025-10-09,TOC Desperate Housewives of Wake County,TOC Dill Breakers,Wendy Pannell,AnneMarie Conklin,Stacie Fernstrum,Nadine Williams,15,3
+16677,2,2025-10-09,TOC Desperate Housewives of Wake County,TOC Dill Breakers,Lynelle Boorey,Dawn Losito,Nicole Baker Crain,Kelly Polizzi,15,12
+16677,3,2025-10-09,TOC Desperate Housewives of Wake County,TOC Dill Breakers,Nicole Gagnon,Kathryn L Jezior,Caroline Connor,Denise Wilson,11,15
+16677,4,2025-10-09,TOC Desperate Housewives of Wake County,TOC Dill Breakers,Wendy Pannell,AnneMarie Conklin,Nicole Baker Crain,Kelly Polizzi,15,7
+16677,5,2025-10-09,TOC Desperate Housewives of Wake County,TOC Dill Breakers,Lynelle Boorey,Dawn Losito,Caroline Connor,Denise Wilson,6,15
+16677,6,2025-10-09,TOC Desperate Housewives of Wake County,TOC Dill Breakers,Nicole Gagnon,Kathryn L Jezior,Stacie Fernstrum,Nadine Williams,13,15
+16677,7,2025-10-09,TOC Desperate Housewives of Wake County,TOC Dill Breakers,Wendy Pannell,AnneMarie Conklin,Caroline Connor,Denise Wilson,15,9
+16677,8,2025-10-09,TOC Desperate Housewives of Wake County,TOC Dill Breakers,Lynelle Boorey,Dawn Losito,Stacie Fernstrum,Nadine Williams,15,2
+16677,9,2025-10-09,TOC Desperate Housewives of Wake County,TOC Dill Breakers,Nicole Gagnon,Kathryn L Jezior,Nicole Baker Crain,Kelly Polizzi,7,15
+16692,1,2025-10-14,TOC Dill Breakers,LOCH Lochmere Ladies Picklers,Nicole Baker Crain,Nelda Vanaarde,Linda Lemire,Sandra C Jolly,7,15
+16692,2,2025-10-14,TOC Dill Breakers,LOCH Lochmere Ladies Picklers,Denise Wilson,Anne Farmer,Eileen Cavanaugh,Coleen Northeim,15,5
+16692,3,2025-10-14,TOC Dill Breakers,LOCH Lochmere Ladies Picklers,Joey Gibson,Chrissy Mogan,Marilyn Terrill,Barbara Jean Reichelt,10,15
+16692,4,2025-10-14,TOC Dill Breakers,LOCH Lochmere Ladies Picklers,Nicole Baker Crain,Nelda Vanaarde,Eileen Cavanaugh,Coleen Northeim,9,15
+16692,5,2025-10-14,TOC Dill Breakers,LOCH Lochmere Ladies Picklers,Denise Wilson,Anne Farmer,Marilyn Terrill,Barbara Jean Reichelt,8,15
+16692,6,2025-10-14,TOC Dill Breakers,LOCH Lochmere Ladies Picklers,Joey Gibson,Chrissy Mogan,Linda Lemire,Sandra C Jolly,15,7
+16692,7,2025-10-14,TOC Dill Breakers,LOCH Lochmere Ladies Picklers,Nicole Baker Crain,Nelda Vanaarde,Marilyn Terrill,Barbara Jean Reichelt,2,15
+16692,8,2025-10-14,TOC Dill Breakers,LOCH Lochmere Ladies Picklers,Denise Wilson,Anne Farmer,Linda Lemire,Sandra C Jolly,8,15
+16692,9,2025-10-14,TOC Dill Breakers,LOCH Lochmere Ladies Picklers,Joey Gibson,Chrissy Mogan,Eileen Cavanaugh,Coleen Northeim,7,15
+16693,1,2025-10-14,TOC Desperate Housewives of Wake County,TOC Mid-Court Crisis,Christa Resavy,Wendy Pannell,Kelly Young,Ali Mallison,15,10
+16693,2,2025-10-14,TOC Desperate Housewives of Wake County,TOC Mid-Court Crisis,Kathryn L Jezior,Valerie Dorrier,Francie Low,Karen Espenhahn,15,5
+16693,3,2025-10-14,TOC Desperate Housewives of Wake County,TOC Mid-Court Crisis,AnneMarie Conklin,Ruth Coon,Cherie D Berger,Dawn Worthington,11,15
+16693,4,2025-10-14,TOC Desperate Housewives of Wake County,TOC Mid-Court Crisis,Christa Resavy,Wendy Pannell,Francie Low,Karen Espenhahn,15,6
+16693,5,2025-10-14,TOC Desperate Housewives of Wake County,TOC Mid-Court Crisis,Kathryn L Jezior,Valerie Dorrier,Cherie D Berger,Dawn Worthington,3,15
+16693,6,2025-10-14,TOC Desperate Housewives of Wake County,TOC Mid-Court Crisis,AnneMarie Conklin,Ruth Coon,Kelly Young,Ali Mallison,15,13
+16693,7,2025-10-14,TOC Desperate Housewives of Wake County,TOC Mid-Court Crisis,Christa Resavy,Wendy Pannell,Cherie D Berger,Dawn Worthington,7,15
+16693,8,2025-10-14,TOC Desperate Housewives of Wake County,TOC Mid-Court Crisis,Kathryn L Jezior,Valerie Dorrier,Kelly Young,Ali Mallison,7,15
+16693,9,2025-10-14,TOC Desperate Housewives of Wake County,TOC Mid-Court Crisis,AnneMarie Conklin,Ruth Coon,Francie Low,Karen Espenhahn,15,4
+16702,1,2025-10-16,TOC Dink Divas,TOC Volley Girls 2.0,Daisy VanCauwenbergh,Tammy Bevan,Rebecca Drabenstott,Michelle Reyes,4,15
+16702,2,2025-10-16,TOC Dink Divas,TOC Volley Girls 2.0,Elizabeth Curtis,MaryBeth Munz,Yolanda McCluney,Kate Morse Falkiner,8,15
+16702,3,2025-10-16,TOC Dink Divas,TOC Volley Girls 2.0,Suzanne Trexler,Lori Bidgood,Rhonda Benkiel,Pamela DeLoatch,3,15
+16702,4,2025-10-16,TOC Dink Divas,TOC Volley Girls 2.0,Daisy VanCauwenbergh,Tammy Bevan,Yolanda McCluney,Kate Morse Falkiner,9,15
+16702,5,2025-10-16,TOC Dink Divas,TOC Volley Girls 2.0,Elizabeth Curtis,MaryBeth Munz,Rhonda Benkiel,Pamela DeLoatch,5,15
+16702,6,2025-10-16,TOC Dink Divas,TOC Volley Girls 2.0,Suzanne Trexler,Lori Bidgood,Rebecca Drabenstott,Michelle Reyes,4,15
+16702,7,2025-10-16,TOC Dink Divas,TOC Volley Girls 2.0,Daisy VanCauwenbergh,Tammy Bevan,Rhonda Benkiel,Pamela DeLoatch,0,15
+16702,8,2025-10-16,TOC Dink Divas,TOC Volley Girls 2.0,Elizabeth Curtis,MaryBeth Munz,Rebecca Drabenstott,Michelle Reyes,4,15
+16702,9,2025-10-16,TOC Dink Divas,TOC Volley Girls 2.0,Suzanne Trexler,Lori Bidgood,Yolanda McCluney,Kate Morse Falkiner,15,11
+16703,1,2025-10-16,TOC Mid-Court Crisis,TOC Kitchen Masters,Kelly Young,Ali Mallison,Janeth Pearl,Janny Frazier,6,15
+16703,2,2025-10-16,TOC Mid-Court Crisis,TOC Kitchen Masters,Cherie D Berger,Dawn Worthington,Amy Ballard,Karen Carroll,10,15
+16703,3,2025-10-16,TOC Mid-Court Crisis,TOC Kitchen Masters,Francie Low,Karen Espenhahn,Debbie Horne Dupree,Cynthia H Baker,12,15
+16703,4,2025-10-16,TOC Mid-Court Crisis,TOC Kitchen Masters,Kelly Young,Ali Mallison,Amy Ballard,Karen Carroll,8,15
+16703,5,2025-10-16,TOC Mid-Court Crisis,TOC Kitchen Masters,Cherie D Berger,Dawn Worthington,Debbie Horne Dupree,Cynthia H Baker,15,5
+16703,6,2025-10-16,TOC Mid-Court Crisis,TOC Kitchen Masters,Francie Low,Karen Espenhahn,Janeth Pearl,Janny Frazier,15,13
+16703,7,2025-10-16,TOC Mid-Court Crisis,TOC Kitchen Masters,Kelly Young,Ali Mallison,Debbie Horne Dupree,Cynthia H Baker,15,13
+16703,8,2025-10-16,TOC Mid-Court Crisis,TOC Kitchen Masters,Cherie D Berger,Dawn Worthington,Janeth Pearl,Janny Frazier,15,9
+16703,9,2025-10-16,TOC Mid-Court Crisis,TOC Kitchen Masters,Francie Low,Karen Espenhahn,Amy Ballard,Karen Carroll,14,16
+16716,1,2025-10-21,TOC Kitchen Masters,TOC Volley Girls 2.0,Janeth Pearl,Joanne Eder,Rhonda Benkiel,Cathy Culton,6,15
+16716,2,2025-10-21,TOC Kitchen Masters,TOC Volley Girls 2.0,Debbie Horne Dupree,Cynthia H Baker,Michelle Reyes,Rebecca Drabenstott,1,15
+16716,3,2025-10-21,TOC Kitchen Masters,TOC Volley Girls 2.0,Lisa Means,Amy Ballard,Kate Morse Falkiner,Stacy Zotter,2,15
+16716,4,2025-10-21,TOC Kitchen Masters,TOC Volley Girls 2.0,Janeth Pearl,Joanne Eder,Michelle Reyes,Rebecca Drabenstott,11,15
+16716,5,2025-10-21,TOC Kitchen Masters,TOC Volley Girls 2.0,Debbie Horne Dupree,Cynthia H Baker,Kate Morse Falkiner,Stacy Zotter,4,15
+16716,6,2025-10-21,TOC Kitchen Masters,TOC Volley Girls 2.0,Lisa Means,Amy Ballard,Rhonda Benkiel,Cathy Culton,2,15
+16716,7,2025-10-21,TOC Kitchen Masters,TOC Volley Girls 2.0,Janeth Pearl,Joanne Eder,Kate Morse Falkiner,Stacy Zotter,15,11
+16716,8,2025-10-21,TOC Kitchen Masters,TOC Volley Girls 2.0,Debbie Horne Dupree,Cynthia H Baker,Rhonda Benkiel,Cathy Culton,2,15
+16716,9,2025-10-21,TOC Kitchen Masters,TOC Volley Girls 2.0,Lisa Means,Amy Ballard,Michelle Reyes,Rebecca Drabenstott,6,15
+16724,1,2025-10-23,LOCH Lochmere Ladies Picklers,TOC Desperate Housewives of Wake County,Becky Leblond,Lynn Koonce,Lynelle Boorey,Heather Kane,15,17
+16724,2,2025-10-23,LOCH Lochmere Ladies Picklers,TOC Desperate Housewives of Wake County,Linda Lemire,Sandra C Jolly,AnneMarie Conklin,Kathryn L Jezior,6,15
+16724,3,2025-10-23,LOCH Lochmere Ladies Picklers,TOC Desperate Housewives of Wake County,Vanessa Uecker Martini,Barbara Jean Reichelt,Dawn Losito,Wendy Pannell,10,15
+16724,4,2025-10-23,LOCH Lochmere Ladies Picklers,TOC Desperate Housewives of Wake County,Becky Leblond,Lynn Koonce,AnneMarie Conklin,Kathryn L Jezior,9,15
+16724,5,2025-10-23,LOCH Lochmere Ladies Picklers,TOC Desperate Housewives of Wake County,Linda Lemire,Sandra C Jolly,Dawn Losito,Wendy Pannell,12,15
+16724,6,2025-10-23,LOCH Lochmere Ladies Picklers,TOC Desperate Housewives of Wake County,Vanessa Uecker Martini,Barbara Jean Reichelt,Lynelle Boorey,Heather Kane,3,15
+16724,7,2025-10-23,LOCH Lochmere Ladies Picklers,TOC Desperate Housewives of Wake County,Becky Leblond,Lynn Koonce,Dawn Losito,Wendy Pannell,6,15
+16724,8,2025-10-23,LOCH Lochmere Ladies Picklers,TOC Desperate Housewives of Wake County,Linda Lemire,Sandra C Jolly,Lynelle Boorey,Heather Kane,8,15
+16724,9,2025-10-23,LOCH Lochmere Ladies Picklers,TOC Desperate Housewives of Wake County,Vanessa Uecker Martini,Barbara Jean Reichelt,AnneMarie Conklin,Kathryn L Jezior,8,15
+16725,1,2025-10-23,TOC Volley Girls 2.0,TOC Dill Breakers,Stacy Zotter,Michelle Reyes,Kelly Polizzi,Nicole Baker Crain,15,9
+16725,2,2025-10-23,TOC Volley Girls 2.0,TOC Dill Breakers,Pamela DeLoatch,Rebecca Drabenstott,Denise Wilson,Caroline Connor,15,13
+16725,3,2025-10-23,TOC Volley Girls 2.0,TOC Dill Breakers,Cathy Culton,Kate Morse Falkiner,Anne Farmer,Jami Kim-Rowley,15,7
+16725,4,2025-10-23,TOC Volley Girls 2.0,TOC Dill Breakers,Stacy Zotter,Michelle Reyes,Denise Wilson,Caroline Connor,15,6
+16725,5,2025-10-23,TOC Volley Girls 2.0,TOC Dill Breakers,Pamela DeLoatch,Rebecca Drabenstott,Anne Farmer,Jami Kim-Rowley,15,1
+16725,6,2025-10-23,TOC Volley Girls 2.0,TOC Dill Breakers,Cathy Culton,Kate Morse Falkiner,Kelly Polizzi,Nicole Baker Crain,15,11
+16725,7,2025-10-23,TOC Volley Girls 2.0,TOC Dill Breakers,Stacy Zotter,Michelle Reyes,Anne Farmer,Jami Kim-Rowley,15,9
+16725,8,2025-10-23,TOC Volley Girls 2.0,TOC Dill Breakers,Pamela DeLoatch,Rebecca Drabenstott,Kelly Polizzi,Nicole Baker Crain,15,7
+16725,9,2025-10-23,TOC Volley Girls 2.0,TOC Dill Breakers,Cathy Culton,Kate Morse Falkiner,Denise Wilson,Caroline Connor,15,2
+16726,1,2025-10-23,TOC Mid-Court Crisis,TOC Dink Divas,Kelly Young,Ali Mallison,Susan Washburn,Tammy Bevan,15,4
+16726,2,2025-10-23,TOC Mid-Court Crisis,TOC Dink Divas,Francie Low,Karen Espenhahn,Daisy VanCauwenbergh,Lori Bidgood,9,15
+16726,3,2025-10-23,TOC Mid-Court Crisis,TOC Dink Divas,Cherie D Berger,Dawn Worthington,Elizabeth Curtis,Renee M Getz,15,6
+16726,4,2025-10-23,TOC Mid-Court Crisis,TOC Dink Divas,Kelly Young,Ali Mallison,Daisy VanCauwenbergh,Lori Bidgood,15,7
+16726,5,2025-10-23,TOC Mid-Court Crisis,TOC Dink Divas,Francie Low,Karen Espenhahn,Elizabeth Curtis,Renee M Getz,15,13
+16726,6,2025-10-23,TOC Mid-Court Crisis,TOC Dink Divas,Cherie D Berger,Dawn Worthington,Susan Washburn,Tammy Bevan,15,7
+16726,7,2025-10-23,TOC Mid-Court Crisis,TOC Dink Divas,Kelly Young,Ali Mallison,Elizabeth Curtis,Renee M Getz,15,8
+16726,8,2025-10-23,TOC Mid-Court Crisis,TOC Dink Divas,Francie Low,Karen Espenhahn,Susan Washburn,Tammy Bevan,12,15
+16726,9,2025-10-23,TOC Mid-Court Crisis,TOC Dink Divas,Cherie D Berger,Dawn Worthington,Daisy VanCauwenbergh,Lori Bidgood,15,3
+16739,1,2025-10-28,TOC Desperate Housewives of Wake County,TOC Dink Divas,Christa Resavy,Julie T Stallman,Clara Mccall,Lori Bidgood,15,10
+16739,2,2025-10-28,TOC Desperate Housewives of Wake County,TOC Dink Divas,Holly Haney,Lynelle Boorey,Daisy VanCauwenbergh,Tammy Bevan,9,15
+16739,3,2025-10-28,TOC Desperate Housewives of Wake County,TOC Dink Divas,Heather Kane,Dawn Losito,Elizabeth Curtis,MaryBeth Munz,4,15
+16739,4,2025-10-28,TOC Desperate Housewives of Wake County,TOC Dink Divas,Christa Resavy,Julie T Stallman,Daisy VanCauwenbergh,Tammy Bevan,15,8
+16739,5,2025-10-28,TOC Desperate Housewives of Wake County,TOC Dink Divas,Holly Haney,Lynelle Boorey,Elizabeth Curtis,MaryBeth Munz,15,13
+16739,6,2025-10-28,TOC Desperate Housewives of Wake County,TOC Dink Divas,Heather Kane,Dawn Losito,Clara Mccall,Lori Bidgood,5,15
+16739,7,2025-10-28,TOC Desperate Housewives of Wake County,TOC Dink Divas,Christa Resavy,Julie T Stallman,Elizabeth Curtis,MaryBeth Munz,13,15
+16739,8,2025-10-28,TOC Desperate Housewives of Wake County,TOC Dink Divas,Holly Haney,Lynelle Boorey,Clara Mccall,Lori Bidgood,10,15
+16739,9,2025-10-28,TOC Desperate Housewives of Wake County,TOC Dink Divas,Heather Kane,Dawn Losito,Daisy VanCauwenbergh,Tammy Bevan,11,15
+16745,1,2025-10-30,TOC Volley Girls 2.0,TOC Mid-Court Crisis,Rhonda Benkiel,Pamela DeLoatch,Tracie Stolove,Dani Devinney,15,9
+16745,2,2025-10-30,TOC Volley Girls 2.0,TOC Mid-Court Crisis,Cathy Culton,Rebecca Drabenstott,Christy H Edwards,Ellen A Elliott,15,1
+16745,3,2025-10-30,TOC Volley Girls 2.0,TOC Mid-Court Crisis,Yolanda McCluney,Kelda Bailey,Francie Low,Karen Espenhahn,15,13
+16745,4,2025-10-30,TOC Volley Girls 2.0,TOC Mid-Court Crisis,Rhonda Benkiel,Pamela DeLoatch,Christy H Edwards,Ellen A Elliott,15,3
+16745,5,2025-10-30,TOC Volley Girls 2.0,TOC Mid-Court Crisis,Cathy Culton,Rebecca Drabenstott,Francie Low,Karen Espenhahn,15,2
+16745,6,2025-10-30,TOC Volley Girls 2.0,TOC Mid-Court Crisis,Yolanda McCluney,Kelda Bailey,Tracie Stolove,Dani Devinney,15,2
+16745,7,2025-10-30,TOC Volley Girls 2.0,TOC Mid-Court Crisis,Rhonda Benkiel,Pamela DeLoatch,Francie Low,Karen Espenhahn,15,2
+16745,8,2025-10-30,TOC Volley Girls 2.0,TOC Mid-Court Crisis,Cathy Culton,Rebecca Drabenstott,Tracie Stolove,Dani Devinney,15,6
+16745,9,2025-10-30,TOC Volley Girls 2.0,TOC Mid-Court Crisis,Yolanda McCluney,Kelda Bailey,Christy H Edwards,Ellen A Elliott,15,8
+16746,1,2025-10-30,TOC Kitchen Masters,LOCH Lochmere Ladies Picklers,Lisa Means,Janny Frazier,Sandra C Jolly,Eileen Cavanaugh,15,7
+16746,2,2025-10-30,TOC Kitchen Masters,LOCH Lochmere Ladies Picklers,Lisa C,Susan Oglesby Reeves,Coleen Northeim,Melissa Feuerstein,15,9
+16746,3,2025-10-30,TOC Kitchen Masters,LOCH Lochmere Ladies Picklers,Joanne Eder,Karen Carroll,Barbara Jean Reichelt,Marilyn Terrill,5,15
+16746,4,2025-10-30,TOC Kitchen Masters,LOCH Lochmere Ladies Picklers,Lisa Means,Janny Frazier,Coleen Northeim,Melissa Feuerstein,15,5
+16746,5,2025-10-30,TOC Kitchen Masters,LOCH Lochmere Ladies Picklers,Lisa C,Susan Oglesby Reeves,Barbara Jean Reichelt,Marilyn Terrill,13,15
+16746,6,2025-10-30,TOC Kitchen Masters,LOCH Lochmere Ladies Picklers,Joanne Eder,Karen Carroll,Sandra C Jolly,Eileen Cavanaugh,15,4
+16746,7,2025-10-30,TOC Kitchen Masters,LOCH Lochmere Ladies Picklers,Lisa Means,Janny Frazier,Barbara Jean Reichelt,Marilyn Terrill,13,15
+16746,8,2025-10-30,TOC Kitchen Masters,LOCH Lochmere Ladies Picklers,Lisa C,Susan Oglesby Reeves,Sandra C Jolly,Eileen Cavanaugh,15,8
+16746,9,2025-10-30,TOC Kitchen Masters,LOCH Lochmere Ladies Picklers,Joanne Eder,Karen Carroll,Coleen Northeim,Melissa Feuerstein,15,9
+16754,1,2025-11-06,TOC Volley Girls 2.0,TOC Desperate Housewives of Wake County,Rhonda Benkiel,Cathy Culton,Heather Kane,Valerie Dorrier,15,5
+16754,2,2025-11-06,TOC Volley Girls 2.0,TOC Desperate Housewives of Wake County,Stacy Zotter,Kelda Bailey,Christa Resavy,Wendy Pannell,15,11
+16754,3,2025-11-06,TOC Volley Girls 2.0,TOC Desperate Housewives of Wake County,Michelle Reyes,Rebecca Drabenstott,Kathryn L Jezior,AnneMarie Conklin,15,9
+16754,4,2025-11-06,TOC Volley Girls 2.0,TOC Desperate Housewives of Wake County,Rhonda Benkiel,Cathy Culton,Christa Resavy,Wendy Pannell,15,5
+16754,5,2025-11-06,TOC Volley Girls 2.0,TOC Desperate Housewives of Wake County,Stacy Zotter,Kelda Bailey,Kathryn L Jezior,AnneMarie Conklin,15,6
+16754,6,2025-11-06,TOC Volley Girls 2.0,TOC Desperate Housewives of Wake County,Michelle Reyes,Rebecca Drabenstott,Heather Kane,Valerie Dorrier,13,15
+16754,7,2025-11-06,TOC Volley Girls 2.0,TOC Desperate Housewives of Wake County,Rhonda Benkiel,Cathy Culton,Kathryn L Jezior,AnneMarie Conklin,15,5
+16754,8,2025-11-06,TOC Volley Girls 2.0,TOC Desperate Housewives of Wake County,Stacy Zotter,Kelda Bailey,Heather Kane,Valerie Dorrier,13,15
+16754,9,2025-11-06,TOC Volley Girls 2.0,TOC Desperate Housewives of Wake County,Michelle Reyes,Rebecca Drabenstott,Christa Resavy,Wendy Pannell,12,15
