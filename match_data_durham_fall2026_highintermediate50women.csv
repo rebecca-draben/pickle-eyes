@@ -1,0 +1,118 @@
+match_id,game_id,match_date,league,season,skill_level,age,gender,team1_name,team2_name,partner1,partner2,opponent1,opponent2,team1_points,team2_points,status
+19936,1,2026-08-18,durham,fall2026,highintermediate,50,women,PINEY The Nutcrackers,FENDOL Fendol Paddle Squad,Jackie MacLeod,Pat Cowell Morris,Kim Carpenter,Laura Maness,10,15,Completed
+19936,2,2026-08-18,durham,fall2026,highintermediate,50,women,PINEY The Nutcrackers,FENDOL Fendol Paddle Squad,Connee White,Mindi McLendon Sullivan,Barbara Noblin,Carol Lawless,15,5,Completed
+19936,3,2026-08-18,durham,fall2026,highintermediate,50,women,PINEY The Nutcrackers,FENDOL Fendol Paddle Squad,Stephanie J Grant,Emily F Honeycutt,Debi Collins,Sarah Mulligan,13,15,Completed
+19936,4,2026-08-18,durham,fall2026,highintermediate,50,women,PINEY The Nutcrackers,FENDOL Fendol Paddle Squad,Jackie MacLeod,Pat Cowell Morris,Barbara Noblin,Carol Lawless,8,15,Completed
+19936,5,2026-08-18,durham,fall2026,highintermediate,50,women,PINEY The Nutcrackers,FENDOL Fendol Paddle Squad,Connee White,Mindi McLendon Sullivan,Debi Collins,Sarah Mulligan,5,15,Completed
+19936,6,2026-08-18,durham,fall2026,highintermediate,50,women,PINEY The Nutcrackers,FENDOL Fendol Paddle Squad,Stephanie J Grant,Emily F Honeycutt,Kim Carpenter,Laura Maness,5,15,Completed
+19936,7,2026-08-18,durham,fall2026,highintermediate,50,women,PINEY The Nutcrackers,FENDOL Fendol Paddle Squad,Jackie MacLeod,Pat Cowell Morris,Debi Collins,Sarah Mulligan,8,15,Completed
+19936,8,2026-08-18,durham,fall2026,highintermediate,50,women,PINEY The Nutcrackers,FENDOL Fendol Paddle Squad,Connee White,Mindi McLendon Sullivan,Kim Carpenter,Laura Maness,14,16,Completed
+19936,9,2026-08-18,durham,fall2026,highintermediate,50,women,PINEY The Nutcrackers,FENDOL Fendol Paddle Squad,Stephanie J Grant,Emily F Honeycutt,Barbara Noblin,Carol Lawless,15,2,Completed
+19944,1,2026-08-25,durham,fall2026,highintermediate,50,women,PINEY The Nutcrackers,DUKE Devilish Dinkers,Emily F Honeycutt,Ann Nace,Jane Kestenbaum,Libby Hicks,8,15,Completed
+19944,2,2026-08-25,durham,fall2026,highintermediate,50,women,PINEY The Nutcrackers,DUKE Devilish Dinkers,Patti cowhey,Jackie MacLeod,Elizabeth Goettman Christopher,Rachel m Campbell,5,15,Completed
+19944,3,2026-08-25,durham,fall2026,highintermediate,50,women,PINEY The Nutcrackers,DUKE Devilish Dinkers,Michele Kelly,Connee White,Lisa Purtell,Lisa Stella,9,15,Completed
+19944,4,2026-08-25,durham,fall2026,highintermediate,50,women,PINEY The Nutcrackers,DUKE Devilish Dinkers,Emily F Honeycutt,Ann Nace,Elizabeth Goettman Christopher,Rachel m Campbell,5,15,Completed
+19944,5,2026-08-25,durham,fall2026,highintermediate,50,women,PINEY The Nutcrackers,DUKE Devilish Dinkers,Patti cowhey,Jackie MacLeod,Lisa Purtell,Lisa Stella,0,15,Completed
+19944,6,2026-08-25,durham,fall2026,highintermediate,50,women,PINEY The Nutcrackers,DUKE Devilish Dinkers,Michele Kelly,Connee White,Jane Kestenbaum,Libby Hicks,5,15,Completed
+19944,7,2026-08-25,durham,fall2026,highintermediate,50,women,PINEY The Nutcrackers,DUKE Devilish Dinkers,Emily F Honeycutt,Ann Nace,Lisa Purtell,Lisa Stella,5,15,Completed
+19944,8,2026-08-25,durham,fall2026,highintermediate,50,women,PINEY The Nutcrackers,DUKE Devilish Dinkers,Patti cowhey,Jackie MacLeod,Jane Kestenbaum,Libby Hicks,1,15,Completed
+19944,9,2026-08-25,durham,fall2026,highintermediate,50,women,PINEY The Nutcrackers,DUKE Devilish Dinkers,Michele Kelly,Connee White,Elizabeth Goettman Christopher,Rachel m Campbell,11,15,Completed
+19952,1,2026-09-01,durham,fall2026,highintermediate,50,women,PINEY The Nutcrackers,FENDOL Fendol Paddle Squad,Emily F Honeycutt,Jackie MacLeod,Laura Maness,Barbara Noblin,5,15,Completed
+19952,2,2026-09-01,durham,fall2026,highintermediate,50,women,PINEY The Nutcrackers,FENDOL Fendol Paddle Squad,Michele Kelly,Mindi McLendon Sullivan,Carol Lawless,Barbara Papanestor,15,10,Completed
+19952,3,2026-09-01,durham,fall2026,highintermediate,50,women,PINEY The Nutcrackers,FENDOL Fendol Paddle Squad,Patti cowhey,Ann Nace,Heidi O Sloan,Diane Michaud,9,15,Completed
+19952,4,2026-09-01,durham,fall2026,highintermediate,50,women,PINEY The Nutcrackers,FENDOL Fendol Paddle Squad,Emily F Honeycutt,Jackie MacLeod,Carol Lawless,Barbara Papanestor,13,15,Completed
+19952,5,2026-09-01,durham,fall2026,highintermediate,50,women,PINEY The Nutcrackers,FENDOL Fendol Paddle Squad,Michele Kelly,Mindi McLendon Sullivan,Heidi O Sloan,Diane Michaud,15,3,Completed
+19952,6,2026-09-01,durham,fall2026,highintermediate,50,women,PINEY The Nutcrackers,FENDOL Fendol Paddle Squad,Patti cowhey,Ann Nace,Laura Maness,Barbara Noblin,15,12,Completed
+19952,7,2026-09-01,durham,fall2026,highintermediate,50,women,PINEY The Nutcrackers,FENDOL Fendol Paddle Squad,Emily F Honeycutt,Jackie MacLeod,Heidi O Sloan,Diane Michaud,15,13,Completed
+19952,8,2026-09-01,durham,fall2026,highintermediate,50,women,PINEY The Nutcrackers,FENDOL Fendol Paddle Squad,Michele Kelly,Mindi McLendon Sullivan,Laura Maness,Barbara Noblin,12,15,Completed
+19952,9,2026-09-01,durham,fall2026,highintermediate,50,women,PINEY The Nutcrackers,FENDOL Fendol Paddle Squad,Patti cowhey,Ann Nace,Carol Lawless,Barbara Papanestor,9,15,Completed
+19955,1,2026-09-08,durham,fall2026,highintermediate,50,women,FENDOL Fendol Paddle Squad,DUKE Devilish Dinkers,Laura Maness,Kim Carpenter,Christa A McGill,Cecilia Csapo,15,9,Completed
+19955,2,2026-09-08,durham,fall2026,highintermediate,50,women,FENDOL Fendol Paddle Squad,DUKE Devilish Dinkers,Sarah Mulligan,Heidi O Sloan,Laura Schanberg,Elizabeth Goettman Christopher,12,15,Completed
+19955,3,2026-09-08,durham,fall2026,highintermediate,50,women,FENDOL Fendol Paddle Squad,DUKE Devilish Dinkers,Debi Collins,Barbara Noblin,Jane Kestenbaum,Rachel m Campbell,4,15,Completed
+19955,4,2026-09-08,durham,fall2026,highintermediate,50,women,FENDOL Fendol Paddle Squad,DUKE Devilish Dinkers,Laura Maness,Kim Carpenter,Laura Schanberg,Elizabeth Goettman Christopher,15,10,Completed
+19955,5,2026-09-08,durham,fall2026,highintermediate,50,women,FENDOL Fendol Paddle Squad,DUKE Devilish Dinkers,Sarah Mulligan,Heidi O Sloan,Jane Kestenbaum,Rachel m Campbell,5,15,Completed
+19955,6,2026-09-08,durham,fall2026,highintermediate,50,women,FENDOL Fendol Paddle Squad,DUKE Devilish Dinkers,Debi Collins,Barbara Noblin,Christa A McGill,Cecilia Csapo,7,15,Completed
+19955,7,2026-09-08,durham,fall2026,highintermediate,50,women,FENDOL Fendol Paddle Squad,DUKE Devilish Dinkers,Laura Maness,Kim Carpenter,Jane Kestenbaum,Rachel m Campbell,11,15,Completed
+19955,8,2026-09-08,durham,fall2026,highintermediate,50,women,FENDOL Fendol Paddle Squad,DUKE Devilish Dinkers,Sarah Mulligan,Heidi O Sloan,Christa A McGill,Cecilia Csapo,6,15,Completed
+19955,9,2026-09-08,durham,fall2026,highintermediate,50,women,FENDOL Fendol Paddle Squad,DUKE Devilish Dinkers,Debi Collins,Barbara Noblin,Laura Schanberg,Elizabeth Goettman Christopher,4,15,Completed
+19963,1,2026-09-15,durham,fall2026,highintermediate,50,women,DUKE Devilish Dinkers,PINEY The Nutcrackers,Lisa Stella,Libby Hicks,Michele Kelly,Mindi McLendon Sullivan,15,10,Completed
+19963,2,2026-09-15,durham,fall2026,highintermediate,50,women,DUKE Devilish Dinkers,PINEY The Nutcrackers,Laura Schanberg,Cecilia Csapo,Ann Nace,Stephanie J Grant,15,10,Completed
+19963,3,2026-09-15,durham,fall2026,highintermediate,50,women,DUKE Devilish Dinkers,PINEY The Nutcrackers,Christa A McGill,Elizabeth Goettman Christopher,Pat Cowell Morris,Connee White,15,3,Completed
+19963,4,2026-09-15,durham,fall2026,highintermediate,50,women,DUKE Devilish Dinkers,PINEY The Nutcrackers,Lisa Stella,Libby Hicks,Ann Nace,Stephanie J Grant,15,3,Completed
+19963,5,2026-09-15,durham,fall2026,highintermediate,50,women,DUKE Devilish Dinkers,PINEY The Nutcrackers,Laura Schanberg,Cecilia Csapo,Pat Cowell Morris,Connee White,15,1,Completed
+19963,6,2026-09-15,durham,fall2026,highintermediate,50,women,DUKE Devilish Dinkers,PINEY The Nutcrackers,Christa A McGill,Elizabeth Goettman Christopher,Michele Kelly,Mindi McLendon Sullivan,15,2,Completed
+19963,7,2026-09-15,durham,fall2026,highintermediate,50,women,DUKE Devilish Dinkers,PINEY The Nutcrackers,Lisa Stella,Libby Hicks,Pat Cowell Morris,Connee White,15,7,Completed
+19963,8,2026-09-15,durham,fall2026,highintermediate,50,women,DUKE Devilish Dinkers,PINEY The Nutcrackers,Laura Schanberg,Cecilia Csapo,Michele Kelly,Mindi McLendon Sullivan,15,11,Completed
+19963,9,2026-09-15,durham,fall2026,highintermediate,50,women,DUKE Devilish Dinkers,PINEY The Nutcrackers,Christa A McGill,Elizabeth Goettman Christopher,Ann Nace,Stephanie J Grant,15,2,Completed
+19973,1,2026-09-22,durham,fall2026,highintermediate,50,women,PINEY The Nutcrackers,DUKE Devilish Dinkers,Pat Cowell Morris,Patti cowhey,Libby Hicks,Elizabeth Goettman Christopher,5,15,Completed
+19973,2,2026-09-22,durham,fall2026,highintermediate,50,women,PINEY The Nutcrackers,DUKE Devilish Dinkers,Michele Kelly,Stephanie J Grant,Cecilia Csapo,Rachel m Campbell,15,8,Completed
+19973,3,2026-09-22,durham,fall2026,highintermediate,50,women,PINEY The Nutcrackers,DUKE Devilish Dinkers,Emily F Honeycutt,Connee White,DEFAULT,DEFAULT,15,0,Default
+19973,4,2026-09-22,durham,fall2026,highintermediate,50,women,PINEY The Nutcrackers,DUKE Devilish Dinkers,Pat Cowell Morris,Patti cowhey,Cecilia Csapo,Rachel m Campbell,3,15,Completed
+19973,5,2026-09-22,durham,fall2026,highintermediate,50,women,PINEY The Nutcrackers,DUKE Devilish Dinkers,Michele Kelly,Stephanie J Grant,DEFAULT,DEFAULT,15,0,Default
+19973,6,2026-09-22,durham,fall2026,highintermediate,50,women,PINEY The Nutcrackers,DUKE Devilish Dinkers,Emily F Honeycutt,Connee White,Libby Hicks,Elizabeth Goettman Christopher,0,15,Completed
+19973,7,2026-09-22,durham,fall2026,highintermediate,50,women,PINEY The Nutcrackers,DUKE Devilish Dinkers,Pat Cowell Morris,Patti cowhey,DEFAULT,DEFAULT,15,0,Default
+19973,8,2026-09-22,durham,fall2026,highintermediate,50,women,PINEY The Nutcrackers,DUKE Devilish Dinkers,Michele Kelly,Stephanie J Grant,Libby Hicks,Elizabeth Goettman Christopher,10,15,Completed
+19973,9,2026-09-22,durham,fall2026,highintermediate,50,women,PINEY The Nutcrackers,DUKE Devilish Dinkers,Emily F Honeycutt,Connee White,Cecilia Csapo,Rachel m Campbell,3,15,Completed
+19982,1,2026-09-29,durham,fall2026,highintermediate,50,women,FENDOL Fendol Paddle Squad,PINEY The Nutcrackers,Laura Maness,Heidi O Sloan,Wendy Jean Thompson,Mindi McLendon Sullivan,15,13,Completed
+19982,2,2026-09-29,durham,fall2026,highintermediate,50,women,FENDOL Fendol Paddle Squad,PINEY The Nutcrackers,Sarah Mulligan,Diane Michaud,Michele Kelly,Emily F Honeycutt,7,15,Completed
+19982,3,2026-09-29,durham,fall2026,highintermediate,50,women,FENDOL Fendol Paddle Squad,PINEY The Nutcrackers,Kim Carpenter,Barbara Noblin,Ann Nace,Lisa Hoffmann,15,2,Completed
+19982,4,2026-09-29,durham,fall2026,highintermediate,50,women,FENDOL Fendol Paddle Squad,PINEY The Nutcrackers,Laura Maness,Heidi O Sloan,Michele Kelly,Emily F Honeycutt,15,17,Completed
+19982,5,2026-09-29,durham,fall2026,highintermediate,50,women,FENDOL Fendol Paddle Squad,PINEY The Nutcrackers,Sarah Mulligan,Diane Michaud,Ann Nace,Lisa Hoffmann,9,15,Completed
+19982,6,2026-09-29,durham,fall2026,highintermediate,50,women,FENDOL Fendol Paddle Squad,PINEY The Nutcrackers,Kim Carpenter,Barbara Noblin,Wendy Jean Thompson,Mindi McLendon Sullivan,15,8,Completed
+19982,7,2026-09-29,durham,fall2026,highintermediate,50,women,FENDOL Fendol Paddle Squad,PINEY The Nutcrackers,Laura Maness,Heidi O Sloan,Ann Nace,Lisa Hoffmann,15,12,Completed
+19982,8,2026-09-29,durham,fall2026,highintermediate,50,women,FENDOL Fendol Paddle Squad,PINEY The Nutcrackers,Sarah Mulligan,Diane Michaud,Wendy Jean Thompson,Mindi McLendon Sullivan,6,15,Completed
+19982,9,2026-09-29,durham,fall2026,highintermediate,50,women,FENDOL Fendol Paddle Squad,PINEY The Nutcrackers,Kim Carpenter,Barbara Noblin,Michele Kelly,Emily F Honeycutt,15,11,Completed
+19972,1,2026-09-30,durham,fall2026,highintermediate,50,women,DUKE Devilish Dinkers,FENDOL Fendol Paddle Squad,Lisa Stella,Cecilia Csapo,Kim Carpenter,Laura Maness,15,5,Completed
+19972,2,2026-09-30,durham,fall2026,highintermediate,50,women,DUKE Devilish Dinkers,FENDOL Fendol Paddle Squad,Rachel m Campbell,Christa A McGill,Debi Collins,Barbara Papanestor,15,3,Completed
+19972,3,2026-09-30,durham,fall2026,highintermediate,50,women,DUKE Devilish Dinkers,FENDOL Fendol Paddle Squad,DEFAULT,DEFAULT,Diane Michaud,Barbara Noblin,0,15,Default
+19972,4,2026-09-30,durham,fall2026,highintermediate,50,women,DUKE Devilish Dinkers,FENDOL Fendol Paddle Squad,Lisa Stella,Cecilia Csapo,Debi Collins,Barbara Papanestor,11,15,Completed
+19972,5,2026-09-30,durham,fall2026,highintermediate,50,women,DUKE Devilish Dinkers,FENDOL Fendol Paddle Squad,Rachel m Campbell,Christa A McGill,Diane Michaud,Barbara Noblin,15,0,Completed
+19972,6,2026-09-30,durham,fall2026,highintermediate,50,women,DUKE Devilish Dinkers,FENDOL Fendol Paddle Squad,DEFAULT,DEFAULT,Kim Carpenter,Laura Maness,0,15,Default
+19972,7,2026-09-30,durham,fall2026,highintermediate,50,women,DUKE Devilish Dinkers,FENDOL Fendol Paddle Squad,Lisa Stella,Cecilia Csapo,Diane Michaud,Barbara Noblin,15,0,Completed
+19972,8,2026-09-30,durham,fall2026,highintermediate,50,women,DUKE Devilish Dinkers,FENDOL Fendol Paddle Squad,Rachel m Campbell,Christa A McGill,Kim Carpenter,Laura Maness,15,7,Completed
+19972,9,2026-09-30,durham,fall2026,highintermediate,50,women,DUKE Devilish Dinkers,FENDOL Fendol Paddle Squad,DEFAULT,DEFAULT,Debi Collins,Barbara Papanestor,0,15,Default
+19993,1,2026-10-06,durham,fall2026,highintermediate,50,women,FENDOL Fendol Paddle Squad,DUKE Devilish Dinkers,Kim Carpenter,Laura Maness,Elizabeth Goettman Christopher,Mary Thomas,9,15,Completed
+19993,2,2026-10-06,durham,fall2026,highintermediate,50,women,FENDOL Fendol Paddle Squad,DUKE Devilish Dinkers,Barbara Papanestor,Carol Lawless,Laura Schanberg,Christa A McGill,4,15,Completed
+19993,3,2026-10-06,durham,fall2026,highintermediate,50,women,FENDOL Fendol Paddle Squad,DUKE Devilish Dinkers,DEFAULT,DEFAULT,DEFAULT,DEFAULT,0,0,Dbl Default
+19993,4,2026-10-06,durham,fall2026,highintermediate,50,women,FENDOL Fendol Paddle Squad,DUKE Devilish Dinkers,Kim Carpenter,Laura Maness,Laura Schanberg,Christa A McGill,15,12,Completed
+19993,5,2026-10-06,durham,fall2026,highintermediate,50,women,FENDOL Fendol Paddle Squad,DUKE Devilish Dinkers,Barbara Papanestor,Carol Lawless,DEFAULT,DEFAULT,15,0,Completed
+19993,6,2026-10-06,durham,fall2026,highintermediate,50,women,FENDOL Fendol Paddle Squad,DUKE Devilish Dinkers,DEFAULT,DEFAULT,Elizabeth Goettman Christopher,Mary Thomas,0,15,Completed
+19993,7,2026-10-06,durham,fall2026,highintermediate,50,women,FENDOL Fendol Paddle Squad,DUKE Devilish Dinkers,Kim Carpenter,Laura Maness,DEFAULT,DEFAULT,15,0,Completed
+19993,8,2026-10-06,durham,fall2026,highintermediate,50,women,FENDOL Fendol Paddle Squad,DUKE Devilish Dinkers,Barbara Papanestor,Carol Lawless,Elizabeth Goettman Christopher,Mary Thomas,6,15,Completed
+19993,9,2026-10-06,durham,fall2026,highintermediate,50,women,FENDOL Fendol Paddle Squad,DUKE Devilish Dinkers,DEFAULT,DEFAULT,Laura Schanberg,Christa A McGill,0,15,Completed
+20002,1,2026-10-13,durham,fall2026,highintermediate,50,women,FENDOL Fendol Paddle Squad,PINEY The Nutcrackers,Heidi O Sloan,Laura Maness,Patti cowhey,Ann Nace,15,9,Completed
+20002,2,2026-10-13,durham,fall2026,highintermediate,50,women,FENDOL Fendol Paddle Squad,PINEY The Nutcrackers,Debi Collins,Barbara Papanestor,Michele Kelly,Mindi McLendon Sullivan,5,15,Completed
+20002,3,2026-10-13,durham,fall2026,highintermediate,50,women,FENDOL Fendol Paddle Squad,PINEY The Nutcrackers,Carol Lawless,Barbara Noblin,Jackie MacLeod,Pat Cowell Morris,15,10,Completed
+20002,4,2026-10-13,durham,fall2026,highintermediate,50,women,FENDOL Fendol Paddle Squad,PINEY The Nutcrackers,Heidi O Sloan,Laura Maness,Michele Kelly,Mindi McLendon Sullivan,10,15,Completed
+20002,5,2026-10-13,durham,fall2026,highintermediate,50,women,FENDOL Fendol Paddle Squad,PINEY The Nutcrackers,Debi Collins,Barbara Papanestor,Jackie MacLeod,Pat Cowell Morris,15,5,Completed
+20002,6,2026-10-13,durham,fall2026,highintermediate,50,women,FENDOL Fendol Paddle Squad,PINEY The Nutcrackers,Carol Lawless,Barbara Noblin,Patti cowhey,Ann Nace,11,15,Completed
+20002,7,2026-10-13,durham,fall2026,highintermediate,50,women,FENDOL Fendol Paddle Squad,PINEY The Nutcrackers,Heidi O Sloan,Laura Maness,Jackie MacLeod,Pat Cowell Morris,15,2,Completed
+20002,8,2026-10-13,durham,fall2026,highintermediate,50,women,FENDOL Fendol Paddle Squad,PINEY The Nutcrackers,Debi Collins,Barbara Papanestor,Patti cowhey,Ann Nace,15,8,Completed
+20002,9,2026-10-13,durham,fall2026,highintermediate,50,women,FENDOL Fendol Paddle Squad,PINEY The Nutcrackers,Carol Lawless,Barbara Noblin,Michele Kelly,Mindi McLendon Sullivan,7,15,Completed
+20010,1,2026-10-20,durham,fall2026,highintermediate,50,women,DUKE Devilish Dinkers,PINEY The Nutcrackers,DEFAULT,DEFAULT,Michele Kelly,Mindi McLendon Sullivan,0,15,Default
+20010,2,2026-10-20,durham,fall2026,highintermediate,50,women,DUKE Devilish Dinkers,PINEY The Nutcrackers,DEFAULT,DEFAULT,Patti cowhey,Emily F Honeycutt,0,15,Default
+20010,3,2026-10-20,durham,fall2026,highintermediate,50,women,DUKE Devilish Dinkers,PINEY The Nutcrackers,DEFAULT,DEFAULT,Jackie MacLeod,Ann Nace,0,15,Default
+20010,4,2026-10-20,durham,fall2026,highintermediate,50,women,DUKE Devilish Dinkers,PINEY The Nutcrackers,DEFAULT,DEFAULT,Patti cowhey,Emily F Honeycutt,0,15,Default
+20010,5,2026-10-20,durham,fall2026,highintermediate,50,women,DUKE Devilish Dinkers,PINEY The Nutcrackers,DEFAULT,DEFAULT,Jackie MacLeod,Ann Nace,0,15,Default
+20010,6,2026-10-20,durham,fall2026,highintermediate,50,women,DUKE Devilish Dinkers,PINEY The Nutcrackers,DEFAULT,DEFAULT,Michele Kelly,Mindi McLendon Sullivan,0,15,Default
+20010,7,2026-10-20,durham,fall2026,highintermediate,50,women,DUKE Devilish Dinkers,PINEY The Nutcrackers,DEFAULT,DEFAULT,Jackie MacLeod,Ann Nace,0,15,Default
+20010,8,2026-10-20,durham,fall2026,highintermediate,50,women,DUKE Devilish Dinkers,PINEY The Nutcrackers,DEFAULT,DEFAULT,Michele Kelly,Mindi McLendon Sullivan,0,15,Default
+20010,9,2026-10-20,durham,fall2026,highintermediate,50,women,DUKE Devilish Dinkers,PINEY The Nutcrackers,DEFAULT,DEFAULT,Patti cowhey,Emily F Honeycutt,0,15,Default
+20016,1,2026-10-27,durham,fall2026,highintermediate,50,women,DUKE Devilish Dinkers,FENDOL Fendol Paddle Squad,Cecilia Csapo,Laura Schanberg,Kim Carpenter,Laura Maness,15,10,Completed
+20016,2,2026-10-27,durham,fall2026,highintermediate,50,women,DUKE Devilish Dinkers,FENDOL Fendol Paddle Squad,Christa A McGill,Mary Thomas,Barbara Noblin,Barbara Papanestor,15,0,Completed
+20016,3,2026-10-27,durham,fall2026,highintermediate,50,women,DUKE Devilish Dinkers,FENDOL Fendol Paddle Squad,Libby Hicks,Elizabeth Goettman Christopher,Diane Michaud,Debi Collins,15,2,Completed
+20016,4,2026-10-27,durham,fall2026,highintermediate,50,women,DUKE Devilish Dinkers,FENDOL Fendol Paddle Squad,Cecilia Csapo,Laura Schanberg,Barbara Noblin,Barbara Papanestor,16,14,Completed
+20016,5,2026-10-27,durham,fall2026,highintermediate,50,women,DUKE Devilish Dinkers,FENDOL Fendol Paddle Squad,Christa A McGill,Mary Thomas,Diane Michaud,Debi Collins,15,0,Completed
+20016,6,2026-10-27,durham,fall2026,highintermediate,50,women,DUKE Devilish Dinkers,FENDOL Fendol Paddle Squad,Libby Hicks,Elizabeth Goettman Christopher,Kim Carpenter,Laura Maness,15,3,Completed
+20016,7,2026-10-27,durham,fall2026,highintermediate,50,women,DUKE Devilish Dinkers,FENDOL Fendol Paddle Squad,Cecilia Csapo,Laura Schanberg,Diane Michaud,Debi Collins,15,2,Completed
+20016,8,2026-10-27,durham,fall2026,highintermediate,50,women,DUKE Devilish Dinkers,FENDOL Fendol Paddle Squad,Christa A McGill,Mary Thomas,Kim Carpenter,Laura Maness,16,14,Completed
+20016,9,2026-10-27,durham,fall2026,highintermediate,50,women,DUKE Devilish Dinkers,FENDOL Fendol Paddle Squad,Libby Hicks,Elizabeth Goettman Christopher,Barbara Noblin,Barbara Papanestor,15,0,Completed
+20019,1,2026-10-30,durham,fall2026,highintermediate,50,women,DUKE Devilish Dinkers,FENDOL Fendol Paddle Squad,Lisa Stella,Cecilia Csapo,Kim Carpenter,Barbara Papanestor,15,12,Completed
+20019,2,2026-10-30,durham,fall2026,highintermediate,50,women,DUKE Devilish Dinkers,FENDOL Fendol Paddle Squad,Rachel m Campbell,Christa A McGill,Barbara Noblin,Sarah Mulligan,15,10,Completed
+20019,3,2026-10-30,durham,fall2026,highintermediate,50,women,DUKE Devilish Dinkers,FENDOL Fendol Paddle Squad,DEFAULT,DEFAULT,Diane Michaud,Carol Lawless,0,15,Default
+20019,4,2026-10-30,durham,fall2026,highintermediate,50,women,DUKE Devilish Dinkers,FENDOL Fendol Paddle Squad,Lisa Stella,Cecilia Csapo,Barbara Noblin,Sarah Mulligan,15,3,Completed
+20019,5,2026-10-30,durham,fall2026,highintermediate,50,women,DUKE Devilish Dinkers,FENDOL Fendol Paddle Squad,Rachel m Campbell,Christa A McGill,Diane Michaud,Carol Lawless,15,0,Completed
+20019,6,2026-10-30,durham,fall2026,highintermediate,50,women,DUKE Devilish Dinkers,FENDOL Fendol Paddle Squad,DEFAULT,DEFAULT,Kim Carpenter,Barbara Papanestor,0,15,Default
+20019,7,2026-10-30,durham,fall2026,highintermediate,50,women,DUKE Devilish Dinkers,FENDOL Fendol Paddle Squad,Lisa Stella,Cecilia Csapo,Diane Michaud,Carol Lawless,15,1,Completed
+20019,8,2026-10-30,durham,fall2026,highintermediate,50,women,DUKE Devilish Dinkers,FENDOL Fendol Paddle Squad,Rachel m Campbell,Christa A McGill,Kim Carpenter,Barbara Papanestor,2,15,Completed
+20019,9,2026-10-30,durham,fall2026,highintermediate,50,women,DUKE Devilish Dinkers,FENDOL Fendol Paddle Squad,DEFAULT,DEFAULT,Barbara Noblin,Sarah Mulligan,0,15,Default

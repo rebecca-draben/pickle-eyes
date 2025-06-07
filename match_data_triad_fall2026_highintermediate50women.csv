@@ -1,0 +1,190 @@
+match_id,game_id,match_date,league,season,skill_level,age,gender,team1_name,team2_name,partner1,partner2,opponent1,opponent2,team1_points,team2_points,status
+19723,1,2026-08-18,triad,fall2026,highintermediate,50,women,LAWN Smashing Sisters,LJ Two Dink Minimum,Skyler Bass,Cathie Sexton,Beth R Sherrill,Linda Stefanick,15,9,Completed
+19723,2,2026-08-18,triad,fall2026,highintermediate,50,women,LAWN Smashing Sisters,LJ Two Dink Minimum,Leigh Golden,Cathy Prince,Patti Hartman,Nancy Guinasso,15,3,Completed
+19723,3,2026-08-18,triad,fall2026,highintermediate,50,women,LAWN Smashing Sisters,LJ Two Dink Minimum,Nikole Daigle,Jenny Kemp,Cary Scully,Sheri Cram,15,12,Completed
+19723,4,2026-08-18,triad,fall2026,highintermediate,50,women,LAWN Smashing Sisters,LJ Two Dink Minimum,Skyler Bass,Cathie Sexton,Patti Hartman,Nancy Guinasso,4,15,Completed
+19723,5,2026-08-18,triad,fall2026,highintermediate,50,women,LAWN Smashing Sisters,LJ Two Dink Minimum,Leigh Golden,Cathy Prince,Cary Scully,Sheri Cram,15,5,Completed
+19723,6,2026-08-18,triad,fall2026,highintermediate,50,women,LAWN Smashing Sisters,LJ Two Dink Minimum,Nikole Daigle,Jenny Kemp,Beth R Sherrill,Linda Stefanick,15,6,Completed
+19723,7,2026-08-18,triad,fall2026,highintermediate,50,women,LAWN Smashing Sisters,LJ Two Dink Minimum,Skyler Bass,Cathie Sexton,Cary Scully,Sheri Cram,15,1,Completed
+19723,8,2026-08-18,triad,fall2026,highintermediate,50,women,LAWN Smashing Sisters,LJ Two Dink Minimum,Leigh Golden,Cathy Prince,Beth R Sherrill,Linda Stefanick,9,15,Completed
+19723,9,2026-08-18,triad,fall2026,highintermediate,50,women,LAWN Smashing Sisters,LJ Two Dink Minimum,Nikole Daigle,Jenny Kemp,Patti Hartman,Nancy Guinasso,7,15,Completed
+19724,1,2026-08-18,triad,fall2026,highintermediate,50,women,HPCC What's The Score?,BPB Queenagers,Terry Aulbert,Wendy Austin,Joanne Byrd Woods,Rebecca Pugh,15,6,Completed
+19724,2,2026-08-18,triad,fall2026,highintermediate,50,women,HPCC What's The Score?,BPB Queenagers,Stephanie Ross,Lee Nunn,Paige Collier Wiseman,Jenny R Evans,15,7,Completed
+19724,3,2026-08-18,triad,fall2026,highintermediate,50,women,HPCC What's The Score?,BPB Queenagers,Kellie Holbrook,Heather Foster,Xinia West,Amie D Towler,15,9,Completed
+19724,4,2026-08-18,triad,fall2026,highintermediate,50,women,HPCC What's The Score?,BPB Queenagers,Terry Aulbert,Wendy Austin,Paige Collier Wiseman,Jenny R Evans,15,8,Completed
+19724,5,2026-08-18,triad,fall2026,highintermediate,50,women,HPCC What's The Score?,BPB Queenagers,Stephanie Ross,Lee Nunn,Xinia West,Amie D Towler,15,4,Completed
+19724,6,2026-08-18,triad,fall2026,highintermediate,50,women,HPCC What's The Score?,BPB Queenagers,Kellie Holbrook,Heather Foster,Joanne Byrd Woods,Rebecca Pugh,15,7,Completed
+19724,7,2026-08-18,triad,fall2026,highintermediate,50,women,HPCC What's The Score?,BPB Queenagers,Terry Aulbert,Wendy Austin,Xinia West,Amie D Towler,15,4,Completed
+19724,8,2026-08-18,triad,fall2026,highintermediate,50,women,HPCC What's The Score?,BPB Queenagers,Stephanie Ross,Lee Nunn,Joanne Byrd Woods,Rebecca Pugh,15,3,Completed
+19724,9,2026-08-18,triad,fall2026,highintermediate,50,women,HPCC What's The Score?,BPB Queenagers,Kellie Holbrook,Heather Foster,Paige Collier Wiseman,Jenny R Evans,15,10,Completed
+19744,1,2026-08-25,triad,fall2026,highintermediate,50,women,BPB Queenagers,GCC Sweet Pickles,Joanne Byrd Woods,Xinia West,Lorie Poole,Kim Minor,15,5,Completed
+19744,2,2026-08-25,triad,fall2026,highintermediate,50,women,BPB Queenagers,GCC Sweet Pickles,Paige Collier Wiseman,Jenny R Evans,Catherine Joseph,Dixie Culver,5,15,Completed
+19744,3,2026-08-25,triad,fall2026,highintermediate,50,women,BPB Queenagers,GCC Sweet Pickles,Rebecca Pugh,Tammy Powell Bowles,Angela McGinn,Carmella Roehrig,7,15,Completed
+19744,4,2026-08-25,triad,fall2026,highintermediate,50,women,BPB Queenagers,GCC Sweet Pickles,Joanne Byrd Woods,Xinia West,Catherine Joseph,Dixie Culver,15,8,Completed
+19744,5,2026-08-25,triad,fall2026,highintermediate,50,women,BPB Queenagers,GCC Sweet Pickles,Paige Collier Wiseman,Jenny R Evans,Angela McGinn,Carmella Roehrig,17,15,Completed
+19744,6,2026-08-25,triad,fall2026,highintermediate,50,women,BPB Queenagers,GCC Sweet Pickles,Rebecca Pugh,Tammy Powell Bowles,Lorie Poole,Kim Minor,15,12,Completed
+19744,7,2026-08-25,triad,fall2026,highintermediate,50,women,BPB Queenagers,GCC Sweet Pickles,Joanne Byrd Woods,Xinia West,Angela McGinn,Carmella Roehrig,15,6,Completed
+19744,8,2026-08-25,triad,fall2026,highintermediate,50,women,BPB Queenagers,GCC Sweet Pickles,Paige Collier Wiseman,Jenny R Evans,Lorie Poole,Kim Minor,4,15,Completed
+19744,9,2026-08-25,triad,fall2026,highintermediate,50,women,BPB Queenagers,GCC Sweet Pickles,Rebecca Pugh,Tammy Powell Bowles,Catherine Joseph,Dixie Culver,11,15,Completed
+19745,1,2026-08-25,triad,fall2026,highintermediate,50,women,LJ Two Dink Minimum,HPCC What's The Score?,Jaqueline Gast,Pamela Cascarano,Amy Robinson,Stephanie Ross,4,15,Completed
+19745,2,2026-08-25,triad,fall2026,highintermediate,50,women,LJ Two Dink Minimum,HPCC What's The Score?,Jodi Stanley,Catherine Bell Flannery,Lee Nunn,Heather Foster,8,15,Completed
+19745,3,2026-08-25,triad,fall2026,highintermediate,50,women,LJ Two Dink Minimum,HPCC What's The Score?,Lisa Morrison,Amy Stehlin,Terry Aulbert,Alyce Warden,3,15,Completed
+19745,4,2026-08-25,triad,fall2026,highintermediate,50,women,LJ Two Dink Minimum,HPCC What's The Score?,Jaqueline Gast,Pamela Cascarano,Lee Nunn,Heather Foster,2,15,Completed
+19745,5,2026-08-25,triad,fall2026,highintermediate,50,women,LJ Two Dink Minimum,HPCC What's The Score?,Jodi Stanley,Catherine Bell Flannery,Terry Aulbert,Alyce Warden,3,15,Completed
+19745,6,2026-08-25,triad,fall2026,highintermediate,50,women,LJ Two Dink Minimum,HPCC What's The Score?,Lisa Morrison,Amy Stehlin,Amy Robinson,Stephanie Ross,6,15,Completed
+19745,7,2026-08-25,triad,fall2026,highintermediate,50,women,LJ Two Dink Minimum,HPCC What's The Score?,Jaqueline Gast,Pamela Cascarano,Terry Aulbert,Alyce Warden,3,15,Completed
+19745,8,2026-08-25,triad,fall2026,highintermediate,50,women,LJ Two Dink Minimum,HPCC What's The Score?,Jodi Stanley,Catherine Bell Flannery,Amy Robinson,Stephanie Ross,4,15,Completed
+19745,9,2026-08-25,triad,fall2026,highintermediate,50,women,LJ Two Dink Minimum,HPCC What's The Score?,Lisa Morrison,Amy Stehlin,Lee Nunn,Heather Foster,4,15,Completed
+19765,1,2026-09-01,triad,fall2026,highintermediate,50,women,GCC Sweet Pickles,LJ Two Dink Minimum,Lori Howell,Kim Minor,Jaqueline Gast,Carolyn Smith,15,0,Completed
+19765,2,2026-09-01,triad,fall2026,highintermediate,50,women,GCC Sweet Pickles,LJ Two Dink Minimum,Catherine Joseph,Barbara Young,Beth R Sherrill,Amy Stehlin,15,4,Completed
+19765,3,2026-09-01,triad,fall2026,highintermediate,50,women,GCC Sweet Pickles,LJ Two Dink Minimum,Carol Smith,Kathy Cross,Nancy Guinasso,Elizabeth Conte-Vitullo,15,10,Completed
+19765,4,2026-09-01,triad,fall2026,highintermediate,50,women,GCC Sweet Pickles,LJ Two Dink Minimum,Lori Howell,Kim Minor,Beth R Sherrill,Amy Stehlin,12,15,Completed
+19765,5,2026-09-01,triad,fall2026,highintermediate,50,women,GCC Sweet Pickles,LJ Two Dink Minimum,Catherine Joseph,Barbara Young,Nancy Guinasso,Elizabeth Conte-Vitullo,15,13,Completed
+19765,6,2026-09-01,triad,fall2026,highintermediate,50,women,GCC Sweet Pickles,LJ Two Dink Minimum,Carol Smith,Kathy Cross,Jaqueline Gast,Carolyn Smith,15,4,Completed
+19765,7,2026-09-01,triad,fall2026,highintermediate,50,women,GCC Sweet Pickles,LJ Two Dink Minimum,Lori Howell,Kim Minor,Nancy Guinasso,Elizabeth Conte-Vitullo,15,0,Default
+19765,8,2026-09-01,triad,fall2026,highintermediate,50,women,GCC Sweet Pickles,LJ Two Dink Minimum,Catherine Joseph,Barbara Young,Jaqueline Gast,Carolyn Smith,15,7,Completed
+19765,9,2026-09-01,triad,fall2026,highintermediate,50,women,GCC Sweet Pickles,LJ Two Dink Minimum,Carol Smith,Kathy Cross,Beth R Sherrill,Amy Stehlin,9,15,Completed
+19766,1,2026-09-01,triad,fall2026,highintermediate,50,women,HPCC What's The Score?,LAWN Smashing Sisters,Wendy Austin,Stephanie Ross,Skyler Bass,Bee Baker,15,13,Completed
+19766,2,2026-09-01,triad,fall2026,highintermediate,50,women,HPCC What's The Score?,LAWN Smashing Sisters,Heather Foster,Terry Aulbert,Leigh Golden,Cathy Prince,15,11,Completed
+19766,3,2026-09-01,triad,fall2026,highintermediate,50,women,HPCC What's The Score?,LAWN Smashing Sisters,Amy Robinson,Lee Nunn,Sandy Elizabeth Meister,Janelle Krueger,15,13,Completed
+19766,4,2026-09-01,triad,fall2026,highintermediate,50,women,HPCC What's The Score?,LAWN Smashing Sisters,Wendy Austin,Stephanie Ross,Leigh Golden,Cathy Prince,15,6,Completed
+19766,5,2026-09-01,triad,fall2026,highintermediate,50,women,HPCC What's The Score?,LAWN Smashing Sisters,Heather Foster,Terry Aulbert,Sandy Elizabeth Meister,Janelle Krueger,13,15,Completed
+19766,6,2026-09-01,triad,fall2026,highintermediate,50,women,HPCC What's The Score?,LAWN Smashing Sisters,Amy Robinson,Lee Nunn,Skyler Bass,Bee Baker,15,7,Completed
+19766,7,2026-09-01,triad,fall2026,highintermediate,50,women,HPCC What's The Score?,LAWN Smashing Sisters,Wendy Austin,Stephanie Ross,Sandy Elizabeth Meister,Janelle Krueger,15,5,Completed
+19766,8,2026-09-01,triad,fall2026,highintermediate,50,women,HPCC What's The Score?,LAWN Smashing Sisters,Heather Foster,Terry Aulbert,Skyler Bass,Bee Baker,15,8,Completed
+19766,9,2026-09-01,triad,fall2026,highintermediate,50,women,HPCC What's The Score?,LAWN Smashing Sisters,Amy Robinson,Lee Nunn,Leigh Golden,Cathy Prince,15,5,Completed
+19777,1,2026-09-08,triad,fall2026,highintermediate,50,women,LAWN Smashing Sisters,GCC Sweet Pickles,Bee Baker,Marty Shelton,Catherine Joseph,Dixie Culver,15,6,Completed
+19777,2,2026-09-08,triad,fall2026,highintermediate,50,women,LAWN Smashing Sisters,GCC Sweet Pickles,Cathy Prince,Leigh Golden,Kim Minor,Lori Howell,15,7,Completed
+19777,3,2026-09-08,triad,fall2026,highintermediate,50,women,LAWN Smashing Sisters,GCC Sweet Pickles,Sandy Elizabeth Meister,Jenny Kemp,Suzie Addington,Carmella Roehrig,15,5,Completed
+19777,4,2026-09-08,triad,fall2026,highintermediate,50,women,LAWN Smashing Sisters,GCC Sweet Pickles,Bee Baker,Marty Shelton,Kim Minor,Lori Howell,11,15,Completed
+19777,5,2026-09-08,triad,fall2026,highintermediate,50,women,LAWN Smashing Sisters,GCC Sweet Pickles,Cathy Prince,Leigh Golden,Suzie Addington,Carmella Roehrig,15,3,Completed
+19777,6,2026-09-08,triad,fall2026,highintermediate,50,women,LAWN Smashing Sisters,GCC Sweet Pickles,Sandy Elizabeth Meister,Jenny Kemp,Catherine Joseph,Dixie Culver,15,2,Completed
+19777,7,2026-09-08,triad,fall2026,highintermediate,50,women,LAWN Smashing Sisters,GCC Sweet Pickles,Bee Baker,Marty Shelton,Suzie Addington,Carmella Roehrig,15,4,Completed
+19777,8,2026-09-08,triad,fall2026,highintermediate,50,women,LAWN Smashing Sisters,GCC Sweet Pickles,Cathy Prince,Leigh Golden,Catherine Joseph,Dixie Culver,15,3,Completed
+19777,9,2026-09-08,triad,fall2026,highintermediate,50,women,LAWN Smashing Sisters,GCC Sweet Pickles,Sandy Elizabeth Meister,Jenny Kemp,Kim Minor,Lori Howell,11,15,Completed
+19778,1,2026-09-08,triad,fall2026,highintermediate,50,women,LJ Two Dink Minimum,BPB Queenagers,Lisa Morrison,Catherine Bell Flannery,Paige Collier Wiseman,Karen L Irving,9,15,Completed
+19778,2,2026-09-08,triad,fall2026,highintermediate,50,women,LJ Two Dink Minimum,BPB Queenagers,Jodi Stanley,Nancy Guinasso,Rebecca Pugh,Xinia West,15,10,Completed
+19778,3,2026-09-08,triad,fall2026,highintermediate,50,women,LJ Two Dink Minimum,BPB Queenagers,Pamela Cascarano,Sheri Cram,Joanne Byrd Woods,Heather Littlejohn,5,15,Completed
+19778,4,2026-09-08,triad,fall2026,highintermediate,50,women,LJ Two Dink Minimum,BPB Queenagers,Lisa Morrison,Catherine Bell Flannery,Rebecca Pugh,Xinia West,16,14,Completed
+19778,5,2026-09-08,triad,fall2026,highintermediate,50,women,LJ Two Dink Minimum,BPB Queenagers,Jodi Stanley,Nancy Guinasso,Joanne Byrd Woods,Heather Littlejohn,16,14,Completed
+19778,6,2026-09-08,triad,fall2026,highintermediate,50,women,LJ Two Dink Minimum,BPB Queenagers,Pamela Cascarano,Sheri Cram,Paige Collier Wiseman,Karen L Irving,13,15,Completed
+19778,7,2026-09-08,triad,fall2026,highintermediate,50,women,LJ Two Dink Minimum,BPB Queenagers,Lisa Morrison,Catherine Bell Flannery,Joanne Byrd Woods,Heather Littlejohn,10,15,Completed
+19778,8,2026-09-08,triad,fall2026,highintermediate,50,women,LJ Two Dink Minimum,BPB Queenagers,Jodi Stanley,Nancy Guinasso,Paige Collier Wiseman,Karen L Irving,15,7,Completed
+19778,9,2026-09-08,triad,fall2026,highintermediate,50,women,LJ Two Dink Minimum,BPB Queenagers,Pamela Cascarano,Sheri Cram,Rebecca Pugh,Xinia West,5,15,Completed
+19794,1,2026-09-15,triad,fall2026,highintermediate,50,women,BPB Queenagers,LAWN Smashing Sisters,Heather Littlejohn,Xinia West,Cathie Sexton,Skyler Bass,9,15,Completed
+19794,2,2026-09-15,triad,fall2026,highintermediate,50,women,BPB Queenagers,LAWN Smashing Sisters,Joanne Byrd Woods,Paige Collier Wiseman,Cathy Prince,Jenny Kemp,15,12,Completed
+19794,3,2026-09-15,triad,fall2026,highintermediate,50,women,BPB Queenagers,LAWN Smashing Sisters,Karen L Irving,Rebecca Pugh,Laura Lee Gant,Leigh Golden,7,15,Completed
+19794,4,2026-09-15,triad,fall2026,highintermediate,50,women,BPB Queenagers,LAWN Smashing Sisters,Heather Littlejohn,Xinia West,Cathy Prince,Jenny Kemp,12,15,Completed
+19794,5,2026-09-15,triad,fall2026,highintermediate,50,women,BPB Queenagers,LAWN Smashing Sisters,Joanne Byrd Woods,Paige Collier Wiseman,Laura Lee Gant,Leigh Golden,12,15,Completed
+19794,6,2026-09-15,triad,fall2026,highintermediate,50,women,BPB Queenagers,LAWN Smashing Sisters,Karen L Irving,Rebecca Pugh,Cathie Sexton,Skyler Bass,8,15,Completed
+19794,7,2026-09-15,triad,fall2026,highintermediate,50,women,BPB Queenagers,LAWN Smashing Sisters,Heather Littlejohn,Xinia West,Laura Lee Gant,Leigh Golden,15,3,Completed
+19794,8,2026-09-15,triad,fall2026,highintermediate,50,women,BPB Queenagers,LAWN Smashing Sisters,Joanne Byrd Woods,Paige Collier Wiseman,Cathie Sexton,Skyler Bass,3,15,Completed
+19794,9,2026-09-15,triad,fall2026,highintermediate,50,women,BPB Queenagers,LAWN Smashing Sisters,Karen L Irving,Rebecca Pugh,Cathy Prince,Jenny Kemp,4,15,Completed
+19795,1,2026-09-15,triad,fall2026,highintermediate,50,women,GCC Sweet Pickles,HPCC What's The Score?,Angela McGinn,Dixie Culver,Lee Nunn,Amy Robinson,4,15,Completed
+19795,2,2026-09-15,triad,fall2026,highintermediate,50,women,GCC Sweet Pickles,HPCC What's The Score?,Joanna Cox,Kathy Cross,Stephanie Ross,Wendy Austin,15,12,Completed
+19795,3,2026-09-15,triad,fall2026,highintermediate,50,women,GCC Sweet Pickles,HPCC What's The Score?,Lorie Poole,Suzie Addington,Suellen McCrary,Heather Foster,7,15,Completed
+19795,4,2026-09-15,triad,fall2026,highintermediate,50,women,GCC Sweet Pickles,HPCC What's The Score?,Angela McGinn,Dixie Culver,Stephanie Ross,Wendy Austin,2,15,Completed
+19795,5,2026-09-15,triad,fall2026,highintermediate,50,women,GCC Sweet Pickles,HPCC What's The Score?,Joanna Cox,Kathy Cross,Suellen McCrary,Heather Foster,6,15,Completed
+19795,6,2026-09-15,triad,fall2026,highintermediate,50,women,GCC Sweet Pickles,HPCC What's The Score?,Lorie Poole,Suzie Addington,Lee Nunn,Amy Robinson,8,15,Completed
+19795,7,2026-09-15,triad,fall2026,highintermediate,50,women,GCC Sweet Pickles,HPCC What's The Score?,Angela McGinn,Dixie Culver,Suellen McCrary,Heather Foster,6,15,Completed
+19795,8,2026-09-15,triad,fall2026,highintermediate,50,women,GCC Sweet Pickles,HPCC What's The Score?,Joanna Cox,Kathy Cross,Lee Nunn,Amy Robinson,4,15,Completed
+19795,9,2026-09-15,triad,fall2026,highintermediate,50,women,GCC Sweet Pickles,HPCC What's The Score?,Lorie Poole,Suzie Addington,Stephanie Ross,Wendy Austin,3,15,Completed
+19817,1,2026-09-22,triad,fall2026,highintermediate,50,women,BPB Queenagers,HPCC What's The Score?,Joanne Byrd Woods,Xinia West,Stephanie Ross,Wendy Austin,16,14,Completed
+19817,2,2026-09-22,triad,fall2026,highintermediate,50,women,BPB Queenagers,HPCC What's The Score?,Paige Collier Wiseman,Karen L Irving,Kellie Holbrook,Heather Foster,15,9,Completed
+19817,3,2026-09-22,triad,fall2026,highintermediate,50,women,BPB Queenagers,HPCC What's The Score?,Rebecca Pugh,Heather Littlejohn,DEFAULT,DEFAULT,15,0,Default
+19817,4,2026-09-22,triad,fall2026,highintermediate,50,women,BPB Queenagers,HPCC What's The Score?,Joanne Byrd Woods,Xinia West,Kellie Holbrook,Heather Foster,15,3,Completed
+19817,5,2026-09-22,triad,fall2026,highintermediate,50,women,BPB Queenagers,HPCC What's The Score?,Paige Collier Wiseman,Karen L Irving,DEFAULT,DEFAULT,15,0,Default
+19817,6,2026-09-22,triad,fall2026,highintermediate,50,women,BPB Queenagers,HPCC What's The Score?,Rebecca Pugh,Heather Littlejohn,Stephanie Ross,Wendy Austin,0,15,Completed
+19817,7,2026-09-22,triad,fall2026,highintermediate,50,women,BPB Queenagers,HPCC What's The Score?,Joanne Byrd Woods,Xinia West,DEFAULT,DEFAULT,15,0,Default
+19817,8,2026-09-22,triad,fall2026,highintermediate,50,women,BPB Queenagers,HPCC What's The Score?,Paige Collier Wiseman,Karen L Irving,Stephanie Ross,Wendy Austin,6,15,Completed
+19817,9,2026-09-22,triad,fall2026,highintermediate,50,women,BPB Queenagers,HPCC What's The Score?,Rebecca Pugh,Heather Littlejohn,Kellie Holbrook,Heather Foster,5,15,Completed
+19818,1,2026-09-22,triad,fall2026,highintermediate,50,women,LJ Two Dink Minimum,LAWN Smashing Sisters,Beth R Sherrill,Linda Stefanick,Skyler Bass,Cathie Sexton,15,3,Completed
+19818,2,2026-09-22,triad,fall2026,highintermediate,50,women,LJ Two Dink Minimum,LAWN Smashing Sisters,Jodi Stanley,Lisa Morrison,Leigh Golden,Janelle Krueger,10,15,Completed
+19818,3,2026-09-22,triad,fall2026,highintermediate,50,women,LJ Two Dink Minimum,LAWN Smashing Sisters,Cary Scully,Sheri Cram,Kelly Hassell,Laura Lee Gant,12,15,Completed
+19818,4,2026-09-22,triad,fall2026,highintermediate,50,women,LJ Two Dink Minimum,LAWN Smashing Sisters,Beth R Sherrill,Linda Stefanick,Leigh Golden,Janelle Krueger,11,15,Completed
+19818,5,2026-09-22,triad,fall2026,highintermediate,50,women,LJ Two Dink Minimum,LAWN Smashing Sisters,Jodi Stanley,Lisa Morrison,Kelly Hassell,Laura Lee Gant,15,11,Completed
+19818,6,2026-09-22,triad,fall2026,highintermediate,50,women,LJ Two Dink Minimum,LAWN Smashing Sisters,Cary Scully,Sheri Cram,Skyler Bass,Cathie Sexton,6,15,Completed
+19818,7,2026-09-22,triad,fall2026,highintermediate,50,women,LJ Two Dink Minimum,LAWN Smashing Sisters,Beth R Sherrill,Linda Stefanick,Kelly Hassell,Laura Lee Gant,15,5,Completed
+19818,8,2026-09-22,triad,fall2026,highintermediate,50,women,LJ Two Dink Minimum,LAWN Smashing Sisters,Jodi Stanley,Lisa Morrison,Skyler Bass,Cathie Sexton,3,15,Completed
+19818,9,2026-09-22,triad,fall2026,highintermediate,50,women,LJ Two Dink Minimum,LAWN Smashing Sisters,Cary Scully,Sheri Cram,Leigh Golden,Janelle Krueger,1,15,Completed
+19840,1,2026-09-29,triad,fall2026,highintermediate,50,women,GCC Sweet Pickles,BPB Queenagers,Sharen Thompson,Carmella Roehrig,Paige Collier Wiseman,Rebecca Pugh,15,17,Completed
+19840,2,2026-09-29,triad,fall2026,highintermediate,50,women,GCC Sweet Pickles,BPB Queenagers,Catherine Joseph,Barbara Young,Xinia West,Karen L Irving,9,15,Completed
+19840,3,2026-09-29,triad,fall2026,highintermediate,50,women,GCC Sweet Pickles,BPB Queenagers,Kim Minor,Lori Howell,Joanne Byrd Woods,Heather Littlejohn,15,9,Completed
+19840,4,2026-09-29,triad,fall2026,highintermediate,50,women,GCC Sweet Pickles,BPB Queenagers,Sharen Thompson,Carmella Roehrig,Xinia West,Karen L Irving,2,15,Completed
+19840,5,2026-09-29,triad,fall2026,highintermediate,50,women,GCC Sweet Pickles,BPB Queenagers,Catherine Joseph,Barbara Young,Joanne Byrd Woods,Heather Littlejohn,15,5,Completed
+19840,6,2026-09-29,triad,fall2026,highintermediate,50,women,GCC Sweet Pickles,BPB Queenagers,Kim Minor,Lori Howell,Paige Collier Wiseman,Rebecca Pugh,15,9,Completed
+19840,7,2026-09-29,triad,fall2026,highintermediate,50,women,GCC Sweet Pickles,BPB Queenagers,Sharen Thompson,Carmella Roehrig,Joanne Byrd Woods,Heather Littlejohn,15,7,Completed
+19840,8,2026-09-29,triad,fall2026,highintermediate,50,women,GCC Sweet Pickles,BPB Queenagers,Catherine Joseph,Barbara Young,Paige Collier Wiseman,Rebecca Pugh,15,13,Completed
+19840,9,2026-09-29,triad,fall2026,highintermediate,50,women,GCC Sweet Pickles,BPB Queenagers,Kim Minor,Lori Howell,Xinia West,Karen L Irving,15,12,Completed
+19841,1,2026-09-29,triad,fall2026,highintermediate,50,women,HPCC What's The Score?,LJ Two Dink Minimum,Alyce Warden,Amy Robinson,Catherine Bell Flannery,Sheri Cram,15,5,Completed
+19841,2,2026-09-29,triad,fall2026,highintermediate,50,women,HPCC What's The Score?,LJ Two Dink Minimum,Lee Nunn,Wendy Austin,Elizabeth Conte-Vitullo,Linda Stefanick,15,3,Completed
+19841,3,2026-09-29,triad,fall2026,highintermediate,50,women,HPCC What's The Score?,LJ Two Dink Minimum,Kellie Holbrook,Heather Foster,Nancy Guinasso,Cary Scully,14,16,Completed
+19841,4,2026-09-29,triad,fall2026,highintermediate,50,women,HPCC What's The Score?,LJ Two Dink Minimum,Alyce Warden,Amy Robinson,Elizabeth Conte-Vitullo,Linda Stefanick,15,13,Completed
+19841,5,2026-09-29,triad,fall2026,highintermediate,50,women,HPCC What's The Score?,LJ Two Dink Minimum,Lee Nunn,Wendy Austin,Nancy Guinasso,Cary Scully,15,6,Completed
+19841,6,2026-09-29,triad,fall2026,highintermediate,50,women,HPCC What's The Score?,LJ Two Dink Minimum,Kellie Holbrook,Heather Foster,Catherine Bell Flannery,Sheri Cram,7,15,Completed
+19841,7,2026-09-29,triad,fall2026,highintermediate,50,women,HPCC What's The Score?,LJ Two Dink Minimum,Alyce Warden,Amy Robinson,Nancy Guinasso,Cary Scully,8,15,Completed
+19841,8,2026-09-29,triad,fall2026,highintermediate,50,women,HPCC What's The Score?,LJ Two Dink Minimum,Lee Nunn,Wendy Austin,Catherine Bell Flannery,Sheri Cram,15,4,Completed
+19841,9,2026-09-29,triad,fall2026,highintermediate,50,women,HPCC What's The Score?,LJ Two Dink Minimum,Kellie Holbrook,Heather Foster,Elizabeth Conte-Vitullo,Linda Stefanick,15,5,Completed
+19861,1,2026-10-06,triad,fall2026,highintermediate,50,women,LAWN Smashing Sisters,HPCC What's The Score?,Nikole Daigle,Sandy Elizabeth Meister,Wendy Austin,Lee Nunn,5,15,Completed
+19861,2,2026-10-06,triad,fall2026,highintermediate,50,women,LAWN Smashing Sisters,HPCC What's The Score?,Leigh Golden,Cathy Prince,Stephanie Ross,Alyce Warden,13,15,Completed
+19861,3,2026-10-06,triad,fall2026,highintermediate,50,women,LAWN Smashing Sisters,HPCC What's The Score?,Skyler Bass,Cathie Sexton,Heather Foster,Terry Aulbert,8,15,Completed
+19861,4,2026-10-06,triad,fall2026,highintermediate,50,women,LAWN Smashing Sisters,HPCC What's The Score?,Nikole Daigle,Sandy Elizabeth Meister,Stephanie Ross,Alyce Warden,15,12,Completed
+19861,5,2026-10-06,triad,fall2026,highintermediate,50,women,LAWN Smashing Sisters,HPCC What's The Score?,Leigh Golden,Cathy Prince,Heather Foster,Terry Aulbert,11,15,Completed
+19861,6,2026-10-06,triad,fall2026,highintermediate,50,women,LAWN Smashing Sisters,HPCC What's The Score?,Skyler Bass,Cathie Sexton,Wendy Austin,Lee Nunn,2,15,Completed
+19861,7,2026-10-06,triad,fall2026,highintermediate,50,women,LAWN Smashing Sisters,HPCC What's The Score?,Nikole Daigle,Sandy Elizabeth Meister,Heather Foster,Terry Aulbert,15,11,Completed
+19861,8,2026-10-06,triad,fall2026,highintermediate,50,women,LAWN Smashing Sisters,HPCC What's The Score?,Leigh Golden,Cathy Prince,Wendy Austin,Lee Nunn,15,11,Completed
+19861,9,2026-10-06,triad,fall2026,highintermediate,50,women,LAWN Smashing Sisters,HPCC What's The Score?,Skyler Bass,Cathie Sexton,Stephanie Ross,Alyce Warden,15,11,Completed
+19862,1,2026-10-06,triad,fall2026,highintermediate,50,women,LJ Two Dink Minimum,GCC Sweet Pickles,Beth R Sherrill,Linda Stefanick,Kim Minor,Suzie Addington,15,7,Completed
+19862,2,2026-10-06,triad,fall2026,highintermediate,50,women,LJ Two Dink Minimum,GCC Sweet Pickles,Jodi Stanley,Pamela Cascarano,Carol Smith,Kathy Cross,15,5,Completed
+19862,3,2026-10-06,triad,fall2026,highintermediate,50,women,LJ Two Dink Minimum,GCC Sweet Pickles,Amy Stehlin,Cary Scully,Dixie Culver,Sharen Thompson,15,6,Completed
+19862,4,2026-10-06,triad,fall2026,highintermediate,50,women,LJ Two Dink Minimum,GCC Sweet Pickles,Beth R Sherrill,Linda Stefanick,Carol Smith,Kathy Cross,15,4,Completed
+19862,5,2026-10-06,triad,fall2026,highintermediate,50,women,LJ Two Dink Minimum,GCC Sweet Pickles,Jodi Stanley,Pamela Cascarano,Dixie Culver,Sharen Thompson,8,15,Completed
+19862,6,2026-10-06,triad,fall2026,highintermediate,50,women,LJ Two Dink Minimum,GCC Sweet Pickles,Amy Stehlin,Cary Scully,Kim Minor,Suzie Addington,8,15,Completed
+19862,7,2026-10-06,triad,fall2026,highintermediate,50,women,LJ Two Dink Minimum,GCC Sweet Pickles,Beth R Sherrill,Linda Stefanick,Dixie Culver,Sharen Thompson,13,15,Completed
+19862,8,2026-10-06,triad,fall2026,highintermediate,50,women,LJ Two Dink Minimum,GCC Sweet Pickles,Jodi Stanley,Pamela Cascarano,Kim Minor,Suzie Addington,1,15,Completed
+19862,9,2026-10-06,triad,fall2026,highintermediate,50,women,LJ Two Dink Minimum,GCC Sweet Pickles,Amy Stehlin,Cary Scully,Carol Smith,Kathy Cross,15,11,Completed
+19884,1,2026-10-13,triad,fall2026,highintermediate,50,women,BPB Queenagers,LJ Two Dink Minimum,Heather Littlejohn,Karen L Irving,Jodi Stanley,Lisa Morrison,15,13,Completed
+19884,2,2026-10-13,triad,fall2026,highintermediate,50,women,BPB Queenagers,LJ Two Dink Minimum,Paige Collier Wiseman,Xinia West,Jaqueline Gast,Patti Hartman,15,13,Completed
+19884,3,2026-10-13,triad,fall2026,highintermediate,50,women,BPB Queenagers,LJ Two Dink Minimum,Joanne Byrd Woods,Rebecca Pugh,Amy Stehlin,Catherine Bell Flannery,15,13,Completed
+19884,4,2026-10-13,triad,fall2026,highintermediate,50,women,BPB Queenagers,LJ Two Dink Minimum,Heather Littlejohn,Karen L Irving,Jaqueline Gast,Patti Hartman,13,15,Completed
+19884,5,2026-10-13,triad,fall2026,highintermediate,50,women,BPB Queenagers,LJ Two Dink Minimum,Paige Collier Wiseman,Xinia West,Amy Stehlin,Catherine Bell Flannery,15,5,Completed
+19884,6,2026-10-13,triad,fall2026,highintermediate,50,women,BPB Queenagers,LJ Two Dink Minimum,Joanne Byrd Woods,Rebecca Pugh,Jodi Stanley,Lisa Morrison,15,11,Completed
+19884,7,2026-10-13,triad,fall2026,highintermediate,50,women,BPB Queenagers,LJ Two Dink Minimum,Heather Littlejohn,Karen L Irving,Amy Stehlin,Catherine Bell Flannery,7,15,Completed
+19884,8,2026-10-13,triad,fall2026,highintermediate,50,women,BPB Queenagers,LJ Two Dink Minimum,Paige Collier Wiseman,Xinia West,Jodi Stanley,Lisa Morrison,15,6,Completed
+19884,9,2026-10-13,triad,fall2026,highintermediate,50,women,BPB Queenagers,LJ Two Dink Minimum,Joanne Byrd Woods,Rebecca Pugh,Jaqueline Gast,Patti Hartman,5,15,Completed
+19885,1,2026-10-13,triad,fall2026,highintermediate,50,women,GCC Sweet Pickles,LAWN Smashing Sisters,Dixie Culver,Sharen Thompson,Bee Baker,Nikole Daigle,6,15,Completed
+19885,2,2026-10-13,triad,fall2026,highintermediate,50,women,GCC Sweet Pickles,LAWN Smashing Sisters,Joanna Cox,Carmella Roehrig,Sandy Elizabeth Meister,Laura Lee Gant,3,15,Completed
+19885,3,2026-10-13,triad,fall2026,highintermediate,50,women,GCC Sweet Pickles,LAWN Smashing Sisters,Suzie Addington,Kathy Cross,Jenny Kemp,Janelle Krueger,6,15,Completed
+19885,4,2026-10-13,triad,fall2026,highintermediate,50,women,GCC Sweet Pickles,LAWN Smashing Sisters,Dixie Culver,Sharen Thompson,Sandy Elizabeth Meister,Laura Lee Gant,15,5,Completed
+19885,5,2026-10-13,triad,fall2026,highintermediate,50,women,GCC Sweet Pickles,LAWN Smashing Sisters,Joanna Cox,Carmella Roehrig,Jenny Kemp,Janelle Krueger,9,15,Completed
+19885,6,2026-10-13,triad,fall2026,highintermediate,50,women,GCC Sweet Pickles,LAWN Smashing Sisters,Suzie Addington,Kathy Cross,Bee Baker,Nikole Daigle,5,15,Completed
+19885,7,2026-10-13,triad,fall2026,highintermediate,50,women,GCC Sweet Pickles,LAWN Smashing Sisters,Dixie Culver,Sharen Thompson,Jenny Kemp,Janelle Krueger,15,12,Completed
+19885,8,2026-10-13,triad,fall2026,highintermediate,50,women,GCC Sweet Pickles,LAWN Smashing Sisters,Joanna Cox,Carmella Roehrig,Bee Baker,Nikole Daigle,5,15,Completed
+19885,9,2026-10-13,triad,fall2026,highintermediate,50,women,GCC Sweet Pickles,LAWN Smashing Sisters,Suzie Addington,Kathy Cross,Sandy Elizabeth Meister,Laura Lee Gant,4,15,Completed
+19904,1,2026-10-20,triad,fall2026,highintermediate,50,women,LAWN Smashing Sisters,BPB Queenagers,Cathie Sexton,Bee Baker,Joanne Byrd Woods,Karen L Irving,15,7,Completed
+19904,2,2026-10-20,triad,fall2026,highintermediate,50,women,LAWN Smashing Sisters,BPB Queenagers,Cathy Prince,Leigh Golden,Paige Collier Wiseman,Heather Littlejohn,15,7,Completed
+19904,3,2026-10-20,triad,fall2026,highintermediate,50,women,LAWN Smashing Sisters,BPB Queenagers,Sandy Elizabeth Meister,Janelle Krueger,Rebecca Pugh,Xinia West,15,12,Completed
+19904,4,2026-10-20,triad,fall2026,highintermediate,50,women,LAWN Smashing Sisters,BPB Queenagers,Cathie Sexton,Bee Baker,Paige Collier Wiseman,Heather Littlejohn,15,0,Completed
+19904,5,2026-10-20,triad,fall2026,highintermediate,50,women,LAWN Smashing Sisters,BPB Queenagers,Cathy Prince,Leigh Golden,Rebecca Pugh,Xinia West,15,6,Completed
+19904,6,2026-10-20,triad,fall2026,highintermediate,50,women,LAWN Smashing Sisters,BPB Queenagers,Sandy Elizabeth Meister,Janelle Krueger,Joanne Byrd Woods,Karen L Irving,15,9,Completed
+19904,7,2026-10-20,triad,fall2026,highintermediate,50,women,LAWN Smashing Sisters,BPB Queenagers,Cathie Sexton,Bee Baker,Rebecca Pugh,Xinia West,15,3,Completed
+19904,8,2026-10-20,triad,fall2026,highintermediate,50,women,LAWN Smashing Sisters,BPB Queenagers,Cathy Prince,Leigh Golden,Joanne Byrd Woods,Karen L Irving,15,13,Completed
+19904,9,2026-10-20,triad,fall2026,highintermediate,50,women,LAWN Smashing Sisters,BPB Queenagers,Sandy Elizabeth Meister,Janelle Krueger,Paige Collier Wiseman,Heather Littlejohn,15,10,Completed
+19905,1,2026-10-20,triad,fall2026,highintermediate,50,women,HPCC What's The Score?,GCC Sweet Pickles,Suellen McCrary,Terry Aulbert,Catherine Joseph,Dixie Culver,15,2,Completed
+19905,2,2026-10-20,triad,fall2026,highintermediate,50,women,HPCC What's The Score?,GCC Sweet Pickles,Lee Nunn,Amy Robinson,Kim Minor,Lorie Poole,15,2,Completed
+19905,3,2026-10-20,triad,fall2026,highintermediate,50,women,HPCC What's The Score?,GCC Sweet Pickles,Kellie Holbrook,Wendy Austin,Sharen Thompson,Suzie Addington,15,13,Completed
+19905,4,2026-10-20,triad,fall2026,highintermediate,50,women,HPCC What's The Score?,GCC Sweet Pickles,Suellen McCrary,Terry Aulbert,Kim Minor,Lorie Poole,15,2,Completed
+19905,5,2026-10-20,triad,fall2026,highintermediate,50,women,HPCC What's The Score?,GCC Sweet Pickles,Lee Nunn,Amy Robinson,Sharen Thompson,Suzie Addington,15,12,Completed
+19905,6,2026-10-20,triad,fall2026,highintermediate,50,women,HPCC What's The Score?,GCC Sweet Pickles,Kellie Holbrook,Wendy Austin,Catherine Joseph,Dixie Culver,15,10,Completed
+19905,7,2026-10-20,triad,fall2026,highintermediate,50,women,HPCC What's The Score?,GCC Sweet Pickles,Suellen McCrary,Terry Aulbert,Sharen Thompson,Suzie Addington,15,7,Completed
+19905,8,2026-10-20,triad,fall2026,highintermediate,50,women,HPCC What's The Score?,GCC Sweet Pickles,Lee Nunn,Amy Robinson,Catherine Joseph,Dixie Culver,15,8,Completed
+19905,9,2026-10-20,triad,fall2026,highintermediate,50,women,HPCC What's The Score?,GCC Sweet Pickles,Kellie Holbrook,Wendy Austin,Kim Minor,Lorie Poole,15,6,Completed
+19928,1,2026-10-31,triad,fall2026,highintermediate,50,women,HPCC What's The Score?,LAWN Smashing Sisters,Wendy Austin,Lee Nunn,Sandy Elizabeth Meister,Bee Baker,12,15,Completed
+19928,2,2026-10-31,triad,fall2026,highintermediate,50,women,HPCC What's The Score?,LAWN Smashing Sisters,Amy Robinson,Stephanie Ross,Skyler Bass,Jenny Kemp,13,15,Completed
+19928,3,2026-10-31,triad,fall2026,highintermediate,50,women,HPCC What's The Score?,LAWN Smashing Sisters,Heather Foster,Suellen McCrary,Leigh Golden,Cathy Prince,8,15,Completed
+19928,4,2026-10-31,triad,fall2026,highintermediate,50,women,HPCC What's The Score?,LAWN Smashing Sisters,Wendy Austin,Lee Nunn,Skyler Bass,Jenny Kemp,15,5,Completed
+19928,5,2026-10-31,triad,fall2026,highintermediate,50,women,HPCC What's The Score?,LAWN Smashing Sisters,Amy Robinson,Stephanie Ross,Leigh Golden,Cathy Prince,15,13,Completed
+19928,6,2026-10-31,triad,fall2026,highintermediate,50,women,HPCC What's The Score?,LAWN Smashing Sisters,Heather Foster,Suellen McCrary,Sandy Elizabeth Meister,Bee Baker,15,10,Completed
+19928,7,2026-10-31,triad,fall2026,highintermediate,50,women,HPCC What's The Score?,LAWN Smashing Sisters,Wendy Austin,Lee Nunn,Leigh Golden,Cathy Prince,15,10,Completed
+19928,8,2026-10-31,triad,fall2026,highintermediate,50,women,HPCC What's The Score?,LAWN Smashing Sisters,Amy Robinson,Stephanie Ross,Sandy Elizabeth Meister,Bee Baker,13,15,Completed
+19928,9,2026-10-31,triad,fall2026,highintermediate,50,women,HPCC What's The Score?,LAWN Smashing Sisters,Heather Foster,Suellen McCrary,Skyler Bass,Jenny Kemp,15,4,Completed

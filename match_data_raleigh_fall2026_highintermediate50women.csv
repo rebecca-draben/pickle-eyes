@@ -1,0 +1,172 @@
+match_id,game_id,match_date,league,season,skill_level,age,gender,team1_name,team2_name,partner1,partner2,opponent1,opponent2,team1_points,team2_points,status
+19314,1,2026-08-20,raleigh,fall2026,highintermediate,50,women,7OAKS Dill With It,WPCC SPINSTERS,Leigh Magee,Molly Bradsher Briggs,Lynda Velanovich,Sylvie Daigle,15,12,Completed
+19314,2,2026-08-20,raleigh,fall2026,highintermediate,50,women,7OAKS Dill With It,WPCC SPINSTERS,Dana Chapman,Liz Broadway,Jennifer Bricker,Susan Laurie Shaw,15,13,Completed
+19314,3,2026-08-20,raleigh,fall2026,highintermediate,50,women,7OAKS Dill With It,WPCC SPINSTERS,Danielle Stringer,Peggy B Williams,Sonya Rhiver,Cathy Werder,15,10,Completed
+19314,4,2026-08-20,raleigh,fall2026,highintermediate,50,women,7OAKS Dill With It,WPCC SPINSTERS,Leigh Magee,Molly Bradsher Briggs,Jennifer Bricker,Susan Laurie Shaw,15,7,Completed
+19314,5,2026-08-20,raleigh,fall2026,highintermediate,50,women,7OAKS Dill With It,WPCC SPINSTERS,Dana Chapman,Liz Broadway,Sonya Rhiver,Cathy Werder,15,3,Completed
+19314,6,2026-08-20,raleigh,fall2026,highintermediate,50,women,7OAKS Dill With It,WPCC SPINSTERS,Danielle Stringer,Peggy B Williams,Lynda Velanovich,Sylvie Daigle,15,11,Completed
+19314,7,2026-08-20,raleigh,fall2026,highintermediate,50,women,7OAKS Dill With It,WPCC SPINSTERS,Leigh Magee,Molly Bradsher Briggs,Sonya Rhiver,Cathy Werder,15,1,Completed
+19314,8,2026-08-20,raleigh,fall2026,highintermediate,50,women,7OAKS Dill With It,WPCC SPINSTERS,Dana Chapman,Liz Broadway,Lynda Velanovich,Sylvie Daigle,15,8,Completed
+19314,9,2026-08-20,raleigh,fall2026,highintermediate,50,women,7OAKS Dill With It,WPCC SPINSTERS,Danielle Stringer,Peggy B Williams,Jennifer Bricker,Susan Laurie Shaw,15,10,Completed
+19315,1,2026-08-20,raleigh,fall2026,highintermediate,50,women,HASEN Dink Responsibly 50+,7OAKS Wildcards,Mary Jo Nugent,Jennifer Lynn Bouck,Donna Cuomo,Beth Treadway,14,16,Completed
+19315,2,2026-08-20,raleigh,fall2026,highintermediate,50,women,HASEN Dink Responsibly 50+,7OAKS Wildcards,Candice V Diehl,Sharon F Barham,Kathy Casadonte,Takako Schenberger,9,15,Completed
+19315,3,2026-08-20,raleigh,fall2026,highintermediate,50,women,HASEN Dink Responsibly 50+,7OAKS Wildcards,Susan Flanagan,Laurie Randall,Bethany Upton Squires,Sherry Lynn Goodson,15,6,Completed
+19315,4,2026-08-20,raleigh,fall2026,highintermediate,50,women,HASEN Dink Responsibly 50+,7OAKS Wildcards,Mary Jo Nugent,Jennifer Lynn Bouck,Kathy Casadonte,Takako Schenberger,10,15,Completed
+19315,5,2026-08-20,raleigh,fall2026,highintermediate,50,women,HASEN Dink Responsibly 50+,7OAKS Wildcards,Candice V Diehl,Sharon F Barham,Bethany Upton Squires,Sherry Lynn Goodson,15,5,Completed
+19315,6,2026-08-20,raleigh,fall2026,highintermediate,50,women,HASEN Dink Responsibly 50+,7OAKS Wildcards,Susan Flanagan,Laurie Randall,Donna Cuomo,Beth Treadway,13,15,Completed
+19315,7,2026-08-20,raleigh,fall2026,highintermediate,50,women,HASEN Dink Responsibly 50+,7OAKS Wildcards,Mary Jo Nugent,Jennifer Lynn Bouck,Bethany Upton Squires,Sherry Lynn Goodson,15,7,Completed
+19315,8,2026-08-20,raleigh,fall2026,highintermediate,50,women,HASEN Dink Responsibly 50+,7OAKS Wildcards,Candice V Diehl,Sharon F Barham,Donna Cuomo,Beth Treadway,11,15,Completed
+19315,9,2026-08-20,raleigh,fall2026,highintermediate,50,women,HASEN Dink Responsibly 50+,7OAKS Wildcards,Susan Flanagan,Laurie Randall,Kathy Casadonte,Takako Schenberger,16,14,Completed
+19331,1,2026-08-27,raleigh,fall2026,highintermediate,50,women,7OAKS Dill With It,7OAKS Wildcards,Ada Gonzalez,Dana Chapman,Alix Winfield Ballantyne,Eleanor Helms,15,2,Completed
+19331,2,2026-08-27,raleigh,fall2026,highintermediate,50,women,7OAKS Dill With It,7OAKS Wildcards,Amy A Lindsey,Angie Carden,Suzette P Brown,Cindy Feryo,13,15,Completed
+19331,3,2026-08-27,raleigh,fall2026,highintermediate,50,women,7OAKS Dill With It,7OAKS Wildcards,Laura Dwyer,Danielle Stringer,Joy Cooper,Sherry Lynn Goodson,15,2,Completed
+19331,4,2026-08-27,raleigh,fall2026,highintermediate,50,women,7OAKS Dill With It,7OAKS Wildcards,Ada Gonzalez,Dana Chapman,Suzette P Brown,Cindy Feryo,15,3,Completed
+19331,5,2026-08-27,raleigh,fall2026,highintermediate,50,women,7OAKS Dill With It,7OAKS Wildcards,Amy A Lindsey,Angie Carden,Joy Cooper,Sherry Lynn Goodson,15,5,Completed
+19331,6,2026-08-27,raleigh,fall2026,highintermediate,50,women,7OAKS Dill With It,7OAKS Wildcards,Laura Dwyer,Danielle Stringer,Alix Winfield Ballantyne,Eleanor Helms,12,15,Completed
+19331,7,2026-08-27,raleigh,fall2026,highintermediate,50,women,7OAKS Dill With It,7OAKS Wildcards,Ada Gonzalez,Dana Chapman,Joy Cooper,Sherry Lynn Goodson,15,2,Completed
+19331,8,2026-08-27,raleigh,fall2026,highintermediate,50,women,7OAKS Dill With It,7OAKS Wildcards,Amy A Lindsey,Angie Carden,Alix Winfield Ballantyne,Eleanor Helms,15,6,Completed
+19331,9,2026-08-27,raleigh,fall2026,highintermediate,50,women,7OAKS Dill With It,7OAKS Wildcards,Laura Dwyer,Danielle Stringer,Suzette P Brown,Cindy Feryo,9,15,Completed
+19332,1,2026-08-27,raleigh,fall2026,highintermediate,50,women,WPCC SPINSTERS,HASEN Dink Responsibly 50+,Leigh Kimball,Jennifer Bricker,Diane Werner,Cybele Martin Brockmann,16,14,Completed
+19332,2,2026-08-27,raleigh,fall2026,highintermediate,50,women,WPCC SPINSTERS,HASEN Dink Responsibly 50+,Lynda Velanovich,Melissa S Green,Sharon F Barham,Candice V Diehl,6,15,Completed
+19332,3,2026-08-27,raleigh,fall2026,highintermediate,50,women,WPCC SPINSTERS,HASEN Dink Responsibly 50+,Susan Laurie Shaw,Teesa McKinley,Debra Skiko,Sandy T Wood,15,8,Completed
+19332,4,2026-08-27,raleigh,fall2026,highintermediate,50,women,WPCC SPINSTERS,HASEN Dink Responsibly 50+,Leigh Kimball,Jennifer Bricker,Sharon F Barham,Candice V Diehl,11,15,Completed
+19332,5,2026-08-27,raleigh,fall2026,highintermediate,50,women,WPCC SPINSTERS,HASEN Dink Responsibly 50+,Lynda Velanovich,Melissa S Green,Debra Skiko,Sandy T Wood,12,15,Completed
+19332,6,2026-08-27,raleigh,fall2026,highintermediate,50,women,WPCC SPINSTERS,HASEN Dink Responsibly 50+,Susan Laurie Shaw,Teesa McKinley,Diane Werner,Cybele Martin Brockmann,15,12,Completed
+19332,7,2026-08-27,raleigh,fall2026,highintermediate,50,women,WPCC SPINSTERS,HASEN Dink Responsibly 50+,Leigh Kimball,Jennifer Bricker,Debra Skiko,Sandy T Wood,16,18,Completed
+19332,8,2026-08-27,raleigh,fall2026,highintermediate,50,women,WPCC SPINSTERS,HASEN Dink Responsibly 50+,Lynda Velanovich,Melissa S Green,Diane Werner,Cybele Martin Brockmann,3,15,Completed
+19332,9,2026-08-27,raleigh,fall2026,highintermediate,50,women,WPCC SPINSTERS,HASEN Dink Responsibly 50+,Susan Laurie Shaw,Teesa McKinley,Sharon F Barham,Candice V Diehl,6,15,Completed
+19351,1,2026-09-03,raleigh,fall2026,highintermediate,50,women,7OAKS Wildcards,WPCC SPINSTERS,Kathy Casadonte,Alix Winfield Ballantyne,Melissa S Green,Nancy Page,15,12,Completed
+19351,2,2026-09-03,raleigh,fall2026,highintermediate,50,women,7OAKS Wildcards,WPCC SPINSTERS,Sherry Lynn Goodson,Suzette P Brown,Lori Parkman,Andrea Ellen McCartney,17,15,Completed
+19351,3,2026-09-03,raleigh,fall2026,highintermediate,50,women,7OAKS Wildcards,WPCC SPINSTERS,Beth Treadway,Micha P Gittelman,Kate Pirrung,Sonya Rhiver,15,9,Completed
+19351,4,2026-09-03,raleigh,fall2026,highintermediate,50,women,7OAKS Wildcards,WPCC SPINSTERS,Kathy Casadonte,Alix Winfield Ballantyne,Lori Parkman,Andrea Ellen McCartney,15,5,Completed
+19351,5,2026-09-03,raleigh,fall2026,highintermediate,50,women,7OAKS Wildcards,WPCC SPINSTERS,Sherry Lynn Goodson,Suzette P Brown,Kate Pirrung,Sonya Rhiver,15,11,Completed
+19351,6,2026-09-03,raleigh,fall2026,highintermediate,50,women,7OAKS Wildcards,WPCC SPINSTERS,Beth Treadway,Micha P Gittelman,Melissa S Green,Nancy Page,15,2,Completed
+19351,7,2026-09-03,raleigh,fall2026,highintermediate,50,women,7OAKS Wildcards,WPCC SPINSTERS,Kathy Casadonte,Alix Winfield Ballantyne,Kate Pirrung,Sonya Rhiver,15,5,Completed
+19351,8,2026-09-03,raleigh,fall2026,highintermediate,50,women,7OAKS Wildcards,WPCC SPINSTERS,Sherry Lynn Goodson,Suzette P Brown,Melissa S Green,Nancy Page,15,7,Completed
+19351,9,2026-09-03,raleigh,fall2026,highintermediate,50,women,7OAKS Wildcards,WPCC SPINSTERS,Beth Treadway,Micha P Gittelman,Lori Parkman,Andrea Ellen McCartney,15,9,Completed
+19352,1,2026-09-03,raleigh,fall2026,highintermediate,50,women,HASEN Dink Responsibly 50+,7OAKS Dill With It,Candice V Diehl,Sharon F Barham,Amy A Lindsey,Leigh Magee,17,15,Completed
+19352,2,2026-09-03,raleigh,fall2026,highintermediate,50,women,HASEN Dink Responsibly 50+,7OAKS Dill With It,Jennifer Lynn Bouck,Regina Heroux,Dana Chapman,Pamela Sue Rigsby,12,15,Completed
+19352,3,2026-09-03,raleigh,fall2026,highintermediate,50,women,HASEN Dink Responsibly 50+,7OAKS Dill With It,Cybele Martin Brockmann,Diane Werner,Angie Carden,Peggy B Williams,15,3,Completed
+19352,4,2026-09-03,raleigh,fall2026,highintermediate,50,women,HASEN Dink Responsibly 50+,7OAKS Dill With It,Candice V Diehl,Sharon F Barham,Dana Chapman,Pamela Sue Rigsby,10,15,Completed
+19352,5,2026-09-03,raleigh,fall2026,highintermediate,50,women,HASEN Dink Responsibly 50+,7OAKS Dill With It,Jennifer Lynn Bouck,Regina Heroux,Angie Carden,Peggy B Williams,15,2,Completed
+19352,6,2026-09-03,raleigh,fall2026,highintermediate,50,women,HASEN Dink Responsibly 50+,7OAKS Dill With It,Cybele Martin Brockmann,Diane Werner,Amy A Lindsey,Leigh Magee,15,8,Completed
+19352,7,2026-09-03,raleigh,fall2026,highintermediate,50,women,HASEN Dink Responsibly 50+,7OAKS Dill With It,Candice V Diehl,Sharon F Barham,Angie Carden,Peggy B Williams,15,6,Completed
+19352,8,2026-09-03,raleigh,fall2026,highintermediate,50,women,HASEN Dink Responsibly 50+,7OAKS Dill With It,Jennifer Lynn Bouck,Regina Heroux,Amy A Lindsey,Leigh Magee,12,15,Completed
+19352,9,2026-09-03,raleigh,fall2026,highintermediate,50,women,HASEN Dink Responsibly 50+,7OAKS Dill With It,Cybele Martin Brockmann,Diane Werner,Dana Chapman,Pamela Sue Rigsby,15,5,Completed
+19379,1,2026-09-17,raleigh,fall2026,highintermediate,50,women,WPCC SPINSTERS,7OAKS Dill With It,Kate Pirrung,Melissa S Green,Leigh Magee,Amy A Lindsey,1,15,Completed
+19379,2,2026-09-17,raleigh,fall2026,highintermediate,50,women,WPCC SPINSTERS,7OAKS Dill With It,Leigh Kimball,Teesa McKinley,Dolores Beck Quesenberry,Molly Bradsher Briggs,6,15,Completed
+19379,3,2026-09-17,raleigh,fall2026,highintermediate,50,women,WPCC SPINSTERS,7OAKS Dill With It,DEFAULT,DEFAULT,Ada Gonzalez,Laura Dwyer,0,15,Default
+19379,4,2026-09-17,raleigh,fall2026,highintermediate,50,women,WPCC SPINSTERS,7OAKS Dill With It,Kate Pirrung,Melissa S Green,Dolores Beck Quesenberry,Molly Bradsher Briggs,4,15,Completed
+19379,5,2026-09-17,raleigh,fall2026,highintermediate,50,women,WPCC SPINSTERS,7OAKS Dill With It,Leigh Kimball,Teesa McKinley,Ada Gonzalez,Laura Dwyer,17,15,Completed
+19379,6,2026-09-17,raleigh,fall2026,highintermediate,50,women,WPCC SPINSTERS,7OAKS Dill With It,DEFAULT,DEFAULT,Leigh Magee,Amy A Lindsey,0,15,Default
+19379,7,2026-09-17,raleigh,fall2026,highintermediate,50,women,WPCC SPINSTERS,7OAKS Dill With It,Kate Pirrung,Melissa S Green,Ada Gonzalez,Laura Dwyer,4,15,Completed
+19379,8,2026-09-17,raleigh,fall2026,highintermediate,50,women,WPCC SPINSTERS,7OAKS Dill With It,Leigh Kimball,Teesa McKinley,Leigh Magee,Amy A Lindsey,14,16,Completed
+19379,9,2026-09-17,raleigh,fall2026,highintermediate,50,women,WPCC SPINSTERS,7OAKS Dill With It,DEFAULT,DEFAULT,Dolores Beck Quesenberry,Molly Bradsher Briggs,0,15,Default
+19380,1,2026-09-17,raleigh,fall2026,highintermediate,50,women,7OAKS Wildcards,HASEN Dink Responsibly 50+,Cindy Feryo,Kathy Casadonte,Cybele Martin Brockmann,Samantha Starr,15,11,Completed
+19380,2,2026-09-17,raleigh,fall2026,highintermediate,50,women,7OAKS Wildcards,HASEN Dink Responsibly 50+,Donna Cuomo,Beth Treadway,Candice V Diehl,Sharon F Barham,15,8,Completed
+19380,3,2026-09-17,raleigh,fall2026,highintermediate,50,women,7OAKS Wildcards,HASEN Dink Responsibly 50+,Micha P Gittelman,Takako Schenberger,Regina Heroux,Laurie Randall,4,15,Completed
+19380,4,2026-09-17,raleigh,fall2026,highintermediate,50,women,7OAKS Wildcards,HASEN Dink Responsibly 50+,Cindy Feryo,Kathy Casadonte,Candice V Diehl,Sharon F Barham,15,13,Completed
+19380,5,2026-09-17,raleigh,fall2026,highintermediate,50,women,7OAKS Wildcards,HASEN Dink Responsibly 50+,Donna Cuomo,Beth Treadway,Regina Heroux,Laurie Randall,0,15,Completed
+19380,6,2026-09-17,raleigh,fall2026,highintermediate,50,women,7OAKS Wildcards,HASEN Dink Responsibly 50+,Micha P Gittelman,Takako Schenberger,Cybele Martin Brockmann,Samantha Starr,7,15,Completed
+19380,7,2026-09-17,raleigh,fall2026,highintermediate,50,women,7OAKS Wildcards,HASEN Dink Responsibly 50+,Cindy Feryo,Kathy Casadonte,Regina Heroux,Laurie Randall,15,12,Completed
+19380,8,2026-09-17,raleigh,fall2026,highintermediate,50,women,7OAKS Wildcards,HASEN Dink Responsibly 50+,Donna Cuomo,Beth Treadway,Cybele Martin Brockmann,Samantha Starr,12,15,Completed
+19380,9,2026-09-17,raleigh,fall2026,highintermediate,50,women,7OAKS Wildcards,HASEN Dink Responsibly 50+,Micha P Gittelman,Takako Schenberger,Candice V Diehl,Sharon F Barham,11,15,Completed
+19398,1,2026-09-24,raleigh,fall2026,highintermediate,50,women,7OAKS Wildcards,7OAKS Dill With It,Cindy Feryo,Tanya Sloan,Liz Broadway,Dana Chapman,15,6,Completed
+19398,2,2026-09-24,raleigh,fall2026,highintermediate,50,women,7OAKS Wildcards,7OAKS Dill With It,Suzette P Brown,Sherry Lynn Goodson,Leigh Magee,Molly Bradsher Briggs,14,16,Completed
+19398,3,2026-09-24,raleigh,fall2026,highintermediate,50,women,7OAKS Wildcards,7OAKS Dill With It,Alix Winfield Ballantyne,Donna Cuomo,Angie Carden,Amy A Lindsey,4,15,Completed
+19398,4,2026-09-24,raleigh,fall2026,highintermediate,50,women,7OAKS Wildcards,7OAKS Dill With It,Cindy Feryo,Tanya Sloan,Leigh Magee,Molly Bradsher Briggs,17,19,Completed
+19398,5,2026-09-24,raleigh,fall2026,highintermediate,50,women,7OAKS Wildcards,7OAKS Dill With It,Suzette P Brown,Sherry Lynn Goodson,Angie Carden,Amy A Lindsey,15,13,Completed
+19398,6,2026-09-24,raleigh,fall2026,highintermediate,50,women,7OAKS Wildcards,7OAKS Dill With It,Alix Winfield Ballantyne,Donna Cuomo,Liz Broadway,Dana Chapman,4,15,Completed
+19398,7,2026-09-24,raleigh,fall2026,highintermediate,50,women,7OAKS Wildcards,7OAKS Dill With It,Cindy Feryo,Tanya Sloan,Angie Carden,Amy A Lindsey,15,8,Completed
+19398,8,2026-09-24,raleigh,fall2026,highintermediate,50,women,7OAKS Wildcards,7OAKS Dill With It,Suzette P Brown,Sherry Lynn Goodson,Liz Broadway,Dana Chapman,4,15,Completed
+19398,9,2026-09-24,raleigh,fall2026,highintermediate,50,women,7OAKS Wildcards,7OAKS Dill With It,Alix Winfield Ballantyne,Donna Cuomo,Leigh Magee,Molly Bradsher Briggs,2,15,Completed
+19399,1,2026-09-24,raleigh,fall2026,highintermediate,50,women,HASEN Dink Responsibly 50+,WPCC SPINSTERS,Candice V Diehl,Sharon F Barham,Susan Laurie Shaw,Jennifer Bricker,15,10,Completed
+19399,2,2026-09-24,raleigh,fall2026,highintermediate,50,women,HASEN Dink Responsibly 50+,WPCC SPINSTERS,Mary Jo Nugent,Samantha Starr,Lori Parkman,Andrea Ellen McCartney,15,8,Completed
+19399,3,2026-09-24,raleigh,fall2026,highintermediate,50,women,HASEN Dink Responsibly 50+,WPCC SPINSTERS,Laurie Randall,Regina Heroux,Lynda Velanovich,Cathy Werder,15,4,Completed
+19399,4,2026-09-24,raleigh,fall2026,highintermediate,50,women,HASEN Dink Responsibly 50+,WPCC SPINSTERS,Candice V Diehl,Sharon F Barham,Lori Parkman,Andrea Ellen McCartney,15,4,Completed
+19399,5,2026-09-24,raleigh,fall2026,highintermediate,50,women,HASEN Dink Responsibly 50+,WPCC SPINSTERS,Mary Jo Nugent,Samantha Starr,Lynda Velanovich,Cathy Werder,15,13,Completed
+19399,6,2026-09-24,raleigh,fall2026,highintermediate,50,women,HASEN Dink Responsibly 50+,WPCC SPINSTERS,Laurie Randall,Regina Heroux,Susan Laurie Shaw,Jennifer Bricker,10,15,Completed
+19399,7,2026-09-24,raleigh,fall2026,highintermediate,50,women,HASEN Dink Responsibly 50+,WPCC SPINSTERS,Candice V Diehl,Sharon F Barham,Lynda Velanovich,Cathy Werder,15,12,Completed
+19399,8,2026-09-24,raleigh,fall2026,highintermediate,50,women,HASEN Dink Responsibly 50+,WPCC SPINSTERS,Mary Jo Nugent,Samantha Starr,Susan Laurie Shaw,Jennifer Bricker,15,6,Completed
+19399,9,2026-09-24,raleigh,fall2026,highintermediate,50,women,HASEN Dink Responsibly 50+,WPCC SPINSTERS,Laurie Randall,Regina Heroux,Lori Parkman,Andrea Ellen McCartney,15,1,Completed
+19418,1,2026-10-01,raleigh,fall2026,highintermediate,50,women,7OAKS Dill With It,HASEN Dink Responsibly 50+,Molly Bradsher Briggs,Amy A Lindsey,Mary Jo Nugent,Samantha Starr,15,1,Completed
+19418,2,2026-10-01,raleigh,fall2026,highintermediate,50,women,7OAKS Dill With It,HASEN Dink Responsibly 50+,Dana Chapman,Pamela Sue Rigsby,Debra Skiko,Cybele Martin Brockmann,6,15,Completed
+19418,3,2026-10-01,raleigh,fall2026,highintermediate,50,women,7OAKS Dill With It,HASEN Dink Responsibly 50+,Ada Gonzalez,Danielle Stringer,Regina Heroux,Laurie Randall,15,11,Completed
+19418,4,2026-10-01,raleigh,fall2026,highintermediate,50,women,7OAKS Dill With It,HASEN Dink Responsibly 50+,Molly Bradsher Briggs,Amy A Lindsey,Debra Skiko,Cybele Martin Brockmann,15,11,Completed
+19418,5,2026-10-01,raleigh,fall2026,highintermediate,50,women,7OAKS Dill With It,HASEN Dink Responsibly 50+,Dana Chapman,Pamela Sue Rigsby,Regina Heroux,Laurie Randall,15,9,Completed
+19418,6,2026-10-01,raleigh,fall2026,highintermediate,50,women,7OAKS Dill With It,HASEN Dink Responsibly 50+,Ada Gonzalez,Danielle Stringer,Mary Jo Nugent,Samantha Starr,16,14,Completed
+19418,7,2026-10-01,raleigh,fall2026,highintermediate,50,women,7OAKS Dill With It,HASEN Dink Responsibly 50+,Molly Bradsher Briggs,Amy A Lindsey,Regina Heroux,Laurie Randall,15,8,Completed
+19418,8,2026-10-01,raleigh,fall2026,highintermediate,50,women,7OAKS Dill With It,HASEN Dink Responsibly 50+,Dana Chapman,Pamela Sue Rigsby,Mary Jo Nugent,Samantha Starr,15,9,Completed
+19418,9,2026-10-01,raleigh,fall2026,highintermediate,50,women,7OAKS Dill With It,HASEN Dink Responsibly 50+,Ada Gonzalez,Danielle Stringer,Debra Skiko,Cybele Martin Brockmann,15,0,Completed
+19419,1,2026-10-01,raleigh,fall2026,highintermediate,50,women,WPCC SPINSTERS,7OAKS Wildcards,Kate Pirrung,Stacey Giglio,Eleanor Helms,Suzette P Brown,15,7,Completed
+19419,2,2026-10-01,raleigh,fall2026,highintermediate,50,women,WPCC SPINSTERS,7OAKS Wildcards,Jessica Brimmer,Teesa McKinley,Joy Cooper,Takako Schenberger,15,10,Completed
+19419,3,2026-10-01,raleigh,fall2026,highintermediate,50,women,WPCC SPINSTERS,7OAKS Wildcards,Andrea Ellen McCartney,Susan Laurie Shaw,Micha P Gittelman,Donna Cuomo,8,15,Completed
+19419,4,2026-10-01,raleigh,fall2026,highintermediate,50,women,WPCC SPINSTERS,7OAKS Wildcards,Kate Pirrung,Stacey Giglio,Joy Cooper,Takako Schenberger,15,5,Completed
+19419,5,2026-10-01,raleigh,fall2026,highintermediate,50,women,WPCC SPINSTERS,7OAKS Wildcards,Jessica Brimmer,Teesa McKinley,Micha P Gittelman,Donna Cuomo,15,3,Completed
+19419,6,2026-10-01,raleigh,fall2026,highintermediate,50,women,WPCC SPINSTERS,7OAKS Wildcards,Andrea Ellen McCartney,Susan Laurie Shaw,Eleanor Helms,Suzette P Brown,8,15,Completed
+19419,7,2026-10-01,raleigh,fall2026,highintermediate,50,women,WPCC SPINSTERS,7OAKS Wildcards,Kate Pirrung,Stacey Giglio,Micha P Gittelman,Donna Cuomo,6,15,Completed
+19419,8,2026-10-01,raleigh,fall2026,highintermediate,50,women,WPCC SPINSTERS,7OAKS Wildcards,Jessica Brimmer,Teesa McKinley,Eleanor Helms,Suzette P Brown,15,6,Completed
+19419,9,2026-10-01,raleigh,fall2026,highintermediate,50,women,WPCC SPINSTERS,7OAKS Wildcards,Andrea Ellen McCartney,Susan Laurie Shaw,Joy Cooper,Takako Schenberger,15,11,Completed
+19436,1,2026-10-08,raleigh,fall2026,highintermediate,50,women,HASEN Dink Responsibly 50+,7OAKS Wildcards,Candice V Diehl,Sharon F Barham,Sherry Lynn Goodson,Suzette P Brown,16,14,Completed
+19436,2,2026-10-08,raleigh,fall2026,highintermediate,50,women,HASEN Dink Responsibly 50+,7OAKS Wildcards,Cybele Martin Brockmann,Diane Werner,Alix Winfield Ballantyne,Kathy Casadonte,15,6,Completed
+19436,3,2026-10-08,raleigh,fall2026,highintermediate,50,women,HASEN Dink Responsibly 50+,7OAKS Wildcards,Laurie Randall,Samantha Starr,Eleanor Helms,Micha P Gittelman,15,8,Completed
+19436,4,2026-10-08,raleigh,fall2026,highintermediate,50,women,HASEN Dink Responsibly 50+,7OAKS Wildcards,Candice V Diehl,Sharon F Barham,Alix Winfield Ballantyne,Kathy Casadonte,9,15,Completed
+19436,5,2026-10-08,raleigh,fall2026,highintermediate,50,women,HASEN Dink Responsibly 50+,7OAKS Wildcards,Cybele Martin Brockmann,Diane Werner,Eleanor Helms,Micha P Gittelman,15,3,Completed
+19436,6,2026-10-08,raleigh,fall2026,highintermediate,50,women,HASEN Dink Responsibly 50+,7OAKS Wildcards,Laurie Randall,Samantha Starr,Sherry Lynn Goodson,Suzette P Brown,15,5,Completed
+19436,7,2026-10-08,raleigh,fall2026,highintermediate,50,women,HASEN Dink Responsibly 50+,7OAKS Wildcards,Candice V Diehl,Sharon F Barham,Eleanor Helms,Micha P Gittelman,15,5,Completed
+19436,8,2026-10-08,raleigh,fall2026,highintermediate,50,women,HASEN Dink Responsibly 50+,7OAKS Wildcards,Cybele Martin Brockmann,Diane Werner,Sherry Lynn Goodson,Suzette P Brown,15,5,Completed
+19436,9,2026-10-08,raleigh,fall2026,highintermediate,50,women,HASEN Dink Responsibly 50+,7OAKS Wildcards,Laurie Randall,Samantha Starr,Alix Winfield Ballantyne,Kathy Casadonte,15,9,Completed
+19437,1,2026-10-08,raleigh,fall2026,highintermediate,50,women,7OAKS Dill With It,WPCC SPINSTERS,Ada Gonzalez,Angie Carden,Sonya Rhiver,Lynda Velanovich,15,11,Completed
+19437,2,2026-10-08,raleigh,fall2026,highintermediate,50,women,7OAKS Dill With It,WPCC SPINSTERS,Laura Dwyer,Peggy B Williams,Kate Pirrung,Nancy Page,15,8,Completed
+19437,3,2026-10-08,raleigh,fall2026,highintermediate,50,women,7OAKS Dill With It,WPCC SPINSTERS,Dolores Beck Quesenberry,Molly Bradsher Briggs,Leigh Kimball,Jennifer Bricker,15,8,Completed
+19437,4,2026-10-08,raleigh,fall2026,highintermediate,50,women,7OAKS Dill With It,WPCC SPINSTERS,Ada Gonzalez,Angie Carden,Kate Pirrung,Nancy Page,15,4,Completed
+19437,5,2026-10-08,raleigh,fall2026,highintermediate,50,women,7OAKS Dill With It,WPCC SPINSTERS,Laura Dwyer,Peggy B Williams,Leigh Kimball,Jennifer Bricker,9,15,Completed
+19437,6,2026-10-08,raleigh,fall2026,highintermediate,50,women,7OAKS Dill With It,WPCC SPINSTERS,Dolores Beck Quesenberry,Molly Bradsher Briggs,Sonya Rhiver,Lynda Velanovich,18,16,Completed
+19437,7,2026-10-08,raleigh,fall2026,highintermediate,50,women,7OAKS Dill With It,WPCC SPINSTERS,Ada Gonzalez,Angie Carden,Leigh Kimball,Jennifer Bricker,15,5,Completed
+19437,8,2026-10-08,raleigh,fall2026,highintermediate,50,women,7OAKS Dill With It,WPCC SPINSTERS,Laura Dwyer,Peggy B Williams,Sonya Rhiver,Lynda Velanovich,10,15,Completed
+19437,9,2026-10-08,raleigh,fall2026,highintermediate,50,women,7OAKS Dill With It,WPCC SPINSTERS,Dolores Beck Quesenberry,Molly Bradsher Briggs,Kate Pirrung,Nancy Page,15,4,Completed
+19456,1,2026-10-15,raleigh,fall2026,highintermediate,50,women,7OAKS Dill With It,7OAKS Wildcards,Peggy B Williams,Danielle Stringer,Tanya Sloan,Cindy Feryo,12,15,Completed
+19456,2,2026-10-15,raleigh,fall2026,highintermediate,50,women,7OAKS Dill With It,7OAKS Wildcards,Dana Chapman,Leigh Magee,Kathy Casadonte,Donna Cuomo,15,3,Completed
+19456,3,2026-10-15,raleigh,fall2026,highintermediate,50,women,7OAKS Dill With It,7OAKS Wildcards,Amy A Lindsey,Pamela Sue Rigsby,Micha P Gittelman,Takako Schenberger,15,1,Completed
+19456,4,2026-10-15,raleigh,fall2026,highintermediate,50,women,7OAKS Dill With It,7OAKS Wildcards,Peggy B Williams,Danielle Stringer,Kathy Casadonte,Donna Cuomo,4,15,Completed
+19456,5,2026-10-15,raleigh,fall2026,highintermediate,50,women,7OAKS Dill With It,7OAKS Wildcards,Dana Chapman,Leigh Magee,Micha P Gittelman,Takako Schenberger,15,10,Completed
+19456,6,2026-10-15,raleigh,fall2026,highintermediate,50,women,7OAKS Dill With It,7OAKS Wildcards,Amy A Lindsey,Pamela Sue Rigsby,Tanya Sloan,Cindy Feryo,8,15,Completed
+19456,7,2026-10-15,raleigh,fall2026,highintermediate,50,women,7OAKS Dill With It,7OAKS Wildcards,Peggy B Williams,Danielle Stringer,Micha P Gittelman,Takako Schenberger,15,9,Completed
+19456,8,2026-10-15,raleigh,fall2026,highintermediate,50,women,7OAKS Dill With It,7OAKS Wildcards,Dana Chapman,Leigh Magee,Tanya Sloan,Cindy Feryo,11,15,Completed
+19456,9,2026-10-15,raleigh,fall2026,highintermediate,50,women,7OAKS Dill With It,7OAKS Wildcards,Amy A Lindsey,Pamela Sue Rigsby,Kathy Casadonte,Donna Cuomo,8,15,Completed
+19457,1,2026-10-15,raleigh,fall2026,highintermediate,50,women,WPCC SPINSTERS,HASEN Dink Responsibly 50+,Leigh Kimball,Lynda Velanovich,Mary Jo Nugent,Samantha Starr,7,15,Completed
+19457,2,2026-10-15,raleigh,fall2026,highintermediate,50,women,WPCC SPINSTERS,HASEN Dink Responsibly 50+,Cathy Werder,Nancy Page,Debra Skiko,Diane Werner,6,15,Completed
+19457,3,2026-10-15,raleigh,fall2026,highintermediate,50,women,WPCC SPINSTERS,HASEN Dink Responsibly 50+,Kate Pirrung,Melissa S Green,Sandy T Wood,Regina Heroux,10,15,Completed
+19457,4,2026-10-15,raleigh,fall2026,highintermediate,50,women,WPCC SPINSTERS,HASEN Dink Responsibly 50+,Leigh Kimball,Lynda Velanovich,Debra Skiko,Diane Werner,12,15,Completed
+19457,5,2026-10-15,raleigh,fall2026,highintermediate,50,women,WPCC SPINSTERS,HASEN Dink Responsibly 50+,Cathy Werder,Nancy Page,Sandy T Wood,Regina Heroux,3,15,Completed
+19457,6,2026-10-15,raleigh,fall2026,highintermediate,50,women,WPCC SPINSTERS,HASEN Dink Responsibly 50+,Kate Pirrung,Melissa S Green,Mary Jo Nugent,Samantha Starr,15,7,Completed
+19457,7,2026-10-15,raleigh,fall2026,highintermediate,50,women,WPCC SPINSTERS,HASEN Dink Responsibly 50+,Leigh Kimball,Lynda Velanovich,Sandy T Wood,Regina Heroux,13,15,Completed
+19457,8,2026-10-15,raleigh,fall2026,highintermediate,50,women,WPCC SPINSTERS,HASEN Dink Responsibly 50+,Cathy Werder,Nancy Page,Mary Jo Nugent,Samantha Starr,3,15,Completed
+19457,9,2026-10-15,raleigh,fall2026,highintermediate,50,women,WPCC SPINSTERS,HASEN Dink Responsibly 50+,Kate Pirrung,Melissa S Green,Debra Skiko,Diane Werner,11,15,Completed
+19471,1,2026-10-22,raleigh,fall2026,highintermediate,50,women,7OAKS Wildcards,WPCC SPINSTERS,Beth Treadway,Kathy Casadonte,DEFAULT,DEFAULT,15,0,Default
+19471,2,2026-10-22,raleigh,fall2026,highintermediate,50,women,7OAKS Wildcards,WPCC SPINSTERS,Lynne Copeland Allen,Eleanor Helms,DEFAULT,DEFAULT,15,0,Default
+19471,3,2026-10-22,raleigh,fall2026,highintermediate,50,women,7OAKS Wildcards,WPCC SPINSTERS,Tanya Sloan,Alix Winfield Ballantyne,DEFAULT,DEFAULT,15,0,Default
+19471,4,2026-10-22,raleigh,fall2026,highintermediate,50,women,7OAKS Wildcards,WPCC SPINSTERS,Beth Treadway,Kathy Casadonte,DEFAULT,DEFAULT,15,0,Default
+19471,5,2026-10-22,raleigh,fall2026,highintermediate,50,women,7OAKS Wildcards,WPCC SPINSTERS,Lynne Copeland Allen,Eleanor Helms,DEFAULT,DEFAULT,15,0,Default
+19471,6,2026-10-22,raleigh,fall2026,highintermediate,50,women,7OAKS Wildcards,WPCC SPINSTERS,Tanya Sloan,Alix Winfield Ballantyne,DEFAULT,DEFAULT,15,0,Default
+19471,7,2026-10-22,raleigh,fall2026,highintermediate,50,women,7OAKS Wildcards,WPCC SPINSTERS,Beth Treadway,Kathy Casadonte,DEFAULT,DEFAULT,15,0,Default
+19471,8,2026-10-22,raleigh,fall2026,highintermediate,50,women,7OAKS Wildcards,WPCC SPINSTERS,Lynne Copeland Allen,Eleanor Helms,DEFAULT,DEFAULT,15,0,Default
+19471,9,2026-10-22,raleigh,fall2026,highintermediate,50,women,7OAKS Wildcards,WPCC SPINSTERS,Tanya Sloan,Alix Winfield Ballantyne,DEFAULT,DEFAULT,15,0,Default
+19472,1,2026-10-22,raleigh,fall2026,highintermediate,50,women,HASEN Dink Responsibly 50+,7OAKS Dill With It,Jennifer Lynn Bouck,Mary Jo Nugent,Ada Gonzalez,Dolores Beck Quesenberry,6,15,Completed
+19472,2,2026-10-22,raleigh,fall2026,highintermediate,50,women,HASEN Dink Responsibly 50+,7OAKS Dill With It,Debra Skiko,Samantha Starr,Angie Carden,Danielle Stringer,15,11,Completed
+19472,3,2026-10-22,raleigh,fall2026,highintermediate,50,women,HASEN Dink Responsibly 50+,7OAKS Dill With It,Candice V Diehl,Sharon F Barham,Laura Dwyer,Peggy B Williams,4,15,Completed
+19472,4,2026-10-22,raleigh,fall2026,highintermediate,50,women,HASEN Dink Responsibly 50+,7OAKS Dill With It,Jennifer Lynn Bouck,Mary Jo Nugent,Angie Carden,Danielle Stringer,15,4,Completed
+19472,5,2026-10-22,raleigh,fall2026,highintermediate,50,women,HASEN Dink Responsibly 50+,7OAKS Dill With It,Debra Skiko,Samantha Starr,Laura Dwyer,Peggy B Williams,15,6,Completed
+19472,6,2026-10-22,raleigh,fall2026,highintermediate,50,women,HASEN Dink Responsibly 50+,7OAKS Dill With It,Candice V Diehl,Sharon F Barham,Ada Gonzalez,Dolores Beck Quesenberry,8,15,Completed
+19472,7,2026-10-22,raleigh,fall2026,highintermediate,50,women,HASEN Dink Responsibly 50+,7OAKS Dill With It,Jennifer Lynn Bouck,Mary Jo Nugent,Laura Dwyer,Peggy B Williams,15,9,Completed
+19472,8,2026-10-22,raleigh,fall2026,highintermediate,50,women,HASEN Dink Responsibly 50+,7OAKS Dill With It,Debra Skiko,Samantha Starr,Ada Gonzalez,Dolores Beck Quesenberry,11,15,Completed
+19472,9,2026-10-22,raleigh,fall2026,highintermediate,50,women,HASEN Dink Responsibly 50+,7OAKS Dill With It,Candice V Diehl,Sharon F Barham,Angie Carden,Danielle Stringer,13,15,Completed
+19483,1,2026-10-29,raleigh,fall2026,highintermediate,50,women,7OAKS Dill With It,HASEN Dink Responsibly 50+,Dolores Beck Quesenberry,Molly Bradsher Briggs,Regina Heroux,Laurie Randall,8,15,Completed
+19483,2,2026-10-29,raleigh,fall2026,highintermediate,50,women,7OAKS Dill With It,HASEN Dink Responsibly 50+,Amy A Lindsey,Danielle Stringer,Samantha Starr,Mary Jo Nugent,8,15,Completed
+19483,3,2026-10-29,raleigh,fall2026,highintermediate,50,women,7OAKS Dill With It,HASEN Dink Responsibly 50+,Ada Gonzalez,Dana Chapman,Diane Werner,Debra Skiko,6,15,Completed
+19483,4,2026-10-29,raleigh,fall2026,highintermediate,50,women,7OAKS Dill With It,HASEN Dink Responsibly 50+,Dolores Beck Quesenberry,Molly Bradsher Briggs,Samantha Starr,Mary Jo Nugent,11,15,Completed
+19483,5,2026-10-29,raleigh,fall2026,highintermediate,50,women,7OAKS Dill With It,HASEN Dink Responsibly 50+,Amy A Lindsey,Danielle Stringer,Diane Werner,Debra Skiko,7,15,Completed
+19483,6,2026-10-29,raleigh,fall2026,highintermediate,50,women,7OAKS Dill With It,HASEN Dink Responsibly 50+,Ada Gonzalez,Dana Chapman,Regina Heroux,Laurie Randall,10,15,Completed
+19483,7,2026-10-29,raleigh,fall2026,highintermediate,50,women,7OAKS Dill With It,HASEN Dink Responsibly 50+,Dolores Beck Quesenberry,Molly Bradsher Briggs,Diane Werner,Debra Skiko,15,10,Completed
+19483,8,2026-10-29,raleigh,fall2026,highintermediate,50,women,7OAKS Dill With It,HASEN Dink Responsibly 50+,Amy A Lindsey,Danielle Stringer,Regina Heroux,Laurie Randall,6,15,Completed
+19483,9,2026-10-29,raleigh,fall2026,highintermediate,50,women,7OAKS Dill With It,HASEN Dink Responsibly 50+,Ada Gonzalez,Dana Chapman,Samantha Starr,Mary Jo Nugent,15,8,Completed

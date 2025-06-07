@@ -1,0 +1,280 @@
+match_id,game_id,match_date,league,season,skill_level,age,gender,team1_name,team2_name,partner1,partner2,opponent1,opponent2,team1_points,team2_points,status
+19502,1,2026-08-19,cary,fall2026,lowintermediate,50,women,LOCH Lochmere In A Pickle,12OAKS Kitchen Queens,Colleen Owen Murphy,Tracy Louise Morris,Cammie Hackney,Angela Bowling,15,1,Completed
+19502,2,2026-08-19,cary,fall2026,lowintermediate,50,women,LOCH Lochmere In A Pickle,12OAKS Kitchen Queens,Barb LeBlanc,Susan Wisdom,Lou Brooks,Cynthia Daly,8,15,Completed
+19502,3,2026-08-19,cary,fall2026,lowintermediate,50,women,LOCH Lochmere In A Pickle,12OAKS Kitchen Queens,Susan G Coulter,Zubeda Paruk,Barb Longobardo,Dee Murray,12,15,Completed
+19502,4,2026-08-19,cary,fall2026,lowintermediate,50,women,LOCH Lochmere In A Pickle,12OAKS Kitchen Queens,Colleen Owen Murphy,Tracy Louise Morris,Lou Brooks,Cynthia Daly,15,0,Completed
+19502,5,2026-08-19,cary,fall2026,lowintermediate,50,women,LOCH Lochmere In A Pickle,12OAKS Kitchen Queens,Barb LeBlanc,Susan Wisdom,Barb Longobardo,Dee Murray,3,15,Completed
+19502,6,2026-08-19,cary,fall2026,lowintermediate,50,women,LOCH Lochmere In A Pickle,12OAKS Kitchen Queens,Susan G Coulter,Zubeda Paruk,Cammie Hackney,Angela Bowling,9,15,Completed
+19502,7,2026-08-19,cary,fall2026,lowintermediate,50,women,LOCH Lochmere In A Pickle,12OAKS Kitchen Queens,Colleen Owen Murphy,Tracy Louise Morris,Barb Longobardo,Dee Murray,15,1,Completed
+19502,8,2026-08-19,cary,fall2026,lowintermediate,50,women,LOCH Lochmere In A Pickle,12OAKS Kitchen Queens,Barb LeBlanc,Susan Wisdom,Cammie Hackney,Angela Bowling,4,15,Completed
+19502,9,2026-08-19,cary,fall2026,lowintermediate,50,women,LOCH Lochmere In A Pickle,12OAKS Kitchen Queens,Susan G Coulter,Zubeda Paruk,Lou Brooks,Cynthia Daly,9,15,Completed
+19503,1,2026-08-19,cary,fall2026,lowintermediate,50,women,MD Drop It Like It's Hot,IND Carpe Dinkem,Debbie Ann Shea,Deanna Scites,Brooke Bonham,Wivina Lee,6,15,Completed
+19503,2,2026-08-19,cary,fall2026,lowintermediate,50,women,MD Drop It Like It's Hot,IND Carpe Dinkem,Heather Giulianotti,Lynn Ferguson,Mary Chambliss,Melanie Mueller,3,15,Completed
+19503,3,2026-08-19,cary,fall2026,lowintermediate,50,women,MD Drop It Like It's Hot,IND Carpe Dinkem,Colby Benevides,Beth Simpson,Eleanor Haymond,Jennifer Brunetti,8,15,Completed
+19503,4,2026-08-19,cary,fall2026,lowintermediate,50,women,MD Drop It Like It's Hot,IND Carpe Dinkem,Debbie Ann Shea,Deanna Scites,Mary Chambliss,Melanie Mueller,1,15,Completed
+19503,5,2026-08-19,cary,fall2026,lowintermediate,50,women,MD Drop It Like It's Hot,IND Carpe Dinkem,Heather Giulianotti,Lynn Ferguson,Eleanor Haymond,Jennifer Brunetti,3,15,Completed
+19503,6,2026-08-19,cary,fall2026,lowintermediate,50,women,MD Drop It Like It's Hot,IND Carpe Dinkem,Colby Benevides,Beth Simpson,Brooke Bonham,Wivina Lee,2,15,Completed
+19503,7,2026-08-19,cary,fall2026,lowintermediate,50,women,MD Drop It Like It's Hot,IND Carpe Dinkem,Debbie Ann Shea,Deanna Scites,Eleanor Haymond,Jennifer Brunetti,4,15,Completed
+19503,8,2026-08-19,cary,fall2026,lowintermediate,50,women,MD Drop It Like It's Hot,IND Carpe Dinkem,Heather Giulianotti,Lynn Ferguson,Brooke Bonham,Wivina Lee,3,15,Completed
+19503,9,2026-08-19,cary,fall2026,lowintermediate,50,women,MD Drop It Like It's Hot,IND Carpe Dinkem,Colby Benevides,Beth Simpson,Mary Chambliss,Melanie Mueller,5,15,Completed
+19504,1,2026-08-19,cary,fall2026,lowintermediate,50,women,IND Pickle Me Pink,LOCH Dinking Queens,Jessica W Fairfax,Judy Lindhout,Connie Kannarr,Lisa Card,3,15,Completed
+19504,2,2026-08-19,cary,fall2026,lowintermediate,50,women,IND Pickle Me Pink,LOCH Dinking Queens,Jacqui Heck,Becky deTenley,Cynthia Ross Alcorn,Marie Kuhner,1,15,Completed
+19504,3,2026-08-19,cary,fall2026,lowintermediate,50,women,IND Pickle Me Pink,LOCH Dinking Queens,Denise Wilson,Patty Spining,Susan Larson Frazier,Wendy McMillan,15,9,Completed
+19504,4,2026-08-19,cary,fall2026,lowintermediate,50,women,IND Pickle Me Pink,LOCH Dinking Queens,Jessica W Fairfax,Judy Lindhout,Cynthia Ross Alcorn,Marie Kuhner,6,15,Completed
+19504,5,2026-08-19,cary,fall2026,lowintermediate,50,women,IND Pickle Me Pink,LOCH Dinking Queens,Jacqui Heck,Becky deTenley,Susan Larson Frazier,Wendy McMillan,11,15,Completed
+19504,6,2026-08-19,cary,fall2026,lowintermediate,50,women,IND Pickle Me Pink,LOCH Dinking Queens,Denise Wilson,Patty Spining,Connie Kannarr,Lisa Card,10,15,Completed
+19504,7,2026-08-19,cary,fall2026,lowintermediate,50,women,IND Pickle Me Pink,LOCH Dinking Queens,Jessica W Fairfax,Judy Lindhout,Susan Larson Frazier,Wendy McMillan,10,15,Completed
+19504,8,2026-08-19,cary,fall2026,lowintermediate,50,women,IND Pickle Me Pink,LOCH Dinking Queens,Jacqui Heck,Becky deTenley,Connie Kannarr,Lisa Card,18,16,Completed
+19504,9,2026-08-19,cary,fall2026,lowintermediate,50,women,IND Pickle Me Pink,LOCH Dinking Queens,Denise Wilson,Patty Spining,Cynthia Ross Alcorn,Marie Kuhner,14,16,Completed
+19523,1,2026-08-26,cary,fall2026,lowintermediate,50,women,12OAKS Kitchen Queens,LOCH Dinking Queens,Beth Stewart,Cammie Hackney,Susan Larson Frazier,Kathy R Painter,6,15,Completed
+19523,2,2026-08-26,cary,fall2026,lowintermediate,50,women,12OAKS Kitchen Queens,LOCH Dinking Queens,Dianne M Ballam,Cynthia Daly,Lisa Card,Connie Kannarr,1,15,Completed
+19523,3,2026-08-26,cary,fall2026,lowintermediate,50,women,12OAKS Kitchen Queens,LOCH Dinking Queens,Lou Brooks,Nadine Williams,Amy S Fisher,Pam Hunter,15,12,Completed
+19523,4,2026-08-26,cary,fall2026,lowintermediate,50,women,12OAKS Kitchen Queens,LOCH Dinking Queens,Beth Stewart,Cammie Hackney,Lisa Card,Connie Kannarr,2,15,Completed
+19523,5,2026-08-26,cary,fall2026,lowintermediate,50,women,12OAKS Kitchen Queens,LOCH Dinking Queens,Dianne M Ballam,Cynthia Daly,Amy S Fisher,Pam Hunter,5,15,Completed
+19523,6,2026-08-26,cary,fall2026,lowintermediate,50,women,12OAKS Kitchen Queens,LOCH Dinking Queens,Lou Brooks,Nadine Williams,Susan Larson Frazier,Kathy R Painter,13,15,Completed
+19523,7,2026-08-26,cary,fall2026,lowintermediate,50,women,12OAKS Kitchen Queens,LOCH Dinking Queens,Beth Stewart,Cammie Hackney,Amy S Fisher,Pam Hunter,12,15,Completed
+19523,8,2026-08-26,cary,fall2026,lowintermediate,50,women,12OAKS Kitchen Queens,LOCH Dinking Queens,Dianne M Ballam,Cynthia Daly,Susan Larson Frazier,Kathy R Painter,8,15,Completed
+19523,9,2026-08-26,cary,fall2026,lowintermediate,50,women,12OAKS Kitchen Queens,LOCH Dinking Queens,Lou Brooks,Nadine Williams,Lisa Card,Connie Kannarr,6,15,Completed
+19524,1,2026-08-26,cary,fall2026,lowintermediate,50,women,LOCH Lochmere In A Pickle,IND Carpe Dinkem,Barb LeBlanc,Jena Hill,Cindy McConnell,Kate Rees,1,15,Completed
+19524,2,2026-08-26,cary,fall2026,lowintermediate,50,women,LOCH Lochmere In A Pickle,IND Carpe Dinkem,Susan Hoffman,Susan Wisdom,Jennifer Brunetti,Mary Chambliss,3,15,Completed
+19524,3,2026-08-26,cary,fall2026,lowintermediate,50,women,LOCH Lochmere In A Pickle,IND Carpe Dinkem,DEFAULT,DEFAULT,Wivina Lee,Candace Inscoe,0,15,Default
+19524,4,2026-08-26,cary,fall2026,lowintermediate,50,women,LOCH Lochmere In A Pickle,IND Carpe Dinkem,Barb LeBlanc,Jena Hill,Jennifer Brunetti,Mary Chambliss,0,15,Completed
+19524,5,2026-08-26,cary,fall2026,lowintermediate,50,women,LOCH Lochmere In A Pickle,IND Carpe Dinkem,Susan Hoffman,Susan Wisdom,Wivina Lee,Candace Inscoe,1,15,Completed
+19524,6,2026-08-26,cary,fall2026,lowintermediate,50,women,LOCH Lochmere In A Pickle,IND Carpe Dinkem,DEFAULT,DEFAULT,Cindy McConnell,Kate Rees,0,15,Default
+19524,7,2026-08-26,cary,fall2026,lowintermediate,50,women,LOCH Lochmere In A Pickle,IND Carpe Dinkem,Barb LeBlanc,Jena Hill,Wivina Lee,Candace Inscoe,3,15,Completed
+19524,8,2026-08-26,cary,fall2026,lowintermediate,50,women,LOCH Lochmere In A Pickle,IND Carpe Dinkem,Susan Hoffman,Susan Wisdom,Cindy McConnell,Kate Rees,6,15,Completed
+19524,9,2026-08-26,cary,fall2026,lowintermediate,50,women,LOCH Lochmere In A Pickle,IND Carpe Dinkem,DEFAULT,DEFAULT,Jennifer Brunetti,Mary Chambliss,0,15,Default
+19525,1,2026-08-26,cary,fall2026,lowintermediate,50,women,IND Pickle Me Pink,MD Drop It Like It's Hot,Catherine Beasley,Jacqui Heck,Ann Gustafson,Nancy Pfeiffer,7,15,Completed
+19525,2,2026-08-26,cary,fall2026,lowintermediate,50,women,IND Pickle Me Pink,MD Drop It Like It's Hot,Joanna L Fontaine,Judy Lindhout,Heather Giulianotti,Kendra McCormick,6,15,Completed
+19525,3,2026-08-26,cary,fall2026,lowintermediate,50,women,IND Pickle Me Pink,MD Drop It Like It's Hot,Becky deTenley,Patty Spining,Mary S Bailey,Stephanie Wyatt,15,3,Completed
+19525,4,2026-08-26,cary,fall2026,lowintermediate,50,women,IND Pickle Me Pink,MD Drop It Like It's Hot,Catherine Beasley,Jacqui Heck,Heather Giulianotti,Kendra McCormick,7,15,Completed
+19525,5,2026-08-26,cary,fall2026,lowintermediate,50,women,IND Pickle Me Pink,MD Drop It Like It's Hot,Joanna L Fontaine,Judy Lindhout,Mary S Bailey,Stephanie Wyatt,12,15,Completed
+19525,6,2026-08-26,cary,fall2026,lowintermediate,50,women,IND Pickle Me Pink,MD Drop It Like It's Hot,Becky deTenley,Patty Spining,Ann Gustafson,Nancy Pfeiffer,15,9,Completed
+19525,7,2026-08-26,cary,fall2026,lowintermediate,50,women,IND Pickle Me Pink,MD Drop It Like It's Hot,Catherine Beasley,Jacqui Heck,Mary S Bailey,Stephanie Wyatt,15,4,Completed
+19525,8,2026-08-26,cary,fall2026,lowintermediate,50,women,IND Pickle Me Pink,MD Drop It Like It's Hot,Joanna L Fontaine,Judy Lindhout,Ann Gustafson,Nancy Pfeiffer,3,15,Completed
+19525,9,2026-08-26,cary,fall2026,lowintermediate,50,women,IND Pickle Me Pink,MD Drop It Like It's Hot,Becky deTenley,Patty Spining,Heather Giulianotti,Kendra McCormick,15,9,Completed
+19549,1,2026-09-02,cary,fall2026,lowintermediate,50,women,12OAKS Kitchen Queens,IND Carpe Dinkem,Dee Murray,Christine Alexander,Candace Inscoe,Kate Rees,5,15,Completed
+19549,2,2026-09-02,cary,fall2026,lowintermediate,50,women,12OAKS Kitchen Queens,IND Carpe Dinkem,Nadine Williams,Susanna Langley Robinson,Cindy McConnell,Melanie Mueller,7,15,Completed
+19549,3,2026-09-02,cary,fall2026,lowintermediate,50,women,12OAKS Kitchen Queens,IND Carpe Dinkem,Liz Mullen,Lou Brooks,Brooke Bonham,Eleanor Haymond,10,15,Completed
+19549,4,2026-09-02,cary,fall2026,lowintermediate,50,women,12OAKS Kitchen Queens,IND Carpe Dinkem,Dee Murray,Christine Alexander,Cindy McConnell,Melanie Mueller,4,15,Completed
+19549,5,2026-09-02,cary,fall2026,lowintermediate,50,women,12OAKS Kitchen Queens,IND Carpe Dinkem,Nadine Williams,Susanna Langley Robinson,Brooke Bonham,Eleanor Haymond,1,15,Completed
+19549,6,2026-09-02,cary,fall2026,lowintermediate,50,women,12OAKS Kitchen Queens,IND Carpe Dinkem,Liz Mullen,Lou Brooks,Candace Inscoe,Kate Rees,16,14,Completed
+19549,7,2026-09-02,cary,fall2026,lowintermediate,50,women,12OAKS Kitchen Queens,IND Carpe Dinkem,Dee Murray,Christine Alexander,Brooke Bonham,Eleanor Haymond,5,15,Completed
+19549,8,2026-09-02,cary,fall2026,lowintermediate,50,women,12OAKS Kitchen Queens,IND Carpe Dinkem,Nadine Williams,Susanna Langley Robinson,Candace Inscoe,Kate Rees,6,15,Completed
+19549,9,2026-09-02,cary,fall2026,lowintermediate,50,women,12OAKS Kitchen Queens,IND Carpe Dinkem,Liz Mullen,Lou Brooks,Cindy McConnell,Melanie Mueller,15,11,Completed
+19550,1,2026-09-02,cary,fall2026,lowintermediate,50,women,LOCH Dinking Queens,MD Drop It Like It's Hot,Wendy McMillan,Wanda Marie Vaziri,Heather Giulianotti,Nancy Pfeiffer,5,15,Completed
+19550,2,2026-09-02,cary,fall2026,lowintermediate,50,women,LOCH Dinking Queens,MD Drop It Like It's Hot,Cynthia Ross Alcorn,Marie Kuhner,Deanna Scites,Debbie Ann Shea,15,7,Completed
+19550,3,2026-09-02,cary,fall2026,lowintermediate,50,women,LOCH Dinking Queens,MD Drop It Like It's Hot,Connie Kannarr,Lisa Card,Mary S Bailey,Molly Reilly,15,2,Completed
+19550,4,2026-09-02,cary,fall2026,lowintermediate,50,women,LOCH Dinking Queens,MD Drop It Like It's Hot,Wendy McMillan,Wanda Marie Vaziri,Deanna Scites,Debbie Ann Shea,15,2,Completed
+19550,5,2026-09-02,cary,fall2026,lowintermediate,50,women,LOCH Dinking Queens,MD Drop It Like It's Hot,Cynthia Ross Alcorn,Marie Kuhner,Mary S Bailey,Molly Reilly,15,3,Completed
+19550,6,2026-09-02,cary,fall2026,lowintermediate,50,women,LOCH Dinking Queens,MD Drop It Like It's Hot,Connie Kannarr,Lisa Card,Heather Giulianotti,Nancy Pfeiffer,15,10,Completed
+19550,7,2026-09-02,cary,fall2026,lowintermediate,50,women,LOCH Dinking Queens,MD Drop It Like It's Hot,Wendy McMillan,Wanda Marie Vaziri,Mary S Bailey,Molly Reilly,15,4,Completed
+19550,8,2026-09-02,cary,fall2026,lowintermediate,50,women,LOCH Dinking Queens,MD Drop It Like It's Hot,Cynthia Ross Alcorn,Marie Kuhner,Heather Giulianotti,Nancy Pfeiffer,15,8,Completed
+19550,9,2026-09-02,cary,fall2026,lowintermediate,50,women,LOCH Dinking Queens,MD Drop It Like It's Hot,Connie Kannarr,Lisa Card,Deanna Scites,Debbie Ann Shea,15,2,Completed
+19551,1,2026-09-02,cary,fall2026,lowintermediate,50,women,IND Pickle Me Pink,LOCH Lochmere In A Pickle,Jacqui Heck,Denise Wilson,Susan Hoffman,Susan Wisdom,15,0,Completed
+19551,2,2026-09-02,cary,fall2026,lowintermediate,50,women,IND Pickle Me Pink,LOCH Lochmere In A Pickle,Becky deTenley,Judy Lindhout,Tracy Louise Morris,Debbie Loy,15,3,Completed
+19551,3,2026-09-02,cary,fall2026,lowintermediate,50,women,IND Pickle Me Pink,LOCH Lochmere In A Pickle,Patty Spining,Julie Bobzien,Jena Hill,Camille Lewis,15,9,Completed
+19551,4,2026-09-02,cary,fall2026,lowintermediate,50,women,IND Pickle Me Pink,LOCH Lochmere In A Pickle,Jacqui Heck,Denise Wilson,Tracy Louise Morris,Debbie Loy,15,10,Completed
+19551,5,2026-09-02,cary,fall2026,lowintermediate,50,women,IND Pickle Me Pink,LOCH Lochmere In A Pickle,Becky deTenley,Judy Lindhout,Jena Hill,Camille Lewis,15,1,Completed
+19551,6,2026-09-02,cary,fall2026,lowintermediate,50,women,IND Pickle Me Pink,LOCH Lochmere In A Pickle,Patty Spining,Julie Bobzien,Susan Hoffman,Susan Wisdom,15,4,Completed
+19551,7,2026-09-02,cary,fall2026,lowintermediate,50,women,IND Pickle Me Pink,LOCH Lochmere In A Pickle,Jacqui Heck,Denise Wilson,Jena Hill,Camille Lewis,15,2,Completed
+19551,8,2026-09-02,cary,fall2026,lowintermediate,50,women,IND Pickle Me Pink,LOCH Lochmere In A Pickle,Becky deTenley,Judy Lindhout,Susan Hoffman,Susan Wisdom,15,0,Completed
+19551,9,2026-09-02,cary,fall2026,lowintermediate,50,women,IND Pickle Me Pink,LOCH Lochmere In A Pickle,Patty Spining,Julie Bobzien,Tracy Louise Morris,Debbie Loy,10,15,Completed
+19564,1,2026-09-09,cary,fall2026,lowintermediate,50,women,LOCH Dinking Queens,LOCH Lochmere In A Pickle,Cynthia Ross Alcorn,Marie Kuhner,Tracy Louise Morris,Elly Siggins,15,9,Completed
+19564,2,2026-09-09,cary,fall2026,lowintermediate,50,women,LOCH Dinking Queens,LOCH Lochmere In A Pickle,Wanda Marie Vaziri,Wendy McMillan,Zubeda Paruk,Camille Lewis,15,0,Completed
+19564,3,2026-09-09,cary,fall2026,lowintermediate,50,women,LOCH Dinking Queens,LOCH Lochmere In A Pickle,Pam Hunter,Amy S Fisher,Barb LeBlanc,Susan Wisdom,15,6,Completed
+19564,4,2026-09-09,cary,fall2026,lowintermediate,50,women,LOCH Dinking Queens,LOCH Lochmere In A Pickle,Cynthia Ross Alcorn,Marie Kuhner,Zubeda Paruk,Camille Lewis,15,3,Completed
+19564,5,2026-09-09,cary,fall2026,lowintermediate,50,women,LOCH Dinking Queens,LOCH Lochmere In A Pickle,Wanda Marie Vaziri,Wendy McMillan,Barb LeBlanc,Susan Wisdom,15,8,Completed
+19564,6,2026-09-09,cary,fall2026,lowintermediate,50,women,LOCH Dinking Queens,LOCH Lochmere In A Pickle,Pam Hunter,Amy S Fisher,Tracy Louise Morris,Elly Siggins,15,7,Completed
+19564,7,2026-09-09,cary,fall2026,lowintermediate,50,women,LOCH Dinking Queens,LOCH Lochmere In A Pickle,Cynthia Ross Alcorn,Marie Kuhner,Barb LeBlanc,Susan Wisdom,15,5,Completed
+19564,8,2026-09-09,cary,fall2026,lowintermediate,50,women,LOCH Dinking Queens,LOCH Lochmere In A Pickle,Wanda Marie Vaziri,Wendy McMillan,Tracy Louise Morris,Elly Siggins,15,11,Completed
+19564,9,2026-09-09,cary,fall2026,lowintermediate,50,women,LOCH Dinking Queens,LOCH Lochmere In A Pickle,Pam Hunter,Amy S Fisher,Zubeda Paruk,Camille Lewis,15,12,Completed
+19565,1,2026-09-09,cary,fall2026,lowintermediate,50,women,MD Drop It Like It's Hot,12OAKS Kitchen Queens,Ann Gustafson,Kendra McCormick,Angela Bowling,Barb Longobardo,4,15,Completed
+19565,2,2026-09-09,cary,fall2026,lowintermediate,50,women,MD Drop It Like It's Hot,12OAKS Kitchen Queens,Debbie Ann Shea,Nadia Battistoni,Cammie Hackney,Cynthia Daly,16,14,Completed
+19565,3,2026-09-09,cary,fall2026,lowintermediate,50,women,MD Drop It Like It's Hot,12OAKS Kitchen Queens,Colby Benevides,Stephanie Wyatt,Nadine Williams,Susanna Langley Robinson,15,8,Completed
+19565,4,2026-09-09,cary,fall2026,lowintermediate,50,women,MD Drop It Like It's Hot,12OAKS Kitchen Queens,Ann Gustafson,Kendra McCormick,Cammie Hackney,Cynthia Daly,15,4,Completed
+19565,5,2026-09-09,cary,fall2026,lowintermediate,50,women,MD Drop It Like It's Hot,12OAKS Kitchen Queens,Debbie Ann Shea,Nadia Battistoni,Nadine Williams,Susanna Langley Robinson,13,15,Completed
+19565,6,2026-09-09,cary,fall2026,lowintermediate,50,women,MD Drop It Like It's Hot,12OAKS Kitchen Queens,Colby Benevides,Stephanie Wyatt,Angela Bowling,Barb Longobardo,17,15,Completed
+19565,7,2026-09-09,cary,fall2026,lowintermediate,50,women,MD Drop It Like It's Hot,12OAKS Kitchen Queens,Ann Gustafson,Kendra McCormick,Nadine Williams,Susanna Langley Robinson,15,13,Completed
+19565,8,2026-09-09,cary,fall2026,lowintermediate,50,women,MD Drop It Like It's Hot,12OAKS Kitchen Queens,Debbie Ann Shea,Nadia Battistoni,Angela Bowling,Barb Longobardo,15,9,Completed
+19565,9,2026-09-09,cary,fall2026,lowintermediate,50,women,MD Drop It Like It's Hot,12OAKS Kitchen Queens,Colby Benevides,Stephanie Wyatt,Cammie Hackney,Cynthia Daly,15,9,Completed
+19573,1,2026-09-13,cary,fall2026,lowintermediate,50,women,IND Carpe Dinkem,IND Pickle Me Pink,Eleanor Haymond,Melanie Mueller,Julie Bobzien,Catherine Beasley,15,2,Completed
+19573,2,2026-09-13,cary,fall2026,lowintermediate,50,women,IND Carpe Dinkem,IND Pickle Me Pink,Brooke Bonham,Cindy McConnell,Joanna L Fontaine,Jacqui Heck,15,6,Completed
+19573,3,2026-09-13,cary,fall2026,lowintermediate,50,women,IND Carpe Dinkem,IND Pickle Me Pink,Jennifer Brunetti,Mary Chambliss,Becky deTenley,Patty Spining,15,9,Completed
+19573,4,2026-09-13,cary,fall2026,lowintermediate,50,women,IND Carpe Dinkem,IND Pickle Me Pink,Eleanor Haymond,Melanie Mueller,Joanna L Fontaine,Jacqui Heck,15,3,Completed
+19573,5,2026-09-13,cary,fall2026,lowintermediate,50,women,IND Carpe Dinkem,IND Pickle Me Pink,Brooke Bonham,Cindy McConnell,Becky deTenley,Patty Spining,15,11,Completed
+19573,6,2026-09-13,cary,fall2026,lowintermediate,50,women,IND Carpe Dinkem,IND Pickle Me Pink,Jennifer Brunetti,Mary Chambliss,Julie Bobzien,Catherine Beasley,15,0,Completed
+19573,7,2026-09-13,cary,fall2026,lowintermediate,50,women,IND Carpe Dinkem,IND Pickle Me Pink,Eleanor Haymond,Melanie Mueller,Becky deTenley,Patty Spining,10,15,Completed
+19573,8,2026-09-13,cary,fall2026,lowintermediate,50,women,IND Carpe Dinkem,IND Pickle Me Pink,Brooke Bonham,Cindy McConnell,Julie Bobzien,Catherine Beasley,15,1,Completed
+19573,9,2026-09-13,cary,fall2026,lowintermediate,50,women,IND Carpe Dinkem,IND Pickle Me Pink,Jennifer Brunetti,Mary Chambliss,Joanna L Fontaine,Jacqui Heck,15,2,Completed
+19583,1,2026-09-16,cary,fall2026,lowintermediate,50,women,12OAKS Kitchen Queens,IND Pickle Me Pink,Liz Mullen,Lou Brooks,Judy Lindhout,Joanna L Fontaine,15,4,Completed
+19583,2,2026-09-16,cary,fall2026,lowintermediate,50,women,12OAKS Kitchen Queens,IND Pickle Me Pink,Barb Longobardo,Dianne M Ballam,Denise Wilson,Becky deTenley,11,15,Completed
+19583,3,2026-09-16,cary,fall2026,lowintermediate,50,women,12OAKS Kitchen Queens,IND Pickle Me Pink,Beth Stewart,Cynthia Daly,Jessica W Fairfax,Jacqui Heck,1,15,Completed
+19583,4,2026-09-16,cary,fall2026,lowintermediate,50,women,12OAKS Kitchen Queens,IND Pickle Me Pink,Liz Mullen,Lou Brooks,Denise Wilson,Becky deTenley,8,15,Completed
+19583,5,2026-09-16,cary,fall2026,lowintermediate,50,women,12OAKS Kitchen Queens,IND Pickle Me Pink,Barb Longobardo,Dianne M Ballam,Jessica W Fairfax,Jacqui Heck,10,15,Completed
+19583,6,2026-09-16,cary,fall2026,lowintermediate,50,women,12OAKS Kitchen Queens,IND Pickle Me Pink,Beth Stewart,Cynthia Daly,Judy Lindhout,Joanna L Fontaine,14,16,Completed
+19583,7,2026-09-16,cary,fall2026,lowintermediate,50,women,12OAKS Kitchen Queens,IND Pickle Me Pink,Liz Mullen,Lou Brooks,Jessica W Fairfax,Jacqui Heck,15,7,Completed
+19583,8,2026-09-16,cary,fall2026,lowintermediate,50,women,12OAKS Kitchen Queens,IND Pickle Me Pink,Barb Longobardo,Dianne M Ballam,Judy Lindhout,Joanna L Fontaine,7,15,Completed
+19583,9,2026-09-16,cary,fall2026,lowintermediate,50,women,12OAKS Kitchen Queens,IND Pickle Me Pink,Beth Stewart,Cynthia Daly,Denise Wilson,Becky deTenley,5,15,Completed
+19584,1,2026-09-16,cary,fall2026,lowintermediate,50,women,LOCH Lochmere In A Pickle,MD Drop It Like It's Hot,Zubeda Paruk,Camille Lewis,Colby Benevides,Beth Simpson,16,14,Completed
+19584,2,2026-09-16,cary,fall2026,lowintermediate,50,women,LOCH Lochmere In A Pickle,MD Drop It Like It's Hot,Elly Siggins,Jena Hill,Molly Reilly,Deanna Scites,10,15,Completed
+19584,3,2026-09-16,cary,fall2026,lowintermediate,50,women,LOCH Lochmere In A Pickle,MD Drop It Like It's Hot,Susan Wisdom,Susan Hoffman,Mary S Bailey,Nadia Battistoni,7,15,Completed
+19584,4,2026-09-16,cary,fall2026,lowintermediate,50,women,LOCH Lochmere In A Pickle,MD Drop It Like It's Hot,Zubeda Paruk,Camille Lewis,Molly Reilly,Deanna Scites,15,10,Completed
+19584,5,2026-09-16,cary,fall2026,lowintermediate,50,women,LOCH Lochmere In A Pickle,MD Drop It Like It's Hot,Elly Siggins,Jena Hill,Mary S Bailey,Nadia Battistoni,8,15,Completed
+19584,6,2026-09-16,cary,fall2026,lowintermediate,50,women,LOCH Lochmere In A Pickle,MD Drop It Like It's Hot,Susan Wisdom,Susan Hoffman,Colby Benevides,Beth Simpson,6,15,Completed
+19584,7,2026-09-16,cary,fall2026,lowintermediate,50,women,LOCH Lochmere In A Pickle,MD Drop It Like It's Hot,Zubeda Paruk,Camille Lewis,Mary S Bailey,Nadia Battistoni,15,9,Completed
+19584,8,2026-09-16,cary,fall2026,lowintermediate,50,women,LOCH Lochmere In A Pickle,MD Drop It Like It's Hot,Elly Siggins,Jena Hill,Colby Benevides,Beth Simpson,8,15,Completed
+19584,9,2026-09-16,cary,fall2026,lowintermediate,50,women,LOCH Lochmere In A Pickle,MD Drop It Like It's Hot,Susan Wisdom,Susan Hoffman,Molly Reilly,Deanna Scites,0,15,Completed
+19585,1,2026-09-16,cary,fall2026,lowintermediate,50,women,IND Carpe Dinkem,LOCH Dinking Queens,Candace Inscoe,Eleanor Haymond,Marie Kuhner,Cynthia Ross Alcorn,3,15,Completed
+19585,2,2026-09-16,cary,fall2026,lowintermediate,50,women,IND Carpe Dinkem,LOCH Dinking Queens,Gail Gaetani,Mary Chambliss,Pam Hunter,Amy S Fisher,15,3,Completed
+19585,3,2026-09-16,cary,fall2026,lowintermediate,50,women,IND Carpe Dinkem,LOCH Dinking Queens,Brooke Bonham,Melanie Mueller,Connie Kannarr,Lisa Card,13,15,Completed
+19585,4,2026-09-16,cary,fall2026,lowintermediate,50,women,IND Carpe Dinkem,LOCH Dinking Queens,Candace Inscoe,Eleanor Haymond,Pam Hunter,Amy S Fisher,11,15,Completed
+19585,5,2026-09-16,cary,fall2026,lowintermediate,50,women,IND Carpe Dinkem,LOCH Dinking Queens,Gail Gaetani,Mary Chambliss,Connie Kannarr,Lisa Card,15,7,Completed
+19585,6,2026-09-16,cary,fall2026,lowintermediate,50,women,IND Carpe Dinkem,LOCH Dinking Queens,Brooke Bonham,Melanie Mueller,Marie Kuhner,Cynthia Ross Alcorn,15,12,Completed
+19585,7,2026-09-16,cary,fall2026,lowintermediate,50,women,IND Carpe Dinkem,LOCH Dinking Queens,Candace Inscoe,Eleanor Haymond,Connie Kannarr,Lisa Card,10,15,Completed
+19585,8,2026-09-16,cary,fall2026,lowintermediate,50,women,IND Carpe Dinkem,LOCH Dinking Queens,Gail Gaetani,Mary Chambliss,Marie Kuhner,Cynthia Ross Alcorn,15,12,Completed
+19585,9,2026-09-16,cary,fall2026,lowintermediate,50,women,IND Carpe Dinkem,LOCH Dinking Queens,Brooke Bonham,Melanie Mueller,Pam Hunter,Amy S Fisher,10,15,Completed
+19608,1,2026-09-23,cary,fall2026,lowintermediate,50,women,12OAKS Kitchen Queens,LOCH Lochmere In A Pickle,Cammie Hackney,Christine Alexander,Colleen Owen Murphy,Barb LeBlanc,6,15,Completed
+19608,2,2026-09-23,cary,fall2026,lowintermediate,50,women,12OAKS Kitchen Queens,LOCH Lochmere In A Pickle,Lou Brooks,Dee Murray,Tracy Louise Morris,Pamela Summers,17,15,Completed
+19608,3,2026-09-23,cary,fall2026,lowintermediate,50,women,12OAKS Kitchen Queens,LOCH Lochmere In A Pickle,Nadine Williams,Susanna Langley Robinson,Susan G Coulter,Debbie Loy,15,3,Completed
+19608,4,2026-09-23,cary,fall2026,lowintermediate,50,women,12OAKS Kitchen Queens,LOCH Lochmere In A Pickle,Cammie Hackney,Christine Alexander,Tracy Louise Morris,Pamela Summers,5,15,Completed
+19608,5,2026-09-23,cary,fall2026,lowintermediate,50,women,12OAKS Kitchen Queens,LOCH Lochmere In A Pickle,Lou Brooks,Dee Murray,Susan G Coulter,Debbie Loy,15,3,Completed
+19608,6,2026-09-23,cary,fall2026,lowintermediate,50,women,12OAKS Kitchen Queens,LOCH Lochmere In A Pickle,Nadine Williams,Susanna Langley Robinson,Colleen Owen Murphy,Barb LeBlanc,10,15,Completed
+19608,7,2026-09-23,cary,fall2026,lowintermediate,50,women,12OAKS Kitchen Queens,LOCH Lochmere In A Pickle,Cammie Hackney,Christine Alexander,Susan G Coulter,Debbie Loy,15,9,Completed
+19608,8,2026-09-23,cary,fall2026,lowintermediate,50,women,12OAKS Kitchen Queens,LOCH Lochmere In A Pickle,Lou Brooks,Dee Murray,Colleen Owen Murphy,Barb LeBlanc,15,6,Completed
+19608,9,2026-09-23,cary,fall2026,lowintermediate,50,women,12OAKS Kitchen Queens,LOCH Lochmere In A Pickle,Nadine Williams,Susanna Langley Robinson,Tracy Louise Morris,Pamela Summers,4,15,Completed
+19609,1,2026-09-23,cary,fall2026,lowintermediate,50,women,LOCH Dinking Queens,IND Pickle Me Pink,Pam Hunter,Amy S Fisher,Becky deTenley,Jacqui Heck,15,11,Completed
+19609,2,2026-09-23,cary,fall2026,lowintermediate,50,women,LOCH Dinking Queens,IND Pickle Me Pink,Kathy R Painter,Susan Larson Frazier,Patty Spining,Denise Wilson,2,15,Completed
+19609,3,2026-09-23,cary,fall2026,lowintermediate,50,women,LOCH Dinking Queens,IND Pickle Me Pink,Connie Kannarr,Wendy McMillan,Judy Lindhout,Jessica W Fairfax,15,3,Completed
+19609,4,2026-09-23,cary,fall2026,lowintermediate,50,women,LOCH Dinking Queens,IND Pickle Me Pink,Pam Hunter,Amy S Fisher,Patty Spining,Denise Wilson,14,16,Completed
+19609,5,2026-09-23,cary,fall2026,lowintermediate,50,women,LOCH Dinking Queens,IND Pickle Me Pink,Kathy R Painter,Susan Larson Frazier,Judy Lindhout,Jessica W Fairfax,16,14,Completed
+19609,6,2026-09-23,cary,fall2026,lowintermediate,50,women,LOCH Dinking Queens,IND Pickle Me Pink,Connie Kannarr,Wendy McMillan,Becky deTenley,Jacqui Heck,15,8,Completed
+19609,7,2026-09-23,cary,fall2026,lowintermediate,50,women,LOCH Dinking Queens,IND Pickle Me Pink,Pam Hunter,Amy S Fisher,Judy Lindhout,Jessica W Fairfax,15,0,Completed
+19609,8,2026-09-23,cary,fall2026,lowintermediate,50,women,LOCH Dinking Queens,IND Pickle Me Pink,Kathy R Painter,Susan Larson Frazier,Becky deTenley,Jacqui Heck,12,15,Completed
+19609,9,2026-09-23,cary,fall2026,lowintermediate,50,women,LOCH Dinking Queens,IND Pickle Me Pink,Connie Kannarr,Wendy McMillan,Patty Spining,Denise Wilson,15,6,Completed
+19610,1,2026-09-23,cary,fall2026,lowintermediate,50,women,IND Carpe Dinkem,MD Drop It Like It's Hot,Brooke Bonham,Wivina Lee,Mary S Bailey,Stephanie Wyatt,15,4,Completed
+19610,2,2026-09-23,cary,fall2026,lowintermediate,50,women,IND Carpe Dinkem,MD Drop It Like It's Hot,Gail Gaetani,Candace Inscoe,Molly Reilly,Deanna Scites,15,0,Completed
+19610,3,2026-09-23,cary,fall2026,lowintermediate,50,women,IND Carpe Dinkem,MD Drop It Like It's Hot,Cindy McConnell,Jennifer Brunetti,Nadia Battistoni,Colby Benevides,9,15,Completed
+19610,4,2026-09-23,cary,fall2026,lowintermediate,50,women,IND Carpe Dinkem,MD Drop It Like It's Hot,Brooke Bonham,Wivina Lee,Molly Reilly,Deanna Scites,15,4,Completed
+19610,5,2026-09-23,cary,fall2026,lowintermediate,50,women,IND Carpe Dinkem,MD Drop It Like It's Hot,Gail Gaetani,Candace Inscoe,Nadia Battistoni,Colby Benevides,15,4,Completed
+19610,6,2026-09-23,cary,fall2026,lowintermediate,50,women,IND Carpe Dinkem,MD Drop It Like It's Hot,Cindy McConnell,Jennifer Brunetti,Mary S Bailey,Stephanie Wyatt,15,8,Completed
+19610,7,2026-09-23,cary,fall2026,lowintermediate,50,women,IND Carpe Dinkem,MD Drop It Like It's Hot,Brooke Bonham,Wivina Lee,Nadia Battistoni,Colby Benevides,15,7,Completed
+19610,8,2026-09-23,cary,fall2026,lowintermediate,50,women,IND Carpe Dinkem,MD Drop It Like It's Hot,Gail Gaetani,Candace Inscoe,Mary S Bailey,Stephanie Wyatt,15,4,Completed
+19610,9,2026-09-23,cary,fall2026,lowintermediate,50,women,IND Carpe Dinkem,MD Drop It Like It's Hot,Cindy McConnell,Jennifer Brunetti,Molly Reilly,Deanna Scites,15,1,Completed
+19630,1,2026-09-30,cary,fall2026,lowintermediate,50,women,LOCH Dinking Queens,12OAKS Kitchen Queens,Lisa Card,Connie Kannarr,Liz Mullen,Lou Brooks,15,9,Completed
+19630,2,2026-09-30,cary,fall2026,lowintermediate,50,women,LOCH Dinking Queens,12OAKS Kitchen Queens,Susan Larson Frazier,Kathy R Painter,Cynthia Daly,Susanna Langley Robinson,15,12,Completed
+19630,3,2026-09-30,cary,fall2026,lowintermediate,50,women,LOCH Dinking Queens,12OAKS Kitchen Queens,Wanda Marie Vaziri,Wendy McMillan,Angela Bowling,Cammie Hackney,15,4,Completed
+19630,4,2026-09-30,cary,fall2026,lowintermediate,50,women,LOCH Dinking Queens,12OAKS Kitchen Queens,Lisa Card,Connie Kannarr,Cynthia Daly,Susanna Langley Robinson,15,2,Completed
+19630,5,2026-09-30,cary,fall2026,lowintermediate,50,women,LOCH Dinking Queens,12OAKS Kitchen Queens,Susan Larson Frazier,Kathy R Painter,Angela Bowling,Cammie Hackney,15,7,Completed
+19630,6,2026-09-30,cary,fall2026,lowintermediate,50,women,LOCH Dinking Queens,12OAKS Kitchen Queens,Wanda Marie Vaziri,Wendy McMillan,Liz Mullen,Lou Brooks,11,15,Completed
+19630,7,2026-09-30,cary,fall2026,lowintermediate,50,women,LOCH Dinking Queens,12OAKS Kitchen Queens,Lisa Card,Connie Kannarr,Angela Bowling,Cammie Hackney,15,1,Completed
+19630,8,2026-09-30,cary,fall2026,lowintermediate,50,women,LOCH Dinking Queens,12OAKS Kitchen Queens,Susan Larson Frazier,Kathy R Painter,Liz Mullen,Lou Brooks,9,15,Completed
+19630,9,2026-09-30,cary,fall2026,lowintermediate,50,women,LOCH Dinking Queens,12OAKS Kitchen Queens,Wanda Marie Vaziri,Wendy McMillan,Cynthia Daly,Susanna Langley Robinson,15,1,Completed
+19631,1,2026-09-30,cary,fall2026,lowintermediate,50,women,MD Drop It Like It's Hot,IND Pickle Me Pink,Mary S Bailey,Colby Benevides,Julie Bobzien,Catherine Beasley,15,13,Completed
+19631,2,2026-09-30,cary,fall2026,lowintermediate,50,women,MD Drop It Like It's Hot,IND Pickle Me Pink,Nadia Battistoni,Molly Reilly,Denise Wilson,Patty Spining,8,15,Completed
+19631,3,2026-09-30,cary,fall2026,lowintermediate,50,women,MD Drop It Like It's Hot,IND Pickle Me Pink,Debbie Ann Shea,Deanna Scites,Jessica W Fairfax,Becky deTenley,2,15,Completed
+19631,4,2026-09-30,cary,fall2026,lowintermediate,50,women,MD Drop It Like It's Hot,IND Pickle Me Pink,Mary S Bailey,Colby Benevides,Denise Wilson,Patty Spining,7,15,Completed
+19631,5,2026-09-30,cary,fall2026,lowintermediate,50,women,MD Drop It Like It's Hot,IND Pickle Me Pink,Nadia Battistoni,Molly Reilly,Jessica W Fairfax,Becky deTenley,2,15,Completed
+19631,6,2026-09-30,cary,fall2026,lowintermediate,50,women,MD Drop It Like It's Hot,IND Pickle Me Pink,Debbie Ann Shea,Deanna Scites,Julie Bobzien,Catherine Beasley,8,15,Completed
+19631,7,2026-09-30,cary,fall2026,lowintermediate,50,women,MD Drop It Like It's Hot,IND Pickle Me Pink,Mary S Bailey,Colby Benevides,Jessica W Fairfax,Becky deTenley,1,15,Completed
+19631,8,2026-09-30,cary,fall2026,lowintermediate,50,women,MD Drop It Like It's Hot,IND Pickle Me Pink,Nadia Battistoni,Molly Reilly,Julie Bobzien,Catherine Beasley,15,11,Completed
+19631,9,2026-09-30,cary,fall2026,lowintermediate,50,women,MD Drop It Like It's Hot,IND Pickle Me Pink,Debbie Ann Shea,Deanna Scites,Denise Wilson,Patty Spining,1,15,Completed
+19632,1,2026-09-30,cary,fall2026,lowintermediate,50,women,IND Carpe Dinkem,LOCH Lochmere In A Pickle,Candace Inscoe,Wivina Lee,Elly Siggins,Zubeda Paruk,15,5,Completed
+19632,2,2026-09-30,cary,fall2026,lowintermediate,50,women,IND Carpe Dinkem,LOCH Lochmere In A Pickle,Gail Gaetani,Eleanor Haymond,Colleen Owen Murphy,Tracy Louise Morris,15,12,Completed
+19632,3,2026-09-30,cary,fall2026,lowintermediate,50,women,IND Carpe Dinkem,LOCH Lochmere In A Pickle,Cindy McConnell,Kate Rees,Debbie Loy,Jena Hill,15,2,Completed
+19632,4,2026-09-30,cary,fall2026,lowintermediate,50,women,IND Carpe Dinkem,LOCH Lochmere In A Pickle,Candace Inscoe,Wivina Lee,Colleen Owen Murphy,Tracy Louise Morris,8,15,Completed
+19632,5,2026-09-30,cary,fall2026,lowintermediate,50,women,IND Carpe Dinkem,LOCH Lochmere In A Pickle,Gail Gaetani,Eleanor Haymond,Debbie Loy,Jena Hill,15,0,Completed
+19632,6,2026-09-30,cary,fall2026,lowintermediate,50,women,IND Carpe Dinkem,LOCH Lochmere In A Pickle,Cindy McConnell,Kate Rees,Elly Siggins,Zubeda Paruk,13,15,Completed
+19632,7,2026-09-30,cary,fall2026,lowintermediate,50,women,IND Carpe Dinkem,LOCH Lochmere In A Pickle,Candace Inscoe,Wivina Lee,Debbie Loy,Jena Hill,15,1,Completed
+19632,8,2026-09-30,cary,fall2026,lowintermediate,50,women,IND Carpe Dinkem,LOCH Lochmere In A Pickle,Gail Gaetani,Eleanor Haymond,Elly Siggins,Zubeda Paruk,15,4,Completed
+19632,9,2026-09-30,cary,fall2026,lowintermediate,50,women,IND Carpe Dinkem,LOCH Lochmere In A Pickle,Cindy McConnell,Kate Rees,Colleen Owen Murphy,Tracy Louise Morris,6,15,Completed
+19655,1,2026-10-07,cary,fall2026,lowintermediate,50,women,IND Carpe Dinkem,12OAKS Kitchen Queens,Gail Gaetani,Melanie Mueller,Cynthia Daly,Christine Alexander,15,4,Completed
+19655,2,2026-10-07,cary,fall2026,lowintermediate,50,women,IND Carpe Dinkem,12OAKS Kitchen Queens,Eleanor Haymond,Wivina Lee,Nadine Williams,Susanna Langley Robinson,15,9,Completed
+19655,3,2026-10-07,cary,fall2026,lowintermediate,50,women,IND Carpe Dinkem,12OAKS Kitchen Queens,Brooke Bonham,Kate Rees,Barb Longobardo,Liz Mullen,15,13,Completed
+19655,4,2026-10-07,cary,fall2026,lowintermediate,50,women,IND Carpe Dinkem,12OAKS Kitchen Queens,Gail Gaetani,Melanie Mueller,Nadine Williams,Susanna Langley Robinson,15,4,Completed
+19655,5,2026-10-07,cary,fall2026,lowintermediate,50,women,IND Carpe Dinkem,12OAKS Kitchen Queens,Eleanor Haymond,Wivina Lee,Barb Longobardo,Liz Mullen,9,15,Completed
+19655,6,2026-10-07,cary,fall2026,lowintermediate,50,women,IND Carpe Dinkem,12OAKS Kitchen Queens,Brooke Bonham,Kate Rees,Cynthia Daly,Christine Alexander,15,1,Completed
+19655,7,2026-10-07,cary,fall2026,lowintermediate,50,women,IND Carpe Dinkem,12OAKS Kitchen Queens,Gail Gaetani,Melanie Mueller,Barb Longobardo,Liz Mullen,13,15,Completed
+19655,8,2026-10-07,cary,fall2026,lowintermediate,50,women,IND Carpe Dinkem,12OAKS Kitchen Queens,Eleanor Haymond,Wivina Lee,Cynthia Daly,Christine Alexander,15,3,Completed
+19655,9,2026-10-07,cary,fall2026,lowintermediate,50,women,IND Carpe Dinkem,12OAKS Kitchen Queens,Brooke Bonham,Kate Rees,Nadine Williams,Susanna Langley Robinson,15,7,Completed
+19656,1,2026-10-07,cary,fall2026,lowintermediate,50,women,LOCH Lochmere In A Pickle,IND Pickle Me Pink,Colleen Owen Murphy,Pamela Summers,Catherine Beasley,Julie Bobzien,15,8,Completed
+19656,2,2026-10-07,cary,fall2026,lowintermediate,50,women,LOCH Lochmere In A Pickle,IND Pickle Me Pink,Barb LeBlanc,Zubeda Paruk,Patty Spining,Denise Wilson,15,12,Completed
+19656,3,2026-10-07,cary,fall2026,lowintermediate,50,women,LOCH Lochmere In A Pickle,IND Pickle Me Pink,Elly Siggins,Susan G Coulter,Becky deTenley,Jacqui Heck,5,15,Completed
+19656,4,2026-10-07,cary,fall2026,lowintermediate,50,women,LOCH Lochmere In A Pickle,IND Pickle Me Pink,Colleen Owen Murphy,Pamela Summers,Patty Spining,Denise Wilson,15,13,Completed
+19656,5,2026-10-07,cary,fall2026,lowintermediate,50,women,LOCH Lochmere In A Pickle,IND Pickle Me Pink,Barb LeBlanc,Zubeda Paruk,Becky deTenley,Jacqui Heck,16,18,Completed
+19656,6,2026-10-07,cary,fall2026,lowintermediate,50,women,LOCH Lochmere In A Pickle,IND Pickle Me Pink,Elly Siggins,Susan G Coulter,Catherine Beasley,Julie Bobzien,4,15,Completed
+19656,7,2026-10-07,cary,fall2026,lowintermediate,50,women,LOCH Lochmere In A Pickle,IND Pickle Me Pink,Colleen Owen Murphy,Pamela Summers,Becky deTenley,Jacqui Heck,15,13,Completed
+19656,8,2026-10-07,cary,fall2026,lowintermediate,50,women,LOCH Lochmere In A Pickle,IND Pickle Me Pink,Barb LeBlanc,Zubeda Paruk,Catherine Beasley,Julie Bobzien,15,6,Completed
+19656,9,2026-10-07,cary,fall2026,lowintermediate,50,women,LOCH Lochmere In A Pickle,IND Pickle Me Pink,Elly Siggins,Susan G Coulter,Patty Spining,Denise Wilson,4,15,Completed
+19657,1,2026-10-07,cary,fall2026,lowintermediate,50,women,MD Drop It Like It's Hot,LOCH Dinking Queens,Heather Giulianotti,Colby Benevides,Wanda Marie Vaziri,Wendy McMillan,6,15,Completed
+19657,2,2026-10-07,cary,fall2026,lowintermediate,50,women,MD Drop It Like It's Hot,LOCH Dinking Queens,Nancy Pfeiffer,Ann Gustafson,Connie Kannarr,Susan Larson Frazier,4,15,Completed
+19657,3,2026-10-07,cary,fall2026,lowintermediate,50,women,MD Drop It Like It's Hot,LOCH Dinking Queens,Nadia Battistoni,Molly Reilly,Pam Hunter,Amy S Fisher,9,15,Completed
+19657,4,2026-10-07,cary,fall2026,lowintermediate,50,women,MD Drop It Like It's Hot,LOCH Dinking Queens,Heather Giulianotti,Colby Benevides,Connie Kannarr,Susan Larson Frazier,4,15,Completed
+19657,5,2026-10-07,cary,fall2026,lowintermediate,50,women,MD Drop It Like It's Hot,LOCH Dinking Queens,Nancy Pfeiffer,Ann Gustafson,Pam Hunter,Amy S Fisher,15,2,Completed
+19657,6,2026-10-07,cary,fall2026,lowintermediate,50,women,MD Drop It Like It's Hot,LOCH Dinking Queens,Nadia Battistoni,Molly Reilly,Wanda Marie Vaziri,Wendy McMillan,8,15,Completed
+19657,7,2026-10-07,cary,fall2026,lowintermediate,50,women,MD Drop It Like It's Hot,LOCH Dinking Queens,Heather Giulianotti,Colby Benevides,Pam Hunter,Amy S Fisher,7,15,Completed
+19657,8,2026-10-07,cary,fall2026,lowintermediate,50,women,MD Drop It Like It's Hot,LOCH Dinking Queens,Nancy Pfeiffer,Ann Gustafson,Wanda Marie Vaziri,Wendy McMillan,15,6,Completed
+19657,9,2026-10-07,cary,fall2026,lowintermediate,50,women,MD Drop It Like It's Hot,LOCH Dinking Queens,Nadia Battistoni,Molly Reilly,Connie Kannarr,Susan Larson Frazier,5,15,Completed
+19677,1,2026-10-14,cary,fall2026,lowintermediate,50,women,12OAKS Kitchen Queens,MD Drop It Like It's Hot,Dee Murray,Lou Brooks,Heather Giulianotti,Nancy Pfeiffer,15,11,Completed
+19677,2,2026-10-14,cary,fall2026,lowintermediate,50,women,12OAKS Kitchen Queens,MD Drop It Like It's Hot,Cammie Hackney,Beth Stewart,Mary S Bailey,Colby Benevides,4,15,Completed
+19677,3,2026-10-14,cary,fall2026,lowintermediate,50,women,12OAKS Kitchen Queens,MD Drop It Like It's Hot,Liz Mullen,Barb Longobardo,Molly Reilly,Ann Gustafson,15,9,Completed
+19677,4,2026-10-14,cary,fall2026,lowintermediate,50,women,12OAKS Kitchen Queens,MD Drop It Like It's Hot,Dee Murray,Lou Brooks,Mary S Bailey,Colby Benevides,15,5,Completed
+19677,5,2026-10-14,cary,fall2026,lowintermediate,50,women,12OAKS Kitchen Queens,MD Drop It Like It's Hot,Cammie Hackney,Beth Stewart,Molly Reilly,Ann Gustafson,6,15,Completed
+19677,6,2026-10-14,cary,fall2026,lowintermediate,50,women,12OAKS Kitchen Queens,MD Drop It Like It's Hot,Liz Mullen,Barb Longobardo,Heather Giulianotti,Nancy Pfeiffer,5,15,Completed
+19677,7,2026-10-14,cary,fall2026,lowintermediate,50,women,12OAKS Kitchen Queens,MD Drop It Like It's Hot,Dee Murray,Lou Brooks,Molly Reilly,Ann Gustafson,6,15,Completed
+19677,8,2026-10-14,cary,fall2026,lowintermediate,50,women,12OAKS Kitchen Queens,MD Drop It Like It's Hot,Cammie Hackney,Beth Stewart,Heather Giulianotti,Nancy Pfeiffer,3,15,Completed
+19677,9,2026-10-14,cary,fall2026,lowintermediate,50,women,12OAKS Kitchen Queens,MD Drop It Like It's Hot,Liz Mullen,Barb Longobardo,Mary S Bailey,Colby Benevides,15,2,Completed
+19678,1,2026-10-14,cary,fall2026,lowintermediate,50,women,LOCH Lochmere In A Pickle,LOCH Dinking Queens,Tracy Louise Morris,Camille Lewis,Pam Hunter,Amy S Fisher,16,14,Completed
+19678,2,2026-10-14,cary,fall2026,lowintermediate,50,women,LOCH Lochmere In A Pickle,LOCH Dinking Queens,Colleen Owen Murphy,Pamela Summers,Wanda Marie Vaziri,Wendy McMillan,13,15,Completed
+19678,3,2026-10-14,cary,fall2026,lowintermediate,50,women,LOCH Lochmere In A Pickle,LOCH Dinking Queens,Elly Siggins,Debbie Loy,Susan Larson Frazier,Kathy R Painter,5,15,Completed
+19678,4,2026-10-14,cary,fall2026,lowintermediate,50,women,LOCH Lochmere In A Pickle,LOCH Dinking Queens,Tracy Louise Morris,Camille Lewis,Wanda Marie Vaziri,Wendy McMillan,9,15,Completed
+19678,5,2026-10-14,cary,fall2026,lowintermediate,50,women,LOCH Lochmere In A Pickle,LOCH Dinking Queens,Colleen Owen Murphy,Pamela Summers,Susan Larson Frazier,Kathy R Painter,15,17,Completed
+19678,6,2026-10-14,cary,fall2026,lowintermediate,50,women,LOCH Lochmere In A Pickle,LOCH Dinking Queens,Elly Siggins,Debbie Loy,Pam Hunter,Amy S Fisher,7,15,Completed
+19678,7,2026-10-14,cary,fall2026,lowintermediate,50,women,LOCH Lochmere In A Pickle,LOCH Dinking Queens,Tracy Louise Morris,Camille Lewis,Susan Larson Frazier,Kathy R Painter,2,15,Completed
+19678,8,2026-10-14,cary,fall2026,lowintermediate,50,women,LOCH Lochmere In A Pickle,LOCH Dinking Queens,Colleen Owen Murphy,Pamela Summers,Pam Hunter,Amy S Fisher,15,8,Completed
+19678,9,2026-10-14,cary,fall2026,lowintermediate,50,women,LOCH Lochmere In A Pickle,LOCH Dinking Queens,Elly Siggins,Debbie Loy,Wanda Marie Vaziri,Wendy McMillan,7,15,Completed
+19694,1,2026-10-21,cary,fall2026,lowintermediate,50,women,IND Pickle Me Pink,12OAKS Kitchen Queens,Patty Spining,Julie Bobzien,Barb Longobardo,Lou Brooks,15,11,Completed
+19694,2,2026-10-21,cary,fall2026,lowintermediate,50,women,IND Pickle Me Pink,12OAKS Kitchen Queens,Jessica W Fairfax,Becky deTenley,Beth Stewart,Christine Alexander,15,0,Completed
+19694,3,2026-10-21,cary,fall2026,lowintermediate,50,women,IND Pickle Me Pink,12OAKS Kitchen Queens,Denise Wilson,Jacqui Heck,Nadine Williams,Cynthia Daly,15,12,Completed
+19694,4,2026-10-21,cary,fall2026,lowintermediate,50,women,IND Pickle Me Pink,12OAKS Kitchen Queens,Patty Spining,Julie Bobzien,Beth Stewart,Christine Alexander,15,7,Completed
+19694,5,2026-10-21,cary,fall2026,lowintermediate,50,women,IND Pickle Me Pink,12OAKS Kitchen Queens,Jessica W Fairfax,Becky deTenley,Nadine Williams,Cynthia Daly,15,4,Completed
+19694,6,2026-10-21,cary,fall2026,lowintermediate,50,women,IND Pickle Me Pink,12OAKS Kitchen Queens,Denise Wilson,Jacqui Heck,Barb Longobardo,Lou Brooks,8,15,Completed
+19694,7,2026-10-21,cary,fall2026,lowintermediate,50,women,IND Pickle Me Pink,12OAKS Kitchen Queens,Patty Spining,Julie Bobzien,Nadine Williams,Cynthia Daly,15,6,Completed
+19694,8,2026-10-21,cary,fall2026,lowintermediate,50,women,IND Pickle Me Pink,12OAKS Kitchen Queens,Jessica W Fairfax,Becky deTenley,Barb Longobardo,Lou Brooks,15,2,Completed
+19694,9,2026-10-21,cary,fall2026,lowintermediate,50,women,IND Pickle Me Pink,12OAKS Kitchen Queens,Denise Wilson,Jacqui Heck,Beth Stewart,Christine Alexander,15,5,Completed
+19695,1,2026-10-21,cary,fall2026,lowintermediate,50,women,LOCH Dinking Queens,IND Carpe Dinkem,Cynthia Ross Alcorn,Marie Kuhner,Candace Inscoe,Kate Rees,15,7,Completed
+19695,2,2026-10-21,cary,fall2026,lowintermediate,50,women,LOCH Dinking Queens,IND Carpe Dinkem,Wanda Marie Vaziri,Amy S Fisher,Jennifer Brunetti,Mary Chambliss,11,15,Completed
+19695,3,2026-10-21,cary,fall2026,lowintermediate,50,women,LOCH Dinking Queens,IND Carpe Dinkem,Kathy R Painter,Susan Larson Frazier,Melanie Mueller,Wivina Lee,15,11,Completed
+19695,4,2026-10-21,cary,fall2026,lowintermediate,50,women,LOCH Dinking Queens,IND Carpe Dinkem,Cynthia Ross Alcorn,Marie Kuhner,Jennifer Brunetti,Mary Chambliss,13,15,Completed
+19695,5,2026-10-21,cary,fall2026,lowintermediate,50,women,LOCH Dinking Queens,IND Carpe Dinkem,Wanda Marie Vaziri,Amy S Fisher,Melanie Mueller,Wivina Lee,15,2,Completed
+19695,6,2026-10-21,cary,fall2026,lowintermediate,50,women,LOCH Dinking Queens,IND Carpe Dinkem,Kathy R Painter,Susan Larson Frazier,Candace Inscoe,Kate Rees,15,12,Completed
+19695,7,2026-10-21,cary,fall2026,lowintermediate,50,women,LOCH Dinking Queens,IND Carpe Dinkem,Cynthia Ross Alcorn,Marie Kuhner,Melanie Mueller,Wivina Lee,15,8,Completed
+19695,8,2026-10-21,cary,fall2026,lowintermediate,50,women,LOCH Dinking Queens,IND Carpe Dinkem,Wanda Marie Vaziri,Amy S Fisher,Candace Inscoe,Kate Rees,15,4,Completed
+19695,9,2026-10-21,cary,fall2026,lowintermediate,50,women,LOCH Dinking Queens,IND Carpe Dinkem,Kathy R Painter,Susan Larson Frazier,Jennifer Brunetti,Mary Chambliss,5,15,Completed
+19696,1,2026-10-21,cary,fall2026,lowintermediate,50,women,MD Drop It Like It's Hot,LOCH Lochmere In A Pickle,Mary S Bailey,Molly Reilly,Colleen Owen Murphy,Camille Lewis,2,15,Completed
+19696,2,2026-10-21,cary,fall2026,lowintermediate,50,women,MD Drop It Like It's Hot,LOCH Lochmere In A Pickle,Nadia Battistoni,Kendra McCormick,Pamela Summers,Elly Siggins,15,3,Completed
+19696,3,2026-10-21,cary,fall2026,lowintermediate,50,women,MD Drop It Like It's Hot,LOCH Lochmere In A Pickle,Stephanie Wyatt,Beth Simpson,Debbie Loy,Susan G Coulter,15,10,Completed
+19696,4,2026-10-21,cary,fall2026,lowintermediate,50,women,MD Drop It Like It's Hot,LOCH Lochmere In A Pickle,Mary S Bailey,Molly Reilly,Pamela Summers,Elly Siggins,5,15,Completed
+19696,5,2026-10-21,cary,fall2026,lowintermediate,50,women,MD Drop It Like It's Hot,LOCH Lochmere In A Pickle,Nadia Battistoni,Kendra McCormick,Debbie Loy,Susan G Coulter,15,3,Completed
+19696,6,2026-10-21,cary,fall2026,lowintermediate,50,women,MD Drop It Like It's Hot,LOCH Lochmere In A Pickle,Stephanie Wyatt,Beth Simpson,Colleen Owen Murphy,Camille Lewis,9,15,Completed
+19696,7,2026-10-21,cary,fall2026,lowintermediate,50,women,MD Drop It Like It's Hot,LOCH Lochmere In A Pickle,Mary S Bailey,Molly Reilly,Debbie Loy,Susan G Coulter,15,8,Completed
+19696,8,2026-10-21,cary,fall2026,lowintermediate,50,women,MD Drop It Like It's Hot,LOCH Lochmere In A Pickle,Nadia Battistoni,Kendra McCormick,Colleen Owen Murphy,Camille Lewis,4,15,Completed
+19696,9,2026-10-21,cary,fall2026,lowintermediate,50,women,MD Drop It Like It's Hot,LOCH Lochmere In A Pickle,Stephanie Wyatt,Beth Simpson,Pamela Summers,Elly Siggins,15,8,Completed
+19704,1,2026-10-25,cary,fall2026,lowintermediate,50,women,IND Pickle Me Pink,IND Carpe Dinkem,Judy Lindhout,Jessica W Fairfax,Cindy McConnell,Kate Rees,15,12,Completed
+19704,2,2026-10-25,cary,fall2026,lowintermediate,50,women,IND Pickle Me Pink,IND Carpe Dinkem,Catherine Beasley,Julie Bobzien,Jennifer Brunetti,Mary Chambliss,4,15,Completed
+19704,3,2026-10-25,cary,fall2026,lowintermediate,50,women,IND Pickle Me Pink,IND Carpe Dinkem,DEFAULT,DEFAULT,Gail Gaetani,Candace Inscoe,0,15,Default
+19704,4,2026-10-25,cary,fall2026,lowintermediate,50,women,IND Pickle Me Pink,IND Carpe Dinkem,Judy Lindhout,Jessica W Fairfax,Jennifer Brunetti,Mary Chambliss,2,15,Completed
+19704,5,2026-10-25,cary,fall2026,lowintermediate,50,women,IND Pickle Me Pink,IND Carpe Dinkem,Catherine Beasley,Julie Bobzien,Gail Gaetani,Candace Inscoe,2,15,Completed
+19704,6,2026-10-25,cary,fall2026,lowintermediate,50,women,IND Pickle Me Pink,IND Carpe Dinkem,DEFAULT,DEFAULT,Cindy McConnell,Kate Rees,0,15,Default
+19704,7,2026-10-25,cary,fall2026,lowintermediate,50,women,IND Pickle Me Pink,IND Carpe Dinkem,Judy Lindhout,Jessica W Fairfax,Gail Gaetani,Candace Inscoe,5,15,Completed
+19704,8,2026-10-25,cary,fall2026,lowintermediate,50,women,IND Pickle Me Pink,IND Carpe Dinkem,Catherine Beasley,Julie Bobzien,Cindy McConnell,Kate Rees,12,15,Completed
+19704,9,2026-10-25,cary,fall2026,lowintermediate,50,women,IND Pickle Me Pink,IND Carpe Dinkem,DEFAULT,DEFAULT,Jennifer Brunetti,Mary Chambliss,0,15,Default
+19712,1,2026-10-28,cary,fall2026,lowintermediate,50,women,LOCH Dinking Queens,IND Carpe Dinkem,Wendy McMillan,Connie Kannarr,Jennifer Brunetti,Mary Chambliss,8,15,Completed
+19712,2,2026-10-28,cary,fall2026,lowintermediate,50,women,LOCH Dinking Queens,IND Carpe Dinkem,Cynthia Ross Alcorn,Marie Kuhner,Gail Gaetani,Candace Inscoe,8,15,Completed
+19712,3,2026-10-28,cary,fall2026,lowintermediate,50,women,LOCH Dinking Queens,IND Carpe Dinkem,Susan Larson Frazier,Kathy R Painter,Melanie Mueller,Brooke Bonham,12,15,Completed
+19712,4,2026-10-28,cary,fall2026,lowintermediate,50,women,LOCH Dinking Queens,IND Carpe Dinkem,Wendy McMillan,Connie Kannarr,Gail Gaetani,Candace Inscoe,14,16,Completed
+19712,5,2026-10-28,cary,fall2026,lowintermediate,50,women,LOCH Dinking Queens,IND Carpe Dinkem,Cynthia Ross Alcorn,Marie Kuhner,Melanie Mueller,Brooke Bonham,13,15,Completed
+19712,6,2026-10-28,cary,fall2026,lowintermediate,50,women,LOCH Dinking Queens,IND Carpe Dinkem,Susan Larson Frazier,Kathy R Painter,Jennifer Brunetti,Mary Chambliss,4,15,Completed
+19712,7,2026-10-28,cary,fall2026,lowintermediate,50,women,LOCH Dinking Queens,IND Carpe Dinkem,Wendy McMillan,Connie Kannarr,Melanie Mueller,Brooke Bonham,15,3,Completed
+19712,8,2026-10-28,cary,fall2026,lowintermediate,50,women,LOCH Dinking Queens,IND Carpe Dinkem,Cynthia Ross Alcorn,Marie Kuhner,Jennifer Brunetti,Mary Chambliss,16,14,Completed
+19712,9,2026-10-28,cary,fall2026,lowintermediate,50,women,LOCH Dinking Queens,IND Carpe Dinkem,Susan Larson Frazier,Kathy R Painter,Gail Gaetani,Candace Inscoe,2,15,Completed
