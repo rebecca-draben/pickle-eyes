@@ -16,7 +16,7 @@ Run with: ./rank.py
 # draw_probability=0.0 because there are no draws, there is always a winner
 # sigma=15.0 so that players are not penalized by fewer games, their initial uncertainty is high, so it can vary quickly
 # tau=0.0 so there is no skill drift, so inactive players are not penalized over time
-ts = trueskill.TrueSkill(draw_probability=0.0, sigma=15.0, tau=0.0) 
+ts = trueskill.TrueSkill(draw_probability=0.0, sigma=8.333, tau=0.0) 
 player_ratings = defaultdict(ts.Rating)
 
 def update_ratings(p1, p2, o1, o2, team1_score, team2_score):
