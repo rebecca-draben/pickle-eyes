@@ -2,13 +2,15 @@
 
 import csv
 
-BASE_RATING_DELTA = 0.005
+BASE_RATING_DELTA = 0.003
+
+WINNING_BONUS = 0.01
 
 TOSSUP_THRESHOLD = 0.1       # Ratings within this range are tossups
 SLIGHT_THRESHOLD = 0.2      # Up to this is slight favorite, anything above is heavy
 
-BLOWOUT_MARGIN = 11
-NARROW_MARGIN = 4
+BLOWOUT_MARGIN = 10
+NARROW_MARGIN = 5
 
 # Rating changes multipliers based on context (will be scaled by BASE_RATING_DELTA)
 # 3-tuple (winner relative to expectations, level of favoredness, margin of game result)
@@ -107,24 +109,24 @@ def update_ratings(ratings, match):
     delta = change / 2
 
     print(f"Result margin: {result_margin}")
-    print(f"Rating change multiplier: {rating_change_multiplier}, Change per player: {delta:.2f}")
+    print(f"Rating change multiplier: {rating_change_multiplier}, Change per player: {delta:.3f}")
 
     if team1_won:
-        ratings[p1] = r1 + delta
-        ratings[p2] = r2 + delta
+        ratings[p1] = r1 + delta + WINNING_BONUS
+        ratings[p2] = r2 + delta + WINNING_BONUS
         ratings[o1] = r3 - delta
         ratings[o2] = r4 - delta
     else:
         ratings[p1] = r1 - delta
         ratings[p2] = r2 - delta
-        ratings[o1] = r3 + delta
-        ratings[o2] = r4 + delta
+        ratings[o1] = r3 + delta + WINNING_BONUS
+        ratings[o2] = r4 + delta + WINNING_BONUS
 
     print(f"Updated ratings:")
-    print(f"  {p1}: {r1:.2f} → {ratings[p1]:.2f}")
-    print(f"  {p2}: {r2:.2f} → {ratings[p2]:.2f}")
-    print(f"  {o1}: {r3:.2f} → {ratings[o1]:.2f}")
-    print(f"  {o2}: {r4:.2f} → {ratings[o2]:.2f}")
+    print(f"  {p1}: {r1:.3f} → {ratings[p1]:.3f}")
+    print(f"  {p2}: {r2:.3f} → {ratings[p2]:.3f}")
+    print(f"  {o1}: {r3:.3f} → {ratings[o1]:.3f}")
+    print(f"  {o2}: {r4:.3f} → {ratings[o2]:.3f}")
 
 
 # Process all matches in file
@@ -148,10 +150,10 @@ def print_ratings(ratings):
 # Main block
 if __name__ == "__main__":
     # run fall 2024 data
-    #final_ratings = process_matches("ratings_2024_fall.csv", "match_data_2024_fall.csv")
+    final_ratings = process_matches("ratings_2024_fall.csv", "match_data_2024_fall.csv")
 
     # run spring 2025 data
-    final_ratings = process_matches("ratings_2025_spring.csv", "match_data_2025_spring.csv")
+    #final_ratings = process_matches("ratings_2025_spring.csv", "match_data_2025_spring.csv")
 
     print_ratings(final_ratings)
 
