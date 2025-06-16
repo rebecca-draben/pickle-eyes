@@ -2,15 +2,15 @@
 
 import csv
 
-BASE_RATING_DELTA = 0.003
+BASE_RATING_DELTA = 0.0035
 
 WINNING_BONUS = 0.01
 
 TOSSUP_THRESHOLD = 0.1       # Ratings within this range are tossups
 SLIGHT_THRESHOLD = 0.2      # Up to this is slight favorite, anything above is heavy
 
-BLOWOUT_MARGIN = 10
-NARROW_MARGIN = 5
+BLOWOUT_MARGIN = 12
+NARROW_MARGIN = 3
 
 # Rating changes multipliers based on context (will be scaled by BASE_RATING_DELTA)
 # 3-tuple (winner relative to expectations, level of favoredness, margin of game result)
