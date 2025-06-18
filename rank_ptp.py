@@ -1,13 +1,21 @@
 #!/usr/bin/env python3
 
-import csv
+"""
+To run this script:
+Activate the virtual environment with: source mypickleballenv/bin/activate
+Run with: ./rank_ptp.py match_data_x.csv
 
-BASE_RATING_DELTA = 0.0035
+"""
+
+import csv
+import argparse
+
+BASE_RATING_DELTA = 0.0035  # Scales up or down all RATING_CHANGE numbers to add/subtract more for each win/loss
 
 WINNING_BONUS = 0.01
 
-TOSSUP_THRESHOLD = 0.1       # Ratings within this range are tossups
-SLIGHT_THRESHOLD = 0.2      # Up to this is slight favorite, anything above is heavy
+TOSSUP_THRESHOLD = 0.1      # Rating differnce up to this value is tossup
+SLIGHT_THRESHOLD = 0.2      # Rating differnce up to this value is slight favorite, anything above is heavy favorite
 
 BLOWOUT_MARGIN = 12
 NARROW_MARGIN = 3
@@ -53,13 +61,18 @@ def load_ratings(filename):
     return ratings
 
 # Apply rating updates based on a match
-def update_ratings(ratings, match):
-    _, p1, p2, o1, o2, s1, s2 = match
+def update_ratings(ratings, row):
+    p1 = row['partner1'].strip()
+    p2 = row['partner2'].strip()
+    o1 = row['opponent1'].strip()
+    o2 = row['opponent2'].strip()
+
     if "DEFAULT" in [p1, p2, o1, o2]:
-        print("Skipping match due to DEFAULT player:", match)
+        print("Skipping match due to DEFAULT player:", row)
         return
 
-    s1, s2 = int(s1), int(s2)
+    s1 = int(row['team1_points'])
+    s2 = int(row['team2_points'])
     default_rating = 3.5
 
     # Get current ratings or use default
@@ -134,10 +147,9 @@ def process_matches(ratings_file, matches_file):
     ratings = load_ratings(ratings_file)
 
     with open(matches_file, newline='') as f:
-        reader = csv.reader(f)
-        next(reader)  # Skip header
-        for match in reader:
-            update_ratings(ratings, match)
+        reader = csv.DictReader(f)
+        for row in reader:
+            update_ratings(ratings, row)
 
     return ratings
 
@@ -149,11 +161,12 @@ def print_ratings(ratings):
 
 # Main block
 if __name__ == "__main__":
-    # run fall 2024 data
-    final_ratings = process_matches("ratings_2024_fall.csv", "match_data_2024_fall.csv")
+    parser = argparse.ArgumentParser(description="Process rating updates from match data.")
+    parser.add_argument("ratings_file", help="Input CSV file with initial ratings")
+    parser.add_argument("matches_file", help="CSV file with match results")
 
-    # run spring 2025 data
-    #final_ratings = process_matches("ratings_2025_spring.csv", "match_data_2025_spring.csv")
+    args = parser.parse_args()
 
+    final_ratings = process_matches(args.ratings_file, args.matches_file)
     print_ratings(final_ratings)
 

@@ -1,16 +1,18 @@
 #!/usr/bin/env python3
 
-import csv
-import trueskill
-from collections import defaultdict
 
 """
 To run this script:
 Activate the virtual environment with: source mypickleballenv/bin/activate
-Put the data to analyze in match_data.csv
-Run with: ./rank.py
+Run with: ./rank_trueskill.py match_data_x.csv
 
 """
+
+import csv
+import argparse
+import trueskill
+from collections import defaultdict
+
 
 # Set up TrueSkill environment with no draws
 # draw_probability=0.0 because there are no draws, there is always a winner
@@ -18,6 +20,9 @@ Run with: ./rank.py
 # tau=0.0 so there is no skill drift, so inactive players are not penalized over time
 ts = trueskill.TrueSkill(draw_probability=0.0, sigma=8.333, tau=0.0) 
 player_ratings = defaultdict(ts.Rating)
+
+# store which team the player plays on, assumes one team in the input data
+player_teams = {}
 
 def update_ratings(p1, p2, o1, o2, team1_score, team2_score):
     # Get current ratings for players on team 1
@@ -35,8 +40,13 @@ def update_ratings(p1, p2, o1, o2, team1_score, team2_score):
     player_ratings[p1], player_ratings[p2] = new_rating_team1
     player_ratings[o1], player_ratings[o2] = new_rating_team2
 
+
 def main():
-    input_file = "match_data.csv"
+    parser = argparse.ArgumentParser(description="Calculate TrueSkill ratings from match data.")
+    parser.add_argument("csv_file", help="Input match data CSV file (e.g., match_data_test.csv)")
+    args = parser.parse_args()
+
+    input_file = args.csv_file
 
     with open(input_file, newline='') as csvfile:
         reader = csv.DictReader(csvfile)
@@ -50,22 +60,35 @@ def main():
             if 'DEFAULT' in [p1, p2, o1, o2]:
                 continue
 
+            team1_name = row['team1_name'].strip()
+            team2_name = row['team2_name'].strip()
+
+            # Set team names only if not already set (first occurrence wins)
+            for player in [p1, p2]:
+                if player not in player_teams:
+                    player_teams[player] = team1_name
+            for player in [o1, o2]:
+                if player not in player_teams:
+                    player_teams[player] = team2_name
+
             team1_score = int(row['team1_points'])
             team2_score = int(row['team2_points'])
 
             update_ratings(p1, p2, o1, o2, team1_score, team2_score)
 
     # Sort players by their skill estimate (exposed rating) in descending order
-    ranked_players = sorted(player_ratings.items(), key=lambda x: ts.expose(x[1]), reverse=True)
+    ranked_players = sorted(player_ratings.items(), key=lambda x: x[1].mu, reverse=True)
 
     # Print CSV header
-    print("Rank,Player,Skill,Mu,Sigma")
+    print("Rank,Player,Team,Skill,Mu,Sigma")
 
     # Print CSV rows
     # Unpack ranked players, for example: rank=1, player='Alice', rating=Rating(mu=30, sigma=7)
     for rank, (player, rating) in enumerate(ranked_players, 1):
         exposed = ts.expose(rating)
-        print(f"{rank},{player},{exposed:.2f},{rating.mu:.2f},{rating.sigma:.2f}")
+        team_name = player_teams.get(player, "Unknown")
+        print(f"{rank},{player},{team_name},{exposed:.2f},{rating.mu:.2f},{rating.sigma:.2f}")
+
 
 if __name__ == '__main__':
     main()

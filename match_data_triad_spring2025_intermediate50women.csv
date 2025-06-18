@@ -1,0 +1,271 @@
+match_id,game_id,match_date,team1_name,team2_name,partner1,partner2,opponent1,opponent2,team1_points,team2_points
+15024,1,2025-03-18,BUR Bruisers,OFRC Punchy Picklers,Elizabeth Bengtson,Nikole Daigle,Kay Pardue,Sue Bugno,15,9
+15024,2,2025-03-18,BUR Bruisers,OFRC Punchy Picklers,Deb Vincent,Laura Black,Tammy Kasserman,Jen Russell,11,15
+15024,3,2025-03-18,BUR Bruisers,OFRC Punchy Picklers,AnnMarie Klick,Debbie Sivret,Diane Smith,Betsy Hooper,15,6
+15024,4,2025-03-18,BUR Bruisers,OFRC Punchy Picklers,Elizabeth Bengtson,Nikole Daigle,Tammy Kasserman,Jen Russell,15,6
+15024,5,2025-03-18,BUR Bruisers,OFRC Punchy Picklers,Deb Vincent,Laura Black,Diane Smith,Betsy Hooper,4,15
+15024,6,2025-03-18,BUR Bruisers,OFRC Punchy Picklers,AnnMarie Klick,Debbie Sivret,Kay Pardue,Sue Bugno,15,6
+15024,7,2025-03-18,BUR Bruisers,OFRC Punchy Picklers,Elizabeth Bengtson,Nikole Daigle,Diane Smith,Betsy Hooper,15,6
+15024,8,2025-03-18,BUR Bruisers,OFRC Punchy Picklers,Deb Vincent,Laura Black,Kay Pardue,Sue Bugno,11,15
+15024,9,2025-03-18,BUR Bruisers,OFRC Punchy Picklers,AnnMarie Klick,Debbie Sivret,Tammy Kasserman,Jen Russell,15,1
+15025,1,2025-03-18,GCC Sweet Picklers,BUR Simply Smashing,Candace C Austin,Carol Smith,Jean Rezzo,Kimberly L Gay,15,7
+15025,2,2025-03-18,GCC Sweet Picklers,BUR Simply Smashing,Dixie Culver,Kathy Cross,Kathleen Maddalone,Jane Walker,15,4
+15025,3,2025-03-18,GCC Sweet Picklers,BUR Simply Smashing,Camille Williams,Sydney Brown Cardone,Susan S Traylor,Pat Russell,8,15
+15025,4,2025-03-18,GCC Sweet Picklers,BUR Simply Smashing,Candace C Austin,Carol Smith,Kathleen Maddalone,Jane Walker,15,1
+15025,5,2025-03-18,GCC Sweet Picklers,BUR Simply Smashing,Dixie Culver,Kathy Cross,Susan S Traylor,Pat Russell,15,10
+15025,6,2025-03-18,GCC Sweet Picklers,BUR Simply Smashing,Camille Williams,Sydney Brown Cardone,Jean Rezzo,Kimberly L Gay,9,15
+15025,7,2025-03-18,GCC Sweet Picklers,BUR Simply Smashing,Candace C Austin,Carol Smith,Susan S Traylor,Pat Russell,15,11
+15025,8,2025-03-18,GCC Sweet Picklers,BUR Simply Smashing,Dixie Culver,Kathy Cross,Jean Rezzo,Kimberly L Gay,15,1
+15025,9,2025-03-18,GCC Sweet Picklers,BUR Simply Smashing,Camille Williams,Sydney Brown Cardone,Kathleen Maddalone,Jane Walker,15,7
+15026,1,2025-03-18,LAWN Flippin 50s,LJ Two Dink Minimum,Kelly Hassell,Jennifer L Flory,Ellen Driver,Pamela Cascarano,7,15
+15026,2,2025-03-18,LAWN Flippin 50s,LJ Two Dink Minimum,Ann Hucks,Karen Pickles,Amy Stehlin,Elizabeth Conte-Vitullo,5,15
+15026,3,2025-03-18,LAWN Flippin 50s,LJ Two Dink Minimum,Maryann Plante,Sue Catherine,Dianne Malueg,Jaqueline Gast,15,11
+15026,4,2025-03-18,LAWN Flippin 50s,LJ Two Dink Minimum,Kelly Hassell,Jennifer L Flory,Amy Stehlin,Elizabeth Conte-Vitullo,16,14
+15026,5,2025-03-18,LAWN Flippin 50s,LJ Two Dink Minimum,Ann Hucks,Karen Pickles,Dianne Malueg,Jaqueline Gast,9,15
+15026,6,2025-03-18,LAWN Flippin 50s,LJ Two Dink Minimum,Maryann Plante,Sue Catherine,Ellen Driver,Pamela Cascarano,8,15
+15026,7,2025-03-18,LAWN Flippin 50s,LJ Two Dink Minimum,Kelly Hassell,Jennifer L Flory,Dianne Malueg,Jaqueline Gast,15,2
+15026,8,2025-03-18,LAWN Flippin 50s,LJ Two Dink Minimum,Ann Hucks,Karen Pickles,Ellen Driver,Pamela Cascarano,12,15
+15026,9,2025-03-18,LAWN Flippin 50s,LJ Two Dink Minimum,Maryann Plante,Sue Catherine,Amy Stehlin,Elizabeth Conte-Vitullo,6,15
+15053,1,2025-03-25,BUR Bruisers,LAWN Flippin 50s,AnnMarie Klick,Colleen McKenna,Jennifer L Flory,Kelly Hassell,15,13
+15053,2,2025-03-25,BUR Bruisers,LAWN Flippin 50s,Debbie Sivret,Elizabeth Bengtson,Maryann Plante,Sue Catherine,15,3
+15053,3,2025-03-25,BUR Bruisers,LAWN Flippin 50s,Donna Peterson,Laura Black,Lisa Liringis,Joan Vijay,14,16
+15053,4,2025-03-25,BUR Bruisers,LAWN Flippin 50s,AnnMarie Klick,Colleen McKenna,Maryann Plante,Sue Catherine,15,12
+15053,5,2025-03-25,BUR Bruisers,LAWN Flippin 50s,Debbie Sivret,Elizabeth Bengtson,Lisa Liringis,Joan Vijay,15,7
+15053,6,2025-03-25,BUR Bruisers,LAWN Flippin 50s,Donna Peterson,Laura Black,Jennifer L Flory,Kelly Hassell,10,15
+15053,7,2025-03-25,BUR Bruisers,LAWN Flippin 50s,AnnMarie Klick,Colleen McKenna,Lisa Liringis,Joan Vijay,15,9
+15053,8,2025-03-25,BUR Bruisers,LAWN Flippin 50s,Debbie Sivret,Elizabeth Bengtson,Jennifer L Flory,Kelly Hassell,15,7
+15053,9,2025-03-25,BUR Bruisers,LAWN Flippin 50s,Donna Peterson,Laura Black,Maryann Plante,Sue Catherine,12,15
+15054,1,2025-03-25,GCC Sweet Picklers,LJ Two Dink Minimum,Cary Scully,Sheri Cram,Lisa Morrison,Carolyn Smith,3,15
+15054,2,2025-03-25,GCC Sweet Picklers,LJ Two Dink Minimum,Kathy Cross,Diana Stuckey,Ellen Driver,Jaqueline Gast,13,15
+15054,3,2025-03-25,GCC Sweet Picklers,LJ Two Dink Minimum,Carol Smith,Candace C Austin,Amy Stehlin,Beth R Sherrill,10,15
+15054,4,2025-03-25,GCC Sweet Picklers,LJ Two Dink Minimum,Cary Scully,Sheri Cram,Ellen Driver,Jaqueline Gast,7,15
+15054,5,2025-03-25,GCC Sweet Picklers,LJ Two Dink Minimum,Kathy Cross,Diana Stuckey,Amy Stehlin,Beth R Sherrill,6,15
+15054,6,2025-03-25,GCC Sweet Picklers,LJ Two Dink Minimum,Carol Smith,Candace C Austin,Lisa Morrison,Carolyn Smith,13,15
+15054,7,2025-03-25,GCC Sweet Picklers,LJ Two Dink Minimum,Cary Scully,Sheri Cram,Amy Stehlin,Beth R Sherrill,7,15
+15054,8,2025-03-25,GCC Sweet Picklers,LJ Two Dink Minimum,Kathy Cross,Diana Stuckey,Lisa Morrison,Carolyn Smith,14,16
+15054,9,2025-03-25,GCC Sweet Picklers,LJ Two Dink Minimum,Carol Smith,Candace C Austin,Ellen Driver,Jaqueline Gast,14,16
+15055,1,2025-03-25,OFRC Punchy Picklers,BUR Simply Smashing,Betsy Hooper,Diane Smith,Kimberly L Gay,Kathleen Maddalone,14,16
+15055,2,2025-03-25,OFRC Punchy Picklers,BUR Simply Smashing,Susan Hurrey,Tammy Kasserman,Linda Costa,Debbie S Richardson,15,12
+15055,3,2025-03-25,OFRC Punchy Picklers,BUR Simply Smashing,MaryAnne Butler,Jill Balderas,Jean Rezzo,Susan S Traylor,12,15
+15055,4,2025-03-25,OFRC Punchy Picklers,BUR Simply Smashing,Betsy Hooper,Diane Smith,Linda Costa,Debbie S Richardson,15,7
+15055,5,2025-03-25,OFRC Punchy Picklers,BUR Simply Smashing,Susan Hurrey,Tammy Kasserman,Jean Rezzo,Susan S Traylor,15,6
+15055,6,2025-03-25,OFRC Punchy Picklers,BUR Simply Smashing,MaryAnne Butler,Jill Balderas,Kimberly L Gay,Kathleen Maddalone,11,15
+15055,7,2025-03-25,OFRC Punchy Picklers,BUR Simply Smashing,Betsy Hooper,Diane Smith,Jean Rezzo,Susan S Traylor,14,16
+15055,8,2025-03-25,OFRC Punchy Picklers,BUR Simply Smashing,Susan Hurrey,Tammy Kasserman,Kimberly L Gay,Kathleen Maddalone,15,6
+15055,9,2025-03-25,OFRC Punchy Picklers,BUR Simply Smashing,MaryAnne Butler,Jill Balderas,Linda Costa,Debbie S Richardson,13,15
+15086,1,2025-04-01,BUR Simply Smashing,LJ Two Dink Minimum,Linda Costa,Pat Russell,Dianne Malueg,Jaqueline Gast,15,9
+15086,2,2025-04-01,BUR Simply Smashing,LJ Two Dink Minimum,Kathleen Maddalone,Debbie S Richardson,Jodi Stanley,Carolyn Smith,15,13
+15086,3,2025-04-01,BUR Simply Smashing,LJ Two Dink Minimum,Susan S Traylor,Jean Shaw Sink,Pamela Cascarano,Beth R Sherrill,5,15
+15086,4,2025-04-01,BUR Simply Smashing,LJ Two Dink Minimum,Linda Costa,Pat Russell,Jodi Stanley,Carolyn Smith,9,15
+15086,5,2025-04-01,BUR Simply Smashing,LJ Two Dink Minimum,Kathleen Maddalone,Debbie S Richardson,Pamela Cascarano,Beth R Sherrill,6,15
+15086,6,2025-04-01,BUR Simply Smashing,LJ Two Dink Minimum,Susan S Traylor,Jean Shaw Sink,Dianne Malueg,Jaqueline Gast,15,13
+15086,7,2025-04-01,BUR Simply Smashing,LJ Two Dink Minimum,Linda Costa,Pat Russell,Pamela Cascarano,Beth R Sherrill,4,15
+15086,8,2025-04-01,BUR Simply Smashing,LJ Two Dink Minimum,Kathleen Maddalone,Debbie S Richardson,Dianne Malueg,Jaqueline Gast,15,3
+15086,9,2025-04-01,BUR Simply Smashing,LJ Two Dink Minimum,Susan S Traylor,Jean Shaw Sink,Jodi Stanley,Carolyn Smith,4,15
+15087,1,2025-04-01,GCC Sweet Picklers,BUR Bruisers,Kim Murray,Ingrid Avera,AnnMarie Klick,Kris Devaney,15,9
+15087,2,2025-04-01,GCC Sweet Picklers,BUR Bruisers,Camille Williams,Candace C Austin,Deb Vincent,Donna Peterson,15,8
+15087,3,2025-04-01,GCC Sweet Picklers,BUR Bruisers,Barbara Young,Carol Smith,Elizabeth Bengtson,Nikole Daigle,9,15
+15087,4,2025-04-01,GCC Sweet Picklers,BUR Bruisers,Kim Murray,Ingrid Avera,Deb Vincent,Donna Peterson,15,7
+15087,5,2025-04-01,GCC Sweet Picklers,BUR Bruisers,Camille Williams,Candace C Austin,Elizabeth Bengtson,Nikole Daigle,6,15
+15087,6,2025-04-01,GCC Sweet Picklers,BUR Bruisers,Barbara Young,Carol Smith,AnnMarie Klick,Kris Devaney,17,15
+15087,7,2025-04-01,GCC Sweet Picklers,BUR Bruisers,Kim Murray,Ingrid Avera,Elizabeth Bengtson,Nikole Daigle,2,15
+15087,8,2025-04-01,GCC Sweet Picklers,BUR Bruisers,Camille Williams,Candace C Austin,AnnMarie Klick,Kris Devaney,15,8
+15087,9,2025-04-01,GCC Sweet Picklers,BUR Bruisers,Barbara Young,Carol Smith,Deb Vincent,Donna Peterson,15,3
+15088,1,2025-04-01,OFRC Punchy Picklers,LAWN Flippin 50s,Susan Hurrey,Diane Smith,Jennifer L Flory,Jane Wong,15,12
+15088,2,2025-04-01,OFRC Punchy Picklers,LAWN Flippin 50s,Betsy Harrington,Susan Harvey,Karen Pickles,Kelly Hassell,15,12
+15088,3,2025-04-01,OFRC Punchy Picklers,LAWN Flippin 50s,MaryAnne Butler,Sue Bugno,Lisa Liringis,Joan Vijay,13,15
+15088,4,2025-04-01,OFRC Punchy Picklers,LAWN Flippin 50s,Susan Hurrey,Diane Smith,Karen Pickles,Kelly Hassell,8,15
+15088,5,2025-04-01,OFRC Punchy Picklers,LAWN Flippin 50s,Betsy Harrington,Susan Harvey,Lisa Liringis,Joan Vijay,9,15
+15088,6,2025-04-01,OFRC Punchy Picklers,LAWN Flippin 50s,MaryAnne Butler,Sue Bugno,Jennifer L Flory,Jane Wong,15,10
+15088,7,2025-04-01,OFRC Punchy Picklers,LAWN Flippin 50s,Susan Hurrey,Diane Smith,Lisa Liringis,Joan Vijay,16,14
+15088,8,2025-04-01,OFRC Punchy Picklers,LAWN Flippin 50s,Betsy Harrington,Susan Harvey,Jennifer L Flory,Jane Wong,15,12
+15088,9,2025-04-01,OFRC Punchy Picklers,LAWN Flippin 50s,MaryAnne Butler,Sue Bugno,Karen Pickles,Kelly Hassell,8,15
+15120,1,2025-04-08,LAWN Flippin 50s,BUR Simply Smashing,Karen Pickles,Kelly Hassell,Kimberly L Gay,Jean Rezzo,6,15
+15120,2,2025-04-08,LAWN Flippin 50s,BUR Simply Smashing,Maryann Plante,Sue Catherine,Kathleen Maddalone,Jean Shaw Sink,15,10
+15120,3,2025-04-08,LAWN Flippin 50s,BUR Simply Smashing,Joan Vijay,Ann Hucks,Susan S Traylor,Jane Walker,6,15
+15120,4,2025-04-08,LAWN Flippin 50s,BUR Simply Smashing,Karen Pickles,Kelly Hassell,Kathleen Maddalone,Jean Shaw Sink,15,9
+15120,5,2025-04-08,LAWN Flippin 50s,BUR Simply Smashing,Maryann Plante,Sue Catherine,Susan S Traylor,Jane Walker,13,15
+15120,6,2025-04-08,LAWN Flippin 50s,BUR Simply Smashing,Joan Vijay,Ann Hucks,Kimberly L Gay,Jean Rezzo,6,15
+15120,7,2025-04-08,LAWN Flippin 50s,BUR Simply Smashing,Karen Pickles,Kelly Hassell,Susan S Traylor,Jane Walker,15,3
+15120,8,2025-04-08,LAWN Flippin 50s,BUR Simply Smashing,Maryann Plante,Sue Catherine,Kimberly L Gay,Jean Rezzo,6,15
+15120,9,2025-04-08,LAWN Flippin 50s,BUR Simply Smashing,Joan Vijay,Ann Hucks,Kathleen Maddalone,Jean Shaw Sink,15,13
+15153,1,2025-04-15,BUR Simply Smashing,BUR Bruisers,Linda Costa,Kathleen Maddalone,Debbie Sivret,Elizabeth Bengtson,11,15
+15153,2,2025-04-15,BUR Simply Smashing,BUR Bruisers,Pat Russell,Susan S Traylor,Donna Peterson,Laura Black,15,7
+15153,3,2025-04-15,BUR Simply Smashing,BUR Bruisers,Debbie S Richardson,Jean Shaw Sink,Colleen McKenna,Kris Devaney,8,15
+15153,4,2025-04-15,BUR Simply Smashing,BUR Bruisers,Linda Costa,Kathleen Maddalone,Donna Peterson,Laura Black,15,7
+15153,5,2025-04-15,BUR Simply Smashing,BUR Bruisers,Pat Russell,Susan S Traylor,Colleen McKenna,Kris Devaney,15,6
+15153,6,2025-04-15,BUR Simply Smashing,BUR Bruisers,Debbie S Richardson,Jean Shaw Sink,Debbie Sivret,Elizabeth Bengtson,0,15
+15153,7,2025-04-15,BUR Simply Smashing,BUR Bruisers,Linda Costa,Kathleen Maddalone,Colleen McKenna,Kris Devaney,15,7
+15153,8,2025-04-15,BUR Simply Smashing,BUR Bruisers,Pat Russell,Susan S Traylor,Debbie Sivret,Elizabeth Bengtson,5,15
+15153,9,2025-04-15,BUR Simply Smashing,BUR Bruisers,Debbie S Richardson,Jean Shaw Sink,Donna Peterson,Laura Black,10,15
+15154,1,2025-04-15,LAWN Flippin 50s,GCC Sweet Picklers,Kelly Hassell,Karen Pickles,Sydney Brown Cardone,Mary Beach,14,16
+15154,2,2025-04-15,LAWN Flippin 50s,GCC Sweet Picklers,Maryann Plante,Jane Wong,Dixie Culver,Kim Murray,1,15
+15154,3,2025-04-15,LAWN Flippin 50s,GCC Sweet Picklers,Joan Vijay,Lisa Liringis,Sheri Cram,Barbara Young,10,15
+15154,4,2025-04-15,LAWN Flippin 50s,GCC Sweet Picklers,Kelly Hassell,Karen Pickles,Dixie Culver,Kim Murray,1,15
+15154,5,2025-04-15,LAWN Flippin 50s,GCC Sweet Picklers,Maryann Plante,Jane Wong,Sheri Cram,Barbara Young,15,10
+15154,6,2025-04-15,LAWN Flippin 50s,GCC Sweet Picklers,Joan Vijay,Lisa Liringis,Sydney Brown Cardone,Mary Beach,6,15
+15154,7,2025-04-15,LAWN Flippin 50s,GCC Sweet Picklers,Kelly Hassell,Karen Pickles,Sheri Cram,Barbara Young,15,13
+15154,8,2025-04-15,LAWN Flippin 50s,GCC Sweet Picklers,Maryann Plante,Jane Wong,Sydney Brown Cardone,Mary Beach,1,15
+15154,9,2025-04-15,LAWN Flippin 50s,GCC Sweet Picklers,Joan Vijay,Lisa Liringis,Dixie Culver,Kim Murray,4,15
+15155,1,2025-04-15,LJ Two Dink Minimum,OFRC Punchy Picklers,Pamela Cascarano,Patti Hartman,Sue Bugno,Susan Harvey,15,7
+15155,2,2025-04-15,LJ Two Dink Minimum,OFRC Punchy Picklers,Jodi Stanley,Carolyn Smith,Jen Russell,Diane Smith,16,14
+15155,3,2025-04-15,LJ Two Dink Minimum,OFRC Punchy Picklers,Catherine Bell Flannery,Dianne Malueg,Susan Hurrey,Jill Balderas,15,12
+15155,4,2025-04-15,LJ Two Dink Minimum,OFRC Punchy Picklers,Pamela Cascarano,Patti Hartman,Jen Russell,Diane Smith,15,13
+15155,5,2025-04-15,LJ Two Dink Minimum,OFRC Punchy Picklers,Jodi Stanley,Carolyn Smith,Susan Hurrey,Jill Balderas,8,15
+15155,6,2025-04-15,LJ Two Dink Minimum,OFRC Punchy Picklers,Catherine Bell Flannery,Dianne Malueg,Sue Bugno,Susan Harvey,15,11
+15155,7,2025-04-15,LJ Two Dink Minimum,OFRC Punchy Picklers,Pamela Cascarano,Patti Hartman,Susan Hurrey,Jill Balderas,15,13
+15155,8,2025-04-15,LJ Two Dink Minimum,OFRC Punchy Picklers,Jodi Stanley,Carolyn Smith,Sue Bugno,Susan Harvey,10,15
+15155,9,2025-04-15,LJ Two Dink Minimum,OFRC Punchy Picklers,Catherine Bell Flannery,Dianne Malueg,Jen Russell,Diane Smith,15,11
+15165,1,2025-04-22,BUR Simply Smashing,GCC Sweet Picklers,Susan S Traylor,Kimberly L Gay,Carol Smith,Candace C Austin,5,15
+15165,2,2025-04-22,BUR Simply Smashing,GCC Sweet Picklers,Debbie S Richardson,Pat Russell,Dixie Culver,Kathy Cross,3,15
+15165,3,2025-04-22,BUR Simply Smashing,GCC Sweet Picklers,Jean Rezzo,Jane Walker,Barbara Young,Camille Williams,6,15
+15165,4,2025-04-22,BUR Simply Smashing,GCC Sweet Picklers,Susan S Traylor,Kimberly L Gay,Dixie Culver,Kathy Cross,5,15
+15165,5,2025-04-22,BUR Simply Smashing,GCC Sweet Picklers,Debbie S Richardson,Pat Russell,Barbara Young,Camille Williams,5,15
+15165,6,2025-04-22,BUR Simply Smashing,GCC Sweet Picklers,Jean Rezzo,Jane Walker,Carol Smith,Candace C Austin,9,15
+15165,7,2025-04-22,BUR Simply Smashing,GCC Sweet Picklers,Susan S Traylor,Kimberly L Gay,Barbara Young,Camille Williams,15,12
+15165,8,2025-04-22,BUR Simply Smashing,GCC Sweet Picklers,Debbie S Richardson,Pat Russell,Carol Smith,Candace C Austin,5,15
+15165,9,2025-04-22,BUR Simply Smashing,GCC Sweet Picklers,Jean Rezzo,Jane Walker,Dixie Culver,Kathy Cross,7,15
+15166,1,2025-04-22,LJ Two Dink Minimum,LAWN Flippin 50s,Ellen Driver,Jaqueline Gast,Kelly Hassell,Lisa Liringis,7,15
+15166,2,2025-04-22,LJ Two Dink Minimum,LAWN Flippin 50s,Jodi Stanley,Beth R Sherrill,Joan Vijay,Ann Hucks,15,12
+15166,3,2025-04-22,LJ Two Dink Minimum,LAWN Flippin 50s,Carolyn Smith,Dianne Malueg,Jennifer L Flory,Jane Wong,9,15
+15166,4,2025-04-22,LJ Two Dink Minimum,LAWN Flippin 50s,Ellen Driver,Jaqueline Gast,Joan Vijay,Ann Hucks,15,10
+15166,5,2025-04-22,LJ Two Dink Minimum,LAWN Flippin 50s,Jodi Stanley,Beth R Sherrill,Jennifer L Flory,Jane Wong,15,6
+15166,6,2025-04-22,LJ Two Dink Minimum,LAWN Flippin 50s,Carolyn Smith,Dianne Malueg,Kelly Hassell,Lisa Liringis,11,15
+15166,7,2025-04-22,LJ Two Dink Minimum,LAWN Flippin 50s,Ellen Driver,Jaqueline Gast,Jennifer L Flory,Jane Wong,15,6
+15166,8,2025-04-22,LJ Two Dink Minimum,LAWN Flippin 50s,Jodi Stanley,Beth R Sherrill,Kelly Hassell,Lisa Liringis,15,13
+15166,9,2025-04-22,LJ Two Dink Minimum,LAWN Flippin 50s,Carolyn Smith,Dianne Malueg,Joan Vijay,Ann Hucks,15,10
+15167,1,2025-04-22,OFRC Punchy Picklers,BUR Bruisers,Tammy Kasserman,Susan Hurrey,Elizabeth Bengtson,Laura Black,15,13
+15167,2,2025-04-22,OFRC Punchy Picklers,BUR Bruisers,Jill Balderas,Kay Pardue,Kris Devaney,AnnMarie Klick,18,16
+15167,3,2025-04-22,OFRC Punchy Picklers,BUR Bruisers,Betsy Harrington,Denise Butler,Debbie Sivret,Nikole Daigle,15,10
+15167,4,2025-04-22,OFRC Punchy Picklers,BUR Bruisers,Tammy Kasserman,Susan Hurrey,Kris Devaney,AnnMarie Klick,15,9
+15167,5,2025-04-22,OFRC Punchy Picklers,BUR Bruisers,Jill Balderas,Kay Pardue,Debbie Sivret,Nikole Daigle,4,15
+15167,6,2025-04-22,OFRC Punchy Picklers,BUR Bruisers,Betsy Harrington,Denise Butler,Elizabeth Bengtson,Laura Black,10,15
+15167,7,2025-04-22,OFRC Punchy Picklers,BUR Bruisers,Tammy Kasserman,Susan Hurrey,Debbie Sivret,Nikole Daigle,2,15
+15167,8,2025-04-22,OFRC Punchy Picklers,BUR Bruisers,Jill Balderas,Kay Pardue,Elizabeth Bengtson,Laura Black,15,12
+15167,9,2025-04-22,OFRC Punchy Picklers,BUR Bruisers,Betsy Harrington,Denise Butler,Kris Devaney,AnnMarie Klick,7,15
+15119,1,2025-04-24,BUR Bruisers,LJ Two Dink Minimum,Debbie Sivret,Elizabeth Bengtson,Ellen Driver,Lisa Morrison,13,15
+15119,2,2025-04-24,BUR Bruisers,LJ Two Dink Minimum,Nikole Daigle,Colleen McKenna,Pamela Cascarano,Patti Hartman,13,15
+15119,3,2025-04-24,BUR Bruisers,LJ Two Dink Minimum,Deb Vincent,Donna Peterson,Catherine Bell Flannery,Amy Stehlin,5,15
+15119,4,2025-04-24,BUR Bruisers,LJ Two Dink Minimum,Debbie Sivret,Elizabeth Bengtson,Pamela Cascarano,Patti Hartman,8,15
+15119,5,2025-04-24,BUR Bruisers,LJ Two Dink Minimum,Nikole Daigle,Colleen McKenna,Catherine Bell Flannery,Amy Stehlin,13,15
+15119,6,2025-04-24,BUR Bruisers,LJ Two Dink Minimum,Deb Vincent,Donna Peterson,Ellen Driver,Lisa Morrison,3,15
+15119,7,2025-04-24,BUR Bruisers,LJ Two Dink Minimum,Debbie Sivret,Elizabeth Bengtson,Catherine Bell Flannery,Amy Stehlin,15,13
+15119,8,2025-04-24,BUR Bruisers,LJ Two Dink Minimum,Nikole Daigle,Colleen McKenna,Ellen Driver,Lisa Morrison,12,15
+15119,9,2025-04-24,BUR Bruisers,LJ Two Dink Minimum,Deb Vincent,Donna Peterson,Pamela Cascarano,Patti Hartman,9,15
+15201,1,2025-04-29,BUR Simply Smashing,OFRC Punchy Picklers,Sally Bynum,Kimberly L Gay,Kay Pardue,Susan Hurrey,10,15
+15201,2,2025-04-29,BUR Simply Smashing,OFRC Punchy Picklers,Linda Costa,Jean Shaw Sink,Betsy Harrington,Susan Harvey,11,15
+15201,3,2025-04-29,BUR Simply Smashing,OFRC Punchy Picklers,Jane Walker,Susan S Traylor,MaryAnne Butler,Sue Bugno,15,7
+15201,4,2025-04-29,BUR Simply Smashing,OFRC Punchy Picklers,Sally Bynum,Kimberly L Gay,Betsy Harrington,Susan Harvey,7,15
+15201,5,2025-04-29,BUR Simply Smashing,OFRC Punchy Picklers,Linda Costa,Jean Shaw Sink,MaryAnne Butler,Sue Bugno,15,11
+15201,6,2025-04-29,BUR Simply Smashing,OFRC Punchy Picklers,Jane Walker,Susan S Traylor,Kay Pardue,Susan Hurrey,15,12
+15201,7,2025-04-29,BUR Simply Smashing,OFRC Punchy Picklers,Sally Bynum,Kimberly L Gay,MaryAnne Butler,Sue Bugno,15,10
+15201,8,2025-04-29,BUR Simply Smashing,OFRC Punchy Picklers,Linda Costa,Jean Shaw Sink,Kay Pardue,Susan Hurrey,11,15
+15201,9,2025-04-29,BUR Simply Smashing,OFRC Punchy Picklers,Jane Walker,Susan S Traylor,Betsy Harrington,Susan Harvey,15,8
+15202,1,2025-04-29,LAWN Flippin 50s,BUR Bruisers,Kelly Hassell,Karen Pickles,AnnMarie Klick,Debbie Sivret,4,15
+15202,2,2025-04-29,LAWN Flippin 50s,BUR Bruisers,Maryann Plante,Sue Catherine,Deb Vincent,Donna Peterson,16,14
+15202,3,2025-04-29,LAWN Flippin 50s,BUR Bruisers,Joan Vijay,Lisa Liringis,Colleen McKenna,Kris Devaney,15,12
+15202,4,2025-04-29,LAWN Flippin 50s,BUR Bruisers,Kelly Hassell,Karen Pickles,Deb Vincent,Donna Peterson,15,4
+15202,5,2025-04-29,LAWN Flippin 50s,BUR Bruisers,Maryann Plante,Sue Catherine,Colleen McKenna,Kris Devaney,13,15
+15202,6,2025-04-29,LAWN Flippin 50s,BUR Bruisers,Joan Vijay,Lisa Liringis,AnnMarie Klick,Debbie Sivret,15,10
+15202,7,2025-04-29,LAWN Flippin 50s,BUR Bruisers,Kelly Hassell,Karen Pickles,Colleen McKenna,Kris Devaney,15,11
+15202,8,2025-04-29,LAWN Flippin 50s,BUR Bruisers,Maryann Plante,Sue Catherine,AnnMarie Klick,Debbie Sivret,8,15
+15202,9,2025-04-29,LAWN Flippin 50s,BUR Bruisers,Joan Vijay,Lisa Liringis,Deb Vincent,Donna Peterson,15,1
+15203,1,2025-04-29,LJ Two Dink Minimum,GCC Sweet Picklers,Carolyn Smith,Cynthia Livengood,Mary Beach,Sydney Brown Cardone,15,3
+15203,2,2025-04-29,LJ Two Dink Minimum,GCC Sweet Picklers,Beth R Sherrill,Amy Stehlin,Dixie Culver,Kathy Cross,15,10
+15203,3,2025-04-29,LJ Two Dink Minimum,GCC Sweet Picklers,Patti Hartman,Jaqueline Gast,Kim Murray,Carol Smith,15,12
+15203,4,2025-04-29,LJ Two Dink Minimum,GCC Sweet Picklers,Carolyn Smith,Cynthia Livengood,Dixie Culver,Kathy Cross,14,16
+15203,5,2025-04-29,LJ Two Dink Minimum,GCC Sweet Picklers,Beth R Sherrill,Amy Stehlin,Kim Murray,Carol Smith,15,12
+15203,6,2025-04-29,LJ Two Dink Minimum,GCC Sweet Picklers,Patti Hartman,Jaqueline Gast,Mary Beach,Sydney Brown Cardone,15,3
+15203,7,2025-04-29,LJ Two Dink Minimum,GCC Sweet Picklers,Carolyn Smith,Cynthia Livengood,Kim Murray,Carol Smith,15,13
+15203,8,2025-04-29,LJ Two Dink Minimum,GCC Sweet Picklers,Beth R Sherrill,Amy Stehlin,Mary Beach,Sydney Brown Cardone,8,15
+15203,9,2025-04-29,LJ Two Dink Minimum,GCC Sweet Picklers,Patti Hartman,Jaqueline Gast,Dixie Culver,Kathy Cross,15,12
+15235,1,2025-05-06,BUR Bruisers,GCC Sweet Picklers,Debbie Sivret,Elizabeth Bengtson,Sydney Brown Cardone,Diana Stuckey,15,11
+15235,2,2025-05-06,BUR Bruisers,GCC Sweet Picklers,Deb Vincent,Nikole Daigle,Camille Williams,Mary Beach,0,15
+15235,3,2025-05-06,BUR Bruisers,GCC Sweet Picklers,Kris Devaney,Laura Black,Cary Scully,Sheri Cram,8,15
+15235,4,2025-05-06,BUR Bruisers,GCC Sweet Picklers,Debbie Sivret,Elizabeth Bengtson,Camille Williams,Mary Beach,15,11
+15235,5,2025-05-06,BUR Bruisers,GCC Sweet Picklers,Deb Vincent,Nikole Daigle,Cary Scully,Sheri Cram,0,15
+15235,6,2025-05-06,BUR Bruisers,GCC Sweet Picklers,Kris Devaney,Laura Black,Sydney Brown Cardone,Diana Stuckey,15,7
+15235,7,2025-05-06,BUR Bruisers,GCC Sweet Picklers,Debbie Sivret,Elizabeth Bengtson,Cary Scully,Sheri Cram,15,9
+15235,8,2025-05-06,BUR Bruisers,GCC Sweet Picklers,Deb Vincent,Nikole Daigle,Sydney Brown Cardone,Diana Stuckey,0,15
+15235,9,2025-05-06,BUR Bruisers,GCC Sweet Picklers,Kris Devaney,Laura Black,Camille Williams,Mary Beach,11,15
+15236,1,2025-05-06,LAWN Flippin 50s,OFRC Punchy Picklers,Kelly Hassell,Jennifer L Flory,Sue Bugno,Jill Balderas,15,13
+15236,2,2025-05-06,LAWN Flippin 50s,OFRC Punchy Picklers,Karen Pickles,Joan Vijay,Jen Russell,Diane Smith,15,9
+15236,3,2025-05-06,LAWN Flippin 50s,OFRC Punchy Picklers,DEFAULT,DEFAULT,MaryAnne Butler,Tammy Kasserman,0,15
+15236,4,2025-05-06,LAWN Flippin 50s,OFRC Punchy Picklers,Kelly Hassell,Jennifer L Flory,Jen Russell,Diane Smith,11,15
+15236,5,2025-05-06,LAWN Flippin 50s,OFRC Punchy Picklers,Karen Pickles,Joan Vijay,MaryAnne Butler,Tammy Kasserman,4,15
+15236,6,2025-05-06,LAWN Flippin 50s,OFRC Punchy Picklers,DEFAULT,DEFAULT,Sue Bugno,Jill Balderas,0,15
+15236,7,2025-05-06,LAWN Flippin 50s,OFRC Punchy Picklers,Kelly Hassell,Jennifer L Flory,MaryAnne Butler,Tammy Kasserman,15,7
+15236,8,2025-05-06,LAWN Flippin 50s,OFRC Punchy Picklers,Karen Pickles,Joan Vijay,Sue Bugno,Jill Balderas,12,15
+15236,9,2025-05-06,LAWN Flippin 50s,OFRC Punchy Picklers,DEFAULT,DEFAULT,Jen Russell,Diane Smith,0,15
+15237,1,2025-05-06,LJ Two Dink Minimum,BUR Simply Smashing,Elizabeth Conte-Vitullo,Patti Hartman,Jean Shaw Sink,Pat Russell,16,14
+15237,2,2025-05-06,LJ Two Dink Minimum,BUR Simply Smashing,Jodi Stanley,Jaqueline Gast,Kathleen Maddalone,Debbie S Richardson,15,6
+15237,3,2025-05-06,LJ Two Dink Minimum,BUR Simply Smashing,Beth R Sherrill,Pamela Cascarano,Kimberly L Gay,Jean Rezzo,15,10
+15237,4,2025-05-06,LJ Two Dink Minimum,BUR Simply Smashing,Elizabeth Conte-Vitullo,Patti Hartman,Kathleen Maddalone,Debbie S Richardson,15,5
+15237,5,2025-05-06,LJ Two Dink Minimum,BUR Simply Smashing,Jodi Stanley,Jaqueline Gast,Kimberly L Gay,Jean Rezzo,12,15
+15237,6,2025-05-06,LJ Two Dink Minimum,BUR Simply Smashing,Beth R Sherrill,Pamela Cascarano,Jean Shaw Sink,Pat Russell,15,5
+15237,7,2025-05-06,LJ Two Dink Minimum,BUR Simply Smashing,Elizabeth Conte-Vitullo,Patti Hartman,Kimberly L Gay,Jean Rezzo,5,15
+15237,8,2025-05-06,LJ Two Dink Minimum,BUR Simply Smashing,Jodi Stanley,Jaqueline Gast,Jean Shaw Sink,Pat Russell,15,10
+15237,9,2025-05-06,LJ Two Dink Minimum,BUR Simply Smashing,Beth R Sherrill,Pamela Cascarano,Kathleen Maddalone,Debbie S Richardson,15,10
+15271,1,2025-05-07,LJ Two Dink Minimum,BUR Bruisers,Ellen Driver,Catherine Bell Flannery,Debbie Sivret,Elizabeth Bengtson,7,15
+15271,2,2025-05-07,LJ Two Dink Minimum,BUR Bruisers,Jodi Stanley,Carolyn Smith,Kris Devaney,Colleen McKenna,10,15
+15271,3,2025-05-07,LJ Two Dink Minimum,BUR Bruisers,Jaqueline Gast,Patti Hartman,Laura Black,AnnMarie Klick,15,9
+15271,4,2025-05-07,LJ Two Dink Minimum,BUR Bruisers,Ellen Driver,Catherine Bell Flannery,Kris Devaney,Colleen McKenna,15,6
+15271,5,2025-05-07,LJ Two Dink Minimum,BUR Bruisers,Jodi Stanley,Carolyn Smith,Laura Black,AnnMarie Klick,15,10
+15271,6,2025-05-07,LJ Two Dink Minimum,BUR Bruisers,Jaqueline Gast,Patti Hartman,Debbie Sivret,Elizabeth Bengtson,16,14
+15271,7,2025-05-07,LJ Two Dink Minimum,BUR Bruisers,Ellen Driver,Catherine Bell Flannery,Laura Black,AnnMarie Klick,15,7
+15271,8,2025-05-07,LJ Two Dink Minimum,BUR Bruisers,Jodi Stanley,Carolyn Smith,Debbie Sivret,Elizabeth Bengtson,15,6
+15271,9,2025-05-07,LJ Two Dink Minimum,BUR Bruisers,Jaqueline Gast,Patti Hartman,Kris Devaney,Colleen McKenna,15,5
+15270,1,2025-05-13,GCC Sweet Picklers,OFRC Punchy Picklers,Mary Beach,Barbara Young,Jill Balderas,Betsy Hooper,6,15
+15270,2,2025-05-13,GCC Sweet Picklers,OFRC Punchy Picklers,Carol Smith,Diana Stuckey,Kay Pardue,Susan Hurrey,8,15
+15270,3,2025-05-13,GCC Sweet Picklers,OFRC Punchy Picklers,Dixie Culver,Camille Williams,Tammy Kasserman,Diane Smith,15,11
+15270,4,2025-05-13,GCC Sweet Picklers,OFRC Punchy Picklers,Mary Beach,Barbara Young,Kay Pardue,Susan Hurrey,10,15
+15270,5,2025-05-13,GCC Sweet Picklers,OFRC Punchy Picklers,Carol Smith,Diana Stuckey,Tammy Kasserman,Diane Smith,5,15
+15270,6,2025-05-13,GCC Sweet Picklers,OFRC Punchy Picklers,Dixie Culver,Camille Williams,Jill Balderas,Betsy Hooper,12,15
+15270,7,2025-05-13,GCC Sweet Picklers,OFRC Punchy Picklers,Mary Beach,Barbara Young,Tammy Kasserman,Diane Smith,15,4
+15270,8,2025-05-13,GCC Sweet Picklers,OFRC Punchy Picklers,Carol Smith,Diana Stuckey,Jill Balderas,Betsy Hooper,9,15
+15270,9,2025-05-13,GCC Sweet Picklers,OFRC Punchy Picklers,Dixie Culver,Camille Williams,Kay Pardue,Susan Hurrey,15,8
+15300,1,2025-05-20,BUR Bruisers,BUR Simply Smashing,AnnMarie Klick,Kris Devaney,Kathleen Maddalone,Debbie S Richardson,15,4
+15300,2,2025-05-20,BUR Bruisers,BUR Simply Smashing,Deb Vincent,Colleen McKenna,Kimberly L Gay,Jean Rezzo,12,15
+15300,3,2025-05-20,BUR Bruisers,BUR Simply Smashing,DEFAULT,DEFAULT,Pat Russell,Susan S Traylor,0,15
+15300,4,2025-05-20,BUR Bruisers,BUR Simply Smashing,AnnMarie Klick,Kris Devaney,Kimberly L Gay,Jean Rezzo,15,9
+15300,5,2025-05-20,BUR Bruisers,BUR Simply Smashing,Deb Vincent,Colleen McKenna,Pat Russell,Susan S Traylor,7,15
+15300,6,2025-05-20,BUR Bruisers,BUR Simply Smashing,DEFAULT,DEFAULT,Kathleen Maddalone,Debbie S Richardson,0,15
+15300,7,2025-05-20,BUR Bruisers,BUR Simply Smashing,AnnMarie Klick,Kris Devaney,Pat Russell,Susan S Traylor,15,12
+15300,8,2025-05-20,BUR Bruisers,BUR Simply Smashing,Deb Vincent,Colleen McKenna,Kathleen Maddalone,Debbie S Richardson,14,16
+15300,9,2025-05-20,BUR Bruisers,BUR Simply Smashing,DEFAULT,DEFAULT,Kimberly L Gay,Jean Rezzo,0,15
+15301,1,2025-05-20,GCC Sweet Picklers,LAWN Flippin 50s,Sheri Cram,Cary Scully,Karen Pickles,Maryann Plante,15,5
+15301,2,2025-05-20,GCC Sweet Picklers,LAWN Flippin 50s,Kim Murray,Mary Beach,Kelly Hassell,Jennifer L Flory,15,6
+15301,3,2025-05-20,GCC Sweet Picklers,LAWN Flippin 50s,Barbara Young,Diana Stuckey,Joan Vijay,Jane Wong,15,3
+15301,4,2025-05-20,GCC Sweet Picklers,LAWN Flippin 50s,Sheri Cram,Cary Scully,Kelly Hassell,Jennifer L Flory,6,15
+15301,5,2025-05-20,GCC Sweet Picklers,LAWN Flippin 50s,Kim Murray,Mary Beach,Joan Vijay,Jane Wong,15,6
+15301,6,2025-05-20,GCC Sweet Picklers,LAWN Flippin 50s,Barbara Young,Diana Stuckey,Karen Pickles,Maryann Plante,15,7
+15301,7,2025-05-20,GCC Sweet Picklers,LAWN Flippin 50s,Sheri Cram,Cary Scully,Joan Vijay,Jane Wong,15,6
+15301,8,2025-05-20,GCC Sweet Picklers,LAWN Flippin 50s,Kim Murray,Mary Beach,Karen Pickles,Maryann Plante,15,5
+15301,9,2025-05-20,GCC Sweet Picklers,LAWN Flippin 50s,Barbara Young,Diana Stuckey,Kelly Hassell,Jennifer L Flory,6,15
+15302,1,2025-05-20,OFRC Punchy Picklers,LJ Two Dink Minimum,Tammy Kasserman,Denise Butler,Catherine Bell Flannery,Amy Stehlin,15,12
+15302,2,2025-05-20,OFRC Punchy Picklers,LJ Two Dink Minimum,Kay Pardue,Jen Russell,Jodi Stanley,Ellen Driver,9,15
+15302,3,2025-05-20,OFRC Punchy Picklers,LJ Two Dink Minimum,Jill Balderas,Susan Hurrey,Cynthia Livengood,Elizabeth Conte-Vitullo,12,15
+15302,4,2025-05-20,OFRC Punchy Picklers,LJ Two Dink Minimum,Tammy Kasserman,Denise Butler,Jodi Stanley,Ellen Driver,15,12
+15302,5,2025-05-20,OFRC Punchy Picklers,LJ Two Dink Minimum,Kay Pardue,Jen Russell,Cynthia Livengood,Elizabeth Conte-Vitullo,16,14
+15302,6,2025-05-20,OFRC Punchy Picklers,LJ Two Dink Minimum,Jill Balderas,Susan Hurrey,Catherine Bell Flannery,Amy Stehlin,7,15
+15302,7,2025-05-20,OFRC Punchy Picklers,LJ Two Dink Minimum,Tammy Kasserman,Denise Butler,Cynthia Livengood,Elizabeth Conte-Vitullo,13,15
+15302,8,2025-05-20,OFRC Punchy Picklers,LJ Two Dink Minimum,Kay Pardue,Jen Russell,Catherine Bell Flannery,Amy Stehlin,8,15
+15302,9,2025-05-20,OFRC Punchy Picklers,LJ Two Dink Minimum,Jill Balderas,Susan Hurrey,Jodi Stanley,Ellen Driver,5,15
+15319,1,2025-05-27,OFRC Punchy Picklers,GCC Sweet Picklers,Sue Bugno,MaryAnne Butler,Mary Beach,Cary Scully,3,15
+15319,2,2025-05-27,OFRC Punchy Picklers,GCC Sweet Picklers,Diane Smith,Betsy Hooper,Dixie Culver,Kim Murray,11,15
+15319,3,2025-05-27,OFRC Punchy Picklers,GCC Sweet Picklers,Kay Pardue,Betsy Harrington,Camille Williams,Diana Stuckey,6,15
+15319,4,2025-05-27,OFRC Punchy Picklers,GCC Sweet Picklers,Sue Bugno,MaryAnne Butler,Dixie Culver,Kim Murray,1,15
+15319,5,2025-05-27,OFRC Punchy Picklers,GCC Sweet Picklers,Diane Smith,Betsy Hooper,Camille Williams,Diana Stuckey,15,4
+15319,6,2025-05-27,OFRC Punchy Picklers,GCC Sweet Picklers,Kay Pardue,Betsy Harrington,Mary Beach,Cary Scully,8,15
+15319,7,2025-05-27,OFRC Punchy Picklers,GCC Sweet Picklers,Sue Bugno,MaryAnne Butler,Camille Williams,Diana Stuckey,7,15
+15319,8,2025-05-27,OFRC Punchy Picklers,GCC Sweet Picklers,Diane Smith,Betsy Hooper,Mary Beach,Cary Scully,5,15
+15319,9,2025-05-27,OFRC Punchy Picklers,GCC Sweet Picklers,Kay Pardue,Betsy Harrington,Dixie Culver,Kim Murray,1,15
+15338,1,2025-06-07,LJ Two Dink Minimum,GCC Sweet Picklers,Ellen Driver,Carolyn Smith,Mary Beach,Cary Scully,5,15
+15338,2,2025-06-07,LJ Two Dink Minimum,GCC Sweet Picklers,Jaqueline Gast,Patti Hartman,Dixie Culver,Kim Murray,14,16
+15338,3,2025-06-07,LJ Two Dink Minimum,GCC Sweet Picklers,Amy Stehlin,Beth R Sherrill,Camille Williams,Barbara Young,10,15
+15338,4,2025-06-07,LJ Two Dink Minimum,GCC Sweet Picklers,Ellen Driver,Carolyn Smith,Dixie Culver,Kim Murray,9,15
+15338,5,2025-06-07,LJ Two Dink Minimum,GCC Sweet Picklers,Jaqueline Gast,Patti Hartman,Camille Williams,Barbara Young,15,10
+15338,6,2025-06-07,LJ Two Dink Minimum,GCC Sweet Picklers,Amy Stehlin,Beth R Sherrill,Mary Beach,Cary Scully,13,15
+15338,7,2025-06-07,LJ Two Dink Minimum,GCC Sweet Picklers,Ellen Driver,Carolyn Smith,Camille Williams,Barbara Young,13,15
+15338,8,2025-06-07,LJ Two Dink Minimum,GCC Sweet Picklers,Jaqueline Gast,Patti Hartman,Mary Beach,Cary Scully,15,13
+15338,9,2025-06-07,LJ Two Dink Minimum,GCC Sweet Picklers,Amy Stehlin,Beth R Sherrill,Dixie Culver,Kim Murray,15,7

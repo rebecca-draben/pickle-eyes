@@ -1,17 +1,18 @@
 #!/usr/bin/env python3
 
+"""
+To run this script:
+Activate the virtual environment with: source mypickleballenv/bin/activate
+Run with: ./synergize.py match_data_x.csv
+
+"""
+
 import csv
 import trueskill
 from collections import defaultdict
 import statistics
+import argparse
 
-"""
-To run this script:
-Activate the virtual environment with: source mypickleballenv/bin/activate
-Put the data to analyze in match_data.csv
-Run with: ./synergize.py
-
-"""
 
 # Initialize TrueSkill environment with no draws (draw_probability=0.0)
 ts = trueskill.TrueSkill(draw_probability=0.0, sigma=15.0, tau=0.0) 
@@ -22,6 +23,10 @@ player_ratings = defaultdict(ts.Rating)
 # Dictionary to store partnership stats:
 # Each key is a tuple of two players, values track wins, losses, and detailed match info
 partnership_stats = defaultdict(lambda: {'wins': 0, 'losses': 0, 'matches': []})
+
+# store which team the player plays on, assumes one team in the input data
+player_to_team = {}
+
 
 def update_ratings(p1, p2, o1, o2, score1, score2):
     """
@@ -128,36 +133,48 @@ def main():
     Main execution function:
     Reads match data, updates ratings, calculates partnership synergy, and prints leaderboard.
     """
-    input_file = "match_data.csv"
+    import argparse
+
+    parser = argparse.ArgumentParser(description="Compute partnership synergy from match data.")
+    parser.add_argument("input_file", help="CSV file with match data")
+    args = parser.parse_args()
+    input_file = args.input_file
 
     # Open the CSV file and read rows
-    with open(input_file, newline='') as f:
+    with open(input_file, newline='', encoding='utf-8') as f:
         reader = csv.DictReader(f)
         for row in reader:
-            # Extract player names from CSV columns
             players = [row[key].strip() for key in ['partner1', 'partner2', 'opponent1', 'opponent2']]
+            team1_name = row['team1_name'].strip()
+            team2_name = row['team2_name'].strip()
 
-            # Skip rows where any player is labeled 'DEFAULT' (invalid data)
             if 'DEFAULT' in players:
                 continue
 
-            # Parse team scores as integers
             score1 = int(row['team1_points'])
             score2 = int(row['team2_points'])
 
-            # Update player ratings and partnership stats based on this match
+            # Assign team names to players (assumes each player has one team)
+            player_to_team[players[0]] = team1_name
+            player_to_team[players[1]] = team1_name
+            player_to_team[players[2]] = team2_name
+            player_to_team[players[3]] = team2_name
+
             update_ratings(*players, score1, score2)
 
-    # Calculate synergy for every partnership in the data
+    # Calculate synergy for every partnership
     synergies = []
     for partnership, stats in partnership_stats.items():
         synergy = calculate_synergy(partnership, stats)
         if synergy:
             p1, p2 = partnership
+            # Grab team name from the first player
+            team_name = player_to_team.get(p1, "")
             synergies.append({
                 'partnership': f"{p1} + {p2}",
                 'player1': p1,
                 'player2': p2,
+                'team_name': team_name,
                 **synergy
             })
 
@@ -165,11 +182,11 @@ def main():
     synergies.sort(key=lambda x: x['synergy_score'], reverse=True)
 
     # Print synergy leaderboard in CSV format
-    print("Rank,Partnership,Player1,Player2,Synergy_Score,Win_Rate,Games,Individual_Strength")
+    print("Rank,Partnership,Player1,Player2,Team,Synergy_Score,Win_Rate,Games,Individual_Strength")
     for rank, data in enumerate(synergies, start=1):
         # Only print partnerships with at least one match
         if data['matches_played'] >= 2:
-            print(f"{rank},\"{data['partnership']}\",{data['player1']},{data['player2']},"
+            print(f"{rank},\"{data['partnership']}\",{data['player1']},{data['player2']},{data['team_name']},"
                   f"{data['synergy_score']:.2f},{data['win_rate']:.2f},"
                   f"{data['matches_played']},{data['individual_strength']:.2f}")
 

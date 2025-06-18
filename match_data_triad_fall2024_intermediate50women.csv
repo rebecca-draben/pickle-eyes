@@ -1,0 +1,217 @@
+match_id,game_id,match_date,team1_name,team2_name,partner1,partner2,opponent1,opponent2,team1_points,team2_points
+14023,1,2024-08-20,GCC Sweet Picklers,BUR Just One More,Lori Howell,Paige DuBose,Lynn Southard,Sherri Ahmad,15,7
+14023,2,2024-08-20,GCC Sweet Picklers,BUR Just One More,Kim Minor,Carmella Roehrig,Elvira Cianci,Anne Marie Hughes,15,2
+14023,3,2024-08-20,GCC Sweet Picklers,BUR Just One More,Jackie Pearce,Ingrid Avera,Bonnie Cowett,Lora Seay,15,3
+14023,4,2024-08-20,GCC Sweet Picklers,BUR Just One More,Lori Howell,Paige DuBose,Elvira Cianci,Anne Marie Hughes,15,1
+14023,5,2024-08-20,GCC Sweet Picklers,BUR Just One More,Kim Minor,Carmella Roehrig,Bonnie Cowett,Lora Seay,15,5
+14023,6,2024-08-20,GCC Sweet Picklers,BUR Just One More,Jackie Pearce,Ingrid Avera,Lynn Southard,Sherri Ahmad,15,11
+14023,7,2024-08-20,GCC Sweet Picklers,BUR Just One More,Lori Howell,Paige DuBose,Bonnie Cowett,Lora Seay,15,2
+14023,8,2024-08-20,GCC Sweet Picklers,BUR Just One More,Kim Minor,Carmella Roehrig,Lynn Southard,Sherri Ahmad,15,4
+14023,9,2024-08-20,GCC Sweet Picklers,BUR Just One More,Jackie Pearce,Ingrid Avera,Elvira Cianci,Anne Marie Hughes,15,4
+14024,1,2024-08-20,BUR Bruisers,LAWN Pickleholics,Kris Devaney,AnnMarie Klick,Lynne Allen,Cinnamon Pritchard,15,8
+14024,2,2024-08-20,BUR Bruisers,LAWN Pickleholics,Elizabeth Bengtson,Colleen McKenna,Camille Williams,Betsey Mosco,15,6
+14024,3,2024-08-20,BUR Bruisers,LAWN Pickleholics,Deb Vincent,Beatriz Aguirre,Pat Russell,Madlyn Prosapio,15,11
+14024,4,2024-08-20,BUR Bruisers,LAWN Pickleholics,Kris Devaney,AnnMarie Klick,Camille Williams,Betsey Mosco,15,6
+14024,5,2024-08-20,BUR Bruisers,LAWN Pickleholics,Elizabeth Bengtson,Colleen McKenna,Pat Russell,Madlyn Prosapio,16,14
+14024,6,2024-08-20,BUR Bruisers,LAWN Pickleholics,Deb Vincent,Beatriz Aguirre,Lynne Allen,Cinnamon Pritchard,15,6
+14024,7,2024-08-20,BUR Bruisers,LAWN Pickleholics,Kris Devaney,AnnMarie Klick,Pat Russell,Madlyn Prosapio,15,13
+14024,8,2024-08-20,BUR Bruisers,LAWN Pickleholics,Elizabeth Bengtson,Colleen McKenna,Lynne Allen,Cinnamon Pritchard,15,0
+14024,9,2024-08-20,BUR Bruisers,LAWN Pickleholics,Deb Vincent,Beatriz Aguirre,Camille Williams,Betsey Mosco,15,2
+14025,1,2024-08-20,LJ Dinkin Dames,OFRC Punchy Picklers,Ellen Driver,Pamela Cascarano,Betsy Hooper,Diane Puckett,12,15
+14025,2,2024-08-20,LJ Dinkin Dames,OFRC Punchy Picklers,Jodi Stanley,Lisa Morrison,Jill Balderas,Denise Butler,9,15
+14025,3,2024-08-20,LJ Dinkin Dames,OFRC Punchy Picklers,Jaqueline Gast,Elizabeth Conte Vitullo,Beverly Kennedy,Diane Smith,15,9
+14025,4,2024-08-20,LJ Dinkin Dames,OFRC Punchy Picklers,Ellen Driver,Pamela Cascarano,Jill Balderas,Denise Butler,14,16
+14025,5,2024-08-20,LJ Dinkin Dames,OFRC Punchy Picklers,Jodi Stanley,Lisa Morrison,Beverly Kennedy,Diane Smith,15,6
+14025,6,2024-08-20,LJ Dinkin Dames,OFRC Punchy Picklers,Jaqueline Gast,Elizabeth Conte Vitullo,Betsy Hooper,Diane Puckett,3,15
+14025,7,2024-08-20,LJ Dinkin Dames,OFRC Punchy Picklers,Ellen Driver,Pamela Cascarano,Beverly Kennedy,Diane Smith,15,6
+14025,8,2024-08-20,LJ Dinkin Dames,OFRC Punchy Picklers,Jodi Stanley,Lisa Morrison,Betsy Hooper,Diane Puckett,15,17
+14025,9,2024-08-20,LJ Dinkin Dames,OFRC Punchy Picklers,Jaqueline Gast,Elizabeth Conte Vitullo,Jill Balderas,Denise Butler,10,15
+14047,1,2024-08-27,LAWN Pickleholics,OFRC Punchy Picklers,Selena Rogers,Denise Rene Schroeder,Denise Butler,Diane Puckett,7,15
+14047,2,2024-08-27,LAWN Pickleholics,OFRC Punchy Picklers,Abigail Stanley,Pat Russell,Tammy Kasserman,Betsy Harrington,15,12
+14047,3,2024-08-27,LAWN Pickleholics,OFRC Punchy Picklers,Sara Edgerton,Lynne Allen,Susan Hurrey,Diane Smith,15,11
+14047,4,2024-08-27,LAWN Pickleholics,OFRC Punchy Picklers,Selena Rogers,Denise Rene Schroeder,Tammy Kasserman,Betsy Harrington,10,15
+14047,5,2024-08-27,LAWN Pickleholics,OFRC Punchy Picklers,Abigail Stanley,Pat Russell,Susan Hurrey,Diane Smith,11,15
+14047,6,2024-08-27,LAWN Pickleholics,OFRC Punchy Picklers,Sara Edgerton,Lynne Allen,Denise Butler,Diane Puckett,12,15
+14047,7,2024-08-27,LAWN Pickleholics,OFRC Punchy Picklers,Selena Rogers,Denise Rene Schroeder,Susan Hurrey,Diane Smith,15,9
+14047,8,2024-08-27,LAWN Pickleholics,OFRC Punchy Picklers,Abigail Stanley,Pat Russell,Denise Butler,Diane Puckett,5,15
+14047,9,2024-08-27,LAWN Pickleholics,OFRC Punchy Picklers,Sara Edgerton,Lynne Allen,Tammy Kasserman,Betsy Harrington,7,15
+14048,1,2024-08-27,GCC Sweet Picklers,BUR Simply Smashing,Carol Smith,Paige DuBose,Janice Campagna,Kathy Tedder Hartung,15,10
+14048,2,2024-08-27,GCC Sweet Picklers,BUR Simply Smashing,Kim Minor,Barbara Young,Kathleen Maddalone,Susan S Traylor,15,9
+14048,3,2024-08-27,GCC Sweet Picklers,BUR Simply Smashing,Kathy Cross,Ingrid Avera,Jane Walker,Natalie Faith Wallace,15,10
+14048,4,2024-08-27,GCC Sweet Picklers,BUR Simply Smashing,Carol Smith,Paige DuBose,Kathleen Maddalone,Susan S Traylor,15,5
+14048,5,2024-08-27,GCC Sweet Picklers,BUR Simply Smashing,Kim Minor,Barbara Young,Jane Walker,Natalie Faith Wallace,15,9
+14048,6,2024-08-27,GCC Sweet Picklers,BUR Simply Smashing,Kathy Cross,Ingrid Avera,Janice Campagna,Kathy Tedder Hartung,7,15
+14048,7,2024-08-27,GCC Sweet Picklers,BUR Simply Smashing,Carol Smith,Paige DuBose,Jane Walker,Natalie Faith Wallace,15,5
+14048,8,2024-08-27,GCC Sweet Picklers,BUR Simply Smashing,Kim Minor,Barbara Young,Janice Campagna,Kathy Tedder Hartung,15,6
+14048,9,2024-08-27,GCC Sweet Picklers,BUR Simply Smashing,Kathy Cross,Ingrid Avera,Kathleen Maddalone,Susan S Traylor,15,11
+14049,1,2024-08-27,BUR Just One More,LJ Dinkin Dames,Janet Kiser,Ann H Trammell,Jodi Stanley,Beth R Sherrill,4,15
+14049,2,2024-08-27,BUR Just One More,LJ Dinkin Dames,Sherri Ahmad,Lynn Southard,Jaqueline Gast,Carolyn Smith,6,15
+14049,3,2024-08-27,BUR Just One More,LJ Dinkin Dames,Cindy Kane,Bonnie Cowett,Patti Hartman,Lisa Morrison,0,15
+14049,4,2024-08-27,BUR Just One More,LJ Dinkin Dames,Janet Kiser,Ann H Trammell,Jaqueline Gast,Carolyn Smith,5,15
+14049,5,2024-08-27,BUR Just One More,LJ Dinkin Dames,Sherri Ahmad,Lynn Southard,Patti Hartman,Lisa Morrison,8,15
+14049,6,2024-08-27,BUR Just One More,LJ Dinkin Dames,Cindy Kane,Bonnie Cowett,Jodi Stanley,Beth R Sherrill,1,15
+14049,7,2024-08-27,BUR Just One More,LJ Dinkin Dames,Janet Kiser,Ann H Trammell,Patti Hartman,Lisa Morrison,9,15
+14049,8,2024-08-27,BUR Just One More,LJ Dinkin Dames,Sherri Ahmad,Lynn Southard,Jodi Stanley,Beth R Sherrill,12,15
+14049,9,2024-08-27,BUR Just One More,LJ Dinkin Dames,Cindy Kane,Bonnie Cowett,Jaqueline Gast,Carolyn Smith,1,15
+14064,1,2024-09-03,BUR Just One More,LAWN Pickleholics,Ann H Trammell,Lora Seay,Madlyn Prosapio,Denise Rene Schroeder,1,15
+14064,2,2024-09-03,BUR Just One More,LAWN Pickleholics,Lynn Southard,Cindy Kane,Lisa Wangerin,Pat Russell,8,15
+14064,3,2024-09-03,BUR Just One More,LAWN Pickleholics,Elvira Cianci,Anne Marie Hughes,Betsey Mosco,Lynne Allen,15,11
+14064,4,2024-09-03,BUR Just One More,LAWN Pickleholics,Ann H Trammell,Lora Seay,Lisa Wangerin,Pat Russell,11,15
+14064,5,2024-09-03,BUR Just One More,LAWN Pickleholics,Lynn Southard,Cindy Kane,Betsey Mosco,Lynne Allen,15,8
+14064,6,2024-09-03,BUR Just One More,LAWN Pickleholics,Elvira Cianci,Anne Marie Hughes,Madlyn Prosapio,Denise Rene Schroeder,3,15
+14064,7,2024-09-03,BUR Just One More,LAWN Pickleholics,Ann H Trammell,Lora Seay,Betsey Mosco,Lynne Allen,15,10
+14064,8,2024-09-03,BUR Just One More,LAWN Pickleholics,Lynn Southard,Cindy Kane,Madlyn Prosapio,Denise Rene Schroeder,15,12
+14064,9,2024-09-03,BUR Just One More,LAWN Pickleholics,Elvira Cianci,Anne Marie Hughes,Lisa Wangerin,Pat Russell,7,15
+14087,1,2024-09-10,OFRC Punchy Picklers,BUR Bruisers,Betsy Hooper,Diane Puckett,Debbie Sivret,Elizabeth Bengtson,15,11
+14087,2,2024-09-10,OFRC Punchy Picklers,BUR Bruisers,Jill Balderas,Denise Butler,Kris Devaney,AnnMarie Klick,15,11
+14087,3,2024-09-10,OFRC Punchy Picklers,BUR Bruisers,Beverly Kennedy,Kay Pardue,Nikole Daigle,Laura Black,15,5
+14087,4,2024-09-10,OFRC Punchy Picklers,BUR Bruisers,Betsy Hooper,Diane Puckett,Kris Devaney,AnnMarie Klick,16,14
+14087,5,2024-09-10,OFRC Punchy Picklers,BUR Bruisers,Jill Balderas,Denise Butler,Nikole Daigle,Laura Black,16,14
+14087,6,2024-09-10,OFRC Punchy Picklers,BUR Bruisers,Beverly Kennedy,Kay Pardue,Debbie Sivret,Elizabeth Bengtson,15,13
+14087,7,2024-09-10,OFRC Punchy Picklers,BUR Bruisers,Betsy Hooper,Diane Puckett,Nikole Daigle,Laura Black,9,15
+14087,8,2024-09-10,OFRC Punchy Picklers,BUR Bruisers,Jill Balderas,Denise Butler,Debbie Sivret,Elizabeth Bengtson,6,15
+14087,9,2024-09-10,OFRC Punchy Picklers,BUR Bruisers,Beverly Kennedy,Kay Pardue,Kris Devaney,AnnMarie Klick,6,15
+14088,1,2024-09-10,BUR Simply Smashing,LJ Dinkin Dames,Kathy Tedder Hartung,Jean Rezzo,Cynthia Livengood,Carolyn Smith,7,15
+14088,2,2024-09-10,BUR Simply Smashing,LJ Dinkin Dames,Janice Campagna,Natalie Faith Wallace,Jodi Stanley,Beth R Sherrill,15,13
+14088,3,2024-09-10,BUR Simply Smashing,LJ Dinkin Dames,Kimberly L Gay,Kathleen Maddalone,Pamela Cascarano,Patti Hartman,9,15
+14088,4,2024-09-10,BUR Simply Smashing,LJ Dinkin Dames,Kathy Tedder Hartung,Jean Rezzo,Jodi Stanley,Beth R Sherrill,13,15
+14088,5,2024-09-10,BUR Simply Smashing,LJ Dinkin Dames,Janice Campagna,Natalie Faith Wallace,Pamela Cascarano,Patti Hartman,11,15
+14088,6,2024-09-10,BUR Simply Smashing,LJ Dinkin Dames,Kimberly L Gay,Kathleen Maddalone,Cynthia Livengood,Carolyn Smith,3,15
+14088,7,2024-09-10,BUR Simply Smashing,LJ Dinkin Dames,Kathy Tedder Hartung,Jean Rezzo,Pamela Cascarano,Patti Hartman,15,10
+14088,8,2024-09-10,BUR Simply Smashing,LJ Dinkin Dames,Janice Campagna,Natalie Faith Wallace,Cynthia Livengood,Carolyn Smith,15,8
+14088,9,2024-09-10,BUR Simply Smashing,LJ Dinkin Dames,Kimberly L Gay,Kathleen Maddalone,Jodi Stanley,Beth R Sherrill,12,15
+14113,1,2024-09-17,LAWN Pickleholics,BUR Simply Smashing,Denise Rene Schroeder,Pat Russell,Kathleen Maddalone,Jean Rezzo,15,5
+14113,2,2024-09-17,LAWN Pickleholics,BUR Simply Smashing,Connie Lover,Camille Williams,Kathy Tedder Hartung,Sally Bynum,15,6
+14113,3,2024-09-17,LAWN Pickleholics,BUR Simply Smashing,Abigail Stanley,Betsey Mosco,Janice Campagna,Susan S Traylor,7,15
+14113,4,2024-09-17,LAWN Pickleholics,BUR Simply Smashing,Denise Rene Schroeder,Pat Russell,Kathy Tedder Hartung,Sally Bynum,15,10
+14113,5,2024-09-17,LAWN Pickleholics,BUR Simply Smashing,Connie Lover,Camille Williams,Janice Campagna,Susan S Traylor,10,15
+14113,6,2024-09-17,LAWN Pickleholics,BUR Simply Smashing,Abigail Stanley,Betsey Mosco,Kathleen Maddalone,Jean Rezzo,8,15
+14113,7,2024-09-17,LAWN Pickleholics,BUR Simply Smashing,Denise Rene Schroeder,Pat Russell,Janice Campagna,Susan S Traylor,10,15
+14113,8,2024-09-17,LAWN Pickleholics,BUR Simply Smashing,Connie Lover,Camille Williams,Kathleen Maddalone,Jean Rezzo,16,14
+14113,9,2024-09-17,LAWN Pickleholics,BUR Simply Smashing,Abigail Stanley,Betsey Mosco,Kathy Tedder Hartung,Sally Bynum,3,15
+14115,1,2024-09-20,BUR Bruisers,BUR Just One More,Deb Vincent,Elizabeth Bengtson,Lynn Southard,Corey Teniente,15,7
+14115,2,2024-09-20,BUR Bruisers,BUR Just One More,Debbie Sivret,Nikole Daigle,Ann H Trammell,Elvira Cianci,15,2
+14115,3,2024-09-20,BUR Bruisers,BUR Just One More,Colleen McKenna,Laura Black,Bonnie Cowett,Lora Seay,15,5
+14115,4,2024-09-20,BUR Bruisers,BUR Just One More,Deb Vincent,Elizabeth Bengtson,Ann H Trammell,Elvira Cianci,15,7
+14115,5,2024-09-20,BUR Bruisers,BUR Just One More,Debbie Sivret,Nikole Daigle,Bonnie Cowett,Lora Seay,15,2
+14115,6,2024-09-20,BUR Bruisers,BUR Just One More,Colleen McKenna,Laura Black,Lynn Southard,Corey Teniente,15,4
+14115,7,2024-09-20,BUR Bruisers,BUR Just One More,Deb Vincent,Elizabeth Bengtson,Bonnie Cowett,Lora Seay,15,2
+14115,8,2024-09-20,BUR Bruisers,BUR Just One More,Debbie Sivret,Nikole Daigle,Lynn Southard,Corey Teniente,12,15
+14115,9,2024-09-20,BUR Bruisers,BUR Just One More,Colleen McKenna,Laura Black,Ann H Trammell,Elvira Cianci,15,11
+14140,1,2024-09-24,OFRC Punchy Picklers,GCC Sweet Picklers,Betsy Hooper,Diane Puckett,Paige DuBose,Jackie Pearce,16,14
+14140,2,2024-09-24,OFRC Punchy Picklers,GCC Sweet Picklers,Jill Balderas,Denise Butler,Kim Minor,Barbara Young,6,15
+14140,3,2024-09-24,OFRC Punchy Picklers,GCC Sweet Picklers,Susan Harvey,Tammy Kasserman,Lorie Poole,Lori Howell,15,12
+14140,4,2024-09-24,OFRC Punchy Picklers,GCC Sweet Picklers,Betsy Hooper,Diane Puckett,Kim Minor,Barbara Young,15,12
+14140,5,2024-09-24,OFRC Punchy Picklers,GCC Sweet Picklers,Jill Balderas,Denise Butler,Lorie Poole,Lori Howell,8,15
+14140,6,2024-09-24,OFRC Punchy Picklers,GCC Sweet Picklers,Susan Harvey,Tammy Kasserman,Paige DuBose,Jackie Pearce,0,15
+14140,7,2024-09-24,OFRC Punchy Picklers,GCC Sweet Picklers,Betsy Hooper,Diane Puckett,Lorie Poole,Lori Howell,8,15
+14140,8,2024-09-24,OFRC Punchy Picklers,GCC Sweet Picklers,Jill Balderas,Denise Butler,Paige DuBose,Jackie Pearce,6,15
+14140,9,2024-09-24,OFRC Punchy Picklers,GCC Sweet Picklers,Susan Harvey,Tammy Kasserman,Kim Minor,Barbara Young,4,15
+14142,1,2024-09-24,LJ Dinkin Dames,BUR Bruisers,Elizabeth Conte Vitullo,Beth R Sherrill,Deb Vincent,AnnMarie Klick,15,5
+14142,2,2024-09-24,LJ Dinkin Dames,BUR Bruisers,Ellen Driver,Pamela Cascarano,Elizabeth Bengtson,Nikole Daigle,15,11
+14142,3,2024-09-24,LJ Dinkin Dames,BUR Bruisers,Lisa Morrison,Patti Hartman,Laura Black,Beatriz Aguirre,12,15
+14142,4,2024-09-24,LJ Dinkin Dames,BUR Bruisers,Elizabeth Conte Vitullo,Beth R Sherrill,Elizabeth Bengtson,Nikole Daigle,5,15
+14142,5,2024-09-24,LJ Dinkin Dames,BUR Bruisers,Ellen Driver,Pamela Cascarano,Laura Black,Beatriz Aguirre,13,15
+14142,6,2024-09-24,LJ Dinkin Dames,BUR Bruisers,Lisa Morrison,Patti Hartman,Deb Vincent,AnnMarie Klick,15,5
+14142,7,2024-09-24,LJ Dinkin Dames,BUR Bruisers,Elizabeth Conte Vitullo,Beth R Sherrill,Laura Black,Beatriz Aguirre,7,15
+14142,8,2024-09-24,LJ Dinkin Dames,BUR Bruisers,Ellen Driver,Pamela Cascarano,Deb Vincent,AnnMarie Klick,15,7
+14142,9,2024-09-24,LJ Dinkin Dames,BUR Bruisers,Lisa Morrison,Patti Hartman,Elizabeth Bengtson,Nikole Daigle,11,15
+14114,1,2024-09-28,GCC Sweet Picklers,LJ Dinkin Dames,Kim Minor,Carmella Roehrig,Patti Hartman,Pamela Cascarano,15,13
+14114,2,2024-09-28,GCC Sweet Picklers,LJ Dinkin Dames,Kathy Cross,Lori Howell,Cynthia Livengood,Carolyn Smith,10,15
+14114,3,2024-09-28,GCC Sweet Picklers,LJ Dinkin Dames,Paige DuBose,Lorie Poole,Jaqueline Gast,Elizabeth Conte Vitullo,15,10
+14114,4,2024-09-28,GCC Sweet Picklers,LJ Dinkin Dames,Kim Minor,Carmella Roehrig,Cynthia Livengood,Carolyn Smith,15,3
+14114,5,2024-09-28,GCC Sweet Picklers,LJ Dinkin Dames,Kathy Cross,Lori Howell,Jaqueline Gast,Elizabeth Conte Vitullo,15,9
+14114,6,2024-09-28,GCC Sweet Picklers,LJ Dinkin Dames,Paige DuBose,Lorie Poole,Patti Hartman,Pamela Cascarano,16,14
+14114,7,2024-09-28,GCC Sweet Picklers,LJ Dinkin Dames,Kim Minor,Carmella Roehrig,Jaqueline Gast,Elizabeth Conte Vitullo,15,1
+14114,8,2024-09-28,GCC Sweet Picklers,LJ Dinkin Dames,Kathy Cross,Lori Howell,Patti Hartman,Pamela Cascarano,15,9
+14114,9,2024-09-28,GCC Sweet Picklers,LJ Dinkin Dames,Paige DuBose,Lorie Poole,Cynthia Livengood,Carolyn Smith,14,16
+14168,1,2024-10-01,LAWN Pickleholics,GCC Sweet Picklers,Connie Lover,Camille Williams,Kim Minor,Carmella Roehrig,6,15
+14168,2,2024-10-01,LAWN Pickleholics,GCC Sweet Picklers,Lisa Allen Jenkins,Lisa Wangerin,Lorie Poole,Jackie Pearce,0,15
+14168,3,2024-10-01,LAWN Pickleholics,GCC Sweet Picklers,Cinnamon Pritchard,Sara Edgerton,Kathy Cross,Ingrid Avera,7,15
+14168,4,2024-10-01,LAWN Pickleholics,GCC Sweet Picklers,Connie Lover,Camille Williams,Lorie Poole,Jackie Pearce,2,15
+14168,5,2024-10-01,LAWN Pickleholics,GCC Sweet Picklers,Lisa Allen Jenkins,Lisa Wangerin,Kathy Cross,Ingrid Avera,8,15
+14168,6,2024-10-01,LAWN Pickleholics,GCC Sweet Picklers,Cinnamon Pritchard,Sara Edgerton,Kim Minor,Carmella Roehrig,0,15
+14168,7,2024-10-01,LAWN Pickleholics,GCC Sweet Picklers,Connie Lover,Camille Williams,Kathy Cross,Ingrid Avera,9,15
+14168,8,2024-10-01,LAWN Pickleholics,GCC Sweet Picklers,Lisa Allen Jenkins,Lisa Wangerin,Kim Minor,Carmella Roehrig,2,15
+14168,9,2024-10-01,LAWN Pickleholics,GCC Sweet Picklers,Cinnamon Pritchard,Sara Edgerton,Lorie Poole,Jackie Pearce,2,15
+14170,1,2024-10-01,BUR Simply Smashing,BUR Bruisers,Kimberly L Gay,Jean Rezzo,Colleen McKenna,Deb Vincent,15,9
+14170,2,2024-10-01,BUR Simply Smashing,BUR Bruisers,Sally Bynum,Susan S Traylor,Debbie Sivret,Nikole Daigle,1,15
+14170,3,2024-10-01,BUR Simply Smashing,BUR Bruisers,Janice Campagna,Jane Walker,Laura Black,Kris Devaney,15,11
+14170,4,2024-10-01,BUR Simply Smashing,BUR Bruisers,Kimberly L Gay,Jean Rezzo,Debbie Sivret,Nikole Daigle,15,10
+14170,5,2024-10-01,BUR Simply Smashing,BUR Bruisers,Sally Bynum,Susan S Traylor,Laura Black,Kris Devaney,4,15
+14170,6,2024-10-01,BUR Simply Smashing,BUR Bruisers,Janice Campagna,Jane Walker,Colleen McKenna,Deb Vincent,15,9
+14170,7,2024-10-01,BUR Simply Smashing,BUR Bruisers,Kimberly L Gay,Jean Rezzo,Laura Black,Kris Devaney,15,10
+14170,8,2024-10-01,BUR Simply Smashing,BUR Bruisers,Sally Bynum,Susan S Traylor,Colleen McKenna,Deb Vincent,16,14
+14170,9,2024-10-01,BUR Simply Smashing,BUR Bruisers,Janice Campagna,Jane Walker,Debbie Sivret,Nikole Daigle,6,15
+14141,1,2024-10-02,BUR Simply Smashing,BUR Just One More,Janice Campagna,Jane Walker,Ann H Trammell,Janet Kiser,15,5
+14141,2,2024-10-02,BUR Simply Smashing,BUR Just One More,Kimberly L Gay,Kathy Tedder Hartung,Elvira Cianci,Anne Marie Hughes,15,3
+14141,3,2024-10-02,BUR Simply Smashing,BUR Just One More,Jean Rezzo,Susan S Traylor,Corey Teniente,Cindy Kane,15,3
+14141,4,2024-10-02,BUR Simply Smashing,BUR Just One More,Janice Campagna,Jane Walker,Elvira Cianci,Anne Marie Hughes,15,3
+14141,5,2024-10-02,BUR Simply Smashing,BUR Just One More,Kimberly L Gay,Kathy Tedder Hartung,Corey Teniente,Cindy Kane,15,6
+14141,6,2024-10-02,BUR Simply Smashing,BUR Just One More,Jean Rezzo,Susan S Traylor,Ann H Trammell,Janet Kiser,15,6
+14141,7,2024-10-02,BUR Simply Smashing,BUR Just One More,Janice Campagna,Jane Walker,Corey Teniente,Cindy Kane,15,7
+14141,8,2024-10-02,BUR Simply Smashing,BUR Just One More,Kimberly L Gay,Kathy Tedder Hartung,Ann H Trammell,Janet Kiser,15,4
+14141,9,2024-10-02,BUR Simply Smashing,BUR Just One More,Jean Rezzo,Susan S Traylor,Elvira Cianci,Anne Marie Hughes,15,5
+14194,1,2024-10-08,OFRC Punchy Picklers,BUR Simply Smashing,Denise Butler,Kay Pardue,Susan S Traylor,Jane Walker,13,15
+14194,2,2024-10-08,OFRC Punchy Picklers,BUR Simply Smashing,Jill Balderas,Diane Smith,Kathy Tedder Hartung,Natalie Faith Wallace,16,18
+14194,3,2024-10-08,OFRC Punchy Picklers,BUR Simply Smashing,Tammy Kasserman,Susan Hurrey,Janice Campagna,Jean Rezzo,15,13
+14194,4,2024-10-08,OFRC Punchy Picklers,BUR Simply Smashing,Denise Butler,Kay Pardue,Kathy Tedder Hartung,Natalie Faith Wallace,9,15
+14194,5,2024-10-08,OFRC Punchy Picklers,BUR Simply Smashing,Jill Balderas,Diane Smith,Janice Campagna,Jean Rezzo,9,15
+14194,6,2024-10-08,OFRC Punchy Picklers,BUR Simply Smashing,Tammy Kasserman,Susan Hurrey,Susan S Traylor,Jane Walker,7,15
+14194,7,2024-10-08,OFRC Punchy Picklers,BUR Simply Smashing,Denise Butler,Kay Pardue,Janice Campagna,Jean Rezzo,15,6
+14194,8,2024-10-08,OFRC Punchy Picklers,BUR Simply Smashing,Jill Balderas,Diane Smith,Susan S Traylor,Jane Walker,7,15
+14194,9,2024-10-08,OFRC Punchy Picklers,BUR Simply Smashing,Tammy Kasserman,Susan Hurrey,Kathy Tedder Hartung,Natalie Faith Wallace,15,12
+14195,1,2024-10-08,BUR Bruisers,GCC Sweet Picklers,Beatriz Aguirre,Debbie Sivret,Carmella Roehrig,Kim Minor,5,15
+14195,2,2024-10-08,BUR Bruisers,GCC Sweet Picklers,AnnMarie Klick,Kris Devaney,Lori Howell,Lorie Poole,1,15
+14195,3,2024-10-08,BUR Bruisers,GCC Sweet Picklers,Colleen McKenna,Deb Vincent,Paige DuBose,Kathy Cross,9,15
+14195,4,2024-10-08,BUR Bruisers,GCC Sweet Picklers,Beatriz Aguirre,Debbie Sivret,Lori Howell,Lorie Poole,9,15
+14195,5,2024-10-08,BUR Bruisers,GCC Sweet Picklers,AnnMarie Klick,Kris Devaney,Paige DuBose,Kathy Cross,2,15
+14195,6,2024-10-08,BUR Bruisers,GCC Sweet Picklers,Colleen McKenna,Deb Vincent,Carmella Roehrig,Kim Minor,0,15
+14195,7,2024-10-08,BUR Bruisers,GCC Sweet Picklers,Beatriz Aguirre,Debbie Sivret,Paige DuBose,Kathy Cross,17,15
+14195,8,2024-10-08,BUR Bruisers,GCC Sweet Picklers,AnnMarie Klick,Kris Devaney,Carmella Roehrig,Kim Minor,10,15
+14195,9,2024-10-08,BUR Bruisers,GCC Sweet Picklers,Colleen McKenna,Deb Vincent,Lori Howell,Lorie Poole,5,15
+14196,1,2024-10-08,LJ Dinkin Dames,LAWN Pickleholics,Ellen Driver,Pamela Cascarano,Selena Rogers,Sara Edgerton,15,11
+14196,2,2024-10-08,LJ Dinkin Dames,LAWN Pickleholics,Jodi Stanley,Beth R Sherrill,Cindy J Dunning,Betsey Mosco,15,2
+14196,3,2024-10-08,LJ Dinkin Dames,LAWN Pickleholics,Lisa Morrison,Elizabeth Conte Vitullo,Connie Lover,Lisa Allen Jenkins,15,7
+14196,4,2024-10-08,LJ Dinkin Dames,LAWN Pickleholics,Ellen Driver,Pamela Cascarano,Cindy J Dunning,Betsey Mosco,15,2
+14196,5,2024-10-08,LJ Dinkin Dames,LAWN Pickleholics,Jodi Stanley,Beth R Sherrill,Connie Lover,Lisa Allen Jenkins,15,11
+14196,6,2024-10-08,LJ Dinkin Dames,LAWN Pickleholics,Lisa Morrison,Elizabeth Conte Vitullo,Selena Rogers,Sara Edgerton,15,9
+14196,7,2024-10-08,LJ Dinkin Dames,LAWN Pickleholics,Ellen Driver,Pamela Cascarano,Connie Lover,Lisa Allen Jenkins,15,9
+14196,8,2024-10-08,LJ Dinkin Dames,LAWN Pickleholics,Jodi Stanley,Beth R Sherrill,Selena Rogers,Sara Edgerton,15,2
+14196,9,2024-10-08,LJ Dinkin Dames,LAWN Pickleholics,Lisa Morrison,Elizabeth Conte Vitullo,Cindy J Dunning,Betsey Mosco,0,15
+14169,1,2024-10-15,BUR Just One More,OFRC Punchy Picklers,Sherri Ahmad,Lynn Southard,Susan Harvey,Kay Pardue,7,15
+14169,2,2024-10-15,BUR Just One More,OFRC Punchy Picklers,Lora Seay,Bonnie Cowett,Susan Hurrey,Tammy Kasserman,5,15
+14169,3,2024-10-15,BUR Just One More,OFRC Punchy Picklers,Janet Kiser,Elvira Cianci,Beverly Kennedy,Diane Smith,9,15
+14169,4,2024-10-15,BUR Just One More,OFRC Punchy Picklers,Sherri Ahmad,Lynn Southard,Susan Hurrey,Tammy Kasserman,9,15
+14169,5,2024-10-15,BUR Just One More,OFRC Punchy Picklers,Lora Seay,Bonnie Cowett,Beverly Kennedy,Diane Smith,11,15
+14169,6,2024-10-15,BUR Just One More,OFRC Punchy Picklers,Janet Kiser,Elvira Cianci,Susan Harvey,Kay Pardue,4,15
+14169,7,2024-10-15,BUR Just One More,OFRC Punchy Picklers,Sherri Ahmad,Lynn Southard,Beverly Kennedy,Diane Smith,15,11
+14169,8,2024-10-15,BUR Just One More,OFRC Punchy Picklers,Lora Seay,Bonnie Cowett,Susan Harvey,Kay Pardue,2,15
+14169,9,2024-10-15,BUR Just One More,OFRC Punchy Picklers,Janet Kiser,Elvira Cianci,Susan Hurrey,Tammy Kasserman,2,15
+14233,1,2024-10-22,GCC Sweet Picklers,BUR Bruisers,Carmella Roehrig,Ingrid Avera,Elizabeth Bengtson,Nikole Daigle,0,15
+14233,2,2024-10-22,GCC Sweet Picklers,BUR Bruisers,Lorie Poole,Lori Howell,Debbie Sivret,Beatriz Aguirre,15,5
+14233,3,2024-10-22,GCC Sweet Picklers,BUR Bruisers,Barbara Young,Carol Smith,AnnMarie Klick,Kris Devaney,15,8
+14233,4,2024-10-22,GCC Sweet Picklers,BUR Bruisers,Carmella Roehrig,Ingrid Avera,Debbie Sivret,Beatriz Aguirre,13,15
+14233,5,2024-10-22,GCC Sweet Picklers,BUR Bruisers,Lorie Poole,Lori Howell,AnnMarie Klick,Kris Devaney,15,9
+14233,6,2024-10-22,GCC Sweet Picklers,BUR Bruisers,Barbara Young,Carol Smith,Elizabeth Bengtson,Nikole Daigle,7,15
+14233,7,2024-10-22,GCC Sweet Picklers,BUR Bruisers,Carmella Roehrig,Ingrid Avera,AnnMarie Klick,Kris Devaney,15,5
+14233,8,2024-10-22,GCC Sweet Picklers,BUR Bruisers,Lorie Poole,Lori Howell,Elizabeth Bengtson,Nikole Daigle,15,7
+14233,9,2024-10-22,GCC Sweet Picklers,BUR Bruisers,Barbara Young,Carol Smith,Debbie Sivret,Beatriz Aguirre,3,15
+14234,1,2024-10-22,BUR Simply Smashing,OFRC Punchy Picklers,Kimberly L Gay,Jean Rezzo,Betsy Hooper,Diane Puckett,16,14
+14234,2,2024-10-22,BUR Simply Smashing,OFRC Punchy Picklers,Natalie Faith Wallace,Jane Walker,Susan Hurrey,Tammy Kasserman,9,15
+14234,3,2024-10-22,BUR Simply Smashing,OFRC Punchy Picklers,Kathy Tedder Hartung,Janice Campagna,Jill Balderas,Diane Smith,15,13
+14234,4,2024-10-22,BUR Simply Smashing,OFRC Punchy Picklers,Kimberly L Gay,Jean Rezzo,Susan Hurrey,Tammy Kasserman,15,11
+14234,5,2024-10-22,BUR Simply Smashing,OFRC Punchy Picklers,Natalie Faith Wallace,Jane Walker,Jill Balderas,Diane Smith,15,2
+14234,6,2024-10-22,BUR Simply Smashing,OFRC Punchy Picklers,Kathy Tedder Hartung,Janice Campagna,Betsy Hooper,Diane Puckett,13,15
+14234,7,2024-10-22,BUR Simply Smashing,OFRC Punchy Picklers,Kimberly L Gay,Jean Rezzo,Jill Balderas,Diane Smith,15,13
+14234,8,2024-10-22,BUR Simply Smashing,OFRC Punchy Picklers,Natalie Faith Wallace,Jane Walker,Betsy Hooper,Diane Puckett,16,14
+14234,9,2024-10-22,BUR Simply Smashing,OFRC Punchy Picklers,Kathy Tedder Hartung,Janice Campagna,Susan Hurrey,Tammy Kasserman,11,15
+14248,1,2024-11-02,GCC Sweet Picklers,BUR Simply Smashing,Lorie Poole,Lori Howell,Kimberly L Gay,Jean Rezzo,9,15
+14248,2,2024-11-02,GCC Sweet Picklers,BUR Simply Smashing,Carmella Roehrig,Carol Smith,Natalie Faith Wallace,Kathleen Maddalone,15,11
+14248,3,2024-11-02,GCC Sweet Picklers,BUR Simply Smashing,DEFAULT,DEFAULT,Janice Campagna,Kathy Tedder Hartung,0,15
+14248,4,2024-11-02,GCC Sweet Picklers,BUR Simply Smashing,Lorie Poole,Lori Howell,Natalie Faith Wallace,Kathleen Maddalone,15,8
+14248,5,2024-11-02,GCC Sweet Picklers,BUR Simply Smashing,Carmella Roehrig,Carol Smith,Janice Campagna,Kathy Tedder Hartung,15,7
+14248,6,2024-11-02,GCC Sweet Picklers,BUR Simply Smashing,DEFAULT,DEFAULT,Kimberly L Gay,Jean Rezzo,0,15
+14248,7,2024-11-02,GCC Sweet Picklers,BUR Simply Smashing,Lorie Poole,Lori Howell,Janice Campagna,Kathy Tedder Hartung,15,5
+14248,8,2024-11-02,GCC Sweet Picklers,BUR Simply Smashing,Carmella Roehrig,Carol Smith,Kimberly L Gay,Jean Rezzo,13,15
+14248,9,2024-11-02,GCC Sweet Picklers,BUR Simply Smashing,DEFAULT,DEFAULT,Natalie Faith Wallace,Kathleen Maddalone,0,15
