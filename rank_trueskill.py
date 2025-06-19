@@ -5,7 +5,7 @@
 To run this script:
 Activate the virtual environment with: source mypickleballenv/bin/activate
 Run with: ./rank_trueskill.py match_data_x.csv
-
+This script is best for a pool of players who play each other often (like in a local league)
 """
 
 import csv
