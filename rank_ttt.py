@@ -103,10 +103,11 @@ def main(csv_file):
         reverse=True
     )
 
-    print("Rank,Player,Team,Mu,Sigma")
+    print("Rank,Player,Team,Skill,Mu,Sigma")
     for i, (p, r) in enumerate(ranked, 1):
+        skill = r.mu - 3 * r.sigma
         team = player_teams.get(p, "Unknown")
-        print(f"{i},{p},{team},{r.mu:.2f},{r.sigma:.2f}")
+        print(f"{i},{p},{team},{skill:.2f},{r.mu:.2f},{r.sigma:.2f}")
 
 if __name__ == "__main__":
     import sys

@@ -80,13 +80,14 @@ def main():
     ranked_players = sorted(player_ratings.items(), key=lambda x: x[1].mu, reverse=True)
 
     # Print CSV header
-    print("Rank,Player,Team,Mu,Sigma")
+    print("Rank,Player,Team,Skill,Mu,Sigma")
 
     # Print CSV rows
     # Unpack ranked players, for example: rank=1, player='Alice', rating=Rating(mu=30, sigma=7)
     for rank, (player, rating) in enumerate(ranked_players, 1):
+        exposed = ts.expose(rating)
         team_name = player_teams.get(player, "Unknown")
-        print(f"{rank},{player},{team_name},{rating.mu:.2f},{rating.sigma:.2f}")
+        print(f"{rank},{player},{team_name},{exposed:.2f},{rating.mu:.2f},{rating.sigma:.2f}")
 
 
 if __name__ == '__main__':
