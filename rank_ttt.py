@@ -4,8 +4,8 @@
 """
 To run this script:
 Activate the virtual environment with: source mypickleballenv/bin/activate
-Run with: ./rank_trueskillthrutime.py match_data_x.csv
-This script is best for mostly isolated pools of players who rarely have players play each other (like in a tournament of champions)
+Run with: ./rank_ttt.py match_data_x.csv
+This script is slower, but more accurate
 """
 
 import csv
