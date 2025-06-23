@@ -1,0 +1,100 @@
+match_id,game_id,match_date,team1_name,team2_name,partner1,partner2,opponent1,opponent2,team1_points,team2_points
+14761,1,2024-09-10,TOC The Leftovers,TOC Double Trouble,Jay Barish,Saqib Khan,Beth Ann Ralph,Tim Orlowski,5,15
+14761,2,2024-09-10,TOC The Leftovers,TOC Double Trouble,Amy Ballard,Jon Hoffman,Sherri M Nuckols,Matthew Lee,6,15
+14761,3,2024-09-10,TOC The Leftovers,TOC Double Trouble,Greg Horvath,Bob Dombroski,Lana He,Lobo Lin,6,15
+14761,4,2024-09-10,TOC The Leftovers,TOC Double Trouble,Jay Barish,Saqib Khan,Sherri M Nuckols,Matthew Lee,4,15
+14761,5,2024-09-10,TOC The Leftovers,TOC Double Trouble,Amy Ballard,Jon Hoffman,Lana He,Lobo Lin,2,15
+14761,6,2024-09-10,TOC The Leftovers,TOC Double Trouble,Greg Horvath,Bob Dombroski,Beth Ann Ralph,Tim Orlowski,2,15
+14761,7,2024-09-10,TOC The Leftovers,TOC Double Trouble,Jay Barish,Saqib Khan,Lana He,Lobo Lin,1,15
+14761,8,2024-09-10,TOC The Leftovers,TOC Double Trouble,Amy Ballard,Jon Hoffman,Beth Ann Ralph,Tim Orlowski,6,15
+14761,9,2024-09-10,TOC The Leftovers,TOC Double Trouble,Greg Horvath,Bob Dombroski,Sherri M Nuckols,Matthew Lee,2,15
+14771,1,2024-09-17,LOCH The Reset Rascals,TOC The Leftovers,Barbara Campbell,Jeff Estroff,Amy Ballard,Bob Dombroski,15,5
+14771,2,2024-09-17,LOCH The Reset Rascals,TOC The Leftovers,Wendy S Bernstein,Keith Weaver,Jon Hoffman,Michael R Hitchcock,15,10
+14771,3,2024-09-17,LOCH The Reset Rascals,TOC The Leftovers,Susan Oglesby Reeves,James G Davis,Greg Horvath,Carlos Alberto Salinas,16,14
+14771,4,2024-09-17,LOCH The Reset Rascals,TOC The Leftovers,Barbara Campbell,Jeff Estroff,Jon Hoffman,Michael R Hitchcock,15,12
+14771,5,2024-09-17,LOCH The Reset Rascals,TOC The Leftovers,Wendy S Bernstein,Keith Weaver,Greg Horvath,Carlos Alberto Salinas,11,15
+14771,6,2024-09-17,LOCH The Reset Rascals,TOC The Leftovers,Susan Oglesby Reeves,James G Davis,Amy Ballard,Bob Dombroski,15,4
+14771,7,2024-09-17,LOCH The Reset Rascals,TOC The Leftovers,Barbara Campbell,Jeff Estroff,Greg Horvath,Carlos Alberto Salinas,13,15
+14771,8,2024-09-17,LOCH The Reset Rascals,TOC The Leftovers,Wendy S Bernstein,Keith Weaver,Amy Ballard,Bob Dombroski,15,5
+14771,9,2024-09-17,LOCH The Reset Rascals,TOC The Leftovers,Susan Oglesby Reeves,James G Davis,Jon Hoffman,Michael R Hitchcock,15,12
+14781,1,2024-09-24,TOC Double Trouble,LOCH The Reset Rascals,Beth Ann Ralph,Matthew Lee,Susan Oglesby Reeves,Jeff Estroff,15,13
+14781,2,2024-09-24,TOC Double Trouble,LOCH The Reset Rascals,Janeth Pearl,Sanil Sondhi,James G Davis,Ray Greenwood,13,15
+14781,3,2024-09-24,TOC Double Trouble,LOCH The Reset Rascals,Lana He,Lobo Lin,Teri Smith,Jeffrey A Madia,4,15
+14781,4,2024-09-24,TOC Double Trouble,LOCH The Reset Rascals,Beth Ann Ralph,Matthew Lee,James G Davis,Ray Greenwood,15,11
+14781,5,2024-09-24,TOC Double Trouble,LOCH The Reset Rascals,Janeth Pearl,Sanil Sondhi,Teri Smith,Jeffrey A Madia,8,15
+14781,6,2024-09-24,TOC Double Trouble,LOCH The Reset Rascals,Lana He,Lobo Lin,Susan Oglesby Reeves,Jeff Estroff,15,1
+14781,7,2024-09-24,TOC Double Trouble,LOCH The Reset Rascals,Beth Ann Ralph,Matthew Lee,Teri Smith,Jeffrey A Madia,4,15
+14781,8,2024-09-24,TOC Double Trouble,LOCH The Reset Rascals,Janeth Pearl,Sanil Sondhi,Susan Oglesby Reeves,Jeff Estroff,12,15
+14781,9,2024-09-24,TOC Double Trouble,LOCH The Reset Rascals,Lana He,Lobo Lin,James G Davis,Ray Greenwood,9,15
+14791,1,2024-10-01,TOC Double Trouble,TOC The Leftovers,Gitana Jesudasan,Tim Orlowski,Saqib Khan,Sean Daley,15,0
+14791,2,2024-10-01,TOC Double Trouble,TOC The Leftovers,Matthew Lee,Sherri M Nuckols,Carlos Alberto Salinas,Jay Barish,15,3
+14791,3,2024-10-01,TOC Double Trouble,TOC The Leftovers,Lana He,Sanil Sondhi,Greg Horvath,Michael R Hitchcock,15,13
+14791,4,2024-10-01,TOC Double Trouble,TOC The Leftovers,Gitana Jesudasan,Tim Orlowski,Carlos Alberto Salinas,Jay Barish,15,9
+14791,5,2024-10-01,TOC Double Trouble,TOC The Leftovers,Matthew Lee,Sherri M Nuckols,Greg Horvath,Michael R Hitchcock,9,15
+14791,6,2024-10-01,TOC Double Trouble,TOC The Leftovers,Lana He,Sanil Sondhi,Saqib Khan,Sean Daley,15,3
+14791,7,2024-10-01,TOC Double Trouble,TOC The Leftovers,Gitana Jesudasan,Tim Orlowski,Greg Horvath,Michael R Hitchcock,2,15
+14791,8,2024-10-01,TOC Double Trouble,TOC The Leftovers,Matthew Lee,Sherri M Nuckols,Saqib Khan,Sean Daley,15,10
+14791,9,2024-10-01,TOC Double Trouble,TOC The Leftovers,Lana He,Sanil Sondhi,Carlos Alberto Salinas,Jay Barish,15,5
+14800,1,2024-10-08,TOC The Leftovers,LOCH The Reset Rascals,Carlos Alberto Salinas,Michael R Hitchcock,Ray Greenwood,James G Davis,4,15
+14800,2,2024-10-08,TOC The Leftovers,LOCH The Reset Rascals,Amy Ballard,Saqib Khan,Wendy S Bernstein,Teri Smith,4,15
+14800,3,2024-10-08,TOC The Leftovers,LOCH The Reset Rascals,DEFAULT,DEFAULT,Jeff Estroff,Jeffrey A Madia,0,15
+14800,4,2024-10-08,TOC The Leftovers,LOCH The Reset Rascals,Carlos Alberto Salinas,Michael R Hitchcock,Wendy S Bernstein,Teri Smith,8,15
+14800,5,2024-10-08,TOC The Leftovers,LOCH The Reset Rascals,Amy Ballard,Saqib Khan,Jeff Estroff,Jeffrey A Madia,5,15
+14800,6,2024-10-08,TOC The Leftovers,LOCH The Reset Rascals,DEFAULT,DEFAULT,Ray Greenwood,James G Davis,0,15
+14800,7,2024-10-08,TOC The Leftovers,LOCH The Reset Rascals,Carlos Alberto Salinas,Michael R Hitchcock,Jeff Estroff,Jeffrey A Madia,10,15
+14800,8,2024-10-08,TOC The Leftovers,LOCH The Reset Rascals,Amy Ballard,Saqib Khan,Ray Greenwood,James G Davis,7,15
+14800,9,2024-10-08,TOC The Leftovers,LOCH The Reset Rascals,DEFAULT,DEFAULT,Wendy S Bernstein,Teri Smith,0,15
+14809,1,2024-10-15,LOCH The Reset Rascals,TOC Double Trouble,Teri Smith,James G Davis,Matthew Lee,Beth Ann Ralph,6,15
+14809,2,2024-10-15,LOCH The Reset Rascals,TOC Double Trouble,Barbara Campbell,Keith Weaver,Sherri M Nuckols,Sanil Sondhi,7,15
+14809,3,2024-10-15,LOCH The Reset Rascals,TOC Double Trouble,Wendy S Bernstein,Roger Coleman Gore,Lobo Lin,Lana He,15,12
+14809,4,2024-10-15,LOCH The Reset Rascals,TOC Double Trouble,Teri Smith,James G Davis,Sherri M Nuckols,Sanil Sondhi,15,9
+14809,5,2024-10-15,LOCH The Reset Rascals,TOC Double Trouble,Barbara Campbell,Keith Weaver,Lobo Lin,Lana He,5,15
+14809,6,2024-10-15,LOCH The Reset Rascals,TOC Double Trouble,Wendy S Bernstein,Roger Coleman Gore,Matthew Lee,Beth Ann Ralph,7,15
+14809,7,2024-10-15,LOCH The Reset Rascals,TOC Double Trouble,Teri Smith,James G Davis,Lobo Lin,Lana He,15,10
+14809,8,2024-10-15,LOCH The Reset Rascals,TOC Double Trouble,Barbara Campbell,Keith Weaver,Matthew Lee,Beth Ann Ralph,9,15
+14809,9,2024-10-15,LOCH The Reset Rascals,TOC Double Trouble,Wendy S Bernstein,Roger Coleman Gore,Sherri M Nuckols,Sanil Sondhi,11,15
+14820,1,2024-10-22,TOC The Leftovers,TOC Double Trouble,Carlos Alberto Salinas,Sean Daley,Beth Ann Ralph,Sanil Sondhi,9,15
+14820,2,2024-10-22,TOC The Leftovers,TOC Double Trouble,Jay Barish,Greg Horvath,Sherri M Nuckols,Matthew Lee,2,15
+14820,3,2024-10-22,TOC The Leftovers,TOC Double Trouble,Saqib Khan,Bob Dombroski,Lana He,Tim Orlowski,2,15
+14820,4,2024-10-22,TOC The Leftovers,TOC Double Trouble,Carlos Alberto Salinas,Sean Daley,Sherri M Nuckols,Matthew Lee,0,15
+14820,5,2024-10-22,TOC The Leftovers,TOC Double Trouble,Jay Barish,Greg Horvath,Lana He,Tim Orlowski,2,15
+14820,6,2024-10-22,TOC The Leftovers,TOC Double Trouble,Saqib Khan,Bob Dombroski,Beth Ann Ralph,Sanil Sondhi,8,15
+14820,7,2024-10-22,TOC The Leftovers,TOC Double Trouble,Carlos Alberto Salinas,Sean Daley,Lana He,Tim Orlowski,5,15
+14820,8,2024-10-22,TOC The Leftovers,TOC Double Trouble,Jay Barish,Greg Horvath,Beth Ann Ralph,Sanil Sondhi,11,15
+14820,9,2024-10-22,TOC The Leftovers,TOC Double Trouble,Saqib Khan,Bob Dombroski,Sherri M Nuckols,Matthew Lee,2,15
+14826,1,2024-10-29,LOCH The Reset Rascals,TOC The Leftovers,Susan Oglesby Reeves,Jeff Estroff,Sean Daley,Jay Barish,15,10
+14826,2,2024-10-29,LOCH The Reset Rascals,TOC The Leftovers,Wendy S Bernstein,Jeffrey A Madia,Michael R Hitchcock,Bob Dombroski,14,16
+14826,3,2024-10-29,LOCH The Reset Rascals,TOC The Leftovers,Keith Weaver,Barbara Campbell,Jon Hoffman,Greg Horvath,6,15
+14826,4,2024-10-29,LOCH The Reset Rascals,TOC The Leftovers,Susan Oglesby Reeves,Jeff Estroff,Michael R Hitchcock,Bob Dombroski,10,15
+14826,5,2024-10-29,LOCH The Reset Rascals,TOC The Leftovers,Wendy S Bernstein,Jeffrey A Madia,Jon Hoffman,Greg Horvath,15,5
+14826,6,2024-10-29,LOCH The Reset Rascals,TOC The Leftovers,Keith Weaver,Barbara Campbell,Sean Daley,Jay Barish,15,6
+14826,7,2024-10-29,LOCH The Reset Rascals,TOC The Leftovers,Susan Oglesby Reeves,Jeff Estroff,Jon Hoffman,Greg Horvath,15,6
+14826,8,2024-10-29,LOCH The Reset Rascals,TOC The Leftovers,Wendy S Bernstein,Jeffrey A Madia,Sean Daley,Jay Barish,15,2
+14826,9,2024-10-29,LOCH The Reset Rascals,TOC The Leftovers,Keith Weaver,Barbara Campbell,Michael R Hitchcock,Bob Dombroski,10,15
+14833,1,2024-11-05,TOC Double Trouble,LOCH The Reset Rascals,Sherri M Nuckols,Tim Orlowski,James G Davis,Jeffrey A Madia,9,15
+14833,2,2024-11-05,TOC Double Trouble,LOCH The Reset Rascals,Beth Ann Ralph,Sanil Sondhi,Wayne Barber,Keith Weaver,15,8
+14833,3,2024-11-05,TOC Double Trouble,LOCH The Reset Rascals,Lana He,Lobo Lin,Wendy S Bernstein,Lennie Bernstein,15,12
+14833,4,2024-11-05,TOC Double Trouble,LOCH The Reset Rascals,Sherri M Nuckols,Tim Orlowski,Wayne Barber,Keith Weaver,8,15
+14833,5,2024-11-05,TOC Double Trouble,LOCH The Reset Rascals,Beth Ann Ralph,Sanil Sondhi,Wendy S Bernstein,Lennie Bernstein,15,5
+14833,6,2024-11-05,TOC Double Trouble,LOCH The Reset Rascals,Lana He,Lobo Lin,James G Davis,Jeffrey A Madia,7,15
+14833,7,2024-11-05,TOC Double Trouble,LOCH The Reset Rascals,Sherri M Nuckols,Tim Orlowski,Wendy S Bernstein,Lennie Bernstein,15,7
+14833,8,2024-11-05,TOC Double Trouble,LOCH The Reset Rascals,Beth Ann Ralph,Sanil Sondhi,James G Davis,Jeffrey A Madia,6,15
+14833,9,2024-11-05,TOC Double Trouble,LOCH The Reset Rascals,Lana He,Lobo Lin,Wayne Barber,Keith Weaver,4,15
+14838,1,2024-11-10,TOC Double Trouble,TOC The Leftovers,Beth Ann Ralph,Sanil Sondhi,Michael R Hitchcock,Greg Horvath,15,11
+14838,2,2024-11-10,TOC Double Trouble,TOC The Leftovers,Sherri M Nuckols,Matthew Lee,Jon Hoffman,Bob Dombroski,15,2
+14838,3,2024-11-10,TOC Double Trouble,TOC The Leftovers,Lana He,Tim Orlowski,Saqib Khan,Jay Barish,15,1
+14838,4,2024-11-10,TOC Double Trouble,TOC The Leftovers,Beth Ann Ralph,Sanil Sondhi,Jon Hoffman,Bob Dombroski,15,1
+14838,5,2024-11-10,TOC Double Trouble,TOC The Leftovers,Sherri M Nuckols,Matthew Lee,Saqib Khan,Jay Barish,15,3
+14838,6,2024-11-10,TOC Double Trouble,TOC The Leftovers,Lana He,Tim Orlowski,Michael R Hitchcock,Greg Horvath,15,3
+14838,7,2024-11-10,TOC Double Trouble,TOC The Leftovers,Beth Ann Ralph,Sanil Sondhi,Saqib Khan,Jay Barish,15,3
+14838,8,2024-11-10,TOC Double Trouble,TOC The Leftovers,Sherri M Nuckols,Matthew Lee,Michael R Hitchcock,Greg Horvath,15,5
+14838,9,2024-11-10,TOC Double Trouble,TOC The Leftovers,Lana He,Tim Orlowski,Jon Hoffman,Bob Dombroski,15,6
+14840,1,2024-11-10,LOCH The Reset Rascals,TOC Double Trouble,Jeff Estroff,Wendy S Bernstein,Sherri M Nuckols,Matthew Lee,14,16
+14840,2,2024-11-10,LOCH The Reset Rascals,TOC Double Trouble,James G Davis,Jeffrey A Madia,Lana He,Tim Orlowski,10,15
+14840,3,2024-11-10,LOCH The Reset Rascals,TOC Double Trouble,Keith Weaver,Wayne Barber,Beth Ann Ralph,Sanil Sondhi,15,5
+14840,4,2024-11-10,LOCH The Reset Rascals,TOC Double Trouble,Jeff Estroff,Wendy S Bernstein,Lana He,Tim Orlowski,13,15
+14840,5,2024-11-10,LOCH The Reset Rascals,TOC Double Trouble,James G Davis,Jeffrey A Madia,Beth Ann Ralph,Sanil Sondhi,12,15
+14840,6,2024-11-10,LOCH The Reset Rascals,TOC Double Trouble,Keith Weaver,Wayne Barber,Sherri M Nuckols,Matthew Lee,15,11
+14840,7,2024-11-10,LOCH The Reset Rascals,TOC Double Trouble,Jeff Estroff,Wendy S Bernstein,Beth Ann Ralph,Sanil Sondhi,15,10
+14840,8,2024-11-10,LOCH The Reset Rascals,TOC Double Trouble,James G Davis,Jeffrey A Madia,Sherri M Nuckols,Matthew Lee,15,13
+14840,9,2024-11-10,LOCH The Reset Rascals,TOC Double Trouble,Keith Weaver,Wayne Barber,Lana He,Tim Orlowski,15,13

@@ -1,0 +1,136 @@
+match_id,game_id,match_date,team1_name,team2_name,partner1,partner2,opponent1,opponent2,team1_points,team2_points
+14765,1,2024-09-12,TOC Bangers and Mash,TOC The Pickle Pack,Rosina Laney,Andrew Junkins,Colin Camp,Kelda Bailey,10,15
+14765,2,2024-09-12,TOC Bangers and Mash,TOC The Pickle Pack,Shawn DeStasio,Chun Lee,Eric Webb,Jennifer S Gibbs,7,15
+14765,3,2024-09-12,TOC Bangers and Mash,TOC The Pickle Pack,Mesh Flinders,Uyen Benton,Arun Kanathil,Yolanda McCluney,13,15
+14765,4,2024-09-12,TOC Bangers and Mash,TOC The Pickle Pack,Rosina Laney,Andrew Junkins,Eric Webb,Jennifer S Gibbs,5,15
+14765,5,2024-09-12,TOC Bangers and Mash,TOC The Pickle Pack,Shawn DeStasio,Chun Lee,Arun Kanathil,Yolanda McCluney,3,15
+14765,6,2024-09-12,TOC Bangers and Mash,TOC The Pickle Pack,Mesh Flinders,Uyen Benton,Colin Camp,Kelda Bailey,9,15
+14765,7,2024-09-12,TOC Bangers and Mash,TOC The Pickle Pack,Rosina Laney,Andrew Junkins,Arun Kanathil,Yolanda McCluney,10,15
+14765,8,2024-09-12,TOC Bangers and Mash,TOC The Pickle Pack,Shawn DeStasio,Chun Lee,Colin Camp,Kelda Bailey,3,15
+14765,9,2024-09-12,TOC Bangers and Mash,TOC The Pickle Pack,Mesh Flinders,Uyen Benton,Eric Webb,Jennifer S Gibbs,15,7
+14767,1,2024-09-12,TOC Lobstoppers,TOC Olympics 2028,Rich Franz,Janny Frazier,Chelsea Hoffman,Bradford Hoffman,16,14
+14767,2,2024-09-12,TOC Lobstoppers,TOC Olympics 2028,Darren Goldberg,Shubha Sachdev,David West,Natalia West,15,1
+14767,3,2024-09-12,TOC Lobstoppers,TOC Olympics 2028,David Cuccaro,Robyn Merck,Michelle Morgan,Antonio G Wright,3,15
+14767,4,2024-09-12,TOC Lobstoppers,TOC Olympics 2028,Rich Franz,Janny Frazier,David West,Natalia West,15,13
+14767,5,2024-09-12,TOC Lobstoppers,TOC Olympics 2028,Darren Goldberg,Shubha Sachdev,Michelle Morgan,Antonio G Wright,15,5
+14767,6,2024-09-12,TOC Lobstoppers,TOC Olympics 2028,David Cuccaro,Robyn Merck,Chelsea Hoffman,Bradford Hoffman,9,15
+14767,7,2024-09-12,TOC Lobstoppers,TOC Olympics 2028,Rich Franz,Janny Frazier,Michelle Morgan,Antonio G Wright,12,15
+14767,8,2024-09-12,TOC Lobstoppers,TOC Olympics 2028,Darren Goldberg,Shubha Sachdev,Chelsea Hoffman,Bradford Hoffman,16,14
+14767,9,2024-09-12,TOC Lobstoppers,TOC Olympics 2028,David Cuccaro,Robyn Merck,David West,Natalia West,15,13
+14777,1,2024-09-22,TOC The Pickle Pack,TOC Olympics 2028,Colin Camp,Jarrett Wood,Antonio G Wright,Pamela DeLoatch,15,11
+14777,2,2024-09-22,TOC The Pickle Pack,TOC Olympics 2028,Dan Harvey,Jennifer S Gibbs,Bradford Hoffman,Chelsea Hoffman,10,15
+14777,3,2024-09-22,TOC The Pickle Pack,TOC Olympics 2028,Eric Webb,Andrea Galinski,Jose A Reyes,David West,13,15
+14777,4,2024-09-22,TOC The Pickle Pack,TOC Olympics 2028,Colin Camp,Jarrett Wood,Bradford Hoffman,Chelsea Hoffman,15,9
+14777,5,2024-09-22,TOC The Pickle Pack,TOC Olympics 2028,Dan Harvey,Jennifer S Gibbs,Jose A Reyes,David West,5,15
+14777,6,2024-09-22,TOC The Pickle Pack,TOC Olympics 2028,Eric Webb,Andrea Galinski,Antonio G Wright,Pamela DeLoatch,12,15
+14777,7,2024-09-22,TOC The Pickle Pack,TOC Olympics 2028,Colin Camp,Jarrett Wood,Jose A Reyes,David West,15,11
+14777,8,2024-09-22,TOC The Pickle Pack,TOC Olympics 2028,Dan Harvey,Jennifer S Gibbs,Antonio G Wright,Pamela DeLoatch,15,11
+14777,9,2024-09-22,TOC The Pickle Pack,TOC Olympics 2028,Eric Webb,Andrea Galinski,Bradford Hoffman,Chelsea Hoffman,15,3
+14778,1,2024-09-22,TOC Bangers and Mash,TOC Lobstoppers,Andrew Junkins,Kristen Wambold,Cliff Daub,Shubha Sachdev,7,15
+14778,2,2024-09-22,TOC Bangers and Mash,TOC Lobstoppers,Keith Medlin,Rosina Laney,David Cuccaro,Robyn Merck,15,13
+14778,3,2024-09-22,TOC Bangers and Mash,TOC Lobstoppers,Mesh Flinders,Shawn DeStasio,Rich Franz,Janny Frazier,9,15
+14778,4,2024-09-22,TOC Bangers and Mash,TOC Lobstoppers,Andrew Junkins,Kristen Wambold,David Cuccaro,Robyn Merck,15,3
+14778,5,2024-09-22,TOC Bangers and Mash,TOC Lobstoppers,Keith Medlin,Rosina Laney,Rich Franz,Janny Frazier,15,10
+14778,6,2024-09-22,TOC Bangers and Mash,TOC Lobstoppers,Mesh Flinders,Shawn DeStasio,Cliff Daub,Shubha Sachdev,12,15
+14778,7,2024-09-22,TOC Bangers and Mash,TOC Lobstoppers,Andrew Junkins,Kristen Wambold,Rich Franz,Janny Frazier,5,15
+14778,8,2024-09-22,TOC Bangers and Mash,TOC Lobstoppers,Keith Medlin,Rosina Laney,Cliff Daub,Shubha Sachdev,4,15
+14778,9,2024-09-22,TOC Bangers and Mash,TOC Lobstoppers,Mesh Flinders,Shawn DeStasio,David Cuccaro,Robyn Merck,15,3
+14784,1,2024-09-26,TOC The Pickle Pack,TOC Lobstoppers,Jarrett Wood,Jennifer S Gibbs,Darren Goldberg,Cherie D Berger,15,9
+14784,2,2024-09-26,TOC The Pickle Pack,TOC Lobstoppers,Colin Camp,Kelda Bailey,Cliff Daub,Shubha Sachdev,6,15
+14784,3,2024-09-26,TOC The Pickle Pack,TOC Lobstoppers,Eric Webb,Yolanda McCluney,Joel Ossher,Robyn Merck,16,14
+14784,4,2024-09-26,TOC The Pickle Pack,TOC Lobstoppers,Jarrett Wood,Jennifer S Gibbs,Cliff Daub,Shubha Sachdev,15,5
+14784,5,2024-09-26,TOC The Pickle Pack,TOC Lobstoppers,Colin Camp,Kelda Bailey,Joel Ossher,Robyn Merck,15,9
+14784,6,2024-09-26,TOC The Pickle Pack,TOC Lobstoppers,Eric Webb,Yolanda McCluney,Darren Goldberg,Cherie D Berger,10,15
+14784,7,2024-09-26,TOC The Pickle Pack,TOC Lobstoppers,Jarrett Wood,Jennifer S Gibbs,Joel Ossher,Robyn Merck,15,3
+14784,8,2024-09-26,TOC The Pickle Pack,TOC Lobstoppers,Colin Camp,Kelda Bailey,Darren Goldberg,Cherie D Berger,15,9
+14784,9,2024-09-26,TOC The Pickle Pack,TOC Lobstoppers,Eric Webb,Yolanda McCluney,Cliff Daub,Shubha Sachdev,12,15
+14786,1,2024-09-26,TOC Olympics 2028,TOC Bangers and Mash,Chelsea Hoffman,Bradford Hoffman,Rosina Laney,Seth Laney,15,5
+14786,2,2024-09-26,TOC Olympics 2028,TOC Bangers and Mash,Michelle Morgan,Mark F Bland,Uyen Benton,Keith Medlin,3,15
+14786,3,2024-09-26,TOC Olympics 2028,TOC Bangers and Mash,Michelle Reyes,Jose A Reyes,Kristen Wambold,Chun Lee,15,5
+14786,4,2024-09-26,TOC Olympics 2028,TOC Bangers and Mash,Chelsea Hoffman,Bradford Hoffman,Uyen Benton,Keith Medlin,15,12
+14786,5,2024-09-26,TOC Olympics 2028,TOC Bangers and Mash,Michelle Morgan,Mark F Bland,Kristen Wambold,Chun Lee,15,4
+14786,6,2024-09-26,TOC Olympics 2028,TOC Bangers and Mash,Michelle Reyes,Jose A Reyes,Rosina Laney,Seth Laney,15,4
+14786,7,2024-09-26,TOC Olympics 2028,TOC Bangers and Mash,Chelsea Hoffman,Bradford Hoffman,Kristen Wambold,Chun Lee,15,8
+14786,8,2024-09-26,TOC Olympics 2028,TOC Bangers and Mash,Michelle Morgan,Mark F Bland,Rosina Laney,Seth Laney,11,15
+14786,9,2024-09-26,TOC Olympics 2028,TOC Bangers and Mash,Michelle Reyes,Jose A Reyes,Uyen Benton,Keith Medlin,15,9
+14797,1,2024-10-06,TOC Olympics 2028,TOC Lobstoppers,Michelle Morgan,Mark F Bland,Darren Goldberg,Cherie D Berger,7,15
+14797,2,2024-10-06,TOC Olympics 2028,TOC Lobstoppers,Pamela DeLoatch,Antonio G Wright,Joel Ossher,Janny Frazier,15,13
+14797,3,2024-10-06,TOC Olympics 2028,TOC Lobstoppers,Bradford Hoffman,Natalia West,David Cuccaro,Robyn Merck,15,6
+14797,4,2024-10-06,TOC Olympics 2028,TOC Lobstoppers,Michelle Morgan,Mark F Bland,Joel Ossher,Janny Frazier,7,15
+14797,5,2024-10-06,TOC Olympics 2028,TOC Lobstoppers,Pamela DeLoatch,Antonio G Wright,David Cuccaro,Robyn Merck,15,2
+14797,6,2024-10-06,TOC Olympics 2028,TOC Lobstoppers,Bradford Hoffman,Natalia West,Darren Goldberg,Cherie D Berger,4,15
+14797,7,2024-10-06,TOC Olympics 2028,TOC Lobstoppers,Michelle Morgan,Mark F Bland,David Cuccaro,Robyn Merck,15,2
+14797,8,2024-10-06,TOC Olympics 2028,TOC Lobstoppers,Pamela DeLoatch,Antonio G Wright,Darren Goldberg,Cherie D Berger,12,15
+14797,9,2024-10-06,TOC Olympics 2028,TOC Lobstoppers,Bradford Hoffman,Natalia West,Joel Ossher,Janny Frazier,8,15
+14798,1,2024-10-06,TOC The Pickle Pack,TOC Bangers and Mash,Jarrett Wood,Andrea Galinski,Seth Laney,Rosina Laney,15,5
+14798,2,2024-10-06,TOC The Pickle Pack,TOC Bangers and Mash,Eric Webb,Yolanda McCluney,Keith Medlin,Kristen Wambold,14,16
+14798,3,2024-10-06,TOC The Pickle Pack,TOC Bangers and Mash,Dan Harvey,Kelda Bailey,Chun Lee,Andrew Junkins,15,1
+14798,4,2024-10-06,TOC The Pickle Pack,TOC Bangers and Mash,Jarrett Wood,Andrea Galinski,Keith Medlin,Kristen Wambold,15,8
+14798,5,2024-10-06,TOC The Pickle Pack,TOC Bangers and Mash,Eric Webb,Yolanda McCluney,Chun Lee,Andrew Junkins,15,11
+14798,6,2024-10-06,TOC The Pickle Pack,TOC Bangers and Mash,Dan Harvey,Kelda Bailey,Seth Laney,Rosina Laney,2,15
+14798,7,2024-10-06,TOC The Pickle Pack,TOC Bangers and Mash,Jarrett Wood,Andrea Galinski,Chun Lee,Andrew Junkins,15,10
+14798,8,2024-10-06,TOC The Pickle Pack,TOC Bangers and Mash,Eric Webb,Yolanda McCluney,Seth Laney,Rosina Laney,15,4
+14798,9,2024-10-06,TOC The Pickle Pack,TOC Bangers and Mash,Dan Harvey,Kelda Bailey,Keith Medlin,Kristen Wambold,14,16
+14804,1,2024-10-10,TOC Bangers and Mash,TOC Olympics 2028,Keith Medlin,Kristen Wambold,Chelsea Hoffman,Antonio G Wright,13,15
+14804,2,2024-10-10,TOC Bangers and Mash,TOC Olympics 2028,Chun Lee,Mesh Flinders,Jose A Reyes,Michelle Reyes,15,8
+14804,3,2024-10-10,TOC Bangers and Mash,TOC Olympics 2028,Uyen Benton,Andrew Junkins,Natalia West,David West,15,5
+14804,4,2024-10-10,TOC Bangers and Mash,TOC Olympics 2028,Keith Medlin,Kristen Wambold,Jose A Reyes,Michelle Reyes,15,3
+14804,5,2024-10-10,TOC Bangers and Mash,TOC Olympics 2028,Chun Lee,Mesh Flinders,Natalia West,David West,15,3
+14804,6,2024-10-10,TOC Bangers and Mash,TOC Olympics 2028,Uyen Benton,Andrew Junkins,Chelsea Hoffman,Antonio G Wright,6,15
+14804,7,2024-10-10,TOC Bangers and Mash,TOC Olympics 2028,Keith Medlin,Kristen Wambold,Natalia West,David West,15,10
+14804,8,2024-10-10,TOC Bangers and Mash,TOC Olympics 2028,Chun Lee,Mesh Flinders,Chelsea Hoffman,Antonio G Wright,6,15
+14804,9,2024-10-10,TOC Bangers and Mash,TOC Olympics 2028,Uyen Benton,Andrew Junkins,Jose A Reyes,Michelle Reyes,3,15
+14805,1,2024-10-10,TOC Lobstoppers,TOC The Pickle Pack,Darren Goldberg,Cliff Daub,Eric Webb,Kelda Bailey,15,10
+14805,2,2024-10-10,TOC Lobstoppers,TOC The Pickle Pack,Janny Frazier,Robyn Merck,Dan Harvey,Andrea Galinski,5,15
+14805,3,2024-10-10,TOC Lobstoppers,TOC The Pickle Pack,Rich Franz,Joel Ossher,Jarrett Wood,Jennifer S Gibbs,6,15
+14805,4,2024-10-10,TOC Lobstoppers,TOC The Pickle Pack,Darren Goldberg,Cliff Daub,Dan Harvey,Andrea Galinski,2,4
+14805,5,2024-10-10,TOC Lobstoppers,TOC The Pickle Pack,Janny Frazier,Robyn Merck,Jarrett Wood,Jennifer S Gibbs,8,15
+14805,6,2024-10-10,TOC Lobstoppers,TOC The Pickle Pack,Rich Franz,Joel Ossher,Eric Webb,Kelda Bailey,12,15
+14805,7,2024-10-10,TOC Lobstoppers,TOC The Pickle Pack,Darren Goldberg,Cliff Daub,Jarrett Wood,Jennifer S Gibbs,0,15
+14805,8,2024-10-10,TOC Lobstoppers,TOC The Pickle Pack,Janny Frazier,Robyn Merck,Eric Webb,Kelda Bailey,0,15
+14805,9,2024-10-10,TOC Lobstoppers,TOC The Pickle Pack,Rich Franz,Joel Ossher,Dan Harvey,Andrea Galinski,15,8
+14816,1,2024-10-20,TOC Olympics 2028,TOC The Pickle Pack,Jose A Reyes,Michelle Reyes,Jarrett Wood,Jennifer S Gibbs,13,15
+14816,2,2024-10-20,TOC Olympics 2028,TOC The Pickle Pack,Chelsea Hoffman,Bradford Hoffman,Eric Webb,Yolanda McCluney,11,15
+14816,3,2024-10-20,TOC Olympics 2028,TOC The Pickle Pack,Natalia West,David West,Dan Harvey,Andrea Galinski,5,15
+14816,4,2024-10-20,TOC Olympics 2028,TOC The Pickle Pack,Jose A Reyes,Michelle Reyes,Eric Webb,Yolanda McCluney,15,10
+14816,5,2024-10-20,TOC Olympics 2028,TOC The Pickle Pack,Chelsea Hoffman,Bradford Hoffman,Dan Harvey,Andrea Galinski,10,15
+14816,6,2024-10-20,TOC Olympics 2028,TOC The Pickle Pack,Natalia West,David West,Jarrett Wood,Jennifer S Gibbs,5,15
+14816,7,2024-10-20,TOC Olympics 2028,TOC The Pickle Pack,Jose A Reyes,Michelle Reyes,Dan Harvey,Andrea Galinski,9,15
+14816,8,2024-10-20,TOC Olympics 2028,TOC The Pickle Pack,Chelsea Hoffman,Bradford Hoffman,Jarrett Wood,Jennifer S Gibbs,9,15
+14816,9,2024-10-20,TOC Olympics 2028,TOC The Pickle Pack,Natalia West,David West,Eric Webb,Yolanda McCluney,6,15
+14817,1,2024-10-20,TOC Lobstoppers,TOC Bangers and Mash,Darren Goldberg,Cherie D Berger,Kristen Wambold,Uyen Benton,15,8
+14817,2,2024-10-20,TOC Lobstoppers,TOC Bangers and Mash,Rich Franz,Joel Ossher,Shawn DeStasio,Keith Medlin,7,15
+14817,3,2024-10-20,TOC Lobstoppers,TOC Bangers and Mash,David Cuccaro,Robyn Merck,Mesh Flinders,Rosina Laney,5,15
+14817,4,2024-10-20,TOC Lobstoppers,TOC Bangers and Mash,Darren Goldberg,Cherie D Berger,Shawn DeStasio,Keith Medlin,15,11
+14817,5,2024-10-20,TOC Lobstoppers,TOC Bangers and Mash,Rich Franz,Joel Ossher,Mesh Flinders,Rosina Laney,15,5
+14817,6,2024-10-20,TOC Lobstoppers,TOC Bangers and Mash,David Cuccaro,Robyn Merck,Kristen Wambold,Uyen Benton,14,16
+14817,7,2024-10-20,TOC Lobstoppers,TOC Bangers and Mash,Darren Goldberg,Cherie D Berger,Mesh Flinders,Rosina Laney,15,7
+14817,8,2024-10-20,TOC Lobstoppers,TOC Bangers and Mash,Rich Franz,Joel Ossher,Kristen Wambold,Uyen Benton,15,8
+14817,9,2024-10-20,TOC Lobstoppers,TOC Bangers and Mash,David Cuccaro,Robyn Merck,Shawn DeStasio,Keith Medlin,4,15
+14821,1,2024-10-24,TOC The Pickle Pack,TOC Bangers and Mash,Colin Camp,Andrea Galinski,Seth Laney,Shawn DeStasio,15,7
+14821,2,2024-10-24,TOC The Pickle Pack,TOC Bangers and Mash,Eric Webb,Yolanda McCluney,Uyen Benton,Keith Medlin,12,15
+14821,3,2024-10-24,TOC The Pickle Pack,TOC Bangers and Mash,Dan Harvey,Kelda Bailey,Andrew Junkins,Kristen Wambold,15,8
+14821,4,2024-10-24,TOC The Pickle Pack,TOC Bangers and Mash,Colin Camp,Andrea Galinski,Uyen Benton,Keith Medlin,15,10
+14821,5,2024-10-24,TOC The Pickle Pack,TOC Bangers and Mash,Eric Webb,Yolanda McCluney,Andrew Junkins,Kristen Wambold,15,11
+14821,6,2024-10-24,TOC The Pickle Pack,TOC Bangers and Mash,Dan Harvey,Kelda Bailey,Seth Laney,Shawn DeStasio,3,15
+14821,7,2024-10-24,TOC The Pickle Pack,TOC Bangers and Mash,Colin Camp,Andrea Galinski,Andrew Junkins,Kristen Wambold,4,15
+14821,8,2024-10-24,TOC The Pickle Pack,TOC Bangers and Mash,Eric Webb,Yolanda McCluney,Seth Laney,Shawn DeStasio,15,6
+14821,9,2024-10-24,TOC The Pickle Pack,TOC Bangers and Mash,Dan Harvey,Kelda Bailey,Uyen Benton,Keith Medlin,15,4
+14822,1,2024-10-24,TOC Lobstoppers,TOC Olympics 2028,Rich Franz,Janny Frazier,Chelsea Hoffman,Bradford Hoffman,9,15
+14822,2,2024-10-24,TOC Lobstoppers,TOC Olympics 2028,Darren Goldberg,Cherie D Berger,Pamela DeLoatch,Antonio G Wright,15,11
+14822,3,2024-10-24,TOC Lobstoppers,TOC Olympics 2028,Joel Ossher,Shubha Sachdev,Michelle Morgan,Mark F Bland,15,8
+14822,4,2024-10-24,TOC Lobstoppers,TOC Olympics 2028,Rich Franz,Janny Frazier,Pamela DeLoatch,Antonio G Wright,15,12
+14822,5,2024-10-24,TOC Lobstoppers,TOC Olympics 2028,Darren Goldberg,Cherie D Berger,Michelle Morgan,Mark F Bland,15,5
+14822,6,2024-10-24,TOC Lobstoppers,TOC Olympics 2028,Joel Ossher,Shubha Sachdev,Chelsea Hoffman,Bradford Hoffman,13,15
+14822,7,2024-10-24,TOC Lobstoppers,TOC Olympics 2028,Rich Franz,Janny Frazier,Michelle Morgan,Mark F Bland,17,15
+14822,8,2024-10-24,TOC Lobstoppers,TOC Olympics 2028,Darren Goldberg,Cherie D Berger,Chelsea Hoffman,Bradford Hoffman,15,13
+14822,9,2024-10-24,TOC Lobstoppers,TOC Olympics 2028,Joel Ossher,Shubha Sachdev,Pamela DeLoatch,Antonio G Wright,14,16
+14837,1,2024-11-07,TOC The Pickle Pack,TOC Lobstoppers,Dan Harvey,Eric Webb,David Cuccaro,Robyn Merck,15,4
+14837,2,2024-11-07,TOC The Pickle Pack,TOC Lobstoppers,Colin Camp,Kelda Bailey,Darren Goldberg,Shubha Sachdev,15,10
+14837,3,2024-11-07,TOC The Pickle Pack,TOC Lobstoppers,Jarrett Wood,Jennifer S Gibbs,Joel Ossher,Rich Franz,15,8
+14837,4,2024-11-07,TOC The Pickle Pack,TOC Lobstoppers,Dan Harvey,Eric Webb,Darren Goldberg,Shubha Sachdev,15,9
+14837,5,2024-11-07,TOC The Pickle Pack,TOC Lobstoppers,Colin Camp,Kelda Bailey,Joel Ossher,Rich Franz,15,10
+14837,6,2024-11-07,TOC The Pickle Pack,TOC Lobstoppers,Jarrett Wood,Jennifer S Gibbs,David Cuccaro,Robyn Merck,15,6
+14837,7,2024-11-07,TOC The Pickle Pack,TOC Lobstoppers,Dan Harvey,Eric Webb,Joel Ossher,Rich Franz,15,8
+14837,8,2024-11-07,TOC The Pickle Pack,TOC Lobstoppers,Colin Camp,Kelda Bailey,David Cuccaro,Robyn Merck,15,7
+14837,9,2024-11-07,TOC The Pickle Pack,TOC Lobstoppers,Jarrett Wood,Jennifer S Gibbs,Darren Goldberg,Shubha Sachdev,9,15

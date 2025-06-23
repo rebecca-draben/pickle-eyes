@@ -1,0 +1,100 @@
+match_id,game_id,match_date,team1_name,team2_name,partner1,partner2,opponent1,opponent2,team1_points,team2_points
+13989,1,2024-07-13,FARM Just Dink It (S),7OAKS Dill With It Yall (S),Stacey Daughters,Allison Polish,Dolores Beck Quesenberry,Peggy B Williams,12,10
+13989,2,2024-07-13,FARM Just Dink It (S),7OAKS Dill With It Yall (S),Sophie Brock,Sandi Keith,Jen Plante,Shelly A Schiff,11,5
+13989,3,2024-07-13,FARM Just Dink It (S),7OAKS Dill With It Yall (S),Rajitha Bearden,Trish Kane,Dana Rawls,Carrie Struble,11,4
+13989,4,2024-07-13,FARM Just Dink It (S),7OAKS Dill With It Yall (S),Stacey Daughters,Allison Polish,Jen Plante,Shelly A Schiff,11,9
+13989,5,2024-07-13,FARM Just Dink It (S),7OAKS Dill With It Yall (S),Sophie Brock,Sandi Keith,Dana Rawls,Carrie Struble,11,5
+13989,6,2024-07-13,FARM Just Dink It (S),7OAKS Dill With It Yall (S),Rajitha Bearden,Trish Kane,Dolores Beck Quesenberry,Peggy B Williams,5,11
+13989,7,2024-07-13,FARM Just Dink It (S),7OAKS Dill With It Yall (S),Stacey Daughters,Allison Polish,Dana Rawls,Carrie Struble,7,11
+13989,8,2024-07-13,FARM Just Dink It (S),7OAKS Dill With It Yall (S),Sophie Brock,Sandi Keith,Dolores Beck Quesenberry,Peggy B Williams,8,11
+13989,9,2024-07-13,FARM Just Dink It (S),7OAKS Dill With It Yall (S),Rajitha Bearden,Trish Kane,Jen Plante,Shelly A Schiff,11,7
+13988,1,2024-07-13,GOV Red Hot Chili Picklers (S),WPCC The Kitchenettes (S),Leanne Bernard,Sarah Towne,Janet Wilson Mitch,Melissa S Green,11,0
+13988,2,2024-07-13,GOV Red Hot Chili Picklers (S),WPCC The Kitchenettes (S),Karen Carroll,Suzanne Kalbas,Kate Pirrung,Susan Laurie Shaw,11,8
+13988,3,2024-07-13,GOV Red Hot Chili Picklers (S),WPCC The Kitchenettes (S),Charlotte Leidy,Pam Capone,Meghan O'Ferral,Carrie OFerral,11,1
+13988,4,2024-07-13,GOV Red Hot Chili Picklers (S),WPCC The Kitchenettes (S),Leanne Bernard,Sarah Towne,Kate Pirrung,Susan Laurie Shaw,11,3
+13988,5,2024-07-13,GOV Red Hot Chili Picklers (S),WPCC The Kitchenettes (S),Karen Carroll,Suzanne Kalbas,Meghan O'Ferral,Carrie OFerral,6,11
+13988,6,2024-07-13,GOV Red Hot Chili Picklers (S),WPCC The Kitchenettes (S),Charlotte Leidy,Pam Capone,Janet Wilson Mitch,Melissa S Green,11,3
+13988,7,2024-07-13,GOV Red Hot Chili Picklers (S),WPCC The Kitchenettes (S),Leanne Bernard,Sarah Towne,Meghan O'Ferral,Carrie OFerral,11,0
+13988,8,2024-07-13,GOV Red Hot Chili Picklers (S),WPCC The Kitchenettes (S),Karen Carroll,Suzanne Kalbas,Janet Wilson Mitch,Melissa S Green,11,3
+13988,9,2024-07-13,GOV Red Hot Chili Picklers (S),WPCC The Kitchenettes (S),Charlotte Leidy,Pam Capone,Kate Pirrung,Susan Laurie Shaw,10,12
+13990,1,2024-07-13,BUR Dinking Buddies (S),GOV Red Hot Chili Picklers (S),Jasmine Gee,Jameson Sellers,Sarah Towne,Leanne Bernard,12,10
+13990,2,2024-07-13,BUR Dinking Buddies (S),GOV Red Hot Chili Picklers (S),Michelle Gee,Amanda Boothby,Pam Capone,Charlotte Leidy,13,11
+13990,3,2024-07-13,BUR Dinking Buddies (S),GOV Red Hot Chili Picklers (S),Amy Brewington,Erika Maldonado,Karen Carroll,Kelly Laubach,8,11
+13990,4,2024-07-13,BUR Dinking Buddies (S),GOV Red Hot Chili Picklers (S),Jasmine Gee,Jameson Sellers,Pam Capone,Charlotte Leidy,12,10
+13990,5,2024-07-13,BUR Dinking Buddies (S),GOV Red Hot Chili Picklers (S),Michelle Gee,Amanda Boothby,Karen Carroll,Kelly Laubach,8,11
+13990,6,2024-07-13,BUR Dinking Buddies (S),GOV Red Hot Chili Picklers (S),Amy Brewington,Erika Maldonado,Sarah Towne,Leanne Bernard,13,11
+13990,7,2024-07-13,BUR Dinking Buddies (S),GOV Red Hot Chili Picklers (S),Jasmine Gee,Jameson Sellers,Karen Carroll,Kelly Laubach,11,0
+13990,8,2024-07-13,BUR Dinking Buddies (S),GOV Red Hot Chili Picklers (S),Michelle Gee,Amanda Boothby,Sarah Towne,Leanne Bernard,4,11
+13990,9,2024-07-13,BUR Dinking Buddies (S),GOV Red Hot Chili Picklers (S),Amy Brewington,Erika Maldonado,Pam Capone,Charlotte Leidy,5,11
+13991,1,2024-07-13,7OAKS Dill With It Yall (S),HPCC Whats The Score (S),Priscilla Hicks,Mari Elizabeth Porter,Stephanie Ross,Wendy Austin,7,11
+13991,2,2024-07-13,7OAKS Dill With It Yall (S),HPCC Whats The Score (S),Amy A Lindsey,Pamela Sue Rigsby,Amy Robinson,Juliet A Booe,8,11
+13991,3,2024-07-13,7OAKS Dill With It Yall (S),HPCC Whats The Score (S),Laurie H Kramer,Leigh Magee,Lynda Galbraith,Lee Nunn,9,11
+13991,4,2024-07-13,7OAKS Dill With It Yall (S),HPCC Whats The Score (S),Priscilla Hicks,Mari Elizabeth Porter,Amy Robinson,Juliet A Booe,11,6
+13991,5,2024-07-13,7OAKS Dill With It Yall (S),HPCC Whats The Score (S),Amy A Lindsey,Pamela Sue Rigsby,Lynda Galbraith,Lee Nunn,11,0
+13991,6,2024-07-13,7OAKS Dill With It Yall (S),HPCC Whats The Score (S),Laurie H Kramer,Leigh Magee,Stephanie Ross,Wendy Austin,0,11
+13991,7,2024-07-13,7OAKS Dill With It Yall (S),HPCC Whats The Score (S),Priscilla Hicks,Mari Elizabeth Porter,Lynda Galbraith,Lee Nunn,3,11
+13991,8,2024-07-13,7OAKS Dill With It Yall (S),HPCC Whats The Score (S),Amy A Lindsey,Pamela Sue Rigsby,Stephanie Ross,Wendy Austin,4,11
+13991,9,2024-07-13,7OAKS Dill With It Yall (S),HPCC Whats The Score (S),Laurie H Kramer,Leigh Magee,Amy Robinson,Juliet A Booe,5,11
+13992,1,2024-07-13,WPCC The Kitchenettes (S),BUR Dinking Buddies (S),Sharon Gerald,Melissa S Green,Jameson Sellers,Jasmine Gee,1,11
+13992,2,2024-07-13,WPCC The Kitchenettes (S),BUR Dinking Buddies (S),Carrie OFerral,Meghan O'Ferral,Amanda Boothby,Michelle Gee,5,11
+13992,3,2024-07-13,WPCC The Kitchenettes (S),BUR Dinking Buddies (S),Jessica Brimmer,Melissa Kirk Landry,Erika Maldonado,Amy Brewington,3,11
+13992,4,2024-07-13,WPCC The Kitchenettes (S),BUR Dinking Buddies (S),Sharon Gerald,Melissa S Green,Amanda Boothby,Michelle Gee,1,11
+13992,5,2024-07-13,WPCC The Kitchenettes (S),BUR Dinking Buddies (S),Carrie OFerral,Meghan O'Ferral,Erika Maldonado,Amy Brewington,11,8
+13992,6,2024-07-13,WPCC The Kitchenettes (S),BUR Dinking Buddies (S),Jessica Brimmer,Melissa Kirk Landry,Jameson Sellers,Jasmine Gee,1,11
+13992,7,2024-07-13,WPCC The Kitchenettes (S),BUR Dinking Buddies (S),Sharon Gerald,Melissa S Green,Erika Maldonado,Amy Brewington,1,11
+13992,8,2024-07-13,WPCC The Kitchenettes (S),BUR Dinking Buddies (S),Carrie OFerral,Meghan O'Ferral,Jameson Sellers,Jasmine Gee,11,8
+13992,9,2024-07-13,WPCC The Kitchenettes (S),BUR Dinking Buddies (S),Jessica Brimmer,Melissa Kirk Landry,Amanda Boothby,Michelle Gee,1,11
+13993,1,2024-07-13,HPCC Whats The Score (S),FARM Just Dink It (S),Stephanie Ross,Wendy Austin,Allison Polish,Stacey Daughters,11,4
+13993,2,2024-07-13,HPCC Whats The Score (S),FARM Just Dink It (S),Lee Nunn,Lynda Galbraith,Sandi Keith,Sophie Brock,11,6
+13993,3,2024-07-13,HPCC Whats The Score (S),FARM Just Dink It (S),Amy Robinson,Juliet A Booe,Jill Hunter,Rajitha Bearden,11,9
+13993,4,2024-07-13,HPCC Whats The Score (S),FARM Just Dink It (S),Stephanie Ross,Wendy Austin,Sandi Keith,Sophie Brock,5,11
+13993,5,2024-07-13,HPCC Whats The Score (S),FARM Just Dink It (S),Lee Nunn,Lynda Galbraith,Jill Hunter,Rajitha Bearden,12,10
+13993,6,2024-07-13,HPCC Whats The Score (S),FARM Just Dink It (S),Amy Robinson,Juliet A Booe,Allison Polish,Stacey Daughters,11,2
+13993,7,2024-07-13,HPCC Whats The Score (S),FARM Just Dink It (S),Stephanie Ross,Wendy Austin,Jill Hunter,Rajitha Bearden,11,5
+13993,8,2024-07-13,HPCC Whats The Score (S),FARM Just Dink It (S),Lee Nunn,Lynda Galbraith,Allison Polish,Stacey Daughters,11,3
+13993,9,2024-07-13,HPCC Whats The Score (S),FARM Just Dink It (S),Amy Robinson,Juliet A Booe,Sandi Keith,Sophie Brock,2,11
+13994,1,2024-07-13,FARM Just Dink It (S),WPCC The Kitchenettes (S),Stacey Daughters,Rajitha Bearden,Melissa Kirk Landry,Jessica Brimmer,15,5
+13994,2,2024-07-13,FARM Just Dink It (S),WPCC The Kitchenettes (S),Sandi Keith,Allison Polish,Kate Pirrung,Susan Laurie Shaw,15,10
+13994,3,2024-07-13,FARM Just Dink It (S),WPCC The Kitchenettes (S),Sophie Brock,Trish Kane,Carrie OFerral,Meghan O'Ferral,15,11
+13994,4,2024-07-13,FARM Just Dink It (S),WPCC The Kitchenettes (S),Stacey Daughters,Rajitha Bearden,Kate Pirrung,Susan Laurie Shaw,15,9
+13994,5,2024-07-13,FARM Just Dink It (S),WPCC The Kitchenettes (S),Sandi Keith,Allison Polish,Carrie OFerral,Meghan O'Ferral,15,6
+13994,6,2024-07-13,FARM Just Dink It (S),WPCC The Kitchenettes (S),Sophie Brock,Trish Kane,Melissa Kirk Landry,Jessica Brimmer,15,4
+13994,7,2024-07-13,FARM Just Dink It (S),WPCC The Kitchenettes (S),Stacey Daughters,Rajitha Bearden,Carrie OFerral,Meghan O'Ferral,9,15
+13994,8,2024-07-13,FARM Just Dink It (S),WPCC The Kitchenettes (S),Sandi Keith,Allison Polish,Melissa Kirk Landry,Jessica Brimmer,15,6
+13994,9,2024-07-13,FARM Just Dink It (S),WPCC The Kitchenettes (S),Sophie Brock,Trish Kane,Kate Pirrung,Susan Laurie Shaw,15,11
+13995,1,2024-07-13,GOV Red Hot Chili Picklers (S),7OAKS Dill With It Yall (S),Charlotte Leidy,Pam Capone,Mari Elizabeth Porter,Amy A Lindsey,9,15
+13995,2,2024-07-13,GOV Red Hot Chili Picklers (S),7OAKS Dill With It Yall (S),Karen Carroll,Suzanne Kalbas,Dolores Beck Quesenberry,Leigh Magee,15,17
+13995,3,2024-07-13,GOV Red Hot Chili Picklers (S),7OAKS Dill With It Yall (S),Kelly Laubach,Laura Goldman,Pamela Sue Rigsby,Dana Rawls,3,15
+13995,4,2024-07-13,GOV Red Hot Chili Picklers (S),7OAKS Dill With It Yall (S),Charlotte Leidy,Pam Capone,Dolores Beck Quesenberry,Leigh Magee,15,6
+13995,5,2024-07-13,GOV Red Hot Chili Picklers (S),7OAKS Dill With It Yall (S),Karen Carroll,Suzanne Kalbas,Pamela Sue Rigsby,Dana Rawls,9,15
+13995,6,2024-07-13,GOV Red Hot Chili Picklers (S),7OAKS Dill With It Yall (S),Kelly Laubach,Laura Goldman,Mari Elizabeth Porter,Amy A Lindsey,5,15
+13995,7,2024-07-13,GOV Red Hot Chili Picklers (S),7OAKS Dill With It Yall (S),Charlotte Leidy,Pam Capone,Pamela Sue Rigsby,Dana Rawls,8,15
+13995,8,2024-07-13,GOV Red Hot Chili Picklers (S),7OAKS Dill With It Yall (S),Karen Carroll,Suzanne Kalbas,Mari Elizabeth Porter,Amy A Lindsey,11,15
+13995,9,2024-07-13,GOV Red Hot Chili Picklers (S),7OAKS Dill With It Yall (S),Kelly Laubach,Laura Goldman,Dolores Beck Quesenberry,Leigh Magee,11,15
+13996,1,2024-07-14,BUR Dinking Buddies (S),FARM Just Dink It (S),Jameson Sellers,Jasmine Gee,Sophie Brock,Trish Kane,15,6
+13996,2,2024-07-14,BUR Dinking Buddies (S),FARM Just Dink It (S),Erika Maldonado,Michelle Gee,Stacey Daughters,Rajitha Bearden,15,5
+13996,3,2024-07-14,BUR Dinking Buddies (S),FARM Just Dink It (S),Amy Brewington,Angiemil Perez Pena,Sandi Keith,Allison Polish,15,8
+13996,4,2024-07-14,BUR Dinking Buddies (S),FARM Just Dink It (S),Jameson Sellers,Jasmine Gee,Stacey Daughters,Rajitha Bearden,16,14
+13996,5,2024-07-14,BUR Dinking Buddies (S),FARM Just Dink It (S),Erika Maldonado,Michelle Gee,Sandi Keith,Allison Polish,1,15
+13996,6,2024-07-14,BUR Dinking Buddies (S),FARM Just Dink It (S),Amy Brewington,Angiemil Perez Pena,Sophie Brock,Trish Kane,15,1
+13996,7,2024-07-14,BUR Dinking Buddies (S),FARM Just Dink It (S),Jameson Sellers,Jasmine Gee,Sandi Keith,Allison Polish,6,15
+13996,8,2024-07-14,BUR Dinking Buddies (S),FARM Just Dink It (S),Erika Maldonado,Michelle Gee,Sophie Brock,Trish Kane,3,15
+13996,9,2024-07-14,BUR Dinking Buddies (S),FARM Just Dink It (S),Amy Brewington,Angiemil Perez Pena,Stacey Daughters,Rajitha Bearden,15,13
+13997,1,2024-07-14,HPCC Whats The Score (S),7OAKS Dill With It Yall (S),Wendy Austin,Stephanie Ross,Pamela Sue Rigsby,Dana Rawls,15,4
+13997,2,2024-07-14,HPCC Whats The Score (S),7OAKS Dill With It Yall (S),Amy Robinson,Juliet A Booe,Dolores Beck Quesenberry,Shelly A Schiff,15,9
+13997,3,2024-07-14,HPCC Whats The Score (S),7OAKS Dill With It Yall (S),Lee Nunn,Lynda Galbraith,Mari Elizabeth Porter,Amy A Lindsey,14,16
+13997,4,2024-07-14,HPCC Whats The Score (S),7OAKS Dill With It Yall (S),Wendy Austin,Stephanie Ross,Dolores Beck Quesenberry,Shelly A Schiff,15,10
+13997,5,2024-07-14,HPCC Whats The Score (S),7OAKS Dill With It Yall (S),Amy Robinson,Juliet A Booe,Mari Elizabeth Porter,Amy A Lindsey,15,12
+13997,6,2024-07-14,HPCC Whats The Score (S),7OAKS Dill With It Yall (S),Lee Nunn,Lynda Galbraith,Pamela Sue Rigsby,Dana Rawls,5,15
+13997,7,2024-07-14,HPCC Whats The Score (S),7OAKS Dill With It Yall (S),Wendy Austin,Stephanie Ross,Mari Elizabeth Porter,Amy A Lindsey,15,4
+13997,8,2024-07-14,HPCC Whats The Score (S),7OAKS Dill With It Yall (S),Amy Robinson,Juliet A Booe,Pamela Sue Rigsby,Dana Rawls,15,11
+13997,9,2024-07-14,HPCC Whats The Score (S),7OAKS Dill With It Yall (S),Lee Nunn,Lynda Galbraith,Dolores Beck Quesenberry,Shelly A Schiff,4,15
+13998,1,2024-07-14,BUR Dinking Buddies (S),HPCC Whats The Score (S),Jameson Sellers,Jasmine Gee,Wendy Austin,Stephanie Ross,15,9
+13998,2,2024-07-14,BUR Dinking Buddies (S),HPCC Whats The Score (S),Amanda Boothby,Michelle Gee,Juliet A Booe,Amy Robinson,15,11
+13998,3,2024-07-14,BUR Dinking Buddies (S),HPCC Whats The Score (S),Amy Brewington,Angiemil Perez Pena,Lee Nunn,Lynda Galbraith,15,8
+13998,4,2024-07-14,BUR Dinking Buddies (S),HPCC Whats The Score (S),Jameson Sellers,Jasmine Gee,Juliet A Booe,Amy Robinson,15,9
+13998,5,2024-07-14,BUR Dinking Buddies (S),HPCC Whats The Score (S),Amanda Boothby,Michelle Gee,Lee Nunn,Lynda Galbraith,15,10
+13998,6,2024-07-14,BUR Dinking Buddies (S),HPCC Whats The Score (S),Amy Brewington,Angiemil Perez Pena,Wendy Austin,Stephanie Ross,15,3
+13998,7,2024-07-14,BUR Dinking Buddies (S),HPCC Whats The Score (S),Jameson Sellers,Jasmine Gee,Lee Nunn,Lynda Galbraith,18,16
+13998,8,2024-07-14,BUR Dinking Buddies (S),HPCC Whats The Score (S),Amanda Boothby,Michelle Gee,Wendy Austin,Stephanie Ross,9,15
+13998,9,2024-07-14,BUR Dinking Buddies (S),HPCC Whats The Score (S),Amy Brewington,Angiemil Perez Pena,Juliet A Booe,Amy Robinson,11,15
