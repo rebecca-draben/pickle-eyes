@@ -18,7 +18,7 @@ def parse_csv_for_ttt(csv_path):
     results = []
     match_dates = []
     players = set()
-    player_teams = {}
+    player_teams = defaultdict(set)
 
     with open(csv_path, newline='') as csvfile:
         reader = csv.DictReader(csvfile)
@@ -32,13 +32,11 @@ def parse_csv_for_ttt(csv_path):
             team1_name = row['team1_name'].strip()
             team2_name = row['team2_name'].strip()
 
-            # Assign team names once per player
+            # Assign team names for each player
             for p in [p1, p2]:
-                if p not in player_teams:
-                    player_teams[p] = team1_name
+                player_teams[p].add(team1_name)
             for o in [o1, o2]:
-                if o not in player_teams:
-                    player_teams[o] = team2_name
+                player_teams[o].add(team2_name)
 
             try:
                 team1_points = int(row['team1_points'])
@@ -106,8 +104,9 @@ def main(csv_file):
     print("Rank,Player,Team,Skill,Mu,Sigma")
     for i, (p, r) in enumerate(ranked, 1):
         skill = r.mu - 3 * r.sigma
-        team = player_teams.get(p, "Unknown")
-        print(f"{i},{p},{team},{skill:.2f},{r.mu:.2f},{r.sigma:.2f}")
+        teams = sorted(player_teams.get(p, []))
+        team_str = "|".join(teams) if teams else "Unknown"
+        print(f"{i},{p},{team_str},{skill:.2f},{r.mu:.2f},{r.sigma:.2f}")
 
 if __name__ == "__main__":
     import sys
