@@ -8,187 +8,142 @@ Run with: ./synergize.py match_data_x.csv
 """
 
 import csv
-import trueskill
 from collections import defaultdict
 import statistics
 import argparse
+from trueskillthroughtime import History, Player, Gaussian
 
+# Histories for each player
+player_objs = {}  # name -> Player()
 
-# Initialize TrueSkill environment with no draws (draw_probability=0.0)
-ts = trueskill.TrueSkill(draw_probability=0.0, sigma=15.0, tau=0.0) 
-
-# Dictionary to store player ratings, default rating assigned automatically
-player_ratings = defaultdict(ts.Rating)
-
-# Dictionary to store partnership stats:
-# Each key is a tuple of two players, values track wins, losses, and detailed match info
+# Partnership stats: store wins/losses and match history
 partnership_stats = defaultdict(lambda: {'wins': 0, 'losses': 0, 'matches': []})
-
-# store which team the player plays on, assumes one team in the input data
 player_to_team = {}
 
+# To build History, store compositions: [ [winner_team, loser_team], ... ]
+compositions = []
 
-def update_ratings(p1, p2, o1, o2, score1, score2):
+def record_partnership(p_team, o_team, team_won, score_diff):
     """
-    Update player ratings and partnership stats based on a single match result.
-
-    p1, p2: players on team 1
-    o1, o2: players on team 2
-    score1, score2: points scored by each team
+    Track partnership performance (win/loss, score diff, opponents).
     """
-    # Sort players alphabetically to normalize team keys (ensures consistent ordering)
-    team_a = tuple(sorted([p1, p2]))
-    team_b = tuple(sorted([o1, o2]))
-
-    # Fetch current TrueSkill ratings for each player on both teams
-    ratings_a = [player_ratings[p] for p in team_a]
-    ratings_b = [player_ratings[p] for p in team_b]
-
-    # Determine winner and update ratings accordingly using TrueSkill's rate function
-    if score1 > score2:
-        new_ratings_a, new_ratings_b = ts.rate([ratings_a, ratings_b])
-        winner, loser = team_a, team_b
-        winner_score, loser_score = score1, score2
+    key = tuple(sorted(p_team))
+    partnership_stats[key]['matches'].append({
+        'won': team_won,
+        'score_diff': score_diff,
+        'opponents': tuple(sorted(o_team))
+    })
+    if team_won:
+        partnership_stats[key]['wins'] += 1
     else:
-        new_ratings_b, new_ratings_a = ts.rate([ratings_b, ratings_a])
-        winner, loser = team_b, team_a
-        winner_score, loser_score = score2, score1
+        partnership_stats[key]['losses'] += 1
 
-    # Save updated ratings back to player_ratings dictionary
-    for i, p in enumerate(team_a):
-        player_ratings[p] = new_ratings_a[i]
-    for i, p in enumerate(team_b):
-        player_ratings[p] = new_ratings_b[i]
-
-    # Record match information for both partnerships (both teams)
-    for team, opponent, team_score, opponent_score in [
-        (team_a, team_b, score1, score2),
-        (team_b, team_a, score2, score1)
-    ]:
-        # Determine if this team won
-        won = team_score > opponent_score
-        
-        # Calculate total exposed rating (skill) for team and opponent
-        team_strength = sum(ts.expose(player_ratings[p]) for p in team)
-        opponent_strength = sum(ts.expose(player_ratings[p]) for p in opponent)
-
-        # Append detailed match record to partnership stats
-        partnership_stats[team]['matches'].append({
-            'won': won,
-            'team_strength': team_strength,
-            'opponent_strength': opponent_strength,
-            'score_diff': team_score - opponent_score,
-            'opponents': opponent
-        })
-
-        # Increment win/loss counters accordingly
-        if won:
-            partnership_stats[team]['wins'] += 1
-        else:
-            partnership_stats[team]['losses'] += 1
-
-def calculate_synergy(partnership, stats):
+def build_players(*names):
     """
-    Calculate synergy score and related metrics for a given partnership.
-
-    partnership: tuple of two player names
-    stats: dictionary containing partnership match history and results
+    Ensure each player name has a Player() object.
     """
-    # Require at least 2 matches to calculate meaningful synergy
-    if len(stats['matches']) < 2:
-        return None
+    for name in names:
+        if name not in player_objs:
+            player_objs[name] = Player()
 
-    # Sum of individual player skills (exposed ratings)
-    p1, p2 = partnership
-    individual_strength = sum(ts.expose(player_ratings[p]) for p in partnership)
-
-    total_performance = 0
-    for match in stats['matches']:
-        # Calculate expected win probability based on skill difference
-        expected = 1 / (1 + 10 ** ((match['opponent_strength'] - match['team_strength']) / 10))
-        actual = 1 if match['won'] else 0
-        # Performance = actual result minus expected probability
-        total_performance += (actual - expected)
-
-    # Average performance over all matches
-    avg_performance = total_performance / len(stats['matches'])
-
-    # Calculate win rate safely
-    win_rate = stats['wins'] / (stats['wins'] + stats['losses'])
-
-    # Average score differential (margin of victory or loss)
-    avg_score_diff = statistics.mean(m['score_diff'] for m in stats['matches'])
-
-    # Return synergy metrics
-    return {
-        'synergy_score': avg_performance * 100,  # Scaled to percentage
-        'win_rate': win_rate,
-        'matches_played': len(stats['matches']),
-        'avg_score_diff': avg_score_diff,
-        'individual_strength': individual_strength
-    }
-
-def main():
-    """
-    Main execution function:
-    Reads match data, updates ratings, calculates partnership synergy, and prints leaderboard.
-    """
-    import argparse
-
-    parser = argparse.ArgumentParser(description="Compute partnership synergy from match data.")
-    parser.add_argument("input_file", help="CSV file with match data")
-    args = parser.parse_args()
-    input_file = args.input_file
-
-    # Open the CSV file and read rows
+def parse_csv(input_file):
     with open(input_file, newline='', encoding='utf-8') as f:
         reader = csv.DictReader(f)
-        for row in reader:
-            players = [row[key].strip() for key in ['partner1', 'partner2', 'opponent1', 'opponent2']]
-            team1_name = row['team1_name'].strip()
-            team2_name = row['team2_name'].strip()
 
-            if 'DEFAULT' in players:
+        for idx, row in enumerate(reader):
+            p1 = row['partner1'].strip()
+            p2 = row['partner2'].strip()
+            o1 = row['opponent1'].strip()
+            o2 = row['opponent2'].strip()
+            if 'DEFAULT' in (p1, p2, o1, o2):
                 continue
 
             score1 = int(row['team1_points'])
             score2 = int(row['team2_points'])
+            win_team = [p1, p2] if score1 > score2 else [o1, o2]
+            lose_team = [o1, o2] if score1 > score2 else [p1, p2]
+            team_won = score1 > score2
+            score_diff = abs(score1 - score2)
 
-            # Assign team names to players (assumes each player has one team)
-            player_to_team[players[0]] = team1_name
-            player_to_team[players[1]] = team1_name
-            player_to_team[players[2]] = team2_name
-            player_to_team[players[3]] = team2_name
+            build_players(p1, p2, o1, o2)
 
-            update_ratings(*players, score1, score2)
+            # Track team-to-player association (assumes consistent naming)
+            player_to_team[p1] = row['team1_name'].strip()
+            player_to_team[p2] = row['team1_name'].strip()
+            player_to_team[o1] = row['team2_name'].strip()
+            player_to_team[o2] = row['team2_name'].strip()
 
-    # Calculate synergy for every partnership
-    synergies = []
-    for partnership, stats in partnership_stats.items():
-        synergy = calculate_synergy(partnership, stats)
-        if synergy:
-            p1, p2 = partnership
-            # Grab team name from the first player
-            team_name = player_to_team.get(p1, "")
-            synergies.append({
-                'partnership': f"{p1} + {p2}",
-                'player1': p1,
-                'player2': p2,
-                'team_name': team_name,
-                **synergy
-            })
+            # Record for the TTT History
+            compositions.append([win_team, lose_team])
 
-    # Sort partnerships by synergy score, descending
-    synergies.sort(key=lambda x: x['synergy_score'], reverse=True)
+            # Record partnership stats for both teams
+            record_partnership(win_team, lose_team, True, score_diff)
+            record_partnership(lose_team, win_team, False, -score_diff)
 
-    # Print synergy leaderboard in CSV format
+def compute_synergy(curves):
+    """
+    For each partnership, compute synergy metrics using latest player mus.
+    """
+    results = []
+    # Latest skill (mu) for each player
+    latest_mu = {name: curves[name][-1][1].mu for name in curves}
+
+    for (p1, p2), stats in partnership_stats.items():
+        if len(stats['matches']) < 2:
+            continue
+
+        indiv_strength = latest_mu[p1] + latest_mu[p2]
+
+        total_perf = 0
+        for m in stats['matches']:
+            team_strength = latest_mu[p1] + latest_mu[p2]
+            opp1, opp2 = m['opponents']
+            opp_strength = latest_mu[opp1] + latest_mu[opp2]
+            expected = 1 / (1 + 10 ** ((opp_strength - team_strength) / 10))
+            actual = 1 if m['won'] else 0
+            total_perf += (actual - expected)
+
+        avg_perf = total_perf / len(stats['matches'])
+        win_rate = stats['wins'] / (stats['wins'] + stats['losses'])
+        avg_diff = statistics.mean(m['score_diff'] for m in stats['matches'])
+        team_name = player_to_team.get(p1, "")
+
+        results.append({
+            'partnership': f"{p1} + {p2}",
+            'player1': p1,
+            'player2': p2,
+            'team_name': team_name,
+            'synergy_score': avg_perf * 100,
+            'win_rate': win_rate,
+            'matches_played': len(stats['matches']),
+            'avg_score_diff': avg_diff,
+            'individual_strength': indiv_strength
+        })
+
+    results.sort(key=lambda x: x['synergy_score'], reverse=True)
+    return results
+
+def main():
+    parser = argparse.ArgumentParser()
+    parser.add_argument('input_file', help='CSV file with match data')
+    args = parser.parse_args()
+
+    parse_csv(args.input_file)
+
+    # Run TrueSkill Through Time
+    # gamma=0 models static skill; set >0 to let skills drift over time
+    history = History(compositions, gamma=0.01)
+    history.convergence()
+    curves = history.learning_curves()
+
+    synergies = compute_synergy(curves)
+
+    # Output CSV
     print("Rank,Partnership,Player1,Player2,Team,Synergy_Score,Win_Rate,Games,Individual_Strength")
-    for rank, data in enumerate(synergies, start=1):
-        # Only print partnerships with at least one match
-        if data['matches_played'] >= 2:
-            print(f"{rank},\"{data['partnership']}\",{data['player1']},{data['player2']},{data['team_name']},"
-                  f"{data['synergy_score']:.2f},{data['win_rate']:.2f},"
-                  f"{data['matches_played']},{data['individual_strength']:.2f}")
+    for rank, d in enumerate(synergies, 1):
+        print(f"{rank},\"{d['partnership']}\",{d['player1']},{d['player2']},{d['team_name']},"
+              f"{d['synergy_score']:.2f},{d['win_rate']:.2f},"
+              f"{d['matches_played']},{d['individual_strength']:.2f}")
 
 if __name__ == '__main__':
     main()
