@@ -1,0 +1,64 @@
+match_id,game_id,match_date,team1_name,team2_name,partner1,partner2,opponent1,opponent2,team1_points,team2_points
+16434,1,2025-07-12,MSR Renegades (F),BUR 2 Dink Minimum (F),Harold Wood,Corbin Dirks,John R Hammer,David Leblanc,2,11
+16434,2,2025-07-12,MSR Renegades (F),BUR 2 Dink Minimum (F),Sandra Boyette,Clayton Peele,Richard King,Cathie Sexton,9,11
+16434,3,2025-07-12,MSR Renegades (F),BUR 2 Dink Minimum (F),Kim Kinder,Michael Ray Jenkins,Laura Lee Gant,Anneli Bennett,11,8
+16434,4,2025-07-12,MSR Renegades (F),BUR 2 Dink Minimum (F),Harold Wood,Corbin Dirks,Richard King,Cathie Sexton,11,4
+16434,5,2025-07-12,MSR Renegades (F),BUR 2 Dink Minimum (F),Sandra Boyette,Clayton Peele,Laura Lee Gant,Anneli Bennett,7,11
+16434,6,2025-07-12,MSR Renegades (F),BUR 2 Dink Minimum (F),Kim Kinder,Michael Ray Jenkins,John R Hammer,David Leblanc,2,11
+16434,7,2025-07-12,MSR Renegades (F),BUR 2 Dink Minimum (F),Harold Wood,Corbin Dirks,Laura Lee Gant,Anneli Bennett,11,5
+16434,8,2025-07-12,MSR Renegades (F),BUR 2 Dink Minimum (F),Sandra Boyette,Clayton Peele,John R Hammer,David Leblanc,1,11
+16434,9,2025-07-12,MSR Renegades (F),BUR 2 Dink Minimum (F),Kim Kinder,Michael Ray Jenkins,Richard King,Cathie Sexton,6,11
+16435,1,2025-07-12,TOC Pickle Pack (S),BUR Hot Shots (S),Dan Harvey,Kelda Bailey,Leigh Golden,Charles David Burney,10,12
+16435,2,2025-07-12,TOC Pickle Pack (S),BUR Hot Shots (S),Jose A Reyes,Michelle Reyes,Lorie Poole,Dean Thompson,11,5
+16435,3,2025-07-12,TOC Pickle Pack (S),BUR Hot Shots (S),Eric Webb,Yolanda McCluney,Skyler Bass,Glenn D Rayle,11,9
+16435,4,2025-07-12,TOC Pickle Pack (S),BUR Hot Shots (S),Dan Harvey,Kelda Bailey,Lorie Poole,Dean Thompson,11,5
+16435,5,2025-07-12,TOC Pickle Pack (S),BUR Hot Shots (S),Jose A Reyes,Michelle Reyes,Skyler Bass,Glenn D Rayle,11,7
+16435,6,2025-07-12,TOC Pickle Pack (S),BUR Hot Shots (S),Eric Webb,Yolanda McCluney,Leigh Golden,Charles David Burney,9,11
+16435,7,2025-07-12,TOC Pickle Pack (S),BUR Hot Shots (S),Dan Harvey,Kelda Bailey,Skyler Bass,Glenn D Rayle,11,7
+16435,8,2025-07-12,TOC Pickle Pack (S),BUR Hot Shots (S),Jose A Reyes,Michelle Reyes,Leigh Golden,Charles David Burney,3,11
+16435,9,2025-07-12,TOC Pickle Pack (S),BUR Hot Shots (S),Eric Webb,Yolanda McCluney,Lorie Poole,Dean Thompson,11,3
+16436,1,2025-07-12,BUR 2 Dink Minimum (F),TOC Pickle Pack (S),John R Hammer,David Leblanc,Jose A Reyes,Michelle Reyes,11,5
+16436,2,2025-07-12,BUR 2 Dink Minimum (F),TOC Pickle Pack (S),Bill Marshall,Nancy Solomon,Eric Webb,Yolanda McCluney,11,3
+16436,3,2025-07-12,BUR 2 Dink Minimum (F),TOC Pickle Pack (S),Laura Lee Gant,Anneli Bennett,Dan Harvey,Kelda Bailey,11,5
+16436,4,2025-07-12,BUR 2 Dink Minimum (F),TOC Pickle Pack (S),John R Hammer,David Leblanc,Eric Webb,Yolanda McCluney,11,5
+16436,5,2025-07-12,BUR 2 Dink Minimum (F),TOC Pickle Pack (S),Bill Marshall,Nancy Solomon,Dan Harvey,Kelda Bailey,11,9
+16436,6,2025-07-12,BUR 2 Dink Minimum (F),TOC Pickle Pack (S),Laura Lee Gant,Anneli Bennett,Jose A Reyes,Michelle Reyes,2,11
+16436,7,2025-07-12,BUR 2 Dink Minimum (F),TOC Pickle Pack (S),John R Hammer,David Leblanc,Dan Harvey,Kelda Bailey,11,8
+16436,8,2025-07-12,BUR 2 Dink Minimum (F),TOC Pickle Pack (S),Bill Marshall,Nancy Solomon,Jose A Reyes,Michelle Reyes,9,5
+16436,9,2025-07-12,BUR 2 Dink Minimum (F),TOC Pickle Pack (S),Laura Lee Gant,Anneli Bennett,Eric Webb,Yolanda McCluney,11,1
+16437,1,2025-07-12,BUR Hot Shots (S),MSR Renegades (F),Leigh Golden,Charles David Burney,Corbin Dirks,Gary Hatley,11,1
+16437,2,2025-07-12,BUR Hot Shots (S),MSR Renegades (F),Lorie Poole,Dean Thompson,Harold Wood,Sandra Boyette,11,9
+16437,3,2025-07-12,BUR Hot Shots (S),MSR Renegades (F),Skyler Bass,Glenn D Rayle,Michael Ray Jenkins,Kim Kinder,7,11
+16437,4,2025-07-12,BUR Hot Shots (S),MSR Renegades (F),Leigh Golden,Charles David Burney,Harold Wood,Sandra Boyette,11,8
+16437,5,2025-07-12,BUR Hot Shots (S),MSR Renegades (F),Lorie Poole,Dean Thompson,Michael Ray Jenkins,Kim Kinder,1,11
+16437,6,2025-07-12,BUR Hot Shots (S),MSR Renegades (F),Skyler Bass,Glenn D Rayle,Corbin Dirks,Gary Hatley,11,4
+16437,7,2025-07-12,BUR Hot Shots (S),MSR Renegades (F),Leigh Golden,Charles David Burney,Michael Ray Jenkins,Kim Kinder,11,7
+16437,8,2025-07-12,BUR Hot Shots (S),MSR Renegades (F),Lorie Poole,Dean Thompson,Corbin Dirks,Gary Hatley,3,11
+16437,9,2025-07-12,BUR Hot Shots (S),MSR Renegades (F),Skyler Bass,Glenn D Rayle,Harold Wood,Sandra Boyette,7,11
+16438,1,2025-07-13,MSR Renegades (F),TOC Pickle Pack (S),Harold Wood,Richard Orsini,Dan Harvey,Kelda Bailey,9,11
+16438,2,2025-07-13,MSR Renegades (F),TOC Pickle Pack (S),Michael Ray Jenkins,Kim Kinder,Eric Webb,Yolanda McCluney,2,11
+16438,3,2025-07-13,MSR Renegades (F),TOC Pickle Pack (S),Corbin Dirks,Gaye Orsini,Jose A Reyes,Wayne Hui,10,12
+16438,4,2025-07-13,MSR Renegades (F),TOC Pickle Pack (S),Harold Wood,Richard Orsini,Eric Webb,Yolanda McCluney,1,11
+16438,5,2025-07-13,MSR Renegades (F),TOC Pickle Pack (S),Michael Ray Jenkins,Kim Kinder,Jose A Reyes,Wayne Hui,2,11
+16438,6,2025-07-13,MSR Renegades (F),TOC Pickle Pack (S),Corbin Dirks,Gaye Orsini,Dan Harvey,Kelda Bailey,14,12
+16438,7,2025-07-13,MSR Renegades (F),TOC Pickle Pack (S),Harold Wood,Richard Orsini,Jose A Reyes,Wayne Hui,6,11
+16438,8,2025-07-13,MSR Renegades (F),TOC Pickle Pack (S),Michael Ray Jenkins,Kim Kinder,Dan Harvey,Kelda Bailey,2,11
+16438,9,2025-07-13,MSR Renegades (F),TOC Pickle Pack (S),Corbin Dirks,Gaye Orsini,Eric Webb,Yolanda McCluney,11,7
+16439,1,2025-07-13,BUR Hot Shots (S),BUR 2 Dink Minimum (F),Leigh Golden,Charles David Burney,John R Hammer,David Leblanc,7,11
+16439,2,2025-07-13,BUR Hot Shots (S),BUR 2 Dink Minimum (F),Lorie Poole,Dean Thompson,Bill Marshall,Cathie Sexton,14,12
+16439,3,2025-07-13,BUR Hot Shots (S),BUR 2 Dink Minimum (F),Skyler Bass,Glenn D Rayle,Laura Lee Gant,Anneli Bennett,11,9
+16439,4,2025-07-13,BUR Hot Shots (S),BUR 2 Dink Minimum (F),Leigh Golden,Charles David Burney,Bill Marshall,Cathie Sexton,10,12
+16439,5,2025-07-13,BUR Hot Shots (S),BUR 2 Dink Minimum (F),Lorie Poole,Dean Thompson,Laura Lee Gant,Anneli Bennett,2,11
+16439,6,2025-07-13,BUR Hot Shots (S),BUR 2 Dink Minimum (F),Skyler Bass,Glenn D Rayle,John R Hammer,David Leblanc,4,11
+16439,7,2025-07-13,BUR Hot Shots (S),BUR 2 Dink Minimum (F),Leigh Golden,Charles David Burney,Laura Lee Gant,Anneli Bennett,8,11
+16439,8,2025-07-13,BUR Hot Shots (S),BUR 2 Dink Minimum (F),Lorie Poole,Dean Thompson,John R Hammer,David Leblanc,0,11
+16439,9,2025-07-13,BUR Hot Shots (S),BUR 2 Dink Minimum (F),Skyler Bass,Glenn D Rayle,Bill Marshall,Cathie Sexton,5,11
+16440,1,2025-07-13,BUR 2 Dink Minimum (F),TOC Pickle Pack (S),Richard King,Cathie Sexton,Dan Harvey,Kelda Bailey,6,15
+16440,2,2025-07-13,BUR 2 Dink Minimum (F),TOC Pickle Pack (S),Bill Marshall,Nancy Solomon,Eric Webb,Yolanda McCluney,13,15
+16440,3,2025-07-13,BUR 2 Dink Minimum (F),TOC Pickle Pack (S),David Leblanc,John R Hammer,Jose A Reyes,Wayne Hui,15,4
+16440,4,2025-07-13,BUR 2 Dink Minimum (F),TOC Pickle Pack (S),Richard King,Cathie Sexton,Eric Webb,Yolanda McCluney,8,15
+16440,5,2025-07-13,BUR 2 Dink Minimum (F),TOC Pickle Pack (S),Bill Marshall,Nancy Solomon,Jose A Reyes,Wayne Hui,5,15
+16440,6,2025-07-13,BUR 2 Dink Minimum (F),TOC Pickle Pack (S),David Leblanc,John R Hammer,Dan Harvey,Kelda Bailey,15,1
+16440,7,2025-07-13,BUR 2 Dink Minimum (F),TOC Pickle Pack (S),Richard King,Cathie Sexton,Jose A Reyes,Wayne Hui,9,15
+16440,8,2025-07-13,BUR 2 Dink Minimum (F),TOC Pickle Pack (S),Bill Marshall,Nancy Solomon,Dan Harvey,Kelda Bailey,15,11
+16440,9,2025-07-13,BUR 2 Dink Minimum (F),TOC Pickle Pack (S),David Leblanc,John R Hammer,Eric Webb,Yolanda McCluney,15,3

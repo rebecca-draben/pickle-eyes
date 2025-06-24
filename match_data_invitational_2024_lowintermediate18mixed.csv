@@ -1,0 +1,91 @@
+match_id,game_id,match_date,team1_name,team2_name,partner1,partner2,opponent1,opponent2,team1_points,team2_points
+14918,1,2024-09-14,HASEN The Hasentree,PINEY Pickletivity,Anthony Milligan,Sharon Regnier,Diane Michaud,Bill Michaud,7,11
+14918,2,2024-09-14,HASEN The Hasentree,PINEY Pickletivity,Mike Domonkos,Michelle Rubin,Karen Salter,Billy Ezzell,6,11
+14918,3,2024-09-14,HASEN The Hasentree,PINEY Pickletivity,John C.P. Allessio,Emily Rubin,Cheryl Briley,Doug Pierce,7,11
+14918,4,2024-09-14,HASEN The Hasentree,PINEY Pickletivity,Anthony Milligan,Sharon Regnier,Karen Salter,Billy Ezzell,11,5
+14918,5,2024-09-14,HASEN The Hasentree,PINEY Pickletivity,Mike Domonkos,Michelle Rubin,Cheryl Briley,Doug Pierce,4,11
+14918,6,2024-09-14,HASEN The Hasentree,PINEY Pickletivity,John C.P. Allessio,Emily Rubin,Diane Michaud,Bill Michaud,4,11
+14918,7,2024-09-14,HASEN The Hasentree,PINEY Pickletivity,Anthony Milligan,Sharon Regnier,Cheryl Briley,Doug Pierce,4,11
+14918,8,2024-09-14,HASEN The Hasentree,PINEY Pickletivity,Mike Domonkos,Michelle Rubin,Diane Michaud,Bill Michaud,8,11
+14918,9,2024-09-14,HASEN The Hasentree,PINEY Pickletivity,John C.P. Allessio,Emily Rubin,Karen Salter,Billy Ezzell,3,11
+14919,1,2024-09-14,FARM Dill Pickled,INV Paddles Up,George Chase,Jill Hunter,Joseph John Paulus,Rebecca Dekker,5,11
+14919,2,2024-09-14,FARM Dill Pickled,INV Paddles Up,Thomas Sumerel,Cynthia Corley,Charles Canham,Erica Cheramie,2,11
+14919,3,2024-09-14,FARM Dill Pickled,INV Paddles Up,Justin Alan Yung,Shay Charles,DEFAULT,DEFAULT,11,0
+14919,4,2024-09-14,FARM Dill Pickled,INV Paddles Up,George Chase,Jill Hunter,Charles Canham,Erica Cheramie,11,9
+14919,5,2024-09-14,FARM Dill Pickled,INV Paddles Up,Thomas Sumerel,Cynthia Corley,DEFAULT,DEFAULT,11,0
+14919,6,2024-09-14,FARM Dill Pickled,INV Paddles Up,Justin Alan Yung,Shay Charles,Joseph John Paulus,Rebecca Dekker,2,11
+14919,7,2024-09-14,FARM Dill Pickled,INV Paddles Up,George Chase,Jill Hunter,DEFAULT,DEFAULT,11,0
+14919,8,2024-09-14,FARM Dill Pickled,INV Paddles Up,Thomas Sumerel,Cynthia Corley,Joseph John Paulus,Rebecca Dekker,11,9
+14919,9,2024-09-14,FARM Dill Pickled,INV Paddles Up,Justin Alan Yung,Shay Charles,Charles Canham,Erica Cheramie,4,11
+14920,1,2024-09-14,FARM Dill Pickled,HASEN The Hasentree,Jill Hunter,George Chase,Anthony Milligan,Sharon Regnier,11,2
+14920,2,2024-09-14,FARM Dill Pickled,HASEN The Hasentree,Thomas Sumerel,Cynthia Corley,Mike Domonkos,Michelle Rubin,11,2
+14920,3,2024-09-14,FARM Dill Pickled,HASEN The Hasentree,Shay Charles,Justin Alan Yung,John C.P. Allessio,Emily Rubin,11,4
+14920,4,2024-09-14,FARM Dill Pickled,HASEN The Hasentree,Jill Hunter,George Chase,Mike Domonkos,Michelle Rubin,11,8
+14920,5,2024-09-14,FARM Dill Pickled,HASEN The Hasentree,Thomas Sumerel,Cynthia Corley,John C.P. Allessio,Emily Rubin,11,4
+14920,6,2024-09-14,FARM Dill Pickled,HASEN The Hasentree,Shay Charles,Justin Alan Yung,Anthony Milligan,Sharon Regnier,9,11
+14920,7,2024-09-14,FARM Dill Pickled,HASEN The Hasentree,Jill Hunter,George Chase,John C.P. Allessio,Emily Rubin,11,3
+14920,8,2024-09-14,FARM Dill Pickled,HASEN The Hasentree,Thomas Sumerel,Cynthia Corley,Anthony Milligan,Sharon Regnier,11,5
+14920,9,2024-09-14,FARM Dill Pickled,HASEN The Hasentree,Shay Charles,Justin Alan Yung,Mike Domonkos,Michelle Rubin,11,3
+14921,1,2024-09-14,BUR Snapshots,PINEY Pickletivity,Jane Walker,Edward Garrett Walker,Diane Michaud,Saurav SanthoshNair,4,11
+14921,2,2024-09-14,BUR Snapshots,PINEY Pickletivity,Kathleen Maddalone,John F Weaver,Cheryl Briley,Gene Brady,11,6
+14921,3,2024-09-14,BUR Snapshots,PINEY Pickletivity,Madlyn Prosapio,Stephen DeHaven,Karen Salter,Billy Ezzell,8,11
+14921,4,2024-09-14,BUR Snapshots,PINEY Pickletivity,Jane Walker,Edward Garrett Walker,Cheryl Briley,Gene Brady,4,11
+14921,5,2024-09-14,BUR Snapshots,PINEY Pickletivity,Kathleen Maddalone,John F Weaver,Karen Salter,Billy Ezzell,8,11
+14921,6,2024-09-14,BUR Snapshots,PINEY Pickletivity,Madlyn Prosapio,Stephen DeHaven,Diane Michaud,Saurav SanthoshNair,3,11
+14921,7,2024-09-14,BUR Snapshots,PINEY Pickletivity,Jane Walker,Edward Garrett Walker,Karen Salter,Billy Ezzell,1,11
+14921,8,2024-09-14,BUR Snapshots,PINEY Pickletivity,Kathleen Maddalone,John F Weaver,Diane Michaud,Saurav SanthoshNair,0,11
+14921,9,2024-09-14,BUR Snapshots,PINEY Pickletivity,Madlyn Prosapio,Stephen DeHaven,Cheryl Briley,Gene Brady,11,8
+14922,1,2024-09-14,INV Paddles Up,BUR Snapshots,Erica Cheramie,Charles Canham,Jane Walker,Edward Garrett Walker,11,1
+14922,2,2024-09-14,INV Paddles Up,BUR Snapshots,AJ Francioni,Vincent Benedetto,Kathleen Maddalone,John F Weaver,11,2
+14922,3,2024-09-14,INV Paddles Up,BUR Snapshots,Rebecca Dekker,Joseph John Paulus,Madlyn Prosapio,Stephen DeHaven,11,5
+14922,4,2024-09-14,INV Paddles Up,BUR Snapshots,Erica Cheramie,Charles Canham,Kathleen Maddalone,John F Weaver,11,4
+14922,5,2024-09-14,INV Paddles Up,BUR Snapshots,AJ Francioni,Vincent Benedetto,Madlyn Prosapio,Stephen DeHaven,11,3
+14922,6,2024-09-14,INV Paddles Up,BUR Snapshots,Rebecca Dekker,Joseph John Paulus,Jane Walker,Edward Garrett Walker,11,4
+14922,7,2024-09-14,INV Paddles Up,BUR Snapshots,Erica Cheramie,Charles Canham,Madlyn Prosapio,Stephen DeHaven,11,3
+14922,8,2024-09-14,INV Paddles Up,BUR Snapshots,AJ Francioni,Vincent Benedetto,Jane Walker,Edward Garrett Walker,10,1
+14922,9,2024-09-14,INV Paddles Up,BUR Snapshots,Rebecca Dekker,Joseph John Paulus,Kathleen Maddalone,John F Weaver,11,1
+14923,1,2024-09-14,PINEY Pickletivity,FARM Dill Pickled,Bill Michaud,Diane Michaud,Thomas Sumerel,Cynthia Corley,7,11
+14923,2,2024-09-14,PINEY Pickletivity,FARM Dill Pickled,Karen Salter,Saurav SanthoshNair,Justin Alan Yung,Shay Charles,11,0
+14923,3,2024-09-14,PINEY Pickletivity,FARM Dill Pickled,Doug Pierce,Cheryl Briley,Amy Lynn White,John Bauman,11,6
+14923,4,2024-09-14,PINEY Pickletivity,FARM Dill Pickled,Bill Michaud,Diane Michaud,Justin Alan Yung,Shay Charles,8,11
+14923,5,2024-09-14,PINEY Pickletivity,FARM Dill Pickled,Karen Salter,Saurav SanthoshNair,Amy Lynn White,John Bauman,11,0
+14923,6,2024-09-14,PINEY Pickletivity,FARM Dill Pickled,Doug Pierce,Cheryl Briley,Thomas Sumerel,Cynthia Corley,8,11
+14923,7,2024-09-14,PINEY Pickletivity,FARM Dill Pickled,Bill Michaud,Diane Michaud,Amy Lynn White,John Bauman,11,8
+14923,8,2024-09-14,PINEY Pickletivity,FARM Dill Pickled,Karen Salter,Saurav SanthoshNair,Thomas Sumerel,Cynthia Corley,11,8
+14923,9,2024-09-14,PINEY Pickletivity,FARM Dill Pickled,Doug Pierce,Cheryl Briley,Justin Alan Yung,Shay Charles,11,7
+14924,1,2024-09-14,INV Paddles Up,HASEN The Hasentree,Erica Cheramie,Charles Canham,Anthony Milligan,Sharon Regnier,11,5
+14924,2,2024-09-14,INV Paddles Up,HASEN The Hasentree,Joseph John Paulus,Rebecca Dekker,Mike Domonkos,Michelle Rubin,11,1
+14924,3,2024-09-14,INV Paddles Up,HASEN The Hasentree,AJ Francioni,Vincent Benedetto,John C.P. Allessio,Emily Rubin,11,3
+14924,4,2024-09-14,INV Paddles Up,HASEN The Hasentree,Erica Cheramie,Charles Canham,Mike Domonkos,Michelle Rubin,11,6
+14924,5,2024-09-14,INV Paddles Up,HASEN The Hasentree,Joseph John Paulus,Rebecca Dekker,John C.P. Allessio,Emily Rubin,11,3
+14924,6,2024-09-14,INV Paddles Up,HASEN The Hasentree,AJ Francioni,Vincent Benedetto,Anthony Milligan,Sharon Regnier,11,7
+14924,7,2024-09-14,INV Paddles Up,HASEN The Hasentree,Erica Cheramie,Charles Canham,John C.P. Allessio,Emily Rubin,11,0
+14924,8,2024-09-14,INV Paddles Up,HASEN The Hasentree,Joseph John Paulus,Rebecca Dekker,Anthony Milligan,Sharon Regnier,11,3
+14924,9,2024-09-14,INV Paddles Up,HASEN The Hasentree,AJ Francioni,Vincent Benedetto,Mike Domonkos,Michelle Rubin,11,8
+14925,1,2024-09-14,BUR Snapshots,FARM Dill Pickled,Madlyn Prosapio,Stephen DeHaven,Shay Charles,Justin Alan Yung,6,11
+14925,2,2024-09-14,BUR Snapshots,FARM Dill Pickled,Kathleen Maddalone,John F Weaver,Thomas Sumerel,Cynthia Corley,2,11
+14925,3,2024-09-14,BUR Snapshots,FARM Dill Pickled,Jane Walker,Edward Garrett Walker,George Chase,Jill Hunter,2,11
+14925,4,2024-09-14,BUR Snapshots,FARM Dill Pickled,Madlyn Prosapio,Stephen DeHaven,Thomas Sumerel,Cynthia Corley,2,11
+14925,5,2024-09-14,BUR Snapshots,FARM Dill Pickled,Kathleen Maddalone,John F Weaver,George Chase,Jill Hunter,3,11
+14925,6,2024-09-14,BUR Snapshots,FARM Dill Pickled,Jane Walker,Edward Garrett Walker,Shay Charles,Justin Alan Yung,2,11
+14925,7,2024-09-14,BUR Snapshots,FARM Dill Pickled,Madlyn Prosapio,Stephen DeHaven,George Chase,Jill Hunter,1,11
+14925,8,2024-09-14,BUR Snapshots,FARM Dill Pickled,Kathleen Maddalone,John F Weaver,Shay Charles,Justin Alan Yung,4,11
+14925,9,2024-09-14,BUR Snapshots,FARM Dill Pickled,Jane Walker,Edward Garrett Walker,Thomas Sumerel,Cynthia Corley,5,11
+14926,1,2024-09-14,HASEN The Hasentree,BUR Snapshots,Anthony Milligan,Sharon Regnier,Jane Walker,Edward Garrett Walker,11,3
+14926,2,2024-09-14,HASEN The Hasentree,BUR Snapshots,Mike Domonkos,Michelle Rubin,Kathleen Maddalone,John F Weaver,7,11
+14926,3,2024-09-14,HASEN The Hasentree,BUR Snapshots,John C.P. Allessio,Emily Rubin,Madlyn Prosapio,Stephen DeHaven,3,11
+14926,4,2024-09-14,HASEN The Hasentree,BUR Snapshots,Anthony Milligan,Sharon Regnier,Kathleen Maddalone,John F Weaver,11,1
+14926,5,2024-09-14,HASEN The Hasentree,BUR Snapshots,Mike Domonkos,Michelle Rubin,Madlyn Prosapio,Stephen DeHaven,5,11
+14926,6,2024-09-14,HASEN The Hasentree,BUR Snapshots,John C.P. Allessio,Emily Rubin,Jane Walker,Edward Garrett Walker,10,12
+14926,7,2024-09-14,HASEN The Hasentree,BUR Snapshots,Anthony Milligan,Sharon Regnier,Madlyn Prosapio,Stephen DeHaven,11,5
+14926,8,2024-09-14,HASEN The Hasentree,BUR Snapshots,Mike Domonkos,Michelle Rubin,Jane Walker,Edward Garrett Walker,7,11
+14926,9,2024-09-14,HASEN The Hasentree,BUR Snapshots,John C.P. Allessio,Emily Rubin,Kathleen Maddalone,John F Weaver,11,2
+14927,1,2024-09-14,PINEY Pickletivity,INV Paddles Up,Bill Michaud,Diane Michaud,Erica Cheramie,Charles Canham,6,11
+14927,2,2024-09-14,PINEY Pickletivity,INV Paddles Up,Saurav SanthoshNair,Karen Salter,AJ Francioni,Vincent Benedetto,11,4
+14927,3,2024-09-14,PINEY Pickletivity,INV Paddles Up,Gene Brady,Cheryl Briley,Joseph John Paulus,Rebecca Dekker,8,11
+14927,4,2024-09-14,PINEY Pickletivity,INV Paddles Up,Bill Michaud,Diane Michaud,AJ Francioni,Vincent Benedetto,11,8
+14927,5,2024-09-14,PINEY Pickletivity,INV Paddles Up,Saurav SanthoshNair,Karen Salter,Joseph John Paulus,Rebecca Dekker,12,10
+14927,6,2024-09-14,PINEY Pickletivity,INV Paddles Up,Gene Brady,Cheryl Briley,Erica Cheramie,Charles Canham,5,11
+14927,7,2024-09-14,PINEY Pickletivity,INV Paddles Up,Bill Michaud,Diane Michaud,Joseph John Paulus,Rebecca Dekker,11,9
+14927,8,2024-09-14,PINEY Pickletivity,INV Paddles Up,Saurav SanthoshNair,Karen Salter,Erica Cheramie,Charles Canham,11,13
+14927,9,2024-09-14,PINEY Pickletivity,INV Paddles Up,Gene Brady,Cheryl Briley,AJ Francioni,Vincent Benedetto,9,11
