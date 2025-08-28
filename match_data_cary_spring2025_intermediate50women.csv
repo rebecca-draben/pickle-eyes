@@ -63,13 +63,13 @@ match_id,game_id,match_date,team1_name,team2_name,partner1,partner2,opponent1,op
 15864,8,2025-04-10,TOC Desperate Housewives of Wake County,LOCH LeBlancRocksLoch,Kathryn L Jezior,Nicole Gagnon,Pamela Summers,Elly Siggins,15,4
 15864,9,2025-04-10,TOC Desperate Housewives of Wake County,LOCH LeBlancRocksLoch,Dawn Losito,Lynelle Boorey,Camille Lewis,Stacey Stallard Shaughnessy,15,8
 15865,1,2025-04-10,TOC Kitchen Masters,TOC WSP Picklers,Janny Frazier,Janeth Pearl,Ali Mallison,Christy H Edwards,15,5
-15865,2,2025-04-10,TOC Kitchen Masters,TOC WSP Picklers,Joanne Irwin Eder,Amy Ballard,Kelly Young,Ellen A Elliott,15,11
+15865,2,2025-04-10,TOC Kitchen Masters,TOC WSP Picklers,Joanne Eder,Amy Ballard,Kelly Young,Ellen A Elliott,15,11
 15865,3,2025-04-10,TOC Kitchen Masters,TOC WSP Picklers,Lisa C,Stacy Dalness,Rebecca Drabenstott,Dani Devinney,6,15
 15865,4,2025-04-10,TOC Kitchen Masters,TOC WSP Picklers,Janny Frazier,Janeth Pearl,Kelly Young,Ellen A Elliott,15,8
-15865,5,2025-04-10,TOC Kitchen Masters,TOC WSP Picklers,Joanne Irwin Eder,Amy Ballard,Rebecca Drabenstott,Dani Devinney,14,16
+15865,5,2025-04-10,TOC Kitchen Masters,TOC WSP Picklers,Joanne Eder,Amy Ballard,Rebecca Drabenstott,Dani Devinney,14,16
 15865,6,2025-04-10,TOC Kitchen Masters,TOC WSP Picklers,Lisa C,Stacy Dalness,Ali Mallison,Christy H Edwards,4,15
 15865,7,2025-04-10,TOC Kitchen Masters,TOC WSP Picklers,Janny Frazier,Janeth Pearl,Rebecca Drabenstott,Dani Devinney,15,7
-15865,8,2025-04-10,TOC Kitchen Masters,TOC WSP Picklers,Joanne Irwin Eder,Amy Ballard,Ali Mallison,Christy H Edwards,8,15
+15865,8,2025-04-10,TOC Kitchen Masters,TOC WSP Picklers,Joanne Eder,Amy Ballard,Ali Mallison,Christy H Edwards,8,15
 15865,9,2025-04-10,TOC Kitchen Masters,TOC WSP Picklers,Lisa C,Stacy Dalness,Kelly Young,Ellen A Elliott,15,7
 15866,1,2025-04-10,LOCH Lochmere Ladies Picklers,TOC Dill Breakers,Eileen Cavanaugh,Marti Crane,Colleen Derks,Kelly Polizzi,15,11
 15866,2,2025-04-10,LOCH Lochmere Ladies Picklers,TOC Dill Breakers,Sandra C Jolly,Kathleen Pearl,Lori Nichols,Nicole Baker Crain,10,15
@@ -90,14 +90,14 @@ match_id,game_id,match_date,team1_name,team2_name,partner1,partner2,opponent1,op
 15882,8,2025-04-17,TOC WSP Picklers,LOCH LeBlancRocksLoch,Rebecca Drabenstott,Tracie Stolove,Stacey Stallard Shaughnessy,Camille Lewis,15,3
 15882,9,2025-04-17,TOC WSP Picklers,LOCH LeBlancRocksLoch,Ali Mallison,Kelly Young,Elly Siggins,Susan G Coulter,15,1
 15883,1,2025-04-17,TOC Dill Breakers,TOC Kitchen Masters,Caroline Connor,Denise Wilson,Amy Ballard,Karen Carroll,15,11
-15883,2,2025-04-17,TOC Dill Breakers,TOC Kitchen Masters,Linda Burns,Kasia Headley,Janeth Pearl,Joanne Irwin Eder,0,15
+15883,2,2025-04-17,TOC Dill Breakers,TOC Kitchen Masters,Linda Burns,Kasia Headley,Janeth Pearl,Joanne Eder,0,15
 15883,3,2025-04-17,TOC Dill Breakers,TOC Kitchen Masters,Jessica W Fairfax,Joey Gibson,Stacy Dalness,Beth F Warren,11,15
-15883,4,2025-04-17,TOC Dill Breakers,TOC Kitchen Masters,Caroline Connor,Denise Wilson,Janeth Pearl,Joanne Irwin Eder,6,15
+15883,4,2025-04-17,TOC Dill Breakers,TOC Kitchen Masters,Caroline Connor,Denise Wilson,Janeth Pearl,Joanne Eder,6,15
 15883,5,2025-04-17,TOC Dill Breakers,TOC Kitchen Masters,Linda Burns,Kasia Headley,Stacy Dalness,Beth F Warren,7,15
 15883,6,2025-04-17,TOC Dill Breakers,TOC Kitchen Masters,Jessica W Fairfax,Joey Gibson,Amy Ballard,Karen Carroll,6,15
 15883,7,2025-04-17,TOC Dill Breakers,TOC Kitchen Masters,Caroline Connor,Denise Wilson,Stacy Dalness,Beth F Warren,15,3
 15883,8,2025-04-17,TOC Dill Breakers,TOC Kitchen Masters,Linda Burns,Kasia Headley,Amy Ballard,Karen Carroll,4,15
-15883,9,2025-04-17,TOC Dill Breakers,TOC Kitchen Masters,Jessica W Fairfax,Joey Gibson,Janeth Pearl,Joanne Irwin Eder,4,15
+15883,9,2025-04-17,TOC Dill Breakers,TOC Kitchen Masters,Jessica W Fairfax,Joey Gibson,Janeth Pearl,Joanne Eder,4,15
 15884,1,2025-04-17,LOCH Lochmere Ladies Picklers,TOC Desperate Housewives of Wake County,Vanessa Uecker Martini,Elizabeth Slight,Brenda Polonio,AnneMarie Conklin,10,15
 15884,2,2025-04-17,LOCH Lochmere Ladies Picklers,TOC Desperate Housewives of Wake County,Sandra C Jolly,Eileen Cavanaugh,Ruth Coon,Julie T Stallman,15,11
 15884,3,2025-04-17,LOCH Lochmere Ladies Picklers,TOC Desperate Housewives of Wake County,Melissa Feuerstein,Marilyn Terrill,Lynelle Boorey,Holly Haney,15,11
@@ -117,13 +117,13 @@ match_id,game_id,match_date,team1_name,team2_name,partner1,partner2,opponent1,op
 15896,8,2025-04-24,TOC Desperate Housewives of Wake County,TOC WSP Picklers,Nicole Gagnon,Holly Haney,Ali Mallison,Cathy Culton,2,15
 15896,9,2025-04-24,TOC Desperate Housewives of Wake County,TOC WSP Picklers,Julie T Stallman,Ruth Coon,Francie Low,Karen Espenhahn,13,15
 15897,1,2025-04-24,TOC Kitchen Masters,LOCH Lochmere Ladies Picklers,Beth F Warren,Janny Frazier,Vanessa Uecker Martini,Kathleen Pearl,15,7
-15897,2,2025-04-24,TOC Kitchen Masters,LOCH Lochmere Ladies Picklers,Lisa C,Joanne Irwin Eder,Eileen Cavanaugh,Sandra C Jolly,16,14
+15897,2,2025-04-24,TOC Kitchen Masters,LOCH Lochmere Ladies Picklers,Lisa C,Joanne Eder,Eileen Cavanaugh,Sandra C Jolly,16,14
 15897,3,2025-04-24,TOC Kitchen Masters,LOCH Lochmere Ladies Picklers,Stacy Dalness,Janeth Pearl,Marilyn Terrill,Linda Lemire,11,15
 15897,4,2025-04-24,TOC Kitchen Masters,LOCH Lochmere Ladies Picklers,Beth F Warren,Janny Frazier,Eileen Cavanaugh,Sandra C Jolly,18,16
-15897,5,2025-04-24,TOC Kitchen Masters,LOCH Lochmere Ladies Picklers,Lisa C,Joanne Irwin Eder,Marilyn Terrill,Linda Lemire,15,3
+15897,5,2025-04-24,TOC Kitchen Masters,LOCH Lochmere Ladies Picklers,Lisa C,Joanne Eder,Marilyn Terrill,Linda Lemire,15,3
 15897,6,2025-04-24,TOC Kitchen Masters,LOCH Lochmere Ladies Picklers,Stacy Dalness,Janeth Pearl,Vanessa Uecker Martini,Kathleen Pearl,15,8
 15897,7,2025-04-24,TOC Kitchen Masters,LOCH Lochmere Ladies Picklers,Beth F Warren,Janny Frazier,Marilyn Terrill,Linda Lemire,15,10
-15897,8,2025-04-24,TOC Kitchen Masters,LOCH Lochmere Ladies Picklers,Lisa C,Joanne Irwin Eder,Vanessa Uecker Martini,Kathleen Pearl,17,15
+15897,8,2025-04-24,TOC Kitchen Masters,LOCH Lochmere Ladies Picklers,Lisa C,Joanne Eder,Vanessa Uecker Martini,Kathleen Pearl,17,15
 15897,9,2025-04-24,TOC Kitchen Masters,LOCH Lochmere Ladies Picklers,Stacy Dalness,Janeth Pearl,Eileen Cavanaugh,Sandra C Jolly,15,9
 15898,1,2025-04-24,LOCH LeBlancRocksLoch,TOC Dill Breakers,Susan Hoffman,Jennifer Dulin,Kate Rees,Kelly Polizzi,7,15
 15898,2,2025-04-24,LOCH LeBlancRocksLoch,TOC Dill Breakers,Stacey Stallard Shaughnessy,Jena Hill,Colleen Derks,Jessica W Fairfax,4,15
@@ -143,13 +143,13 @@ match_id,game_id,match_date,team1_name,team2_name,partner1,partner2,opponent1,op
 15914,7,2025-05-01,TOC Desperate Housewives of Wake County,TOC Dill Breakers,Ruth Coon,Wendy Pannell,Denise Wilson,Caroline Connor,15,6
 15914,8,2025-05-01,TOC Desperate Housewives of Wake County,TOC Dill Breakers,Kathryn L Jezior,Nicole Gagnon,Kelly Polizzi,Kate Rees,15,7
 15914,9,2025-05-01,TOC Desperate Housewives of Wake County,TOC Dill Breakers,Holly Haney,Lynelle Boorey,Jessica W Fairfax,Kasia Headley,15,7
-15915,1,2025-05-01,TOC Kitchen Masters,LOCH LeBlancRocksLoch,Amy Ballard,Joanne Irwin Eder,Pamela Summers,Camille Lewis,15,0
+15915,1,2025-05-01,TOC Kitchen Masters,LOCH LeBlancRocksLoch,Amy Ballard,Joanne Eder,Pamela Summers,Camille Lewis,15,0
 15915,2,2025-05-01,TOC Kitchen Masters,LOCH LeBlancRocksLoch,Janeth Pearl,Lisa C,Elly Siggins,Jennifer Dulin,15,1
 15915,3,2025-05-01,TOC Kitchen Masters,LOCH LeBlancRocksLoch,Stacy Dalness,Beth F Warren,DEFAULT,DEFAULT,15,0
-15915,4,2025-05-01,TOC Kitchen Masters,LOCH LeBlancRocksLoch,Amy Ballard,Joanne Irwin Eder,Elly Siggins,Jennifer Dulin,15,1
+15915,4,2025-05-01,TOC Kitchen Masters,LOCH LeBlancRocksLoch,Amy Ballard,Joanne Eder,Elly Siggins,Jennifer Dulin,15,1
 15915,5,2025-05-01,TOC Kitchen Masters,LOCH LeBlancRocksLoch,Janeth Pearl,Lisa C,DEFAULT,DEFAULT,15,0
 15915,6,2025-05-01,TOC Kitchen Masters,LOCH LeBlancRocksLoch,Stacy Dalness,Beth F Warren,Pamela Summers,Camille Lewis,15,8
-15915,7,2025-05-01,TOC Kitchen Masters,LOCH LeBlancRocksLoch,Amy Ballard,Joanne Irwin Eder,DEFAULT,DEFAULT,15,0
+15915,7,2025-05-01,TOC Kitchen Masters,LOCH LeBlancRocksLoch,Amy Ballard,Joanne Eder,DEFAULT,DEFAULT,15,0
 15915,8,2025-05-01,TOC Kitchen Masters,LOCH LeBlancRocksLoch,Janeth Pearl,Lisa C,Pamela Summers,Camille Lewis,15,5
 15915,9,2025-05-01,TOC Kitchen Masters,LOCH LeBlancRocksLoch,Stacy Dalness,Beth F Warren,Elly Siggins,Jennifer Dulin,15,5
 15916,1,2025-05-01,LOCH Lochmere Ladies Picklers,TOC WSP Picklers,Sandra C Jolly,Linda Lemire,Ali Mallison,Tracie Stolove,15,4
@@ -170,13 +170,13 @@ match_id,game_id,match_date,team1_name,team2_name,partner1,partner2,opponent1,op
 15932,7,2025-05-08,TOC Dill Breakers,TOC WSP Picklers,Linda Burns,Kasia Headley,Dani Devinney,Karen Espenhahn,7,15
 15932,8,2025-05-08,TOC Dill Breakers,TOC WSP Picklers,Joey Gibson,Nicole Baker Crain,Ali Mallison,Kelly Young,7,15
 15932,9,2025-05-08,TOC Dill Breakers,TOC WSP Picklers,Kate Rees,Lori Nichols,Francie Low,Ellen A Elliott,13,15
-15933,1,2025-05-08,TOC Kitchen Masters,TOC Desperate Housewives of Wake County,Joanne Irwin Eder,Lisa C,AnneMarie Conklin,Christa Resavy,10,15
+15933,1,2025-05-08,TOC Kitchen Masters,TOC Desperate Housewives of Wake County,Joanne Eder,Lisa C,AnneMarie Conklin,Christa Resavy,10,15
 15933,2,2025-05-08,TOC Kitchen Masters,TOC Desperate Housewives of Wake County,Amy Ballard,Karen Carroll,Dawn Losito,Lynelle Boorey,15,8
 15933,3,2025-05-08,TOC Kitchen Masters,TOC Desperate Housewives of Wake County,Janny Frazier,Janeth Pearl,Ruth Coon,Julie T Stallman,15,6
-15933,4,2025-05-08,TOC Kitchen Masters,TOC Desperate Housewives of Wake County,Joanne Irwin Eder,Lisa C,Dawn Losito,Lynelle Boorey,9,15
+15933,4,2025-05-08,TOC Kitchen Masters,TOC Desperate Housewives of Wake County,Joanne Eder,Lisa C,Dawn Losito,Lynelle Boorey,9,15
 15933,5,2025-05-08,TOC Kitchen Masters,TOC Desperate Housewives of Wake County,Amy Ballard,Karen Carroll,Ruth Coon,Julie T Stallman,15,4
 15933,6,2025-05-08,TOC Kitchen Masters,TOC Desperate Housewives of Wake County,Janny Frazier,Janeth Pearl,AnneMarie Conklin,Christa Resavy,7,15
-15933,7,2025-05-08,TOC Kitchen Masters,TOC Desperate Housewives of Wake County,Joanne Irwin Eder,Lisa C,Ruth Coon,Julie T Stallman,15,11
+15933,7,2025-05-08,TOC Kitchen Masters,TOC Desperate Housewives of Wake County,Joanne Eder,Lisa C,Ruth Coon,Julie T Stallman,15,11
 15933,8,2025-05-08,TOC Kitchen Masters,TOC Desperate Housewives of Wake County,Amy Ballard,Karen Carroll,AnneMarie Conklin,Christa Resavy,2,15
 15933,9,2025-05-08,TOC Kitchen Masters,TOC Desperate Housewives of Wake County,Janny Frazier,Janeth Pearl,Dawn Losito,Lynelle Boorey,15,1
 15934,1,2025-05-08,LOCH Lochmere Ladies Picklers,LOCH LeBlancRocksLoch,Eileen Cavanaugh,Marti Crane,Jena Hill,Jennifer Dulin,15,5
@@ -188,14 +188,14 @@ match_id,game_id,match_date,team1_name,team2_name,partner1,partner2,opponent1,op
 15934,7,2025-05-08,LOCH Lochmere Ladies Picklers,LOCH LeBlancRocksLoch,Eileen Cavanaugh,Marti Crane,Elly Siggins,Barb LeBlanc,15,8
 15934,8,2025-05-08,LOCH Lochmere Ladies Picklers,LOCH LeBlancRocksLoch,Sandra C Jolly,Lisa Casassa,Jena Hill,Jennifer Dulin,15,2
 15934,9,2025-05-08,LOCH Lochmere Ladies Picklers,LOCH LeBlancRocksLoch,Vanessa Uecker Martini,Kathleen Pearl,Susan Hoffman,Stacey Stallard Shaughnessy,15,0
-15950,1,2025-05-15,TOC WSP Picklers,TOC Kitchen Masters,Karen Espenhahn,Tracie Stolove,Joanne Irwin Eder,Janeth Pearl,15,17
+15950,1,2025-05-15,TOC WSP Picklers,TOC Kitchen Masters,Karen Espenhahn,Tracie Stolove,Joanne Eder,Janeth Pearl,15,17
 15950,2,2025-05-15,TOC WSP Picklers,TOC Kitchen Masters,Ali Mallison,Cathy Culton,Karen Carroll,Amy Ballard,17,15
 15950,3,2025-05-15,TOC WSP Picklers,TOC Kitchen Masters,Kelly Young,Rebecca Drabenstott,Lisa C,Beth F Warren,15,3
 15950,4,2025-05-15,TOC WSP Picklers,TOC Kitchen Masters,Karen Espenhahn,Tracie Stolove,Karen Carroll,Amy Ballard,6,15
 15950,5,2025-05-15,TOC WSP Picklers,TOC Kitchen Masters,Ali Mallison,Cathy Culton,Lisa C,Beth F Warren,17,15
-15950,6,2025-05-15,TOC WSP Picklers,TOC Kitchen Masters,Kelly Young,Rebecca Drabenstott,Joanne Irwin Eder,Janeth Pearl,9,15
+15950,6,2025-05-15,TOC WSP Picklers,TOC Kitchen Masters,Kelly Young,Rebecca Drabenstott,Joanne Eder,Janeth Pearl,9,15
 15950,7,2025-05-15,TOC WSP Picklers,TOC Kitchen Masters,Karen Espenhahn,Tracie Stolove,Lisa C,Beth F Warren,5,15
-15950,8,2025-05-15,TOC WSP Picklers,TOC Kitchen Masters,Ali Mallison,Cathy Culton,Joanne Irwin Eder,Janeth Pearl,10,15
+15950,8,2025-05-15,TOC WSP Picklers,TOC Kitchen Masters,Ali Mallison,Cathy Culton,Joanne Eder,Janeth Pearl,10,15
 15950,9,2025-05-15,TOC WSP Picklers,TOC Kitchen Masters,Kelly Young,Rebecca Drabenstott,Karen Carroll,Amy Ballard,3,15
 15951,1,2025-05-15,TOC Dill Breakers,LOCH Lochmere Ladies Picklers,Joey Gibson,Nicole Baker Crain,Linda Lemire,Melissa Feuerstein,7,15
 15951,2,2025-05-15,TOC Dill Breakers,LOCH Lochmere Ladies Picklers,Colleen Derks,Jessica W Fairfax,Sandra C Jolly,Eileen Cavanaugh,5,15
@@ -224,13 +224,13 @@ match_id,game_id,match_date,team1_name,team2_name,partner1,partner2,opponent1,op
 15964,7,2025-05-22,TOC Desperate Housewives of Wake County,LOCH Lochmere Ladies Picklers,Kathryn L Jezior,Lynelle Boorey,DEFAULT,DEFAULT,15,0
 15964,8,2025-05-22,TOC Desperate Housewives of Wake County,LOCH Lochmere Ladies Picklers,Christa Resavy,AnneMarie Conklin,Linda Lemire,Vanessa Uecker Martini,15,5
 15964,9,2025-05-22,TOC Desperate Housewives of Wake County,LOCH Lochmere Ladies Picklers,Holly Haney,Nicole Gagnon,Marti Crane,Kathleen Pearl,8,15
-15965,1,2025-05-22,TOC Kitchen Masters,TOC Dill Breakers,Joanne Irwin Eder,Beth F Warren,Caroline Connor,Denise Wilson,15,12
+15965,1,2025-05-22,TOC Kitchen Masters,TOC Dill Breakers,Joanne Eder,Beth F Warren,Caroline Connor,Denise Wilson,15,12
 15965,2,2025-05-22,TOC Kitchen Masters,TOC Dill Breakers,Janeth Pearl,Janny Frazier,Anne Farmer,Lori Nichols,15,6
 15965,3,2025-05-22,TOC Kitchen Masters,TOC Dill Breakers,Amy Ballard,Karen Carroll,Kate Rees,Jessica W Fairfax,15,2
-15965,4,2025-05-22,TOC Kitchen Masters,TOC Dill Breakers,Joanne Irwin Eder,Beth F Warren,Anne Farmer,Lori Nichols,15,2
+15965,4,2025-05-22,TOC Kitchen Masters,TOC Dill Breakers,Joanne Eder,Beth F Warren,Anne Farmer,Lori Nichols,15,2
 15965,5,2025-05-22,TOC Kitchen Masters,TOC Dill Breakers,Janeth Pearl,Janny Frazier,Kate Rees,Jessica W Fairfax,15,7
 15965,6,2025-05-22,TOC Kitchen Masters,TOC Dill Breakers,Amy Ballard,Karen Carroll,Caroline Connor,Denise Wilson,10,15
-15965,7,2025-05-22,TOC Kitchen Masters,TOC Dill Breakers,Joanne Irwin Eder,Beth F Warren,Kate Rees,Jessica W Fairfax,15,1
+15965,7,2025-05-22,TOC Kitchen Masters,TOC Dill Breakers,Joanne Eder,Beth F Warren,Kate Rees,Jessica W Fairfax,15,1
 15965,8,2025-05-22,TOC Kitchen Masters,TOC Dill Breakers,Janeth Pearl,Janny Frazier,Caroline Connor,Denise Wilson,15,13
 15965,9,2025-05-22,TOC Kitchen Masters,TOC Dill Breakers,Amy Ballard,Karen Carroll,Anne Farmer,Lori Nichols,15,3
 15966,1,2025-05-22,LOCH LeBlancRocksLoch,TOC WSP Picklers,Zubeda Paruk,Stacey Stallard Shaughnessy,Tracie Stolove,Christy H Edwards,3,15
@@ -261,14 +261,14 @@ match_id,game_id,match_date,team1_name,team2_name,partner1,partner2,opponent1,op
 15972,8,2025-05-29,TOC Dill Breakers,LOCH LeBlancRocksLoch,Kelly Polizzi,Lori Nichols,Camille Lewis,Susan Hoffman,15,1
 15972,9,2025-05-29,TOC Dill Breakers,LOCH LeBlancRocksLoch,Colleen Derks,Joey Gibson,Jennifer Dulin,Zubeda Paruk,15,5
 15973,1,2025-05-29,LOCH Lochmere Ladies Picklers,TOC Kitchen Masters,Kathleen Pearl,Vanessa Uecker Martini,Stacy Dalness,Beth F Warren,15,11
-15973,2,2025-05-29,LOCH Lochmere Ladies Picklers,TOC Kitchen Masters,Linda Lemire,Marti Crane,Joanne Irwin Eder,Lisa C,12,15
+15973,2,2025-05-29,LOCH Lochmere Ladies Picklers,TOC Kitchen Masters,Linda Lemire,Marti Crane,Joanne Eder,Lisa C,12,15
 15973,3,2025-05-29,LOCH Lochmere Ladies Picklers,TOC Kitchen Masters,Marilyn Terrill,Barbara Jean Reichelt,Janeth Pearl,Janny Frazier,9,15
-15973,4,2025-05-29,LOCH Lochmere Ladies Picklers,TOC Kitchen Masters,Kathleen Pearl,Vanessa Uecker Martini,Joanne Irwin Eder,Lisa C,5,15
+15973,4,2025-05-29,LOCH Lochmere Ladies Picklers,TOC Kitchen Masters,Kathleen Pearl,Vanessa Uecker Martini,Joanne Eder,Lisa C,5,15
 15973,5,2025-05-29,LOCH Lochmere Ladies Picklers,TOC Kitchen Masters,Linda Lemire,Marti Crane,Janeth Pearl,Janny Frazier,5,15
 15973,6,2025-05-29,LOCH Lochmere Ladies Picklers,TOC Kitchen Masters,Marilyn Terrill,Barbara Jean Reichelt,Stacy Dalness,Beth F Warren,7,15
 15973,7,2025-05-29,LOCH Lochmere Ladies Picklers,TOC Kitchen Masters,Kathleen Pearl,Vanessa Uecker Martini,Janeth Pearl,Janny Frazier,2,15
 15973,8,2025-05-29,LOCH Lochmere Ladies Picklers,TOC Kitchen Masters,Linda Lemire,Marti Crane,Stacy Dalness,Beth F Warren,15,5
-15973,9,2025-05-29,LOCH Lochmere Ladies Picklers,TOC Kitchen Masters,Marilyn Terrill,Barbara Jean Reichelt,Joanne Irwin Eder,Lisa C,3,15
+15973,9,2025-05-29,LOCH Lochmere Ladies Picklers,TOC Kitchen Masters,Marilyn Terrill,Barbara Jean Reichelt,Joanne Eder,Lisa C,3,15
 15984,1,2025-06-07,TOC Kitchen Masters,TOC WSP Picklers,Janny Frazier,Janeth Pearl,Rebecca Drabenstott,Cathy Culton,4,15
 15984,2,2025-06-07,TOC Kitchen Masters,TOC WSP Picklers,Beth F Warren,Lisa C,Francie Low,Tracie Stolove,15,13
 15984,3,2025-06-07,TOC Kitchen Masters,TOC WSP Picklers,Amy Ballard,Karen Carroll,Ali Mallison,Kelly Young,15,3
