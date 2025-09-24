@@ -44,6 +44,10 @@ def parse_csv_for_ttt(csv_path):
             except ValueError:
                 continue  # skip invalid scores
 
+	    # --- skip matches where both teams have zero points ---
+            if team1_points + team2_points == 0:
+                continue
+
             compositions.append([[p1, p2], [o1, o2]])
             results.append([1, 0] if team1_points > team2_points else [0, 1])
 
@@ -65,7 +69,7 @@ def parse_csv_for_ttt(csv_path):
 
 def compute_ttt_ratings(compositions, results, times, players):
     priors = {
-        p: Player(Gaussian(mu=25.0, sigma=8.333), beta=4.1667, gamma=0.0)
+        p: Player(Gaussian(mu=25.0, sigma=8.333), beta=4.1667, gamma=0.1)
         for p in players
     }
 
@@ -74,9 +78,9 @@ def compute_ttt_ratings(compositions, results, times, players):
         results=results,
         times=times,
         priors=priors,
-        sigma=8.333,
-        beta=4.1667,
-        gamma=0.0
+        sigma=8.333, # only used if not set for Player above
+        beta=4.1667, # only used if not set for Player above
+        gamma=0.0 # only used if not set for Player above
     )
 
     h.convergence(iterations=20, epsilon=1e-3)
@@ -95,9 +99,11 @@ def main(csv_file):
     print("Running TrueSkill Through Time inference...")
     ratings = compute_ttt_ratings(compositions, results, times, players)
 
+    k = 0.25  # try 0.1, 1.0, 2.0, etc # higher k penalizes uncertain players more
+
     ranked = sorted(
         ratings.items(),
-        key=lambda x: x[1].mu,
+        key=lambda x: x[1].mu - k * x[1].sigma,
         reverse=True
     )
 
