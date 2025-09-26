@@ -71,8 +71,11 @@ def main():
                 if player not in player_teams:
                     player_teams[player] = team2_name
 
-            team1_score = int(row['team1_points'])
-            team2_score = int(row['team2_points'])
+            try:
+                team1_score = int(row['team1_points'])
+                team2_score = int(row['team2_points'])
+            except (KeyError, ValueError):
+                continue  # skip bad rows, like extra header rows
 
             update_ratings(p1, p2, o1, o2, team1_score, team2_score)
 
