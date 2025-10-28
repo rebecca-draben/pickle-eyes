@@ -1,0 +1,53 @@
+match_id,game_id,match_date,team1_name,team2_name,partner1,partner2,opponent1,opponent2,team1_points,team2_points
+1,R1C1G1,2025-10-27,Pinpoint round robin,Pinpoint round robin,Allison Ostrander,Matthew Lee,Laurie Zacco,Anya McGuirk,11,0
+1,R1C2G2,2025-10-27,Pinpoint round robin,Pinpoint round robin,Rhonda Benkiel,Cathy Culton,Patricia Carter,Brittany McCrory,11,6
+1,R1C3G3,2025-10-27,Pinpoint round robin,Pinpoint round robin,Awilda Rivera,Kit Genet,Jackee Howell Franks,Kelda Bailey,7,11
+1,R1C4G4,2025-10-27,Pinpoint round robin,Pinpoint round robin,Michelle Reyes,Pamela DeLoatch,Stacy Zotter,Rebecca Drabenstott,8,9
+1,R2C1G1,2025-10-27,Pinpoint round robin,Pinpoint round robin,Allison Ostrander,Rhonda Benkiel,Matthew Lee,Cathy Culton,9,11
+1,R2C2G2,2025-10-27,Pinpoint round robin,Pinpoint round robin,Laurie Zacco,Jackee Howell Franks,Anya McGuirk,Patricia Carter,10,11
+1,R2C3G3,2025-10-27,Pinpoint round robin,Pinpoint round robin,Kelda Bailey,Awilda Rivera,Brittany McCrory,Kit Genet,3,11
+1,R2C4G4,2025-10-27,Pinpoint round robin,Pinpoint round robin,Michelle Reyes,Stacy Zotter,Pamela DeLoatch,Rebecca Drabenstott,8,11
+1,R3C1G1,2025-10-27,Pinpoint round robin,Pinpoint round robin,Matthew Lee,Rhonda Benkiel,Allison Ostrander,Cathy Culton,11,4
+1,R3C2G2,2025-10-27,Pinpoint round robin,Pinpoint round robin,Brittany McCrory,Anya McGuirk,Kit Genet,Laurie Zacco,7,11
+1,R3C3G3,2025-10-27,Pinpoint round robin,Pinpoint round robin,Patricia Carter,Rebecca Drabenstott,Jackee Howell Franks,Pamela DeLoatch,7,6
+1,R3C4G4,2025-10-27,Pinpoint round robin,Pinpoint round robin,Kelda Bailey,Stacy Zotter,Awilda Rivera,Michelle Reyes,12,10
+1,R4C1G1,2025-10-27,Pinpoint round robin,Pinpoint round robin,Matthew Lee,Cathy Culton,Rhonda Benkiel,Allison Ostrander,11,5
+1,R4C2G2,2025-10-27,Pinpoint round robin,Pinpoint round robin,Kit Genet,Patricia Carter,Rebecca Drabenstott,Laurie Zacco,11,4
+1,R4C3G3,2025-10-27,Pinpoint round robin,Pinpoint round robin,Kelda Bailey,Anya McGuirk,Stacy Zotter,Brittany McCrory,8,11
+1,R4C4G4,2025-10-27,Pinpoint round robin,Pinpoint round robin,Jackee Howell Franks,Michelle Reyes,Pamela DeLoatch,Awilda Rivera,9,11
+1,R5C1G1,2025-10-27,Pinpoint round robin,Pinpoint round robin,Matthew Lee,Kit Genet,Cathy Culton,Patricia Carter,11,4
+1,R5C2G2,2025-10-27,Pinpoint round robin,Pinpoint round robin,Rhonda Benkiel,Stacy Zotter,Allison Ostrander,Brittany McCrory,9,11
+1,R5C3G3,2025-10-27,Pinpoint round robin,Pinpoint round robin,Rebecca Drabenstott,Kelda Bailey,Pamela DeLoatch,Laurie Zacco,7,6
+1,R5C4G4,2025-10-27,Pinpoint round robin,Pinpoint round robin,Jackee Howell Franks,Awilda Rivera,Anya McGuirk,Michelle Reyes,8,11
+1,R6C1G1,2025-10-27,Pinpoint round robin,Pinpoint round robin,Kit Genet,Rebecca Drabenstott,Brittany McCrory,Patricia Carter,9,11
+1,R6C2G2,2025-10-27,Pinpoint round robin,Pinpoint round robin,Rhonda Benkiel,Anya McGuirk,Kelda Bailey,Michelle Reyes,9,11
+1,R7C1G1,2025-10-27,Pinpoint round robin,Pinpoint round robin,Kit Genet,Brittany McCrory,Patricia Carter,Kelda Bailey,11,9
+1,R7C2G2,2025-10-27,Pinpoint round robin,Pinpoint round robin,Rebecca Drabenstott,Rhonda Benkiel,Michelle Reyes,Laurie Zacco,11,4
+2,R1C1G1,2025-11-10,Pinpoint round robin,Pinpoint round robin,Hannah Ha,Kate Falkiner,Yolanda McCluney,Rebecca Drabenstott,1,13
+2,R1C2G2,2025-11-10,Pinpoint round robin,Pinpoint round robin,Kelda Bailey,Kit Genet,Michelle Reyes,Maeve Bell,8,3
+2,R1C3G3,2025-11-10,Pinpoint round robin,Pinpoint round robin,Allison Ostrander,Laurie Zacco,Helen Zhen,Rhonda Benkiel,11,7
+2,R1C4G4,2025-11-10,Pinpoint round robin,Pinpoint round robin,Anya McGuirk,Anouk Dehandtschutter,Brittany McCrory,Jon Ha,5,11
+2,R2C1G1,2025-11-10,Pinpoint round robin,Pinpoint round robin,Yolanda McCluney,Kelda Bailey,Rebecca Drabenstott,Kit Genet,5,3
+2,R2C2G2,2025-11-10,Pinpoint round robin,Pinpoint round robin,Hannah Ha,Allison Ostrander,Kate Falkiner,Michelle Reyes,10,6
+2,R2C3G3,2025-11-10,Pinpoint round robin,Pinpoint round robin,Laurie Zacco,Maeve Bell,Helen Zhen,Brittany McCrory,5,14
+2,R2C4G4,2025-11-10,Pinpoint round robin,Pinpoint round robin,Jon Ha,Anya McGuirk,Rhonda Benkiel,Anouk Dehandtschutter,11,8
+2,R3C1G1,2025-11-10,Pinpoint round robin,Pinpoint round robin,Yolanda McCluney,Hannah Ha,Rebecca Drabenstott,Kelda Bailey,4,13
+2,R3C2G2,2025-11-10,Pinpoint round robin,Pinpoint round robin,Allison Ostrander,Kit Genet,Brittany McCrory,Kate Falkiner,13,11
+2,R3C3G3,2025-11-10,Pinpoint round robin,Pinpoint round robin,Helen Zhen,Jon Ha,Michelle Reyes,Laurie Zacco,6,1
+2,R3C4G4,2025-11-10,Pinpoint round robin,Pinpoint round robin,Anya McGuirk,Rhonda Benkiel,Maeve Bell,Anouk Dehandtschutter,7,11
+2,R4C1G1,2025-11-10,Pinpoint round robin,Pinpoint round robin,Kelda Bailey,Yolanda McCluney,Rebecca Drabenstott,Allison Ostrander,4,11
+2,R4C2G2,2025-11-10,Pinpoint round robin,Pinpoint round robin,Kit Genet,Jon Ha,Hannah Ha,Helen Zhen,17,0
+2,R4C3G3,2025-11-10,Pinpoint round robin,Pinpoint round robin,Brittany McCrory,Maeve Bell,Kate Falkiner,Anouk Dehandtschutter,10,8
+2,R4C4G4,2025-11-10,Pinpoint round robin,Pinpoint round robin,Laurie Zacco,Anya McGuirk,Michelle Reyes,Rhonda Benkiel,8,10
+2,R5C1G1,2025-11-10,Pinpoint round robin,Pinpoint round robin,Rebecca Drabenstott,Kit Genet,Allison Ostrander,Yolanda McCluney,6,3
+2,R5C2G2,2025-11-10,Pinpoint round robin,Pinpoint round robin,Kelda Bailey,Brittany McCrory,Jon Ha,Maeve Bell,5,15
+2,R5C3G3,2025-11-10,Pinpoint round robin,Pinpoint round robin,Helen Zhen,Kate Falkiner,Hannah Ha,Michelle Reyes,16,4
+2,R5C4G4,2025-11-10,Pinpoint round robin,Pinpoint round robin,Rhonda Benkiel,Anya McGuirk,Anouk Dehandtschutter,Laurie Zacco,7,9
+2,R6C1G1,2025-11-10,Pinpoint round robin,Pinpoint round robin,Rebecca Drabenstott,Jon Ha,Kit Genet,Allison Ostrander,4,7
+2,R6C2G2,2025-11-10,Pinpoint round robin,Pinpoint round robin,Helen Zhen,Kelda Bailey,Maeve Bell,Yolanda McCluney,7,9
+2,R6C3G3,2025-11-10,Pinpoint round robin,Pinpoint round robin,Brittany McCrory,Anouk Dehandtschutter,Kate Falkiner,Laurie Zacco,4,10
+2,R6C4G4,2025-11-10,Pinpoint round robin,Pinpoint round robin,Hannah Ha,Rhonda Benkiel,Michelle Reyes,Anya McGuirk,8,12
+2,R7C1G1,2025-11-10,Pinpoint round robin,Pinpoint round robin,Kit Genet,Jon Ha,Rebecca Drabenstott,Allison Ostrander,13,5
+2,R7C2G2,2025-11-10,Pinpoint round robin,Pinpoint round robin,Maeve Bell,Kelda Bailey,Helen Zhen,Yolanda McCluney,6,9
+2,R7C3G3,2025-11-10,Pinpoint round robin,Pinpoint round robin,Brittany McCrory,Laurie Zacco,Kate Falkiner,Anya McGuirk,12,10
+2,R7C4G4,2025-11-10,Pinpoint round robin,Pinpoint round robin,Michelle Reyes,Rhonda Benkiel,Anouk Dehandtschutter,Hannah Ha,9,3
