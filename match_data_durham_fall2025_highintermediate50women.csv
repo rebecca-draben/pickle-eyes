@@ -1,0 +1,190 @@
+match_id,game_id,match_date,team1_name,team2_name,partner1,partner2,opponent1,opponent2,team1_points,team2_points
+17036,1,2025-08-19,FENDOL Farm Paddle Squad,HVCC Designated Dinkers,Paula Sutton,Laura Maness,Renee Hodges,VIrginia Pereira Dirschl,15,5
+17036,2,2025-08-19,FENDOL Farm Paddle Squad,HVCC Designated Dinkers,Debi Collins,Barbara Noblin,Peggy Harris,Laura Shaffer,15,10
+17036,3,2025-08-19,FENDOL Farm Paddle Squad,HVCC Designated Dinkers,Diane Michaud,Donna T McCarrell,DEFAULT,DEFAULT,15,0
+17036,4,2025-08-19,FENDOL Farm Paddle Squad,HVCC Designated Dinkers,Paula Sutton,Laura Maness,Peggy Harris,Laura Shaffer,15,10
+17036,5,2025-08-19,FENDOL Farm Paddle Squad,HVCC Designated Dinkers,Debi Collins,Barbara Noblin,DEFAULT,DEFAULT,15,0
+17036,6,2025-08-19,FENDOL Farm Paddle Squad,HVCC Designated Dinkers,Diane Michaud,Donna T McCarrell,Renee Hodges,VIrginia Pereira Dirschl,1,15
+17036,7,2025-08-19,FENDOL Farm Paddle Squad,HVCC Designated Dinkers,Paula Sutton,Laura Maness,DEFAULT,DEFAULT,15,0
+17036,8,2025-08-19,FENDOL Farm Paddle Squad,HVCC Designated Dinkers,Debi Collins,Barbara Noblin,Renee Hodges,VIrginia Pereira Dirschl,13,15
+17036,9,2025-08-19,FENDOL Farm Paddle Squad,HVCC Designated Dinkers,Diane Michaud,Donna T McCarrell,Peggy Harris,Laura Shaffer,3,15
+17037,1,2025-08-19,PINEY Dinking Buddies,DUKE Dinking Devils,Kaylene Peets,Helen Tompkins,Lisa Stella,Gennifer Weisenfeld,11,15
+17037,2,2025-08-19,PINEY Dinking Buddies,DUKE Dinking Devils,Terrie Hui,Wendy Richardson,Elizabeth Goettman Christopher,Mary Thomas,10,15
+17037,3,2025-08-19,PINEY Dinking Buddies,DUKE Dinking Devils,Barbara Teagarden,Linda Wu,Cecilia Csapo,Kris Selig,15,3
+17037,4,2025-08-19,PINEY Dinking Buddies,DUKE Dinking Devils,Kaylene Peets,Helen Tompkins,Elizabeth Goettman Christopher,Mary Thomas,12,15
+17037,5,2025-08-19,PINEY Dinking Buddies,DUKE Dinking Devils,Terrie Hui,Wendy Richardson,Cecilia Csapo,Kris Selig,15,2
+17037,6,2025-08-19,PINEY Dinking Buddies,DUKE Dinking Devils,Barbara Teagarden,Linda Wu,Lisa Stella,Gennifer Weisenfeld,8,15
+17037,7,2025-08-19,PINEY Dinking Buddies,DUKE Dinking Devils,Kaylene Peets,Helen Tompkins,Cecilia Csapo,Kris Selig,7,15
+17037,8,2025-08-19,PINEY Dinking Buddies,DUKE Dinking Devils,Terrie Hui,Wendy Richardson,Lisa Stella,Gennifer Weisenfeld,15,9
+17037,9,2025-08-19,PINEY Dinking Buddies,DUKE Dinking Devils,Barbara Teagarden,Linda Wu,Elizabeth Goettman Christopher,Mary Thomas,10,15
+17047,1,2025-08-26,DUKE Dinking Devils,HVCC Designated Dinkers,Mary Thomas,Lisa Purtell,Lynn Toms,Della L McDowell,15,1
+17047,2,2025-08-26,DUKE Dinking Devils,HVCC Designated Dinkers,Jane Kestenbaum,Gennifer Weisenfeld,Bonnie Boone,Laura Shaffer,15,2
+17047,3,2025-08-26,DUKE Dinking Devils,HVCC Designated Dinkers,Elizabeth Goettman Christopher,Cecilia Csapo,Thekla Pappas,Amy Brisley,15,0
+17047,4,2025-08-26,DUKE Dinking Devils,HVCC Designated Dinkers,Mary Thomas,Lisa Purtell,Bonnie Boone,Laura Shaffer,15,6
+17047,5,2025-08-26,DUKE Dinking Devils,HVCC Designated Dinkers,Jane Kestenbaum,Gennifer Weisenfeld,Thekla Pappas,Amy Brisley,15,7
+17047,6,2025-08-26,DUKE Dinking Devils,HVCC Designated Dinkers,Elizabeth Goettman Christopher,Cecilia Csapo,Lynn Toms,Della L McDowell,15,2
+17047,7,2025-08-26,DUKE Dinking Devils,HVCC Designated Dinkers,Mary Thomas,Lisa Purtell,Thekla Pappas,Amy Brisley,16,14
+17047,8,2025-08-26,DUKE Dinking Devils,HVCC Designated Dinkers,Jane Kestenbaum,Gennifer Weisenfeld,Lynn Toms,Della L McDowell,15,3
+17047,9,2025-08-26,DUKE Dinking Devils,HVCC Designated Dinkers,Elizabeth Goettman Christopher,Cecilia Csapo,Bonnie Boone,Laura Shaffer,15,5
+17048,1,2025-08-26,PINEY Dink & Disorderly,PINEY Dinking Buddies,Susie Welsh Fisher,Michele Kelly,Kaylene Peets,Diane Fleischman,15,4
+17048,2,2025-08-26,PINEY Dink & Disorderly,PINEY Dinking Buddies,Suzan Bumby,Shay Charles,Judy Frances Kane,Helen Tompkins,15,5
+17048,3,2025-08-26,PINEY Dink & Disorderly,PINEY Dinking Buddies,Kit Carson,Brenda K Pratt,Terrie Hui,Martha Wolf,0,15
+17048,4,2025-08-26,PINEY Dink & Disorderly,PINEY Dinking Buddies,Susie Welsh Fisher,Michele Kelly,Judy Frances Kane,Helen Tompkins,15,4
+17048,5,2025-08-26,PINEY Dink & Disorderly,PINEY Dinking Buddies,Suzan Bumby,Shay Charles,Terrie Hui,Martha Wolf,2,15
+17048,6,2025-08-26,PINEY Dink & Disorderly,PINEY Dinking Buddies,Kit Carson,Brenda K Pratt,Kaylene Peets,Diane Fleischman,10,15
+17048,7,2025-08-26,PINEY Dink & Disorderly,PINEY Dinking Buddies,Susie Welsh Fisher,Michele Kelly,Terrie Hui,Martha Wolf,7,15
+17048,8,2025-08-26,PINEY Dink & Disorderly,PINEY Dinking Buddies,Suzan Bumby,Shay Charles,Kaylene Peets,Diane Fleischman,5,15
+17048,9,2025-08-26,PINEY Dink & Disorderly,PINEY Dinking Buddies,Kit Carson,Brenda K Pratt,Judy Frances Kane,Helen Tompkins,15,12
+17052,1,2025-09-02,HVCC Designated Dinkers,PINEY Dinking Buddies,Alice Horton,Amanda Gaston Ballew,Judy Frances Kane,Diane Fleischman,2,15
+17052,2,2025-09-02,HVCC Designated Dinkers,PINEY Dinking Buddies,Thekla Pappas,Amy Brisley,Wendy Richardson,Barbara Teagarden,8,15
+17052,3,2025-09-02,HVCC Designated Dinkers,PINEY Dinking Buddies,Bonnie Boone,VIrginia Pereira Dirschl,Martha Wolf,Linda Wu,6,15
+17052,4,2025-09-02,HVCC Designated Dinkers,PINEY Dinking Buddies,Alice Horton,Amanda Gaston Ballew,Wendy Richardson,Barbara Teagarden,1,15
+17052,5,2025-09-02,HVCC Designated Dinkers,PINEY Dinking Buddies,Thekla Pappas,Amy Brisley,Martha Wolf,Linda Wu,10,15
+17052,6,2025-09-02,HVCC Designated Dinkers,PINEY Dinking Buddies,Bonnie Boone,VIrginia Pereira Dirschl,Judy Frances Kane,Diane Fleischman,16,18
+17052,7,2025-09-02,HVCC Designated Dinkers,PINEY Dinking Buddies,Alice Horton,Amanda Gaston Ballew,Martha Wolf,Linda Wu,10,15
+17052,8,2025-09-02,HVCC Designated Dinkers,PINEY Dinking Buddies,Thekla Pappas,Amy Brisley,Judy Frances Kane,Diane Fleischman,5,15
+17052,9,2025-09-02,HVCC Designated Dinkers,PINEY Dinking Buddies,Bonnie Boone,VIrginia Pereira Dirschl,Wendy Richardson,Barbara Teagarden,15,4
+17053,1,2025-09-02,PINEY Dink & Disorderly,FENDOL Farm Paddle Squad,Lisa Saenz,Susan Breen,Paula Sutton,Kim Carpenter,4,15
+17053,2,2025-09-02,PINEY Dink & Disorderly,FENDOL Farm Paddle Squad,Tammy Bradley,Vicky Arne,Laura Maness,Barbara Noblin,15,5
+17053,3,2025-09-02,PINEY Dink & Disorderly,FENDOL Farm Paddle Squad,Kit Carson,Vickie Jernigan,Robin Dozer,Donna T McCarrell,15,4
+17053,4,2025-09-02,PINEY Dink & Disorderly,FENDOL Farm Paddle Squad,Lisa Saenz,Susan Breen,Laura Maness,Barbara Noblin,15,8
+17053,5,2025-09-02,PINEY Dink & Disorderly,FENDOL Farm Paddle Squad,Tammy Bradley,Vicky Arne,Robin Dozer,Donna T McCarrell,15,2
+17053,6,2025-09-02,PINEY Dink & Disorderly,FENDOL Farm Paddle Squad,Kit Carson,Vickie Jernigan,Paula Sutton,Kim Carpenter,5,15
+17053,7,2025-09-02,PINEY Dink & Disorderly,FENDOL Farm Paddle Squad,Lisa Saenz,Susan Breen,Robin Dozer,Donna T McCarrell,15,8
+17053,8,2025-09-02,PINEY Dink & Disorderly,FENDOL Farm Paddle Squad,Tammy Bradley,Vicky Arne,Paula Sutton,Kim Carpenter,15,3
+17053,9,2025-09-02,PINEY Dink & Disorderly,FENDOL Farm Paddle Squad,Kit Carson,Vickie Jernigan,Laura Maness,Barbara Noblin,1,15
+17062,1,2025-09-09,DUKE Dinking Devils,PINEY Dink & Disorderly,Lisa Purtell,Libby Hicks,Suzan Bumby,Susie Welsh Fisher,15,4
+17062,2,2025-09-09,DUKE Dinking Devils,PINEY Dink & Disorderly,Kris Selig,Mary Thomas,Robin Conway,Julie Welge,6,15
+17062,3,2025-09-09,DUKE Dinking Devils,PINEY Dink & Disorderly,Lisa Stella,Laura Schanberg,Tammy Bradley,Vicky Arne,10,15
+17062,4,2025-09-09,DUKE Dinking Devils,PINEY Dink & Disorderly,Lisa Purtell,Libby Hicks,Robin Conway,Julie Welge,8,15
+17062,5,2025-09-09,DUKE Dinking Devils,PINEY Dink & Disorderly,Kris Selig,Mary Thomas,Tammy Bradley,Vicky Arne,12,15
+17062,6,2025-09-09,DUKE Dinking Devils,PINEY Dink & Disorderly,Lisa Stella,Laura Schanberg,Suzan Bumby,Susie Welsh Fisher,15,3
+17062,7,2025-09-09,DUKE Dinking Devils,PINEY Dink & Disorderly,Lisa Purtell,Libby Hicks,Tammy Bradley,Vicky Arne,6,15
+17062,8,2025-09-09,DUKE Dinking Devils,PINEY Dink & Disorderly,Kris Selig,Mary Thomas,Suzan Bumby,Susie Welsh Fisher,12,15
+17062,9,2025-09-09,DUKE Dinking Devils,PINEY Dink & Disorderly,Lisa Stella,Laura Schanberg,Robin Conway,Julie Welge,14,16
+17063,1,2025-09-09,PINEY Dinking Buddies,FENDOL Farm Paddle Squad,Judy Frances Kane,Kaylene Peets,Debbie Danuser,Diane Michaud,12,15
+17063,2,2025-09-09,PINEY Dinking Buddies,FENDOL Farm Paddle Squad,Linda Wu,Terrie Hui,Leah I Goodman,Robin Dozer,15,5
+17063,3,2025-09-09,PINEY Dinking Buddies,FENDOL Farm Paddle Squad,Barbara Teagarden,Martha Wolf,Laura Maness,Paula Sutton,10,15
+17063,4,2025-09-09,PINEY Dinking Buddies,FENDOL Farm Paddle Squad,Judy Frances Kane,Kaylene Peets,Leah I Goodman,Robin Dozer,15,5
+17063,5,2025-09-09,PINEY Dinking Buddies,FENDOL Farm Paddle Squad,Linda Wu,Terrie Hui,Laura Maness,Paula Sutton,14,16
+17063,6,2025-09-09,PINEY Dinking Buddies,FENDOL Farm Paddle Squad,Barbara Teagarden,Martha Wolf,Debbie Danuser,Diane Michaud,15,5
+17063,7,2025-09-09,PINEY Dinking Buddies,FENDOL Farm Paddle Squad,Judy Frances Kane,Kaylene Peets,Laura Maness,Paula Sutton,4,15
+17063,8,2025-09-09,PINEY Dinking Buddies,FENDOL Farm Paddle Squad,Linda Wu,Terrie Hui,Debbie Danuser,Diane Michaud,15,4
+17063,9,2025-09-09,PINEY Dinking Buddies,FENDOL Farm Paddle Squad,Barbara Teagarden,Martha Wolf,Leah I Goodman,Robin Dozer,15,7
+17075,1,2025-09-16,FENDOL Farm Paddle Squad,DUKE Dinking Devils,Paula Sutton,Laura Maness,Jane Kestenbaum,Kris Selig,15,13
+17075,2,2025-09-16,FENDOL Farm Paddle Squad,DUKE Dinking Devils,Debi Collins,Kim Carpenter,Lisa Stella,Gennifer Weisenfeld,15,3
+17075,3,2025-09-16,FENDOL Farm Paddle Squad,DUKE Dinking Devils,Debbie Danuser,Leah I Goodman,Laura Schanberg,Elizabeth Goettman Christopher,15,9
+17075,4,2025-09-16,FENDOL Farm Paddle Squad,DUKE Dinking Devils,Paula Sutton,Laura Maness,Lisa Stella,Gennifer Weisenfeld,15,3
+17075,5,2025-09-16,FENDOL Farm Paddle Squad,DUKE Dinking Devils,Debi Collins,Kim Carpenter,Laura Schanberg,Elizabeth Goettman Christopher,15,13
+17075,6,2025-09-16,FENDOL Farm Paddle Squad,DUKE Dinking Devils,Debbie Danuser,Leah I Goodman,Jane Kestenbaum,Kris Selig,15,10
+17075,7,2025-09-16,FENDOL Farm Paddle Squad,DUKE Dinking Devils,Paula Sutton,Laura Maness,Laura Schanberg,Elizabeth Goettman Christopher,15,5
+17075,8,2025-09-16,FENDOL Farm Paddle Squad,DUKE Dinking Devils,Debi Collins,Kim Carpenter,Jane Kestenbaum,Kris Selig,7,15
+17075,9,2025-09-16,FENDOL Farm Paddle Squad,DUKE Dinking Devils,Debbie Danuser,Leah I Goodman,Lisa Stella,Gennifer Weisenfeld,16,14
+17076,1,2025-09-16,HVCC Designated Dinkers,PINEY Dink & Disorderly,Peggy Harris,Della L McDowell,Susan Breen,Julie Welge,9,15
+17076,2,2025-09-16,HVCC Designated Dinkers,PINEY Dink & Disorderly,Amanda Gaston Ballew,Amy Brisley,Lisa Saenz,Brenda K Pratt,13,15
+17076,3,2025-09-16,HVCC Designated Dinkers,PINEY Dink & Disorderly,Thekla Pappas,Alice Horton,Shay Charles,Vickie Jernigan,1,15
+17076,4,2025-09-16,HVCC Designated Dinkers,PINEY Dink & Disorderly,Peggy Harris,Della L McDowell,Lisa Saenz,Brenda K Pratt,11,15
+17076,5,2025-09-16,HVCC Designated Dinkers,PINEY Dink & Disorderly,Amanda Gaston Ballew,Amy Brisley,Shay Charles,Vickie Jernigan,9,15
+17076,6,2025-09-16,HVCC Designated Dinkers,PINEY Dink & Disorderly,Thekla Pappas,Alice Horton,Susan Breen,Julie Welge,1,15
+17076,7,2025-09-16,HVCC Designated Dinkers,PINEY Dink & Disorderly,Peggy Harris,Della L McDowell,Shay Charles,Vickie Jernigan,9,15
+17076,8,2025-09-16,HVCC Designated Dinkers,PINEY Dink & Disorderly,Amanda Gaston Ballew,Amy Brisley,Susan Breen,Julie Welge,11,15
+17076,9,2025-09-16,HVCC Designated Dinkers,PINEY Dink & Disorderly,Thekla Pappas,Alice Horton,Lisa Saenz,Brenda K Pratt,6,15
+17087,1,2025-09-23,DUKE Dinking Devils,PINEY Dinking Buddies,Lisa Purtell,Jane Kestenbaum,Barbara Teagarden,Martha Wolf,15,11
+17087,2,2025-09-23,DUKE Dinking Devils,PINEY Dinking Buddies,Lisa Stella,Cecilia Csapo,Diane Fleischman,Wendy Richardson,12,15
+17087,3,2025-09-23,DUKE Dinking Devils,PINEY Dinking Buddies,Libby Hicks,Mary Thomas,Kaylene Peets,Terrie Hui,15,4
+17087,4,2025-09-23,DUKE Dinking Devils,PINEY Dinking Buddies,Lisa Purtell,Jane Kestenbaum,Diane Fleischman,Wendy Richardson,15,11
+17087,5,2025-09-23,DUKE Dinking Devils,PINEY Dinking Buddies,Lisa Stella,Cecilia Csapo,Kaylene Peets,Terrie Hui,15,11
+17087,6,2025-09-23,DUKE Dinking Devils,PINEY Dinking Buddies,Libby Hicks,Mary Thomas,Barbara Teagarden,Martha Wolf,19,17
+17087,7,2025-09-23,DUKE Dinking Devils,PINEY Dinking Buddies,Lisa Purtell,Jane Kestenbaum,Kaylene Peets,Terrie Hui,15,9
+17087,8,2025-09-23,DUKE Dinking Devils,PINEY Dinking Buddies,Lisa Stella,Cecilia Csapo,Barbara Teagarden,Martha Wolf,15,8
+17087,9,2025-09-23,DUKE Dinking Devils,PINEY Dinking Buddies,Libby Hicks,Mary Thomas,Diane Fleischman,Wendy Richardson,14,16
+17088,1,2025-09-23,HVCC Designated Dinkers,FENDOL Farm Paddle Squad,Amanda Gaston Ballew,Laura Shaffer,Laura Maness,Kim Carpenter,6,15
+17088,2,2025-09-23,HVCC Designated Dinkers,FENDOL Farm Paddle Squad,Della L McDowell,Peggy Harris,Debi Collins,Debbie Danuser,12,15
+17088,3,2025-09-23,HVCC Designated Dinkers,FENDOL Farm Paddle Squad,Bonnie Boone,VIrginia Pereira Dirschl,Diane Michaud,Robin Dozer,15,4
+17088,4,2025-09-23,HVCC Designated Dinkers,FENDOL Farm Paddle Squad,Amanda Gaston Ballew,Laura Shaffer,Debi Collins,Debbie Danuser,12,15
+17088,5,2025-09-23,HVCC Designated Dinkers,FENDOL Farm Paddle Squad,Della L McDowell,Peggy Harris,Diane Michaud,Robin Dozer,15,2
+17088,6,2025-09-23,HVCC Designated Dinkers,FENDOL Farm Paddle Squad,Bonnie Boone,VIrginia Pereira Dirschl,Laura Maness,Kim Carpenter,10,15
+17088,7,2025-09-23,HVCC Designated Dinkers,FENDOL Farm Paddle Squad,Amanda Gaston Ballew,Laura Shaffer,Diane Michaud,Robin Dozer,15,10
+17088,8,2025-09-23,HVCC Designated Dinkers,FENDOL Farm Paddle Squad,Della L McDowell,Peggy Harris,Laura Maness,Kim Carpenter,7,15
+17088,9,2025-09-23,HVCC Designated Dinkers,FENDOL Farm Paddle Squad,Bonnie Boone,VIrginia Pereira Dirschl,Debi Collins,Debbie Danuser,13,15
+17094,1,2025-09-30,FENDOL Farm Paddle Squad,PINEY Dink & Disorderly,Paula Sutton,Laura Maness,Susan Breen,Susie Welsh Fisher,15,8
+17094,2,2025-09-30,FENDOL Farm Paddle Squad,PINEY Dink & Disorderly,Debi Collins,Kim Carpenter,Shay Charles,Vickie Jernigan,14,16
+17094,3,2025-09-30,FENDOL Farm Paddle Squad,PINEY Dink & Disorderly,Leah I Goodman,Diane Michaud,Michele Kelly,Vicky Arne,3,15
+17094,4,2025-09-30,FENDOL Farm Paddle Squad,PINEY Dink & Disorderly,Paula Sutton,Laura Maness,Shay Charles,Vickie Jernigan,15,5
+17094,5,2025-09-30,FENDOL Farm Paddle Squad,PINEY Dink & Disorderly,Debi Collins,Kim Carpenter,Michele Kelly,Vicky Arne,10,15
+17094,6,2025-09-30,FENDOL Farm Paddle Squad,PINEY Dink & Disorderly,Leah I Goodman,Diane Michaud,Susan Breen,Susie Welsh Fisher,8,15
+17094,7,2025-09-30,FENDOL Farm Paddle Squad,PINEY Dink & Disorderly,Paula Sutton,Laura Maness,Michele Kelly,Vicky Arne,15,9
+17094,8,2025-09-30,FENDOL Farm Paddle Squad,PINEY Dink & Disorderly,Debi Collins,Kim Carpenter,Susan Breen,Susie Welsh Fisher,15,9
+17094,9,2025-09-30,FENDOL Farm Paddle Squad,PINEY Dink & Disorderly,Leah I Goodman,Diane Michaud,Shay Charles,Vickie Jernigan,7,15
+17095,1,2025-09-30,PINEY Dinking Buddies,HVCC Designated Dinkers,Wendy Richardson,Kaylene Peets,VIrginia Pereira Dirschl,Lynn Toms,15,5
+17095,2,2025-09-30,PINEY Dinking Buddies,HVCC Designated Dinkers,Terrie Hui,Linda Wu,Alice Horton,Della L McDowell,15,2
+17095,3,2025-09-30,PINEY Dinking Buddies,HVCC Designated Dinkers,Barbara Teagarden,Martha Wolf,DEFAULT,DEFAULT,15,0
+17095,4,2025-09-30,PINEY Dinking Buddies,HVCC Designated Dinkers,Wendy Richardson,Kaylene Peets,Alice Horton,Della L McDowell,15,3
+17095,5,2025-09-30,PINEY Dinking Buddies,HVCC Designated Dinkers,Terrie Hui,Linda Wu,DEFAULT,DEFAULT,15,0
+17095,6,2025-09-30,PINEY Dinking Buddies,HVCC Designated Dinkers,Barbara Teagarden,Martha Wolf,VIrginia Pereira Dirschl,Lynn Toms,15,8
+17095,7,2025-09-30,PINEY Dinking Buddies,HVCC Designated Dinkers,Wendy Richardson,Kaylene Peets,DEFAULT,DEFAULT,15,0
+17095,8,2025-09-30,PINEY Dinking Buddies,HVCC Designated Dinkers,Terrie Hui,Linda Wu,VIrginia Pereira Dirschl,Lynn Toms,15,6
+17095,9,2025-09-30,PINEY Dinking Buddies,HVCC Designated Dinkers,Barbara Teagarden,Martha Wolf,Alice Horton,Della L McDowell,15,7
+17105,1,2025-10-07,FENDOL Farm Paddle Squad,PINEY Dinking Buddies,Paula Sutton,Laura Maness,Judy Frances Kane,Diane Fleischman,15,9
+17105,2,2025-10-07,FENDOL Farm Paddle Squad,PINEY Dinking Buddies,Kim Carpenter,Debi Collins,Wendy Richardson,Kaylene Peets,10,15
+17105,3,2025-10-07,FENDOL Farm Paddle Squad,PINEY Dinking Buddies,Diane Michaud,Barbara Noblin,Barbara Teagarden,Joann Bristol,1,15
+17105,4,2025-10-07,FENDOL Farm Paddle Squad,PINEY Dinking Buddies,Paula Sutton,Laura Maness,Wendy Richardson,Kaylene Peets,15,2
+17105,5,2025-10-07,FENDOL Farm Paddle Squad,PINEY Dinking Buddies,Kim Carpenter,Debi Collins,Barbara Teagarden,Joann Bristol,17,15
+17105,6,2025-10-07,FENDOL Farm Paddle Squad,PINEY Dinking Buddies,Diane Michaud,Barbara Noblin,Judy Frances Kane,Diane Fleischman,5,15
+17105,7,2025-10-07,FENDOL Farm Paddle Squad,PINEY Dinking Buddies,Paula Sutton,Laura Maness,Barbara Teagarden,Joann Bristol,11,15
+17105,8,2025-10-07,FENDOL Farm Paddle Squad,PINEY Dinking Buddies,Kim Carpenter,Debi Collins,Judy Frances Kane,Diane Fleischman,15,11
+17105,9,2025-10-07,FENDOL Farm Paddle Squad,PINEY Dinking Buddies,Diane Michaud,Barbara Noblin,Wendy Richardson,Kaylene Peets,1,15
+17106,1,2025-10-07,PINEY Dink & Disorderly,DUKE Dinking Devils,Kit Carson,Lisa Saenz,Lisa Stella,Cecilia Csapo,10,15
+17106,2,2025-10-07,PINEY Dink & Disorderly,DUKE Dinking Devils,Susan Breen,Michele Kelly,Lisa Purtell,Laura Schanberg,15,8
+17106,3,2025-10-07,PINEY Dink & Disorderly,DUKE Dinking Devils,Shay Charles,Vicky Arne,Elizabeth Goettman Christopher,Mary Thomas,15,8
+17106,4,2025-10-07,PINEY Dink & Disorderly,DUKE Dinking Devils,Kit Carson,Lisa Saenz,Lisa Purtell,Laura Schanberg,6,15
+17106,5,2025-10-07,PINEY Dink & Disorderly,DUKE Dinking Devils,Susan Breen,Michele Kelly,Elizabeth Goettman Christopher,Mary Thomas,11,15
+17106,6,2025-10-07,PINEY Dink & Disorderly,DUKE Dinking Devils,Shay Charles,Vicky Arne,Lisa Stella,Cecilia Csapo,7,15
+17106,7,2025-10-07,PINEY Dink & Disorderly,DUKE Dinking Devils,Kit Carson,Lisa Saenz,Elizabeth Goettman Christopher,Mary Thomas,10,15
+17106,8,2025-10-07,PINEY Dink & Disorderly,DUKE Dinking Devils,Susan Breen,Michele Kelly,Lisa Stella,Cecilia Csapo,14,16
+17106,9,2025-10-07,PINEY Dink & Disorderly,DUKE Dinking Devils,Shay Charles,Vicky Arne,Lisa Purtell,Laura Schanberg,15,7
+17117,1,2025-10-14,HVCC Designated Dinkers,DUKE Dinking Devils,Alice Horton,Lynn Toms,Kris Selig,Lisa Purtell,1,15
+17117,2,2025-10-14,HVCC Designated Dinkers,DUKE Dinking Devils,Laura Shaffer,Della L McDowell,Libby Hicks,Jane Kestenbaum,11,15
+17117,3,2025-10-14,HVCC Designated Dinkers,DUKE Dinking Devils,DEFAULT,DEFAULT,Elizabeth Goettman Christopher,Mary Thomas,0,15
+17117,4,2025-10-14,HVCC Designated Dinkers,DUKE Dinking Devils,Alice Horton,Lynn Toms,Libby Hicks,Jane Kestenbaum,2,15
+17117,5,2025-10-14,HVCC Designated Dinkers,DUKE Dinking Devils,Laura Shaffer,Della L McDowell,Elizabeth Goettman Christopher,Mary Thomas,10,15
+17117,6,2025-10-14,HVCC Designated Dinkers,DUKE Dinking Devils,DEFAULT,DEFAULT,Kris Selig,Lisa Purtell,0,15
+17117,7,2025-10-14,HVCC Designated Dinkers,DUKE Dinking Devils,Alice Horton,Lynn Toms,Elizabeth Goettman Christopher,Mary Thomas,1,15
+17117,8,2025-10-14,HVCC Designated Dinkers,DUKE Dinking Devils,Laura Shaffer,Della L McDowell,Kris Selig,Lisa Purtell,9,15
+17117,9,2025-10-14,HVCC Designated Dinkers,DUKE Dinking Devils,DEFAULT,DEFAULT,Libby Hicks,Jane Kestenbaum,0,15
+17118,1,2025-10-14,PINEY Dinking Buddies,PINEY Dink & Disorderly,Wendy Richardson,Helen Tompkins,Susan Breen,Michele Kelly,4,15
+17118,2,2025-10-14,PINEY Dinking Buddies,PINEY Dink & Disorderly,Joann Bristol,Kaylene Peets,Brenda K Pratt,Tammy Bradley,15,11
+17118,3,2025-10-14,PINEY Dinking Buddies,PINEY Dink & Disorderly,Martha Wolf,Terrie Hui,Lisa Saenz,Melinda Vigolo,15,3
+17118,4,2025-10-14,PINEY Dinking Buddies,PINEY Dink & Disorderly,Wendy Richardson,Helen Tompkins,Brenda K Pratt,Tammy Bradley,13,15
+17118,5,2025-10-14,PINEY Dinking Buddies,PINEY Dink & Disorderly,Joann Bristol,Kaylene Peets,Lisa Saenz,Melinda Vigolo,10,15
+17118,6,2025-10-14,PINEY Dinking Buddies,PINEY Dink & Disorderly,Martha Wolf,Terrie Hui,Susan Breen,Michele Kelly,15,2
+17118,7,2025-10-14,PINEY Dinking Buddies,PINEY Dink & Disorderly,Wendy Richardson,Helen Tompkins,Lisa Saenz,Melinda Vigolo,8,15
+17118,8,2025-10-14,PINEY Dinking Buddies,PINEY Dink & Disorderly,Joann Bristol,Kaylene Peets,Susan Breen,Michele Kelly,15,8
+17118,9,2025-10-14,PINEY Dinking Buddies,PINEY Dink & Disorderly,Martha Wolf,Terrie Hui,Brenda K Pratt,Tammy Bradley,15,4
+17129,1,2025-10-21,DUKE Dinking Devils,FENDOL Farm Paddle Squad,Lisa Stella,Gennifer Weisenfeld,Debbie Danuser,Debi Collins,15,9
+17129,2,2025-10-21,DUKE Dinking Devils,FENDOL Farm Paddle Squad,Laura Schanberg,Libby Hicks,Diane Michaud,Laura Maness,15,13
+17129,3,2025-10-21,DUKE Dinking Devils,FENDOL Farm Paddle Squad,Kris Selig,Jane Kestenbaum,Barbara Noblin,Kim Carpenter,13,15
+17129,4,2025-10-21,DUKE Dinking Devils,FENDOL Farm Paddle Squad,Lisa Stella,Gennifer Weisenfeld,Diane Michaud,Laura Maness,15,6
+17129,5,2025-10-21,DUKE Dinking Devils,FENDOL Farm Paddle Squad,Laura Schanberg,Libby Hicks,Barbara Noblin,Kim Carpenter,15,4
+17129,6,2025-10-21,DUKE Dinking Devils,FENDOL Farm Paddle Squad,Kris Selig,Jane Kestenbaum,Debbie Danuser,Debi Collins,18,20
+17129,7,2025-10-21,DUKE Dinking Devils,FENDOL Farm Paddle Squad,Lisa Stella,Gennifer Weisenfeld,Barbara Noblin,Kim Carpenter,5,15
+17129,8,2025-10-21,DUKE Dinking Devils,FENDOL Farm Paddle Squad,Laura Schanberg,Libby Hicks,Debbie Danuser,Debi Collins,15,7
+17129,9,2025-10-21,DUKE Dinking Devils,FENDOL Farm Paddle Squad,Kris Selig,Jane Kestenbaum,Diane Michaud,Laura Maness,15,4
+17130,1,2025-10-21,PINEY Dink & Disorderly,HVCC Designated Dinkers,Tammy Bradley,Vicky Arne,VIrginia Pereira Dirschl,Bonnie Boone,9,15
+17130,2,2025-10-21,PINEY Dink & Disorderly,HVCC Designated Dinkers,Michele Kelly,Shay Charles,Della L McDowell,Amy Brisley,15,10
+17130,3,2025-10-21,PINEY Dink & Disorderly,HVCC Designated Dinkers,Kit Carson,Susan Breen,Peggy Harris,Renee Hodges,11,15
+17130,4,2025-10-21,PINEY Dink & Disorderly,HVCC Designated Dinkers,Tammy Bradley,Vicky Arne,Della L McDowell,Amy Brisley,15,1
+17130,5,2025-10-21,PINEY Dink & Disorderly,HVCC Designated Dinkers,Michele Kelly,Shay Charles,Peggy Harris,Renee Hodges,15,2
+17130,6,2025-10-21,PINEY Dink & Disorderly,HVCC Designated Dinkers,Kit Carson,Susan Breen,VIrginia Pereira Dirschl,Bonnie Boone,8,15
+17130,7,2025-10-21,PINEY Dink & Disorderly,HVCC Designated Dinkers,Tammy Bradley,Vicky Arne,Peggy Harris,Renee Hodges,15,5
+17130,8,2025-10-21,PINEY Dink & Disorderly,HVCC Designated Dinkers,Michele Kelly,Shay Charles,VIrginia Pereira Dirschl,Bonnie Boone,15,6
+17130,9,2025-10-21,PINEY Dink & Disorderly,HVCC Designated Dinkers,Kit Carson,Susan Breen,Della L McDowell,Amy Brisley,7,15
+17137,1,2025-11-01,DUKE Dinking Devils,PINEY Dinking Buddies,Cecilia Csapo,Lisa Stella,Joann Bristol,Diane Fleischman,15,13
+17137,2,2025-11-01,DUKE Dinking Devils,PINEY Dinking Buddies,Libby Hicks,Mary Thomas,Terrie Hui,Linda Wu,13,15
+17137,3,2025-11-01,DUKE Dinking Devils,PINEY Dinking Buddies,Jane Kestenbaum,Lisa Purtell,Barbara Teagarden,Martha Wolf,8,15
+17137,4,2025-11-01,DUKE Dinking Devils,PINEY Dinking Buddies,Cecilia Csapo,Lisa Stella,Terrie Hui,Linda Wu,5,15
+17137,5,2025-11-01,DUKE Dinking Devils,PINEY Dinking Buddies,Libby Hicks,Mary Thomas,Barbara Teagarden,Martha Wolf,15,6
+17137,6,2025-11-01,DUKE Dinking Devils,PINEY Dinking Buddies,Jane Kestenbaum,Lisa Purtell,Joann Bristol,Diane Fleischman,15,8
+17137,7,2025-11-01,DUKE Dinking Devils,PINEY Dinking Buddies,Cecilia Csapo,Lisa Stella,Barbara Teagarden,Martha Wolf,3,15
+17137,8,2025-11-01,DUKE Dinking Devils,PINEY Dinking Buddies,Libby Hicks,Mary Thomas,Joann Bristol,Diane Fleischman,8,15
+17137,9,2025-11-01,DUKE Dinking Devils,PINEY Dinking Buddies,Jane Kestenbaum,Lisa Purtell,Terrie Hui,Linda Wu,10,15

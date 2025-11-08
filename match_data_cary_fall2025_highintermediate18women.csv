@@ -1,0 +1,172 @@
+match_id,game_id,match_date,team1_name,team2_name,partner1,partner2,opponent1,opponent2,team1_points,team2_points
+16510,1,2025-08-18,TOC The Real Dill,MD Banger Club,Aulia Tandradinata,Lon Le,Christina Lynn Zadell,Fiona Degnan,4,15
+16510,2,2025-08-18,TOC The Real Dill,MD Banger Club,Sandy Wayne,Stephanie Chua,Macy Fisher,Cindy Winzenz,11,15
+16510,3,2025-08-18,TOC The Real Dill,MD Banger Club,Eva Yip,Nicole Santos,Ann Leuth,Rachael Boland,15,5
+16510,4,2025-08-18,TOC The Real Dill,MD Banger Club,Aulia Tandradinata,Lon Le,Macy Fisher,Cindy Winzenz,15,9
+16510,5,2025-08-18,TOC The Real Dill,MD Banger Club,Sandy Wayne,Stephanie Chua,Ann Leuth,Rachael Boland,15,10
+16510,6,2025-08-18,TOC The Real Dill,MD Banger Club,Eva Yip,Nicole Santos,Christina Lynn Zadell,Fiona Degnan,9,15
+16510,7,2025-08-18,TOC The Real Dill,MD Banger Club,Aulia Tandradinata,Lon Le,Ann Leuth,Rachael Boland,15,4
+16510,8,2025-08-18,TOC The Real Dill,MD Banger Club,Sandy Wayne,Stephanie Chua,Christina Lynn Zadell,Fiona Degnan,1,15
+16510,9,2025-08-18,TOC The Real Dill,MD Banger Club,Eva Yip,Nicole Santos,Macy Fisher,Cindy Winzenz,15,6
+16514,1,2025-08-18,TOC Just Dill With It,TOC Drop it Like it's Hot,Laine Cavanaugh,Angela Slagill,Kelly Alison Martin,Dione Stuart,12,15
+16514,2,2025-08-18,TOC Just Dill With It,TOC Drop it Like it's Hot,Cheryl Briley,Sandrine Tokoto,Callie Ellison,Meredith June Earl,2,15
+16514,3,2025-08-18,TOC Just Dill With It,TOC Drop it Like it's Hot,SaiSony K,Keerthi Bikkasani,Molly VanDyne,Emily Shira,6,15
+16514,4,2025-08-18,TOC Just Dill With It,TOC Drop it Like it's Hot,Laine Cavanaugh,Angela Slagill,Callie Ellison,Meredith June Earl,7,15
+16514,5,2025-08-18,TOC Just Dill With It,TOC Drop it Like it's Hot,Cheryl Briley,Sandrine Tokoto,Molly VanDyne,Emily Shira,15,11
+16514,6,2025-08-18,TOC Just Dill With It,TOC Drop it Like it's Hot,SaiSony K,Keerthi Bikkasani,Kelly Alison Martin,Dione Stuart,2,15
+16514,7,2025-08-18,TOC Just Dill With It,TOC Drop it Like it's Hot,Laine Cavanaugh,Angela Slagill,Molly VanDyne,Emily Shira,4,15
+16514,8,2025-08-18,TOC Just Dill With It,TOC Drop it Like it's Hot,Cheryl Briley,Sandrine Tokoto,Kelly Alison Martin,Dione Stuart,8,15
+16514,9,2025-08-18,TOC Just Dill With It,TOC Drop it Like it's Hot,SaiSony K,Keerthi Bikkasani,Callie Ellison,Meredith June Earl,5,15
+16535,1,2025-08-25,MD Banger Club,TOC Drop it Like it's Hot,Jennifer Reese,Katherine Hansen,Ashley Waddey,Emily Shira,2,15
+16535,2,2025-08-25,MD Banger Club,TOC Drop it Like it's Hot,Christina Lynn Zadell,Marti Bowker,Susan Barsky,Meredith June Earl,14,16
+16535,3,2025-08-25,MD Banger Club,TOC Drop it Like it's Hot,Susan Bowser,Martha Alderson Polk,Kelly Alison Martin,Molly VanDyne,1,15
+16535,4,2025-08-25,MD Banger Club,TOC Drop it Like it's Hot,Jennifer Reese,Katherine Hansen,Susan Barsky,Meredith June Earl,15,12
+16535,5,2025-08-25,MD Banger Club,TOC Drop it Like it's Hot,Christina Lynn Zadell,Marti Bowker,Kelly Alison Martin,Molly VanDyne,15,9
+16535,6,2025-08-25,MD Banger Club,TOC Drop it Like it's Hot,Susan Bowser,Martha Alderson Polk,Ashley Waddey,Emily Shira,2,15
+16535,7,2025-08-25,MD Banger Club,TOC Drop it Like it's Hot,Jennifer Reese,Katherine Hansen,Kelly Alison Martin,Molly VanDyne,6,15
+16535,8,2025-08-25,MD Banger Club,TOC Drop it Like it's Hot,Christina Lynn Zadell,Marti Bowker,Ashley Waddey,Emily Shira,15,2
+16535,9,2025-08-25,MD Banger Club,TOC Drop it Like it's Hot,Susan Bowser,Martha Alderson Polk,Susan Barsky,Meredith June Earl,2,15
+16539,1,2025-08-25,TOC The Real Dill,TOC Just Dill With It,Lon Le,Aulia Tandradinata,Cynthia Corley,Katie Patel,15,8
+16539,2,2025-08-25,TOC The Real Dill,TOC Just Dill With It,Nicole Santos,Sarika Hardas Mehta,Cheryl Briley,Lauren Briley,15,7
+16539,3,2025-08-25,TOC The Real Dill,TOC Just Dill With It,Sandy Wayne,Stephanie Chua,Laine Cavanaugh,Sandrine Tokoto,12,15
+16539,4,2025-08-25,TOC The Real Dill,TOC Just Dill With It,Lon Le,Aulia Tandradinata,Cheryl Briley,Lauren Briley,15,4
+16539,5,2025-08-25,TOC The Real Dill,TOC Just Dill With It,Nicole Santos,Sarika Hardas Mehta,Laine Cavanaugh,Sandrine Tokoto,15,10
+16539,6,2025-08-25,TOC The Real Dill,TOC Just Dill With It,Sandy Wayne,Stephanie Chua,Cynthia Corley,Katie Patel,7,15
+16539,7,2025-08-25,TOC The Real Dill,TOC Just Dill With It,Lon Le,Aulia Tandradinata,Laine Cavanaugh,Sandrine Tokoto,15,12
+16539,8,2025-08-25,TOC The Real Dill,TOC Just Dill With It,Nicole Santos,Sarika Hardas Mehta,Cynthia Corley,Katie Patel,15,10
+16539,9,2025-08-25,TOC The Real Dill,TOC Just Dill With It,Sandy Wayne,Stephanie Chua,Cheryl Briley,Lauren Briley,15,4
+16569,1,2025-09-08,MD Banger Club,TOC Just Dill With It,Cindy Winzenz,Fiona Degnan,Angela Slagill,Laine Cavanaugh,15,7
+16569,2,2025-09-08,MD Banger Club,TOC Just Dill With It,Katherine Hansen,Martha Alderson Polk,Katie Patel,Keerthi Bikkasani,8,15
+16569,3,2025-09-08,MD Banger Club,TOC Just Dill With It,Rachael Boland,Susan Bowser,Lauren Briley,Sandrine Tokoto,15,9
+16569,4,2025-09-08,MD Banger Club,TOC Just Dill With It,Cindy Winzenz,Fiona Degnan,Katie Patel,Keerthi Bikkasani,15,8
+16569,5,2025-09-08,MD Banger Club,TOC Just Dill With It,Katherine Hansen,Martha Alderson Polk,Lauren Briley,Sandrine Tokoto,15,12
+16569,6,2025-09-08,MD Banger Club,TOC Just Dill With It,Rachael Boland,Susan Bowser,Angela Slagill,Laine Cavanaugh,8,15
+16569,7,2025-09-08,MD Banger Club,TOC Just Dill With It,Cindy Winzenz,Fiona Degnan,Lauren Briley,Sandrine Tokoto,15,8
+16569,8,2025-09-08,MD Banger Club,TOC Just Dill With It,Katherine Hansen,Martha Alderson Polk,Angela Slagill,Laine Cavanaugh,5,15
+16569,9,2025-09-08,MD Banger Club,TOC Just Dill With It,Rachael Boland,Susan Bowser,Katie Patel,Keerthi Bikkasani,13,15
+16588,1,2025-09-14,TOC Drop it Like it's Hot,TOC The Real Dill,Callie Ellison,Ashley Waddey,Stephanie Chua,Lon Le,15,2
+16588,2,2025-09-14,TOC Drop it Like it's Hot,TOC The Real Dill,Dione Stuart,Emily Shira,Sarika Hardas Mehta,Sandy Wayne,15,6
+16588,3,2025-09-14,TOC Drop it Like it's Hot,TOC The Real Dill,Kelly Alison Martin,Molly VanDyne,Eva Yip,Nicole Santos,15,7
+16588,4,2025-09-14,TOC Drop it Like it's Hot,TOC The Real Dill,Callie Ellison,Ashley Waddey,Sarika Hardas Mehta,Sandy Wayne,15,9
+16588,5,2025-09-14,TOC Drop it Like it's Hot,TOC The Real Dill,Dione Stuart,Emily Shira,Eva Yip,Nicole Santos,15,11
+16588,6,2025-09-14,TOC Drop it Like it's Hot,TOC The Real Dill,Kelly Alison Martin,Molly VanDyne,Stephanie Chua,Lon Le,9,15
+16588,7,2025-09-14,TOC Drop it Like it's Hot,TOC The Real Dill,Callie Ellison,Ashley Waddey,Eva Yip,Nicole Santos,15,13
+16588,8,2025-09-14,TOC Drop it Like it's Hot,TOC The Real Dill,Dione Stuart,Emily Shira,Stephanie Chua,Lon Le,15,12
+16588,9,2025-09-14,TOC Drop it Like it's Hot,TOC The Real Dill,Kelly Alison Martin,Molly VanDyne,Sarika Hardas Mehta,Sandy Wayne,15,9
+16591,1,2025-09-15,MD Banger Club,TOC The Real Dill,Katherine Hansen,Jennifer Reese,Eva Yip,Sandy Wayne,17,15
+16591,2,2025-09-15,MD Banger Club,TOC The Real Dill,Susan Bowser,Rachael Boland,Nicole Santos,Sarika Hardas Mehta,9,15
+16591,3,2025-09-15,MD Banger Club,TOC The Real Dill,Heather Crichton,Martha Alderson Polk,Lon Le,Stephanie Chua,0,15
+16591,4,2025-09-15,MD Banger Club,TOC The Real Dill,Katherine Hansen,Jennifer Reese,Nicole Santos,Sarika Hardas Mehta,15,4
+16591,5,2025-09-15,MD Banger Club,TOC The Real Dill,Susan Bowser,Rachael Boland,Lon Le,Stephanie Chua,4,15
+16591,6,2025-09-15,MD Banger Club,TOC The Real Dill,Heather Crichton,Martha Alderson Polk,Eva Yip,Sandy Wayne,10,15
+16591,7,2025-09-15,MD Banger Club,TOC The Real Dill,Katherine Hansen,Jennifer Reese,Lon Le,Stephanie Chua,8,15
+16591,8,2025-09-15,MD Banger Club,TOC The Real Dill,Susan Bowser,Rachael Boland,Eva Yip,Sandy Wayne,11,15
+16591,9,2025-09-15,MD Banger Club,TOC The Real Dill,Heather Crichton,Martha Alderson Polk,Nicole Santos,Sarika Hardas Mehta,0,15
+16594,1,2025-09-15,TOC Drop it Like it's Hot,TOC Just Dill With It,Meredith June Earl,Molly VanDyne,Katie Patel,Angela Slagill,15,10
+16594,2,2025-09-15,TOC Drop it Like it's Hot,TOC Just Dill With It,Kelly Alison Martin,Callie Ellison,Cheryl Briley,Lauren Briley,15,1
+16594,3,2025-09-15,TOC Drop it Like it's Hot,TOC Just Dill With It,Emily Shira,Dione Stuart,Sandrine Tokoto,Keerthi Bikkasani,15,3
+16594,4,2025-09-15,TOC Drop it Like it's Hot,TOC Just Dill With It,Meredith June Earl,Molly VanDyne,Cheryl Briley,Lauren Briley,15,2
+16594,5,2025-09-15,TOC Drop it Like it's Hot,TOC Just Dill With It,Kelly Alison Martin,Callie Ellison,Sandrine Tokoto,Keerthi Bikkasani,15,9
+16594,6,2025-09-15,TOC Drop it Like it's Hot,TOC Just Dill With It,Emily Shira,Dione Stuart,Katie Patel,Angela Slagill,12,15
+16594,7,2025-09-15,TOC Drop it Like it's Hot,TOC Just Dill With It,Meredith June Earl,Molly VanDyne,Sandrine Tokoto,Keerthi Bikkasani,15,1
+16594,8,2025-09-15,TOC Drop it Like it's Hot,TOC Just Dill With It,Kelly Alison Martin,Callie Ellison,Katie Patel,Angela Slagill,15,8
+16594,9,2025-09-15,TOC Drop it Like it's Hot,TOC Just Dill With It,Emily Shira,Dione Stuart,Cheryl Briley,Lauren Briley,15,8
+16614,1,2025-09-22,TOC Drop it Like it's Hot,MD Banger Club,Callie Ellison,Meredith June Earl,Christina Lynn Zadell,Marti Bowker,12,15
+16614,2,2025-09-22,TOC Drop it Like it's Hot,MD Banger Club,Kelly Alison Martin,Susan Barsky,Fiona Degnan,Macy Fisher,5,15
+16614,3,2025-09-22,TOC Drop it Like it's Hot,MD Banger Club,Molly VanDyne,Dione Stuart,Rachael Boland,Martha Alderson Polk,15,3
+16614,4,2025-09-22,TOC Drop it Like it's Hot,MD Banger Club,Callie Ellison,Meredith June Earl,Fiona Degnan,Macy Fisher,12,15
+16614,5,2025-09-22,TOC Drop it Like it's Hot,MD Banger Club,Kelly Alison Martin,Susan Barsky,Rachael Boland,Martha Alderson Polk,15,10
+16614,6,2025-09-22,TOC Drop it Like it's Hot,MD Banger Club,Molly VanDyne,Dione Stuart,Christina Lynn Zadell,Marti Bowker,10,15
+16614,7,2025-09-22,TOC Drop it Like it's Hot,MD Banger Club,Callie Ellison,Meredith June Earl,Rachael Boland,Martha Alderson Polk,15,5
+16614,8,2025-09-22,TOC Drop it Like it's Hot,MD Banger Club,Kelly Alison Martin,Susan Barsky,Christina Lynn Zadell,Marti Bowker,15,10
+16614,9,2025-09-22,TOC Drop it Like it's Hot,MD Banger Club,Molly VanDyne,Dione Stuart,Fiona Degnan,Macy Fisher,12,15
+16617,1,2025-09-22,TOC Just Dill With It,TOC The Real Dill,Laine Cavanaugh,Maureen Headland,Nicole Santos,Sarika Hardas Mehta,11,15
+16617,2,2025-09-22,TOC Just Dill With It,TOC The Real Dill,Sandrine Tokoto,SaiSony K,Sandy Wayne,Marie Saylor,12,15
+16617,3,2025-09-22,TOC Just Dill With It,TOC The Real Dill,Cynthia Corley,Angela Slagill,Lon Le,Stephanie Chua,5,15
+16617,4,2025-09-22,TOC Just Dill With It,TOC The Real Dill,Laine Cavanaugh,Maureen Headland,Sandy Wayne,Marie Saylor,3,15
+16617,5,2025-09-22,TOC Just Dill With It,TOC The Real Dill,Sandrine Tokoto,SaiSony K,Lon Le,Stephanie Chua,8,15
+16617,6,2025-09-22,TOC Just Dill With It,TOC The Real Dill,Cynthia Corley,Angela Slagill,Nicole Santos,Sarika Hardas Mehta,12,15
+16617,7,2025-09-22,TOC Just Dill With It,TOC The Real Dill,Laine Cavanaugh,Maureen Headland,Lon Le,Stephanie Chua,4,15
+16617,8,2025-09-22,TOC Just Dill With It,TOC The Real Dill,Sandrine Tokoto,SaiSony K,Nicole Santos,Sarika Hardas Mehta,8,15
+16617,9,2025-09-22,TOC Just Dill With It,TOC The Real Dill,Cynthia Corley,Angela Slagill,Sandy Wayne,Marie Saylor,15,7
+16639,1,2025-09-29,TOC Just Dill With It,MD Banger Club,Cynthia Corley,Katie Patel,Christina Lynn Zadell,Fiona Degnan,15,12
+16639,2,2025-09-29,TOC Just Dill With It,MD Banger Club,Angela Slagill,Cheryl Briley,Susan Bowser,Macy Fisher,8,15
+16639,3,2025-09-29,TOC Just Dill With It,MD Banger Club,Laine Cavanaugh,Lauren Briley,Heather Crichton,Martha Alderson Polk,15,8
+16639,4,2025-09-29,TOC Just Dill With It,MD Banger Club,Cynthia Corley,Katie Patel,Susan Bowser,Macy Fisher,15,8
+16639,5,2025-09-29,TOC Just Dill With It,MD Banger Club,Angela Slagill,Cheryl Briley,Heather Crichton,Martha Alderson Polk,15,3
+16639,6,2025-09-29,TOC Just Dill With It,MD Banger Club,Laine Cavanaugh,Lauren Briley,Christina Lynn Zadell,Fiona Degnan,1,15
+16639,7,2025-09-29,TOC Just Dill With It,MD Banger Club,Cynthia Corley,Katie Patel,Heather Crichton,Martha Alderson Polk,15,3
+16639,8,2025-09-29,TOC Just Dill With It,MD Banger Club,Angela Slagill,Cheryl Briley,Christina Lynn Zadell,Fiona Degnan,2,15
+16639,9,2025-09-29,TOC Just Dill With It,MD Banger Club,Laine Cavanaugh,Lauren Briley,Susan Bowser,Macy Fisher,1,15
+16661,1,2025-10-05,TOC The Real Dill,TOC Drop it Like it's Hot,Nicole Santos,Eva Yip,Ashley Waddey,Molly VanDyne,15,13
+16661,2,2025-10-05,TOC The Real Dill,TOC Drop it Like it's Hot,Sarika Hardas Mehta,Marie Saylor,Susan Barsky,Meredith June Earl,15,9
+16661,3,2025-10-05,TOC The Real Dill,TOC Drop it Like it's Hot,Stephanie Chua,Aulia Tandradinata,Emily Shira,Callie Ellison,15,10
+16661,4,2025-10-05,TOC The Real Dill,TOC Drop it Like it's Hot,Nicole Santos,Eva Yip,Susan Barsky,Meredith June Earl,15,8
+16661,5,2025-10-05,TOC The Real Dill,TOC Drop it Like it's Hot,Sarika Hardas Mehta,Marie Saylor,Emily Shira,Callie Ellison,15,9
+16661,6,2025-10-05,TOC The Real Dill,TOC Drop it Like it's Hot,Stephanie Chua,Aulia Tandradinata,Ashley Waddey,Molly VanDyne,10,15
+16661,7,2025-10-05,TOC The Real Dill,TOC Drop it Like it's Hot,Nicole Santos,Eva Yip,Emily Shira,Callie Ellison,15,8
+16661,8,2025-10-05,TOC The Real Dill,TOC Drop it Like it's Hot,Sarika Hardas Mehta,Marie Saylor,Ashley Waddey,Molly VanDyne,13,15
+16661,9,2025-10-05,TOC The Real Dill,TOC Drop it Like it's Hot,Stephanie Chua,Aulia Tandradinata,Susan Barsky,Meredith June Earl,8,15
+16664,1,2025-10-06,TOC The Real Dill,MD Banger Club,Eva Yip,Nicole Santos,Rachael Boland,Heather Crichton,15,4
+16664,2,2025-10-06,TOC The Real Dill,MD Banger Club,Marie Saylor,Sandy Wayne,Marti Bowker,Katherine Hansen,15,2
+16664,3,2025-10-06,TOC The Real Dill,MD Banger Club,Lon Le,Aulia Tandradinata,Jennifer Reese,Christina Lynn Zadell,15,3
+16664,4,2025-10-06,TOC The Real Dill,MD Banger Club,Eva Yip,Nicole Santos,Marti Bowker,Katherine Hansen,15,6
+16664,5,2025-10-06,TOC The Real Dill,MD Banger Club,Marie Saylor,Sandy Wayne,Jennifer Reese,Christina Lynn Zadell,11,15
+16664,6,2025-10-06,TOC The Real Dill,MD Banger Club,Lon Le,Aulia Tandradinata,Rachael Boland,Heather Crichton,15,1
+16664,7,2025-10-06,TOC The Real Dill,MD Banger Club,Eva Yip,Nicole Santos,Jennifer Reese,Christina Lynn Zadell,15,12
+16664,8,2025-10-06,TOC The Real Dill,MD Banger Club,Marie Saylor,Sandy Wayne,Rachael Boland,Heather Crichton,15,5
+16664,9,2025-10-06,TOC The Real Dill,MD Banger Club,Lon Le,Aulia Tandradinata,Marti Bowker,Katherine Hansen,8,15
+16667,1,2025-10-06,TOC Just Dill With It,TOC Drop it Like it's Hot,Angela Slagill,Lauren Briley,Ashley Waddey,Molly VanDyne,12,15
+16667,2,2025-10-06,TOC Just Dill With It,TOC Drop it Like it's Hot,Cynthia Corley,Katie Patel,Susan Barsky,Meredith June Earl,7,15
+16667,3,2025-10-06,TOC Just Dill With It,TOC Drop it Like it's Hot,Maureen Headland,Keerthi Bikkasani,Dione Stuart,Emily Shira,12,15
+16667,4,2025-10-06,TOC Just Dill With It,TOC Drop it Like it's Hot,Angela Slagill,Lauren Briley,Susan Barsky,Meredith June Earl,2,15
+16667,5,2025-10-06,TOC Just Dill With It,TOC Drop it Like it's Hot,Cynthia Corley,Katie Patel,Dione Stuart,Emily Shira,15,12
+16667,6,2025-10-06,TOC Just Dill With It,TOC Drop it Like it's Hot,Maureen Headland,Keerthi Bikkasani,Ashley Waddey,Molly VanDyne,8,15
+16667,7,2025-10-06,TOC Just Dill With It,TOC Drop it Like it's Hot,Angela Slagill,Lauren Briley,Dione Stuart,Emily Shira,6,15
+16667,8,2025-10-06,TOC Just Dill With It,TOC Drop it Like it's Hot,Cynthia Corley,Katie Patel,Ashley Waddey,Molly VanDyne,10,15
+16667,9,2025-10-06,TOC Just Dill With It,TOC Drop it Like it's Hot,Maureen Headland,Keerthi Bikkasani,Susan Barsky,Meredith June Earl,6,15
+16688,1,2025-10-13,MD Banger Club,TOC Drop it Like it's Hot,Jennifer Reese,Katherine Hansen,Meredith June Earl,Dione Stuart,10,15
+16688,2,2025-10-13,MD Banger Club,TOC Drop it Like it's Hot,Fiona Degnan,Susan Bowser,Susan Barsky,Kelly Alison Martin,8,15
+16688,3,2025-10-13,MD Banger Club,TOC Drop it Like it's Hot,DEFAULT,DEFAULT,Molly VanDyne,Emily Shira,0,15
+16688,4,2025-10-13,MD Banger Club,TOC Drop it Like it's Hot,Jennifer Reese,Katherine Hansen,Susan Barsky,Kelly Alison Martin,12,15
+16688,5,2025-10-13,MD Banger Club,TOC Drop it Like it's Hot,Fiona Degnan,Susan Bowser,Molly VanDyne,Emily Shira,15,12
+16688,6,2025-10-13,MD Banger Club,TOC Drop it Like it's Hot,DEFAULT,DEFAULT,Meredith June Earl,Dione Stuart,0,15
+16688,7,2025-10-13,MD Banger Club,TOC Drop it Like it's Hot,Jennifer Reese,Katherine Hansen,Molly VanDyne,Emily Shira,9,15
+16688,8,2025-10-13,MD Banger Club,TOC Drop it Like it's Hot,Fiona Degnan,Susan Bowser,Meredith June Earl,Dione Stuart,8,15
+16688,9,2025-10-13,MD Banger Club,TOC Drop it Like it's Hot,DEFAULT,DEFAULT,Susan Barsky,Kelly Alison Martin,0,15
+16691,1,2025-10-13,TOC The Real Dill,TOC Just Dill With It,Marie Saylor,Sarika Hardas Mehta,Laine Cavanaugh,Angela Slagill,15,5
+16691,2,2025-10-13,TOC The Real Dill,TOC Just Dill With It,Stephanie Chua,Aulia Tandradinata,Sandrine Tokoto,Cheryl Briley,15,9
+16691,3,2025-10-13,TOC The Real Dill,TOC Just Dill With It,Eva Yip,Sandy Wayne,Lauren Briley,Keerthi Bikkasani,15,3
+16691,4,2025-10-13,TOC The Real Dill,TOC Just Dill With It,Marie Saylor,Sarika Hardas Mehta,Sandrine Tokoto,Cheryl Briley,15,3
+16691,5,2025-10-13,TOC The Real Dill,TOC Just Dill With It,Stephanie Chua,Aulia Tandradinata,Lauren Briley,Keerthi Bikkasani,15,5
+16691,6,2025-10-13,TOC The Real Dill,TOC Just Dill With It,Eva Yip,Sandy Wayne,Laine Cavanaugh,Angela Slagill,14,16
+16691,7,2025-10-13,TOC The Real Dill,TOC Just Dill With It,Marie Saylor,Sarika Hardas Mehta,Lauren Briley,Keerthi Bikkasani,15,6
+16691,8,2025-10-13,TOC The Real Dill,TOC Just Dill With It,Stephanie Chua,Aulia Tandradinata,Laine Cavanaugh,Angela Slagill,14,16
+16691,9,2025-10-13,TOC The Real Dill,TOC Just Dill With It,Eva Yip,Sandy Wayne,Sandrine Tokoto,Cheryl Briley,15,11
+16712,1,2025-10-20,MD Banger Club,TOC Just Dill With It,Fiona Degnan,Christina Lynn Zadell,Cynthia Corley,Katie Patel,16,14
+16712,2,2025-10-20,MD Banger Club,TOC Just Dill With It,Macy Fisher,Heather Crichton,Maureen Headland,Lauren Briley,15,10
+16712,3,2025-10-20,MD Banger Club,TOC Just Dill With It,Martha Alderson Polk,Susan Bowser,Angela Slagill,Cheryl Briley,7,15
+16712,4,2025-10-20,MD Banger Club,TOC Just Dill With It,Fiona Degnan,Christina Lynn Zadell,Maureen Headland,Lauren Briley,15,2
+16712,5,2025-10-20,MD Banger Club,TOC Just Dill With It,Macy Fisher,Heather Crichton,Angela Slagill,Cheryl Briley,10,15
+16712,6,2025-10-20,MD Banger Club,TOC Just Dill With It,Martha Alderson Polk,Susan Bowser,Cynthia Corley,Katie Patel,2,15
+16712,7,2025-10-20,MD Banger Club,TOC Just Dill With It,Fiona Degnan,Christina Lynn Zadell,Angela Slagill,Cheryl Briley,15,8
+16712,8,2025-10-20,MD Banger Club,TOC Just Dill With It,Macy Fisher,Heather Crichton,Cynthia Corley,Katie Patel,5,15
+16712,9,2025-10-20,MD Banger Club,TOC Just Dill With It,Martha Alderson Polk,Susan Bowser,Maureen Headland,Lauren Briley,15,10
+16715,1,2025-10-20,TOC Drop it Like it's Hot,TOC The Real Dill,Dione Stuart,Kelly Alison Martin,Lon Le,Aulia Tandradinata,12,15
+16715,2,2025-10-20,TOC Drop it Like it's Hot,TOC The Real Dill,Susan Barsky,Molly VanDyne,Marie Saylor,Stephanie Chua,15,13
+16715,3,2025-10-20,TOC Drop it Like it's Hot,TOC The Real Dill,Meredith June Earl,Callie Ellison,Eva Yip,Nicole Santos,15,13
+16715,4,2025-10-20,TOC Drop it Like it's Hot,TOC The Real Dill,Dione Stuart,Kelly Alison Martin,Marie Saylor,Stephanie Chua,15,7
+16715,5,2025-10-20,TOC Drop it Like it's Hot,TOC The Real Dill,Susan Barsky,Molly VanDyne,Eva Yip,Nicole Santos,3,15
+16715,6,2025-10-20,TOC Drop it Like it's Hot,TOC The Real Dill,Meredith June Earl,Callie Ellison,Lon Le,Aulia Tandradinata,15,3
+16715,7,2025-10-20,TOC Drop it Like it's Hot,TOC The Real Dill,Dione Stuart,Kelly Alison Martin,Eva Yip,Nicole Santos,15,12
+16715,8,2025-10-20,TOC Drop it Like it's Hot,TOC The Real Dill,Susan Barsky,Molly VanDyne,Lon Le,Aulia Tandradinata,3,15
+16715,9,2025-10-20,TOC Drop it Like it's Hot,TOC The Real Dill,Meredith June Earl,Callie Ellison,Marie Saylor,Stephanie Chua,15,1
+16750,1,2025-11-03,TOC Drop it Like it's Hot,TOC The Real Dill,Susan Barsky,Molly VanDyne,Marie Saylor,Sarika Hardas Mehta,15,4
+16750,2,2025-11-03,TOC Drop it Like it's Hot,TOC The Real Dill,Dione Stuart,Emily Shira,Lon Le,Aulia Tandradinata,13,15
+16750,3,2025-11-03,TOC Drop it Like it's Hot,TOC The Real Dill,Callie Ellison,Meredith June Earl,Eva Yip,Nicole Santos,18,16
+16750,4,2025-11-03,TOC Drop it Like it's Hot,TOC The Real Dill,Susan Barsky,Molly VanDyne,Lon Le,Aulia Tandradinata,8,15
+16750,5,2025-11-03,TOC Drop it Like it's Hot,TOC The Real Dill,Dione Stuart,Emily Shira,Eva Yip,Nicole Santos,7,15
+16750,6,2025-11-03,TOC Drop it Like it's Hot,TOC The Real Dill,Callie Ellison,Meredith June Earl,Marie Saylor,Sarika Hardas Mehta,15,7
+16750,7,2025-11-03,TOC Drop it Like it's Hot,TOC The Real Dill,Susan Barsky,Molly VanDyne,Eva Yip,Nicole Santos,8,15
+16750,8,2025-11-03,TOC Drop it Like it's Hot,TOC The Real Dill,Dione Stuart,Emily Shira,Marie Saylor,Sarika Hardas Mehta,13,15
+16750,9,2025-11-03,TOC Drop it Like it's Hot,TOC The Real Dill,Callie Ellison,Meredith June Earl,Lon Le,Aulia Tandradinata,15,8
