@@ -58,8 +58,14 @@ def parse_csv(input_file):
             if 'DEFAULT' in (p1, p2, o1, o2):
                 continue
 
-            score1 = int(row['team1_points'])
-            score2 = int(row['team2_points'])
+            # Skip rows where points are not integers (extra headers in concatenated files)
+            try:
+                score1 = int(row['team1_points'])
+                score2 = int(row['team2_points'])
+            except ValueError:
+                print(f"Skipping invalid row {idx}: {row}")
+                continue
+
             win_team = [p1, p2] if score1 > score2 else [o1, o2]
             lose_team = [o1, o2] if score1 > score2 else [p1, p2]
             team_won = score1 > score2
