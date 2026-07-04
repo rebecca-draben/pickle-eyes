@@ -1,550 +1,550 @@
-match_id,game_id,match_date,team1_name,team2_name,partner1,partner2,opponent1,opponent2,team1_points,team2_points
-18336,1,2026-03-17,7OAKS Day Dinkers (PM),NHC Dinks Before Drinks (PM),Erin Krupa,Mari Elizabeth Porter,Amy Pena,Julie Sullivan,15,12
-18336,2,2026-03-17,7OAKS Day Dinkers (PM),NHC Dinks Before Drinks (PM),Leigh Magee,Victoria Bell,LeAnne Bloedon,Stephanie Disbrow,13,15
-18336,3,2026-03-17,7OAKS Day Dinkers (PM),NHC Dinks Before Drinks (PM),Christine Widman,Angie Carden,Jessica McIntyre,Heather Mauzy,18,16
-18336,4,2026-03-17,7OAKS Day Dinkers (PM),NHC Dinks Before Drinks (PM),Erin Krupa,Mari Elizabeth Porter,LeAnne Bloedon,Stephanie Disbrow,15,12
-18336,5,2026-03-17,7OAKS Day Dinkers (PM),NHC Dinks Before Drinks (PM),Leigh Magee,Victoria Bell,Jessica McIntyre,Heather Mauzy,13,15
-18336,6,2026-03-17,7OAKS Day Dinkers (PM),NHC Dinks Before Drinks (PM),Christine Widman,Angie Carden,Amy Pena,Julie Sullivan,8,15
-18336,7,2026-03-17,7OAKS Day Dinkers (PM),NHC Dinks Before Drinks (PM),Erin Krupa,Mari Elizabeth Porter,Jessica McIntyre,Heather Mauzy,12,15
-18336,8,2026-03-17,7OAKS Day Dinkers (PM),NHC Dinks Before Drinks (PM),Leigh Magee,Victoria Bell,Amy Pena,Julie Sullivan,5,15
-18336,9,2026-03-17,7OAKS Day Dinkers (PM),NHC Dinks Before Drinks (PM),Christine Widman,Angie Carden,LeAnne Bloedon,Stephanie Disbrow,15,11
-18337,1,2026-03-17,BCCC Dinkin' Buddies (PM),7OAKS Late Night Kitchen (PM),Stephanie Testa,Megan Testa,Andra Kinlaw,Julie A Leon,4,15
-18337,2,2026-03-17,BCCC Dinkin' Buddies (PM),7OAKS Late Night Kitchen (PM),Shari Gianini,Sandy Ball,Sherrie L Lefere,Liz Broadway,7,15
-18337,3,2026-03-17,BCCC Dinkin' Buddies (PM),7OAKS Late Night Kitchen (PM),Kristen DiMillio Howering,Diane Sauer,Maggie Patterson,Danielle Stringer,15,3
-18337,4,2026-03-17,BCCC Dinkin' Buddies (PM),7OAKS Late Night Kitchen (PM),Stephanie Testa,Megan Testa,Sherrie L Lefere,Liz Broadway,1,15
-18337,5,2026-03-17,BCCC Dinkin' Buddies (PM),7OAKS Late Night Kitchen (PM),Shari Gianini,Sandy Ball,Maggie Patterson,Danielle Stringer,10,15
-18337,6,2026-03-17,BCCC Dinkin' Buddies (PM),7OAKS Late Night Kitchen (PM),Kristen DiMillio Howering,Diane Sauer,Andra Kinlaw,Julie A Leon,15,6
-18337,7,2026-03-17,BCCC Dinkin' Buddies (PM),7OAKS Late Night Kitchen (PM),Stephanie Testa,Megan Testa,Maggie Patterson,Danielle Stringer,2,15
-18337,8,2026-03-17,BCCC Dinkin' Buddies (PM),7OAKS Late Night Kitchen (PM),Shari Gianini,Sandy Ball,Andra Kinlaw,Julie A Leon,15,6
-18337,9,2026-03-17,BCCC Dinkin' Buddies (PM),7OAKS Late Night Kitchen (PM),Kristen DiMillio Howering,Diane Sauer,Sherrie L Lefere,Liz Broadway,15,3
-18338,1,2026-03-17,NHC Pink Paddle Club (PM),WPCC Dink Dynasty (PM),Emmy Garvey,Bethany Conner Perkins,Susan Hembarsky,Leigh Kimball,15,4
-18338,2,2026-03-17,NHC Pink Paddle Club (PM),WPCC Dink Dynasty (PM),Jennifer J Conley,Jaime Goodson Gaskins,Jody Hill,Karen Beth Delgado,15,8
-18338,3,2026-03-17,NHC Pink Paddle Club (PM),WPCC Dink Dynasty (PM),Kylie Harris,Teressa Paschaloudis,Lisa DeMarco,Rebecca Steffens,15,2
-18338,4,2026-03-17,NHC Pink Paddle Club (PM),WPCC Dink Dynasty (PM),Emmy Garvey,Bethany Conner Perkins,Jody Hill,Karen Beth Delgado,15,6
-18338,5,2026-03-17,NHC Pink Paddle Club (PM),WPCC Dink Dynasty (PM),Jennifer J Conley,Jaime Goodson Gaskins,Lisa DeMarco,Rebecca Steffens,15,5
-18338,6,2026-03-17,NHC Pink Paddle Club (PM),WPCC Dink Dynasty (PM),Kylie Harris,Teressa Paschaloudis,Susan Hembarsky,Leigh Kimball,10,15
-18338,7,2026-03-17,NHC Pink Paddle Club (PM),WPCC Dink Dynasty (PM),Emmy Garvey,Bethany Conner Perkins,Lisa DeMarco,Rebecca Steffens,15,0
-18338,8,2026-03-17,NHC Pink Paddle Club (PM),WPCC Dink Dynasty (PM),Jennifer J Conley,Jaime Goodson Gaskins,Susan Hembarsky,Leigh Kimball,15,6
-18338,9,2026-03-17,NHC Pink Paddle Club (PM),WPCC Dink Dynasty (PM),Kylie Harris,Teressa Paschaloudis,Jody Hill,Karen Beth Delgado,16,14
-18339,1,2026-03-17,WPCC Dill Breakers (PM),HASEN Made Ya Dink! (PM),Dafnie Driscoll,Teesa McKinley,Lan C Bello,Carolyn P Smith,15,9
-18339,2,2026-03-17,WPCC Dill Breakers (PM),HASEN Made Ya Dink! (PM),Janet Wilson Mitch,Kate Pirrung,Lynn Vitello,Dawn Frevert,4,15
-18339,3,2026-03-17,WPCC Dill Breakers (PM),HASEN Made Ya Dink! (PM),Melissa Kirk Landry,Melissa S Green,Sharon Regnier,Ashley McCollum,11,15
-18339,4,2026-03-17,WPCC Dill Breakers (PM),HASEN Made Ya Dink! (PM),Dafnie Driscoll,Teesa McKinley,Lynn Vitello,Dawn Frevert,7,15
-18339,5,2026-03-17,WPCC Dill Breakers (PM),HASEN Made Ya Dink! (PM),Janet Wilson Mitch,Kate Pirrung,Sharon Regnier,Ashley McCollum,11,15
-18339,6,2026-03-17,WPCC Dill Breakers (PM),HASEN Made Ya Dink! (PM),Melissa Kirk Landry,Melissa S Green,Lan C Bello,Carolyn P Smith,6,15
-18339,7,2026-03-17,WPCC Dill Breakers (PM),HASEN Made Ya Dink! (PM),Dafnie Driscoll,Teesa McKinley,Sharon Regnier,Ashley McCollum,12,15
-18339,8,2026-03-17,WPCC Dill Breakers (PM),HASEN Made Ya Dink! (PM),Janet Wilson Mitch,Kate Pirrung,Lan C Bello,Carolyn P Smith,11,15
-18339,9,2026-03-17,WPCC Dill Breakers (PM),HASEN Made Ya Dink! (PM),Melissa Kirk Landry,Melissa S Green,Lynn Vitello,Dawn Frevert,5,15
-18340,1,2026-03-17,7OAKS Spring Peeps (PM),NCST Point Taken,Laurie H Kramer,Sherry Lynn Goodson,Valerie Worth,Caroline Smith-Moore,9,15
-18340,2,2026-03-17,7OAKS Spring Peeps (PM),NCST Point Taken,Kathy Casadonte,Bethany Upton Squires,Stacy Gant,Silvia Elena Leguizamonschocher,3,15
-18340,3,2026-03-17,7OAKS Spring Peeps (PM),NCST Point Taken,Judy Liss Reger,Takako Schenberger,Sarah Hinson,Deirdre Clarke,9,15
-18340,4,2026-03-17,7OAKS Spring Peeps (PM),NCST Point Taken,Laurie H Kramer,Sherry Lynn Goodson,Stacy Gant,Silvia Elena Leguizamonschocher,15,7
-18340,5,2026-03-17,7OAKS Spring Peeps (PM),NCST Point Taken,Kathy Casadonte,Bethany Upton Squires,Sarah Hinson,Deirdre Clarke,6,15
-18340,6,2026-03-17,7OAKS Spring Peeps (PM),NCST Point Taken,Judy Liss Reger,Takako Schenberger,Valerie Worth,Caroline Smith-Moore,13,15
-18340,7,2026-03-17,7OAKS Spring Peeps (PM),NCST Point Taken,Laurie H Kramer,Sherry Lynn Goodson,Sarah Hinson,Deirdre Clarke,3,15
-18340,8,2026-03-17,7OAKS Spring Peeps (PM),NCST Point Taken,Kathy Casadonte,Bethany Upton Squires,Valerie Worth,Caroline Smith-Moore,17,15
-18340,9,2026-03-17,7OAKS Spring Peeps (PM),NCST Point Taken,Judy Liss Reger,Takako Schenberger,Stacy Gant,Silvia Elena Leguizamonschocher,14,16
-18341,1,2026-03-17,WPCC Pickled Pink (PM),HASEN Dink Responsibly 18+ (PM),Andrea Ellen McCartney,Lori Parkman,Candice V Diehl,Sharon F Barham,8,15
-18341,2,2026-03-17,WPCC Pickled Pink (PM),HASEN Dink Responsibly 18+ (PM),Nancy Page,Courtney McKim,Cybele Martin Brockmann,Jenny Stout,7,15
-18341,3,2026-03-17,WPCC Pickled Pink (PM),HASEN Dink Responsibly 18+ (PM),Alyssa Newton,Katie Ann Percy,Regina Heroux,Laurie Randall,5,15
-18341,4,2026-03-17,WPCC Pickled Pink (PM),HASEN Dink Responsibly 18+ (PM),Andrea Ellen McCartney,Lori Parkman,Cybele Martin Brockmann,Jenny Stout,15,8
-18341,5,2026-03-17,WPCC Pickled Pink (PM),HASEN Dink Responsibly 18+ (PM),Nancy Page,Courtney McKim,Regina Heroux,Laurie Randall,4,15
-18341,6,2026-03-17,WPCC Pickled Pink (PM),HASEN Dink Responsibly 18+ (PM),Alyssa Newton,Katie Ann Percy,Candice V Diehl,Sharon F Barham,8,15
-18341,7,2026-03-17,WPCC Pickled Pink (PM),HASEN Dink Responsibly 18+ (PM),Andrea Ellen McCartney,Lori Parkman,Regina Heroux,Laurie Randall,14,16
-18341,8,2026-03-17,WPCC Pickled Pink (PM),HASEN Dink Responsibly 18+ (PM),Nancy Page,Courtney McKim,Candice V Diehl,Sharon F Barham,7,15
-18341,9,2026-03-17,WPCC Pickled Pink (PM),HASEN Dink Responsibly 18+ (PM),Alyssa Newton,Katie Ann Percy,Cybele Martin Brockmann,Jenny Stout,15,11
-18362,1,2026-03-24,7OAKS Spring Peeps (PM),HASEN Dink Responsibly 18+ (PM),Cindy Feryo,Linda Nuxoll,Susan Flanagan,Betsy Perkinson,9,15
-18362,2,2026-03-24,7OAKS Spring Peeps (PM),HASEN Dink Responsibly 18+ (PM),Amy Giglio,Beth Treadway,Jenny Stout,Mary Jo Nugent,17,15
-18362,3,2026-03-24,7OAKS Spring Peeps (PM),HASEN Dink Responsibly 18+ (PM),Laurie H Kramer,Sherry Lynn Goodson,Emily Rubin,Genevieve Daurity,16,14
-18362,4,2026-03-24,7OAKS Spring Peeps (PM),HASEN Dink Responsibly 18+ (PM),Cindy Feryo,Linda Nuxoll,Jenny Stout,Mary Jo Nugent,15,12
-18362,5,2026-03-24,7OAKS Spring Peeps (PM),HASEN Dink Responsibly 18+ (PM),Amy Giglio,Beth Treadway,Emily Rubin,Genevieve Daurity,11,15
-18362,6,2026-03-24,7OAKS Spring Peeps (PM),HASEN Dink Responsibly 18+ (PM),Laurie H Kramer,Sherry Lynn Goodson,Susan Flanagan,Betsy Perkinson,5,15
-18362,7,2026-03-24,7OAKS Spring Peeps (PM),HASEN Dink Responsibly 18+ (PM),Cindy Feryo,Linda Nuxoll,Emily Rubin,Genevieve Daurity,11,15
-18362,8,2026-03-24,7OAKS Spring Peeps (PM),HASEN Dink Responsibly 18+ (PM),Amy Giglio,Beth Treadway,Susan Flanagan,Betsy Perkinson,15,7
-18362,9,2026-03-24,7OAKS Spring Peeps (PM),HASEN Dink Responsibly 18+ (PM),Laurie H Kramer,Sherry Lynn Goodson,Jenny Stout,Mary Jo Nugent,2,15
-18363,1,2026-03-24,HASEN Made Ya Dink! (PM),7OAKS Late Night Kitchen (PM),Lynn Vitello,Samantha Starr,Andra Kinlaw,Maggie Patterson,17,15
-18363,2,2026-03-24,HASEN Made Ya Dink! (PM),7OAKS Late Night Kitchen (PM),Dawn Frevert,Lan C Bello,Julia Killian,Pamela Sue Rigsby,15,2
-18363,3,2026-03-24,HASEN Made Ya Dink! (PM),7OAKS Late Night Kitchen (PM),Janet Hammond,Carolyn P Smith,Molly Bradsher Briggs,Liz Broadway,15,12
-18363,4,2026-03-24,HASEN Made Ya Dink! (PM),7OAKS Late Night Kitchen (PM),Lynn Vitello,Samantha Starr,Julia Killian,Pamela Sue Rigsby,15,5
-18363,5,2026-03-24,HASEN Made Ya Dink! (PM),7OAKS Late Night Kitchen (PM),Dawn Frevert,Lan C Bello,Molly Bradsher Briggs,Liz Broadway,10,15
-18363,6,2026-03-24,HASEN Made Ya Dink! (PM),7OAKS Late Night Kitchen (PM),Janet Hammond,Carolyn P Smith,Andra Kinlaw,Maggie Patterson,15,9
-18363,7,2026-03-24,HASEN Made Ya Dink! (PM),7OAKS Late Night Kitchen (PM),Lynn Vitello,Samantha Starr,Molly Bradsher Briggs,Liz Broadway,15,13
-18363,8,2026-03-24,HASEN Made Ya Dink! (PM),7OAKS Late Night Kitchen (PM),Dawn Frevert,Lan C Bello,Andra Kinlaw,Maggie Patterson,15,2
-18363,9,2026-03-24,HASEN Made Ya Dink! (PM),7OAKS Late Night Kitchen (PM),Janet Hammond,Carolyn P Smith,Julia Killian,Pamela Sue Rigsby,16,14
-18364,1,2026-03-24,NHC Dinks Before Drinks (PM),WPCC Dill Breakers (PM),Julie Sullivan,Kate Whitney,Janet Wilson Mitch,Carrie OFerral,15,6
-18364,2,2026-03-24,NHC Dinks Before Drinks (PM),WPCC Dill Breakers (PM),Jessica Willetts,Sharon Baggett,Janice D Lewis,Lori Larrabee,15,4
-18364,3,2026-03-24,NHC Dinks Before Drinks (PM),WPCC Dill Breakers (PM),Meghan Yancey,Brooke Abee,Beth Murray,Amanda Viele,15,7
-18364,4,2026-03-24,NHC Dinks Before Drinks (PM),WPCC Dill Breakers (PM),Julie Sullivan,Kate Whitney,Janice D Lewis,Lori Larrabee,15,3
-18364,5,2026-03-24,NHC Dinks Before Drinks (PM),WPCC Dill Breakers (PM),Jessica Willetts,Sharon Baggett,Beth Murray,Amanda Viele,15,0
-18364,6,2026-03-24,NHC Dinks Before Drinks (PM),WPCC Dill Breakers (PM),Meghan Yancey,Brooke Abee,Janet Wilson Mitch,Carrie OFerral,15,11
-18364,7,2026-03-24,NHC Dinks Before Drinks (PM),WPCC Dill Breakers (PM),Julie Sullivan,Kate Whitney,Beth Murray,Amanda Viele,15,2
-18364,8,2026-03-24,NHC Dinks Before Drinks (PM),WPCC Dill Breakers (PM),Jessica Willetts,Sharon Baggett,Janet Wilson Mitch,Carrie OFerral,15,11
-18364,9,2026-03-24,NHC Dinks Before Drinks (PM),WPCC Dill Breakers (PM),Meghan Yancey,Brooke Abee,Janice D Lewis,Lori Larrabee,15,5
-18365,1,2026-03-24,NHC Pink Paddle Club (PM),WPCC Pickled Pink (PM),Jennifer Blue,Denise Thompson,Andrea Ellen McCartney,Lori Parkman,15,10
-18365,2,2026-03-24,NHC Pink Paddle Club (PM),WPCC Pickled Pink (PM),Sophia Paschaloudis,Teressa Paschaloudis,Wendy Brooker Burns,Stacey Giglio,10,15
-18365,3,2026-03-24,NHC Pink Paddle Club (PM),WPCC Pickled Pink (PM),Becky N Faries,Jaime Goodson Gaskins,Marilyn Slaymaker,Melissa Michael,15,7
-18365,4,2026-03-24,NHC Pink Paddle Club (PM),WPCC Pickled Pink (PM),Jennifer Blue,Denise Thompson,Wendy Brooker Burns,Stacey Giglio,15,8
-18365,5,2026-03-24,NHC Pink Paddle Club (PM),WPCC Pickled Pink (PM),Sophia Paschaloudis,Teressa Paschaloudis,Marilyn Slaymaker,Melissa Michael,15,13
-18365,6,2026-03-24,NHC Pink Paddle Club (PM),WPCC Pickled Pink (PM),Becky N Faries,Jaime Goodson Gaskins,Andrea Ellen McCartney,Lori Parkman,15,4
-18365,7,2026-03-24,NHC Pink Paddle Club (PM),WPCC Pickled Pink (PM),Jennifer Blue,Denise Thompson,Marilyn Slaymaker,Melissa Michael,15,9
-18365,8,2026-03-24,NHC Pink Paddle Club (PM),WPCC Pickled Pink (PM),Sophia Paschaloudis,Teressa Paschaloudis,Andrea Ellen McCartney,Lori Parkman,15,11
-18365,9,2026-03-24,NHC Pink Paddle Club (PM),WPCC Pickled Pink (PM),Becky N Faries,Jaime Goodson Gaskins,Wendy Brooker Burns,Stacey Giglio,4,15
-18366,1,2026-03-24,WPCC Dink Dynasty (PM),NCST Point Taken,Margie Molloy,Jenny Simon,Patty Carter,Sherrie L Bass,4,15
-18366,2,2026-03-24,WPCC Dink Dynasty (PM),NCST Point Taken,Tracey M Carlin,Pat Ann McGoldrick,Deirdre Clarke,Sarah Hinson,8,15
-18366,3,2026-03-24,WPCC Dink Dynasty (PM),NCST Point Taken,Dane Hewett Brackett,Gina Myers,Stacy Gant,Silvia Elena Leguizamonschocher,11,15
-18366,4,2026-03-24,WPCC Dink Dynasty (PM),NCST Point Taken,Margie Molloy,Jenny Simon,Deirdre Clarke,Sarah Hinson,6,15
-18366,5,2026-03-24,WPCC Dink Dynasty (PM),NCST Point Taken,Tracey M Carlin,Pat Ann McGoldrick,Stacy Gant,Silvia Elena Leguizamonschocher,8,15
-18366,6,2026-03-24,WPCC Dink Dynasty (PM),NCST Point Taken,Dane Hewett Brackett,Gina Myers,Patty Carter,Sherrie L Bass,7,15
-18366,7,2026-03-24,WPCC Dink Dynasty (PM),NCST Point Taken,Margie Molloy,Jenny Simon,Stacy Gant,Silvia Elena Leguizamonschocher,5,15
-18366,8,2026-03-24,WPCC Dink Dynasty (PM),NCST Point Taken,Tracey M Carlin,Pat Ann McGoldrick,Patty Carter,Sherrie L Bass,1,15
-18366,9,2026-03-24,WPCC Dink Dynasty (PM),NCST Point Taken,Dane Hewett Brackett,Gina Myers,Deirdre Clarke,Sarah Hinson,13,15
-18367,1,2026-03-24,7OAKS Day Dinkers (PM),BCCC Dinkin' Buddies (PM),Dana Chapman,Amy A Lindsey,Shari Gianini,Sandy Ball,15,7
-18367,2,2026-03-24,7OAKS Day Dinkers (PM),BCCC Dinkin' Buddies (PM),Erin Krupa,Ada Gonzalez,Kristen DiMillio Howering,Vickie Gibbs,15,4
-18367,3,2026-03-24,7OAKS Day Dinkers (PM),BCCC Dinkin' Buddies (PM),Peggy B Williams,Priscilla Hicks,Bobbie Ann West,Julia Woodson,15,2
-18367,4,2026-03-24,7OAKS Day Dinkers (PM),BCCC Dinkin' Buddies (PM),Dana Chapman,Amy A Lindsey,Kristen DiMillio Howering,Vickie Gibbs,12,15
-18367,5,2026-03-24,7OAKS Day Dinkers (PM),BCCC Dinkin' Buddies (PM),Erin Krupa,Ada Gonzalez,Bobbie Ann West,Julia Woodson,15,1
-18367,6,2026-03-24,7OAKS Day Dinkers (PM),BCCC Dinkin' Buddies (PM),Peggy B Williams,Priscilla Hicks,Shari Gianini,Sandy Ball,15,13
-18367,7,2026-03-24,7OAKS Day Dinkers (PM),BCCC Dinkin' Buddies (PM),Dana Chapman,Amy A Lindsey,Bobbie Ann West,Julia Woodson,15,6
-18367,8,2026-03-24,7OAKS Day Dinkers (PM),BCCC Dinkin' Buddies (PM),Erin Krupa,Ada Gonzalez,Shari Gianini,Sandy Ball,15,3
-18367,9,2026-03-24,7OAKS Day Dinkers (PM),BCCC Dinkin' Buddies (PM),Peggy B Williams,Priscilla Hicks,Kristen DiMillio Howering,Vickie Gibbs,13,15
-18392,1,2026-04-07,BCCC Dinkin' Buddies (PM),HASEN Made Ya Dink! (PM),Bobbie Ann West,Megan Testa,Jennifer Lynn Bouck,Sharon Regnier,1,15
-18392,2,2026-04-07,BCCC Dinkin' Buddies (PM),HASEN Made Ya Dink! (PM),Diane Sauer,Julia Woodson,Sharon Louise Lambe,Ashley McCollum,4,15
-18392,3,2026-04-07,BCCC Dinkin' Buddies (PM),HASEN Made Ya Dink! (PM),DEFAULT,DEFAULT,Ginger Craig,Janet Hammond,0,15
-18392,4,2026-04-07,BCCC Dinkin' Buddies (PM),HASEN Made Ya Dink! (PM),Bobbie Ann West,Megan Testa,Sharon Louise Lambe,Ashley McCollum,2,15
-18392,5,2026-04-07,BCCC Dinkin' Buddies (PM),HASEN Made Ya Dink! (PM),Diane Sauer,Julia Woodson,Ginger Craig,Janet Hammond,10,15
-18392,6,2026-04-07,BCCC Dinkin' Buddies (PM),HASEN Made Ya Dink! (PM),DEFAULT,DEFAULT,Jennifer Lynn Bouck,Sharon Regnier,0,15
-18392,7,2026-04-07,BCCC Dinkin' Buddies (PM),HASEN Made Ya Dink! (PM),Bobbie Ann West,Megan Testa,Ginger Craig,Janet Hammond,11,15
-18392,8,2026-04-07,BCCC Dinkin' Buddies (PM),HASEN Made Ya Dink! (PM),Diane Sauer,Julia Woodson,Jennifer Lynn Bouck,Sharon Regnier,11,15
-18392,9,2026-04-07,BCCC Dinkin' Buddies (PM),HASEN Made Ya Dink! (PM),DEFAULT,DEFAULT,Sharon Louise Lambe,Ashley McCollum,0,15
-18393,1,2026-04-07,HASEN Dink Responsibly 18+ (PM),WPCC Dink Dynasty (PM),Candice V Diehl,Sharon F Barham,Gina Myers,Shelli Clark,15,1
-18393,2,2026-04-07,HASEN Dink Responsibly 18+ (PM),WPCC Dink Dynasty (PM),Emily Rubin,Genevieve Daurity,Karen Beth Delgado,Rebecca Steffens,15,1
-18393,3,2026-04-07,HASEN Dink Responsibly 18+ (PM),WPCC Dink Dynasty (PM),Diane Werner,Jenny Stout,Chantry Hurt,Susan Hembarsky,15,5
-18393,4,2026-04-07,HASEN Dink Responsibly 18+ (PM),WPCC Dink Dynasty (PM),Candice V Diehl,Sharon F Barham,Karen Beth Delgado,Rebecca Steffens,15,1
-18393,5,2026-04-07,HASEN Dink Responsibly 18+ (PM),WPCC Dink Dynasty (PM),Emily Rubin,Genevieve Daurity,Chantry Hurt,Susan Hembarsky,15,10
-18393,6,2026-04-07,HASEN Dink Responsibly 18+ (PM),WPCC Dink Dynasty (PM),Diane Werner,Jenny Stout,Gina Myers,Shelli Clark,15,1
-18393,7,2026-04-07,HASEN Dink Responsibly 18+ (PM),WPCC Dink Dynasty (PM),Candice V Diehl,Sharon F Barham,Chantry Hurt,Susan Hembarsky,15,4
-18393,8,2026-04-07,HASEN Dink Responsibly 18+ (PM),WPCC Dink Dynasty (PM),Emily Rubin,Genevieve Daurity,Gina Myers,Shelli Clark,15,4
-18393,9,2026-04-07,HASEN Dink Responsibly 18+ (PM),WPCC Dink Dynasty (PM),Diane Werner,Jenny Stout,Karen Beth Delgado,Rebecca Steffens,15,1
-18394,1,2026-04-07,NCST Point Taken,NHC Pink Paddle Club (PM),Valerie Worth,Stacy Gant,Emmy Garvey,Bethany Conner Perkins,8,15
-18394,2,2026-04-07,NCST Point Taken,NHC Pink Paddle Club (PM),Caroline Smith-Moore,Nancy Bumgarner,Denise Thompson,Mollie Hodl,14,16
-18394,3,2026-04-07,NCST Point Taken,NHC Pink Paddle Club (PM),Deirdre Clarke,Silvia Elena Leguizamonschocher,Jennifer J Conley,Kylie Harris,15,13
-18394,4,2026-04-07,NCST Point Taken,NHC Pink Paddle Club (PM),Valerie Worth,Stacy Gant,Denise Thompson,Mollie Hodl,7,15
-18394,5,2026-04-07,NCST Point Taken,NHC Pink Paddle Club (PM),Caroline Smith-Moore,Nancy Bumgarner,Jennifer J Conley,Kylie Harris,7,15
-18394,6,2026-04-07,NCST Point Taken,NHC Pink Paddle Club (PM),Deirdre Clarke,Silvia Elena Leguizamonschocher,Emmy Garvey,Bethany Conner Perkins,5,15
-18394,7,2026-04-07,NCST Point Taken,NHC Pink Paddle Club (PM),Valerie Worth,Stacy Gant,Jennifer J Conley,Kylie Harris,15,12
-18394,8,2026-04-07,NCST Point Taken,NHC Pink Paddle Club (PM),Caroline Smith-Moore,Nancy Bumgarner,Emmy Garvey,Bethany Conner Perkins,16,14
-18394,9,2026-04-07,NCST Point Taken,NHC Pink Paddle Club (PM),Deirdre Clarke,Silvia Elena Leguizamonschocher,Denise Thompson,Mollie Hodl,6,15
-18395,1,2026-04-07,WPCC Pickled Pink (PM),7OAKS Spring Peeps (PM),Alyssa Newton,Beverly McKim,Cindy Feryo,Sherry Lynn Goodson,5,15
-18395,2,2026-04-07,WPCC Pickled Pink (PM),7OAKS Spring Peeps (PM),April Haas,Nancy Page,Takako Schenberger,Kathy Casadonte,3,15
-18395,3,2026-04-07,WPCC Pickled Pink (PM),7OAKS Spring Peeps (PM),Katie Ann Percy,Wendy Brooker Burns,Genny Igo,Judy Liss Reger,15,7
-18395,4,2026-04-07,WPCC Pickled Pink (PM),7OAKS Spring Peeps (PM),Alyssa Newton,Beverly McKim,Takako Schenberger,Kathy Casadonte,11,15
-18395,5,2026-04-07,WPCC Pickled Pink (PM),7OAKS Spring Peeps (PM),April Haas,Nancy Page,Genny Igo,Judy Liss Reger,7,15
-18395,6,2026-04-07,WPCC Pickled Pink (PM),7OAKS Spring Peeps (PM),Katie Ann Percy,Wendy Brooker Burns,Cindy Feryo,Sherry Lynn Goodson,6,15
-18395,7,2026-04-07,WPCC Pickled Pink (PM),7OAKS Spring Peeps (PM),Alyssa Newton,Beverly McKim,Genny Igo,Judy Liss Reger,12,15
-18395,8,2026-04-07,WPCC Pickled Pink (PM),7OAKS Spring Peeps (PM),April Haas,Nancy Page,Cindy Feryo,Sherry Lynn Goodson,1,15
-18395,9,2026-04-07,WPCC Pickled Pink (PM),7OAKS Spring Peeps (PM),Katie Ann Percy,Wendy Brooker Burns,Takako Schenberger,Kathy Casadonte,2,15
-18396,1,2026-04-07,7OAKS Late Night Kitchen (PM),NHC Dinks Before Drinks (PM),Pamela Sue Rigsby,Danielle Stringer,AnneElizabeth Harrell,Heather Mauzy,15,6
-18396,2,2026-04-07,7OAKS Late Night Kitchen (PM),NHC Dinks Before Drinks (PM),Jeanette Gerould,Julie A Leon,Amy Pena,Jessica McIntyre,2,15
-18396,3,2026-04-07,7OAKS Late Night Kitchen (PM),NHC Dinks Before Drinks (PM),Olga DeGroff,Tori Sutler,LeAnne Bloedon,Jackie Caprio,15,1
-18396,4,2026-04-07,7OAKS Late Night Kitchen (PM),NHC Dinks Before Drinks (PM),Pamela Sue Rigsby,Danielle Stringer,Amy Pena,Jessica McIntyre,4,15
-18396,5,2026-04-07,7OAKS Late Night Kitchen (PM),NHC Dinks Before Drinks (PM),Jeanette Gerould,Julie A Leon,LeAnne Bloedon,Jackie Caprio,12,15
-18396,6,2026-04-07,7OAKS Late Night Kitchen (PM),NHC Dinks Before Drinks (PM),Olga DeGroff,Tori Sutler,AnneElizabeth Harrell,Heather Mauzy,15,9
-18396,7,2026-04-07,7OAKS Late Night Kitchen (PM),NHC Dinks Before Drinks (PM),Pamela Sue Rigsby,Danielle Stringer,LeAnne Bloedon,Jackie Caprio,15,10
-18396,8,2026-04-07,7OAKS Late Night Kitchen (PM),NHC Dinks Before Drinks (PM),Jeanette Gerould,Julie A Leon,AnneElizabeth Harrell,Heather Mauzy,12,15
-18396,9,2026-04-07,7OAKS Late Night Kitchen (PM),NHC Dinks Before Drinks (PM),Olga DeGroff,Tori Sutler,Amy Pena,Jessica McIntyre,15,9
-18397,1,2026-04-07,WPCC Dill Breakers (PM),7OAKS Day Dinkers (PM),Dafnie Driscoll,Kate Pirrung,Amy A Lindsey,Mari Elizabeth Porter,5,15
-18397,2,2026-04-07,WPCC Dill Breakers (PM),7OAKS Day Dinkers (PM),Melissa S Green,Donna Louise Driscoll,Leigh Magee,Ada Gonzalez,7,15
-18397,3,2026-04-07,WPCC Dill Breakers (PM),7OAKS Day Dinkers (PM),Janice D Lewis,Beth Murray,Peggy B Williams,Priscilla Hicks,5,15
-18397,4,2026-04-07,WPCC Dill Breakers (PM),7OAKS Day Dinkers (PM),Dafnie Driscoll,Kate Pirrung,Leigh Magee,Ada Gonzalez,12,15
-18397,5,2026-04-07,WPCC Dill Breakers (PM),7OAKS Day Dinkers (PM),Melissa S Green,Donna Louise Driscoll,Peggy B Williams,Priscilla Hicks,15,12
-18397,6,2026-04-07,WPCC Dill Breakers (PM),7OAKS Day Dinkers (PM),Janice D Lewis,Beth Murray,Amy A Lindsey,Mari Elizabeth Porter,1,15
-18397,7,2026-04-07,WPCC Dill Breakers (PM),7OAKS Day Dinkers (PM),Dafnie Driscoll,Kate Pirrung,Peggy B Williams,Priscilla Hicks,9,15
-18397,8,2026-04-07,WPCC Dill Breakers (PM),7OAKS Day Dinkers (PM),Melissa S Green,Donna Louise Driscoll,Amy A Lindsey,Mari Elizabeth Porter,8,15
-18397,9,2026-04-07,WPCC Dill Breakers (PM),7OAKS Day Dinkers (PM),Janice D Lewis,Beth Murray,Leigh Magee,Ada Gonzalez,4,15
-18418,1,2026-04-14,7OAKS Day Dinkers (PM),HASEN Made Ya Dink! (PM),Leigh Magee,Dana Chapman,Dawn Frevert,Lynn Vitello,16,14
-18418,2,2026-04-14,7OAKS Day Dinkers (PM),HASEN Made Ya Dink! (PM),Amy A Lindsey,Victoria Bell,Jennifer Lynn Bouck,Sharon Louise Lambe,15,3
-18418,3,2026-04-14,7OAKS Day Dinkers (PM),HASEN Made Ya Dink! (PM),Peggy B Williams,Ada Gonzalez,Lan C Bello,Sharon Regnier,15,9
-18418,4,2026-04-14,7OAKS Day Dinkers (PM),HASEN Made Ya Dink! (PM),Leigh Magee,Dana Chapman,Jennifer Lynn Bouck,Sharon Louise Lambe,15,8
-18418,5,2026-04-14,7OAKS Day Dinkers (PM),HASEN Made Ya Dink! (PM),Amy A Lindsey,Victoria Bell,Lan C Bello,Sharon Regnier,9,15
-18418,6,2026-04-14,7OAKS Day Dinkers (PM),HASEN Made Ya Dink! (PM),Peggy B Williams,Ada Gonzalez,Dawn Frevert,Lynn Vitello,3,15
-18418,7,2026-04-14,7OAKS Day Dinkers (PM),HASEN Made Ya Dink! (PM),Leigh Magee,Dana Chapman,Lan C Bello,Sharon Regnier,7,15
-18418,8,2026-04-14,7OAKS Day Dinkers (PM),HASEN Made Ya Dink! (PM),Amy A Lindsey,Victoria Bell,Dawn Frevert,Lynn Vitello,12,15
-18418,9,2026-04-14,7OAKS Day Dinkers (PM),HASEN Made Ya Dink! (PM),Peggy B Williams,Ada Gonzalez,Jennifer Lynn Bouck,Sharon Louise Lambe,15,1
-18419,1,2026-04-14,HASEN Dink Responsibly 18+ (PM),NHC Pink Paddle Club (PM),Maggie DiNome,Susan Flanagan,Becky N Faries,Jaime Goodson Gaskins,15,7
-18419,2,2026-04-14,HASEN Dink Responsibly 18+ (PM),NHC Pink Paddle Club (PM),Cybele Martin Brockmann,Diane Werner,Emmy Garvey,Bethany Conner Perkins,12,15
-18419,3,2026-04-14,HASEN Dink Responsibly 18+ (PM),NHC Pink Paddle Club (PM),Laurie Randall,Regina Heroux,Mollie Hodl,Sophia Paschaloudis,15,13
-18419,4,2026-04-14,HASEN Dink Responsibly 18+ (PM),NHC Pink Paddle Club (PM),Maggie DiNome,Susan Flanagan,Emmy Garvey,Bethany Conner Perkins,3,15
-18419,5,2026-04-14,HASEN Dink Responsibly 18+ (PM),NHC Pink Paddle Club (PM),Cybele Martin Brockmann,Diane Werner,Mollie Hodl,Sophia Paschaloudis,15,3
-18419,6,2026-04-14,HASEN Dink Responsibly 18+ (PM),NHC Pink Paddle Club (PM),Laurie Randall,Regina Heroux,Becky N Faries,Jaime Goodson Gaskins,15,9
-18419,7,2026-04-14,HASEN Dink Responsibly 18+ (PM),NHC Pink Paddle Club (PM),Maggie DiNome,Susan Flanagan,Mollie Hodl,Sophia Paschaloudis,15,5
-18419,8,2026-04-14,HASEN Dink Responsibly 18+ (PM),NHC Pink Paddle Club (PM),Cybele Martin Brockmann,Diane Werner,Becky N Faries,Jaime Goodson Gaskins,15,10
-18419,9,2026-04-14,HASEN Dink Responsibly 18+ (PM),NHC Pink Paddle Club (PM),Laurie Randall,Regina Heroux,Emmy Garvey,Bethany Conner Perkins,12,15
-18420,1,2026-04-14,NHC Dinks Before Drinks (PM),BCCC Dinkin' Buddies (PM),Brooke Abee,Jackie Caprio,DEFAULT,DEFAULT,15,0
-18420,2,2026-04-14,NHC Dinks Before Drinks (PM),BCCC Dinkin' Buddies (PM),AnneElizabeth Harrell,Meghan Yancey,DEFAULT,DEFAULT,15,0
-18420,3,2026-04-14,NHC Dinks Before Drinks (PM),BCCC Dinkin' Buddies (PM),LeAnne Bloedon,Julie Sullivan,DEFAULT,DEFAULT,15,0
-18420,4,2026-04-14,NHC Dinks Before Drinks (PM),BCCC Dinkin' Buddies (PM),Brooke Abee,Jackie Caprio,DEFAULT,DEFAULT,15,0
-18420,5,2026-04-14,NHC Dinks Before Drinks (PM),BCCC Dinkin' Buddies (PM),AnneElizabeth Harrell,Meghan Yancey,DEFAULT,DEFAULT,15,0
-18420,6,2026-04-14,NHC Dinks Before Drinks (PM),BCCC Dinkin' Buddies (PM),LeAnne Bloedon,Julie Sullivan,DEFAULT,DEFAULT,15,0
-18420,7,2026-04-14,NHC Dinks Before Drinks (PM),BCCC Dinkin' Buddies (PM),Brooke Abee,Jackie Caprio,DEFAULT,DEFAULT,15,0
-18420,8,2026-04-14,NHC Dinks Before Drinks (PM),BCCC Dinkin' Buddies (PM),AnneElizabeth Harrell,Meghan Yancey,DEFAULT,DEFAULT,15,0
-18420,9,2026-04-14,NHC Dinks Before Drinks (PM),BCCC Dinkin' Buddies (PM),LeAnne Bloedon,Julie Sullivan,DEFAULT,DEFAULT,15,0
-18421,1,2026-04-14,WPCC Dill Breakers (PM),7OAKS Late Night Kitchen (PM),Melissa S Green,Amanda Viele,Danielle Stringer,Julia Killian,3,15
-18421,2,2026-04-14,WPCC Dill Breakers (PM),7OAKS Late Night Kitchen (PM),Melissa Kirk Landry,Jessica Brimmer,Tori Sutler,Molly Bradsher Briggs,5,15
-18421,3,2026-04-14,WPCC Dill Breakers (PM),7OAKS Late Night Kitchen (PM),Lori Larrabee,Beth Murray,Sherrie L Lefere,Liz Broadway,6,15
-18421,4,2026-04-14,WPCC Dill Breakers (PM),7OAKS Late Night Kitchen (PM),Melissa S Green,Amanda Viele,Tori Sutler,Molly Bradsher Briggs,4,15
-18421,5,2026-04-14,WPCC Dill Breakers (PM),7OAKS Late Night Kitchen (PM),Melissa Kirk Landry,Jessica Brimmer,Sherrie L Lefere,Liz Broadway,15,12
-18421,6,2026-04-14,WPCC Dill Breakers (PM),7OAKS Late Night Kitchen (PM),Lori Larrabee,Beth Murray,Danielle Stringer,Julia Killian,9,15
-18421,7,2026-04-14,WPCC Dill Breakers (PM),7OAKS Late Night Kitchen (PM),Melissa S Green,Amanda Viele,Sherrie L Lefere,Liz Broadway,1,15
-18421,8,2026-04-14,WPCC Dill Breakers (PM),7OAKS Late Night Kitchen (PM),Melissa Kirk Landry,Jessica Brimmer,Danielle Stringer,Julia Killian,7,15
-18421,9,2026-04-14,WPCC Dill Breakers (PM),7OAKS Late Night Kitchen (PM),Lori Larrabee,Beth Murray,Tori Sutler,Molly Bradsher Briggs,0,15
-18422,1,2026-04-14,7OAKS Spring Peeps (PM),WPCC Dink Dynasty (PM),Laurie H Kramer,Takako Schenberger,Susan Hembarsky,Dane Hewett Brackett,14,16
-18422,2,2026-04-14,7OAKS Spring Peeps (PM),WPCC Dink Dynasty (PM),Judy Liss Reger,Sherry Lynn Goodson,Jody Hill,Leigh Kimball,15,6
-18422,3,2026-04-14,7OAKS Spring Peeps (PM),WPCC Dink Dynasty (PM),Linda Nuxoll,Genny Igo,Tracey M Carlin,Margie Molloy,15,13
-18422,4,2026-04-14,7OAKS Spring Peeps (PM),WPCC Dink Dynasty (PM),Laurie H Kramer,Takako Schenberger,Jody Hill,Leigh Kimball,15,0
-18422,5,2026-04-14,7OAKS Spring Peeps (PM),WPCC Dink Dynasty (PM),Judy Liss Reger,Sherry Lynn Goodson,Tracey M Carlin,Margie Molloy,15,8
-18422,6,2026-04-14,7OAKS Spring Peeps (PM),WPCC Dink Dynasty (PM),Linda Nuxoll,Genny Igo,Susan Hembarsky,Dane Hewett Brackett,10,15
-18422,7,2026-04-14,7OAKS Spring Peeps (PM),WPCC Dink Dynasty (PM),Laurie H Kramer,Takako Schenberger,Tracey M Carlin,Margie Molloy,15,11
-18422,8,2026-04-14,7OAKS Spring Peeps (PM),WPCC Dink Dynasty (PM),Judy Liss Reger,Sherry Lynn Goodson,Susan Hembarsky,Dane Hewett Brackett,11,15
-18422,9,2026-04-14,7OAKS Spring Peeps (PM),WPCC Dink Dynasty (PM),Linda Nuxoll,Genny Igo,Jody Hill,Leigh Kimball,15,7
-18423,1,2026-04-14,WPCC Pickled Pink (PM),NCST Point Taken,Melissa Michael,Courtney McKim,Paige Ruland,Sarah Hinson,0,15
-18423,2,2026-04-14,WPCC Pickled Pink (PM),NCST Point Taken,Andrea Ellen McCartney,Lori Parkman,Deirdre Clarke,Caroline Smith-Moore,8,15
-18423,3,2026-04-14,WPCC Pickled Pink (PM),NCST Point Taken,Wendy Brooker Burns,April Haas,Nancy Bumgarner,Stacy Gant,4,15
-18423,4,2026-04-14,WPCC Pickled Pink (PM),NCST Point Taken,Melissa Michael,Courtney McKim,Deirdre Clarke,Caroline Smith-Moore,6,15
-18423,5,2026-04-14,WPCC Pickled Pink (PM),NCST Point Taken,Andrea Ellen McCartney,Lori Parkman,Nancy Bumgarner,Stacy Gant,18,16
-18423,6,2026-04-14,WPCC Pickled Pink (PM),NCST Point Taken,Wendy Brooker Burns,April Haas,Paige Ruland,Sarah Hinson,1,15
-18423,7,2026-04-14,WPCC Pickled Pink (PM),NCST Point Taken,Melissa Michael,Courtney McKim,Nancy Bumgarner,Stacy Gant,7,15
-18423,8,2026-04-14,WPCC Pickled Pink (PM),NCST Point Taken,Andrea Ellen McCartney,Lori Parkman,Paige Ruland,Sarah Hinson,8,15
-18423,9,2026-04-14,WPCC Pickled Pink (PM),NCST Point Taken,Wendy Brooker Burns,April Haas,Deirdre Clarke,Caroline Smith-Moore,2,15
-18444,1,2026-04-21,BCCC Dinkin' Buddies (PM),WPCC Dill Breakers (PM),Kristen DiMillio Howering,Diane Sauer,Jessica Brimmer,Melissa Kirk Landry,15,13
-18444,2,2026-04-21,BCCC Dinkin' Buddies (PM),WPCC Dill Breakers (PM),Bobbie Ann West,Sandy Ball,Dafnie Driscoll,Kate Pirrung,7,15
-18444,3,2026-04-21,BCCC Dinkin' Buddies (PM),WPCC Dill Breakers (PM),Vickie Gibbs,Shari Gianini,Beth Murray,Lori Larrabee,4,15
-18444,4,2026-04-21,BCCC Dinkin' Buddies (PM),WPCC Dill Breakers (PM),Kristen DiMillio Howering,Diane Sauer,Dafnie Driscoll,Kate Pirrung,15,3
-18444,5,2026-04-21,BCCC Dinkin' Buddies (PM),WPCC Dill Breakers (PM),Bobbie Ann West,Sandy Ball,Beth Murray,Lori Larrabee,15,10
-18444,6,2026-04-21,BCCC Dinkin' Buddies (PM),WPCC Dill Breakers (PM),Vickie Gibbs,Shari Gianini,Jessica Brimmer,Melissa Kirk Landry,9,15
-18444,7,2026-04-21,BCCC Dinkin' Buddies (PM),WPCC Dill Breakers (PM),Kristen DiMillio Howering,Diane Sauer,Beth Murray,Lori Larrabee,15,2
-18444,8,2026-04-21,BCCC Dinkin' Buddies (PM),WPCC Dill Breakers (PM),Bobbie Ann West,Sandy Ball,Jessica Brimmer,Melissa Kirk Landry,3,15
-18444,9,2026-04-21,BCCC Dinkin' Buddies (PM),WPCC Dill Breakers (PM),Vickie Gibbs,Shari Gianini,Dafnie Driscoll,Kate Pirrung,15,11
-18445,1,2026-04-21,HASEN Made Ya Dink! (PM),NHC Dinks Before Drinks (PM),Carolyn P Smith,Tracey Sanders,Julie Sullivan,Amy Pena,9,15
-18445,2,2026-04-21,HASEN Made Ya Dink! (PM),NHC Dinks Before Drinks (PM),Dawn Frevert,Lynn Vitello,Kate Whitney,Heather Mauzy,15,12
-18445,3,2026-04-21,HASEN Made Ya Dink! (PM),NHC Dinks Before Drinks (PM),Janet Hammond,Samantha Starr,Jessica Willetts,Sharon Baggett,15,10
-18445,4,2026-04-21,HASEN Made Ya Dink! (PM),NHC Dinks Before Drinks (PM),Carolyn P Smith,Tracey Sanders,Kate Whitney,Heather Mauzy,15,12
-18445,5,2026-04-21,HASEN Made Ya Dink! (PM),NHC Dinks Before Drinks (PM),Dawn Frevert,Lynn Vitello,Jessica Willetts,Sharon Baggett,17,15
-18445,6,2026-04-21,HASEN Made Ya Dink! (PM),NHC Dinks Before Drinks (PM),Janet Hammond,Samantha Starr,Julie Sullivan,Amy Pena,1,15
-18445,7,2026-04-21,HASEN Made Ya Dink! (PM),NHC Dinks Before Drinks (PM),Carolyn P Smith,Tracey Sanders,Jessica Willetts,Sharon Baggett,12,15
-18445,8,2026-04-21,HASEN Made Ya Dink! (PM),NHC Dinks Before Drinks (PM),Dawn Frevert,Lynn Vitello,Julie Sullivan,Amy Pena,5,15
-18445,9,2026-04-21,HASEN Made Ya Dink! (PM),NHC Dinks Before Drinks (PM),Janet Hammond,Samantha Starr,Kate Whitney,Heather Mauzy,15,12
-18446,1,2026-04-21,NCST Point Taken,HASEN Dink Responsibly 18+ (PM),Valerie Worth,Deirdre Clarke,Maggie DiNome,Cybele Martin Brockmann,12,15
-18446,2,2026-04-21,NCST Point Taken,HASEN Dink Responsibly 18+ (PM),Patty Carter,Sherrie L Bass,Mary Jo Nugent,Candice V Diehl,15,2
-18446,3,2026-04-21,NCST Point Taken,HASEN Dink Responsibly 18+ (PM),Paige Ruland,Stacy Gant,Regina Heroux,Laurie Randall,10,15
-18446,4,2026-04-21,NCST Point Taken,HASEN Dink Responsibly 18+ (PM),Valerie Worth,Deirdre Clarke,Mary Jo Nugent,Candice V Diehl,15,5
-18446,5,2026-04-21,NCST Point Taken,HASEN Dink Responsibly 18+ (PM),Patty Carter,Sherrie L Bass,Regina Heroux,Laurie Randall,15,7
-18446,6,2026-04-21,NCST Point Taken,HASEN Dink Responsibly 18+ (PM),Paige Ruland,Stacy Gant,Maggie DiNome,Cybele Martin Brockmann,4,15
-18446,7,2026-04-21,NCST Point Taken,HASEN Dink Responsibly 18+ (PM),Valerie Worth,Deirdre Clarke,Regina Heroux,Laurie Randall,9,15
-18446,8,2026-04-21,NCST Point Taken,HASEN Dink Responsibly 18+ (PM),Patty Carter,Sherrie L Bass,Maggie DiNome,Cybele Martin Brockmann,15,6
-18446,9,2026-04-21,NCST Point Taken,HASEN Dink Responsibly 18+ (PM),Paige Ruland,Stacy Gant,Mary Jo Nugent,Candice V Diehl,4,15
-18447,1,2026-04-21,NHC Pink Paddle Club (PM),7OAKS Spring Peeps (PM),Emmy Garvey,Jennifer Blue,Amy Giglio,Sherry Lynn Goodson,15,7
-18447,2,2026-04-21,NHC Pink Paddle Club (PM),7OAKS Spring Peeps (PM),Denise Thompson,Jennifer J Conley,Cindy Feryo,Judy Liss Reger,15,4
-18447,3,2026-04-21,NHC Pink Paddle Club (PM),7OAKS Spring Peeps (PM),Sophia Paschaloudis,Teressa Paschaloudis,Laurie H Kramer,Takako Schenberger,15,13
-18447,4,2026-04-21,NHC Pink Paddle Club (PM),7OAKS Spring Peeps (PM),Emmy Garvey,Jennifer Blue,Cindy Feryo,Judy Liss Reger,15,2
-18447,5,2026-04-21,NHC Pink Paddle Club (PM),7OAKS Spring Peeps (PM),Denise Thompson,Jennifer J Conley,Laurie H Kramer,Takako Schenberger,15,10
-18447,6,2026-04-21,NHC Pink Paddle Club (PM),7OAKS Spring Peeps (PM),Sophia Paschaloudis,Teressa Paschaloudis,Amy Giglio,Sherry Lynn Goodson,15,8
-18447,7,2026-04-21,NHC Pink Paddle Club (PM),7OAKS Spring Peeps (PM),Emmy Garvey,Jennifer Blue,Laurie H Kramer,Takako Schenberger,15,3
-18447,8,2026-04-21,NHC Pink Paddle Club (PM),7OAKS Spring Peeps (PM),Denise Thompson,Jennifer J Conley,Amy Giglio,Sherry Lynn Goodson,15,2
-18447,9,2026-04-21,NHC Pink Paddle Club (PM),7OAKS Spring Peeps (PM),Sophia Paschaloudis,Teressa Paschaloudis,Cindy Feryo,Judy Liss Reger,15,9
-18448,1,2026-04-21,WPCC Dink Dynasty (PM),WPCC Pickled Pink (PM),Chantry Hurt,Jenny Simon,Courtney McKim,April Haas,15,4
-18448,2,2026-04-21,WPCC Dink Dynasty (PM),WPCC Pickled Pink (PM),Karen Beth Delgado,Lisa DeMarco,Mary Casson,Andrea Ellen McCartney,12,15
-18448,3,2026-04-21,WPCC Dink Dynasty (PM),WPCC Pickled Pink (PM),Leigh Kimball,Margie Molloy,Stacey Giglio,Lori Parkman,9,15
-18448,4,2026-04-21,WPCC Dink Dynasty (PM),WPCC Pickled Pink (PM),Chantry Hurt,Jenny Simon,Mary Casson,Andrea Ellen McCartney,15,2
-18448,5,2026-04-21,WPCC Dink Dynasty (PM),WPCC Pickled Pink (PM),Karen Beth Delgado,Lisa DeMarco,Stacey Giglio,Lori Parkman,4,15
-18448,6,2026-04-21,WPCC Dink Dynasty (PM),WPCC Pickled Pink (PM),Leigh Kimball,Margie Molloy,Courtney McKim,April Haas,15,2
-18448,7,2026-04-21,WPCC Dink Dynasty (PM),WPCC Pickled Pink (PM),Chantry Hurt,Jenny Simon,Stacey Giglio,Lori Parkman,15,10
-18448,8,2026-04-21,WPCC Dink Dynasty (PM),WPCC Pickled Pink (PM),Karen Beth Delgado,Lisa DeMarco,Courtney McKim,April Haas,15,9
-18448,9,2026-04-21,WPCC Dink Dynasty (PM),WPCC Pickled Pink (PM),Leigh Kimball,Margie Molloy,Mary Casson,Andrea Ellen McCartney,15,3
-18449,1,2026-04-21,7OAKS Late Night Kitchen (PM),7OAKS Day Dinkers (PM),Tori Sutler,Molly Bradsher Briggs,Angie Carden,Christine Widman,15,7
-18449,2,2026-04-21,7OAKS Late Night Kitchen (PM),7OAKS Day Dinkers (PM),Julia Killian,Jeanette Gerould,Mari Elizabeth Porter,Amy A Lindsey,10,15
-18449,3,2026-04-21,7OAKS Late Night Kitchen (PM),7OAKS Day Dinkers (PM),Danielle Stringer,Olga DeGroff,Ada Gonzalez,Dana Chapman,9,15
-18449,4,2026-04-21,7OAKS Late Night Kitchen (PM),7OAKS Day Dinkers (PM),Tori Sutler,Molly Bradsher Briggs,Mari Elizabeth Porter,Amy A Lindsey,15,6
-18449,5,2026-04-21,7OAKS Late Night Kitchen (PM),7OAKS Day Dinkers (PM),Julia Killian,Jeanette Gerould,Ada Gonzalez,Dana Chapman,6,15
-18449,6,2026-04-21,7OAKS Late Night Kitchen (PM),7OAKS Day Dinkers (PM),Danielle Stringer,Olga DeGroff,Angie Carden,Christine Widman,15,9
-18449,7,2026-04-21,7OAKS Late Night Kitchen (PM),7OAKS Day Dinkers (PM),Tori Sutler,Molly Bradsher Briggs,Ada Gonzalez,Dana Chapman,15,6
-18449,8,2026-04-21,7OAKS Late Night Kitchen (PM),7OAKS Day Dinkers (PM),Julia Killian,Jeanette Gerould,Angie Carden,Christine Widman,9,15
-18449,9,2026-04-21,7OAKS Late Night Kitchen (PM),7OAKS Day Dinkers (PM),Danielle Stringer,Olga DeGroff,Mari Elizabeth Porter,Amy A Lindsey,6,15
-18471,1,2026-04-28,HASEN Made Ya Dink! (PM),WPCC Dill Breakers (PM),Sharon Regnier,Lan C Bello,Teesa McKinley,Carrie OFerral,13,15
-18471,2,2026-04-28,HASEN Made Ya Dink! (PM),WPCC Dill Breakers (PM),Ginger Craig,Michelle Rademann,Kate Pirrung,Janice D Lewis,15,10
-18471,3,2026-04-28,HASEN Made Ya Dink! (PM),WPCC Dill Breakers (PM),Janet Hammond,Sharon Louise Lambe,Jessica Brimmer,Melissa Kirk Landry,15,11
-18471,4,2026-04-28,HASEN Made Ya Dink! (PM),WPCC Dill Breakers (PM),Sharon Regnier,Lan C Bello,Kate Pirrung,Janice D Lewis,15,13
-18471,5,2026-04-28,HASEN Made Ya Dink! (PM),WPCC Dill Breakers (PM),Ginger Craig,Michelle Rademann,Jessica Brimmer,Melissa Kirk Landry,16,14
-18471,6,2026-04-28,HASEN Made Ya Dink! (PM),WPCC Dill Breakers (PM),Janet Hammond,Sharon Louise Lambe,Teesa McKinley,Carrie OFerral,8,15
-18471,7,2026-04-28,HASEN Made Ya Dink! (PM),WPCC Dill Breakers (PM),Sharon Regnier,Lan C Bello,Jessica Brimmer,Melissa Kirk Landry,9,15
-18471,8,2026-04-28,HASEN Made Ya Dink! (PM),WPCC Dill Breakers (PM),Ginger Craig,Michelle Rademann,Teesa McKinley,Carrie OFerral,8,15
-18471,9,2026-04-28,HASEN Made Ya Dink! (PM),WPCC Dill Breakers (PM),Janet Hammond,Sharon Louise Lambe,Kate Pirrung,Janice D Lewis,15,8
-18472,1,2026-04-28,NCST Point Taken,7OAKS Spring Peeps (PM),Sherrie L Bass,Deirdre Clarke,Cindy Feryo,Amy Giglio,7,15
-18472,2,2026-04-28,NCST Point Taken,7OAKS Spring Peeps (PM),Paige Ruland,Sarah Hinson,Bethany Upton Squires,Linda Nuxoll,15,8
-18472,3,2026-04-28,NCST Point Taken,7OAKS Spring Peeps (PM),Caroline Smith-Moore,Silvia Elena Leguizamonschocher,Kathy Casadonte,Beth Treadway,11,15
-18472,4,2026-04-28,NCST Point Taken,7OAKS Spring Peeps (PM),Sherrie L Bass,Deirdre Clarke,Bethany Upton Squires,Linda Nuxoll,15,5
-18472,5,2026-04-28,NCST Point Taken,7OAKS Spring Peeps (PM),Paige Ruland,Sarah Hinson,Kathy Casadonte,Beth Treadway,3,15
-18472,6,2026-04-28,NCST Point Taken,7OAKS Spring Peeps (PM),Caroline Smith-Moore,Silvia Elena Leguizamonschocher,Cindy Feryo,Amy Giglio,9,15
-18472,7,2026-04-28,NCST Point Taken,7OAKS Spring Peeps (PM),Sherrie L Bass,Deirdre Clarke,Kathy Casadonte,Beth Treadway,15,12
-18472,8,2026-04-28,NCST Point Taken,7OAKS Spring Peeps (PM),Paige Ruland,Sarah Hinson,Cindy Feryo,Amy Giglio,15,10
-18472,9,2026-04-28,NCST Point Taken,7OAKS Spring Peeps (PM),Caroline Smith-Moore,Silvia Elena Leguizamonschocher,Bethany Upton Squires,Linda Nuxoll,15,2
-18473,1,2026-04-28,NHC Dinks Before Drinks (PM),7OAKS Day Dinkers (PM),Jessica McIntyre,Kate Whitney,Leigh Magee,Dana Chapman,10,15
-18473,2,2026-04-28,NHC Dinks Before Drinks (PM),7OAKS Day Dinkers (PM),Jessica Willetts,LeAnne Bloedon,Amy A Lindsey,Victoria Bell,15,9
-18473,3,2026-04-28,NHC Dinks Before Drinks (PM),7OAKS Day Dinkers (PM),Stephanie Disbrow,Sharon Baggett,Mari Elizabeth Porter,Erin Krupa,2,15
-18473,4,2026-04-28,NHC Dinks Before Drinks (PM),7OAKS Day Dinkers (PM),Jessica McIntyre,Kate Whitney,Amy A Lindsey,Victoria Bell,9,15
-18473,5,2026-04-28,NHC Dinks Before Drinks (PM),7OAKS Day Dinkers (PM),Jessica Willetts,LeAnne Bloedon,Mari Elizabeth Porter,Erin Krupa,15,8
-18473,6,2026-04-28,NHC Dinks Before Drinks (PM),7OAKS Day Dinkers (PM),Stephanie Disbrow,Sharon Baggett,Leigh Magee,Dana Chapman,15,7
-18473,7,2026-04-28,NHC Dinks Before Drinks (PM),7OAKS Day Dinkers (PM),Jessica McIntyre,Kate Whitney,Mari Elizabeth Porter,Erin Krupa,15,9
-18473,8,2026-04-28,NHC Dinks Before Drinks (PM),7OAKS Day Dinkers (PM),Jessica Willetts,LeAnne Bloedon,Leigh Magee,Dana Chapman,15,10
-18473,9,2026-04-28,NHC Dinks Before Drinks (PM),7OAKS Day Dinkers (PM),Stephanie Disbrow,Sharon Baggett,Amy A Lindsey,Victoria Bell,7,15
-18474,1,2026-04-28,WPCC Dink Dynasty (PM),NHC Pink Paddle Club (PM),Chantry Hurt,Jenny Simon,Becky N Faries,Denise Thompson,6,15
-18474,2,2026-04-28,WPCC Dink Dynasty (PM),NHC Pink Paddle Club (PM),Karen Beth Delgado,Pat Ann McGoldrick,Bethany Conner Perkins,Mollie Hodl,7,15
-18474,3,2026-04-28,WPCC Dink Dynasty (PM),NHC Pink Paddle Club (PM),Rebecca Steffens,Susan Hembarsky,Virginia Blake,Kylie Harris,8,15
-18474,4,2026-04-28,WPCC Dink Dynasty (PM),NHC Pink Paddle Club (PM),Chantry Hurt,Jenny Simon,Bethany Conner Perkins,Mollie Hodl,5,15
-18474,5,2026-04-28,WPCC Dink Dynasty (PM),NHC Pink Paddle Club (PM),Karen Beth Delgado,Pat Ann McGoldrick,Virginia Blake,Kylie Harris,5,15
-18474,6,2026-04-28,WPCC Dink Dynasty (PM),NHC Pink Paddle Club (PM),Rebecca Steffens,Susan Hembarsky,Becky N Faries,Denise Thompson,7,15
-18474,7,2026-04-28,WPCC Dink Dynasty (PM),NHC Pink Paddle Club (PM),Chantry Hurt,Jenny Simon,Virginia Blake,Kylie Harris,15,11
-18474,8,2026-04-28,WPCC Dink Dynasty (PM),NHC Pink Paddle Club (PM),Karen Beth Delgado,Pat Ann McGoldrick,Becky N Faries,Denise Thompson,8,15
-18474,9,2026-04-28,WPCC Dink Dynasty (PM),NHC Pink Paddle Club (PM),Rebecca Steffens,Susan Hembarsky,Bethany Conner Perkins,Mollie Hodl,1,15
-18475,1,2026-04-28,7OAKS Late Night Kitchen (PM),BCCC Dinkin' Buddies (PM),Pamela Sue Rigsby,Olga DeGroff,Shari Gianini,Sandy Ball,15,9
-18475,2,2026-04-28,7OAKS Late Night Kitchen (PM),BCCC Dinkin' Buddies (PM),Annette Page,Liz Broadway,Julia Woodson,Vickie Gibbs,15,7
-18475,3,2026-04-28,7OAKS Late Night Kitchen (PM),BCCC Dinkin' Buddies (PM),Molly Bradsher Briggs,Tori Sutler,DEFAULT,DEFAULT,15,0
-18475,4,2026-04-28,7OAKS Late Night Kitchen (PM),BCCC Dinkin' Buddies (PM),Pamela Sue Rigsby,Olga DeGroff,Julia Woodson,Vickie Gibbs,15,4
-18475,5,2026-04-28,7OAKS Late Night Kitchen (PM),BCCC Dinkin' Buddies (PM),Annette Page,Liz Broadway,DEFAULT,DEFAULT,15,0
-18475,6,2026-04-28,7OAKS Late Night Kitchen (PM),BCCC Dinkin' Buddies (PM),Molly Bradsher Briggs,Tori Sutler,Shari Gianini,Sandy Ball,15,5
-18475,7,2026-04-28,7OAKS Late Night Kitchen (PM),BCCC Dinkin' Buddies (PM),Pamela Sue Rigsby,Olga DeGroff,DEFAULT,DEFAULT,15,0
-18475,8,2026-04-28,7OAKS Late Night Kitchen (PM),BCCC Dinkin' Buddies (PM),Annette Page,Liz Broadway,Shari Gianini,Sandy Ball,6,15
-18475,9,2026-04-28,7OAKS Late Night Kitchen (PM),BCCC Dinkin' Buddies (PM),Molly Bradsher Briggs,Tori Sutler,Julia Woodson,Vickie Gibbs,15,1
-18476,1,2026-04-28,HASEN Dink Responsibly 18+ (PM),WPCC Pickled Pink (PM),Diane Werner,Jenny Stout,Alyssa Newton,Katie Ann Percy,15,6
-18476,2,2026-04-28,HASEN Dink Responsibly 18+ (PM),WPCC Pickled Pink (PM),Regina Heroux,Maggie DiNome,Stacey Giglio,Nancy Page,15,2
-18476,3,2026-04-28,HASEN Dink Responsibly 18+ (PM),WPCC Pickled Pink (PM),Emily Rubin,Genevieve Daurity,Beverly McKim,Courtney McKim,15,5
-18476,4,2026-04-28,HASEN Dink Responsibly 18+ (PM),WPCC Pickled Pink (PM),Diane Werner,Jenny Stout,Stacey Giglio,Nancy Page,15,3
-18476,5,2026-04-28,HASEN Dink Responsibly 18+ (PM),WPCC Pickled Pink (PM),Regina Heroux,Maggie DiNome,Beverly McKim,Courtney McKim,15,3
-18476,6,2026-04-28,HASEN Dink Responsibly 18+ (PM),WPCC Pickled Pink (PM),Emily Rubin,Genevieve Daurity,Alyssa Newton,Katie Ann Percy,10,15
-18476,7,2026-04-28,HASEN Dink Responsibly 18+ (PM),WPCC Pickled Pink (PM),Diane Werner,Jenny Stout,Beverly McKim,Courtney McKim,15,3
-18476,8,2026-04-28,HASEN Dink Responsibly 18+ (PM),WPCC Pickled Pink (PM),Regina Heroux,Maggie DiNome,Alyssa Newton,Katie Ann Percy,15,2
-18476,9,2026-04-28,HASEN Dink Responsibly 18+ (PM),WPCC Pickled Pink (PM),Emily Rubin,Genevieve Daurity,Stacey Giglio,Nancy Page,15,3
-18497,1,2026-05-05,BCCC Dinkin' Buddies (PM),7OAKS Day Dinkers (PM),Bobbie Ann West,Stephanie Testa,Angie Carden,Erin Krupa,4,15
-18497,2,2026-05-05,BCCC Dinkin' Buddies (PM),7OAKS Day Dinkers (PM),Julia Woodson,Megan Testa,Christine Widman,Peggy B Williams,3,15
-18497,3,2026-05-05,BCCC Dinkin' Buddies (PM),7OAKS Day Dinkers (PM),Kristen DiMillio Howering,Shari Gianini,Amy A Lindsey,Leigh Magee,11,15
-18497,4,2026-05-05,BCCC Dinkin' Buddies (PM),7OAKS Day Dinkers (PM),Bobbie Ann West,Stephanie Testa,Christine Widman,Peggy B Williams,1,15
-18497,5,2026-05-05,BCCC Dinkin' Buddies (PM),7OAKS Day Dinkers (PM),Julia Woodson,Megan Testa,Amy A Lindsey,Leigh Magee,5,15
-18497,6,2026-05-05,BCCC Dinkin' Buddies (PM),7OAKS Day Dinkers (PM),Kristen DiMillio Howering,Shari Gianini,Angie Carden,Erin Krupa,12,15
-18497,7,2026-05-05,BCCC Dinkin' Buddies (PM),7OAKS Day Dinkers (PM),Bobbie Ann West,Stephanie Testa,Amy A Lindsey,Leigh Magee,0,15
-18497,8,2026-05-05,BCCC Dinkin' Buddies (PM),7OAKS Day Dinkers (PM),Julia Woodson,Megan Testa,Angie Carden,Erin Krupa,3,15
-18497,9,2026-05-05,BCCC Dinkin' Buddies (PM),7OAKS Day Dinkers (PM),Kristen DiMillio Howering,Shari Gianini,Christine Widman,Peggy B Williams,12,15
-18498,1,2026-05-05,HASEN Dink Responsibly 18+ (PM),7OAKS Spring Peeps (PM),Mary Jo Nugent,Cybele Martin Brockmann,Cindy Feryo,Sherry Lynn Goodson,15,5
-18498,2,2026-05-05,HASEN Dink Responsibly 18+ (PM),7OAKS Spring Peeps (PM),Candice V Diehl,Sharon F Barham,Beth Treadway,Kathy Casadonte,15,11
-18498,3,2026-05-05,HASEN Dink Responsibly 18+ (PM),7OAKS Spring Peeps (PM),Laurie Randall,Regina Heroux,Joy Cooper,Takako Schenberger,15,2
-18498,4,2026-05-05,HASEN Dink Responsibly 18+ (PM),7OAKS Spring Peeps (PM),Mary Jo Nugent,Cybele Martin Brockmann,Beth Treadway,Kathy Casadonte,6,15
-18498,5,2026-05-05,HASEN Dink Responsibly 18+ (PM),7OAKS Spring Peeps (PM),Candice V Diehl,Sharon F Barham,Joy Cooper,Takako Schenberger,15,2
-18498,6,2026-05-05,HASEN Dink Responsibly 18+ (PM),7OAKS Spring Peeps (PM),Laurie Randall,Regina Heroux,Cindy Feryo,Sherry Lynn Goodson,15,7
-18498,7,2026-05-05,HASEN Dink Responsibly 18+ (PM),7OAKS Spring Peeps (PM),Mary Jo Nugent,Cybele Martin Brockmann,Joy Cooper,Takako Schenberger,15,6
-18498,8,2026-05-05,HASEN Dink Responsibly 18+ (PM),7OAKS Spring Peeps (PM),Candice V Diehl,Sharon F Barham,Cindy Feryo,Sherry Lynn Goodson,15,7
-18498,9,2026-05-05,HASEN Dink Responsibly 18+ (PM),7OAKS Spring Peeps (PM),Laurie Randall,Regina Heroux,Beth Treadway,Kathy Casadonte,15,11
-18499,1,2026-05-05,NCST Point Taken,WPCC Dink Dynasty (PM),Valerie Worth,Sherrie L Bass,Leigh Kimball,Susan Hembarsky,15,4
-18499,2,2026-05-05,NCST Point Taken,WPCC Dink Dynasty (PM),Deirdre Clarke,Anh T Trieu,Chantry Hurt,Jody Hill,15,3
-18499,3,2026-05-05,NCST Point Taken,WPCC Dink Dynasty (PM),Sarah Hinson,Paige Ruland,Pat Ann McGoldrick,Karen Beth Delgado,15,4
-18499,4,2026-05-05,NCST Point Taken,WPCC Dink Dynasty (PM),Valerie Worth,Sherrie L Bass,Chantry Hurt,Jody Hill,15,1
-18499,5,2026-05-05,NCST Point Taken,WPCC Dink Dynasty (PM),Deirdre Clarke,Anh T Trieu,Pat Ann McGoldrick,Karen Beth Delgado,15,4
-18499,6,2026-05-05,NCST Point Taken,WPCC Dink Dynasty (PM),Sarah Hinson,Paige Ruland,Leigh Kimball,Susan Hembarsky,15,4
-18499,7,2026-05-05,NCST Point Taken,WPCC Dink Dynasty (PM),Valerie Worth,Sherrie L Bass,Pat Ann McGoldrick,Karen Beth Delgado,15,5
-18499,8,2026-05-05,NCST Point Taken,WPCC Dink Dynasty (PM),Deirdre Clarke,Anh T Trieu,Leigh Kimball,Susan Hembarsky,8,15
-18499,9,2026-05-05,NCST Point Taken,WPCC Dink Dynasty (PM),Sarah Hinson,Paige Ruland,Chantry Hurt,Jody Hill,12,15
-18500,1,2026-05-05,WPCC Pickled Pink (PM),NHC Pink Paddle Club (PM),DEFAULT,DEFAULT,Bethany Conner Perkins,Jennifer Blue,0,15
-18500,2,2026-05-05,WPCC Pickled Pink (PM),NHC Pink Paddle Club (PM),DEFAULT,DEFAULT,Sophia Paschaloudis,Teressa Paschaloudis,0,15
-18500,3,2026-05-05,WPCC Pickled Pink (PM),NHC Pink Paddle Club (PM),DEFAULT,DEFAULT,Virginia Blake,Jaime Goodson Gaskins,0,15
-18500,4,2026-05-05,WPCC Pickled Pink (PM),NHC Pink Paddle Club (PM),DEFAULT,DEFAULT,Sophia Paschaloudis,Teressa Paschaloudis,0,15
-18500,5,2026-05-05,WPCC Pickled Pink (PM),NHC Pink Paddle Club (PM),DEFAULT,DEFAULT,Virginia Blake,Jaime Goodson Gaskins,0,15
-18500,6,2026-05-05,WPCC Pickled Pink (PM),NHC Pink Paddle Club (PM),DEFAULT,DEFAULT,Bethany Conner Perkins,Jennifer Blue,0,15
-18500,7,2026-05-05,WPCC Pickled Pink (PM),NHC Pink Paddle Club (PM),DEFAULT,DEFAULT,Virginia Blake,Jaime Goodson Gaskins,0,15
-18500,8,2026-05-05,WPCC Pickled Pink (PM),NHC Pink Paddle Club (PM),DEFAULT,DEFAULT,Bethany Conner Perkins,Jennifer Blue,0,15
-18500,9,2026-05-05,WPCC Pickled Pink (PM),NHC Pink Paddle Club (PM),DEFAULT,DEFAULT,Sophia Paschaloudis,Teressa Paschaloudis,0,15
-18501,1,2026-05-05,7OAKS Late Night Kitchen (PM),HASEN Made Ya Dink! (PM),Danielle Stringer,Pamela Sue Rigsby,Lynn Vitello,Samantha Starr,15,12
-18501,2,2026-05-05,7OAKS Late Night Kitchen (PM),HASEN Made Ya Dink! (PM),Julie A Leon,Maggie Patterson,Lan C Bello,Dawn Frevert,1,15
-18501,3,2026-05-05,7OAKS Late Night Kitchen (PM),HASEN Made Ya Dink! (PM),Olga DeGroff,Tori Sutler,Ashley McCollum,Sharon Louise Lambe,15,5
-18501,4,2026-05-05,7OAKS Late Night Kitchen (PM),HASEN Made Ya Dink! (PM),Danielle Stringer,Pamela Sue Rigsby,Lan C Bello,Dawn Frevert,4,15
-18501,5,2026-05-05,7OAKS Late Night Kitchen (PM),HASEN Made Ya Dink! (PM),Julie A Leon,Maggie Patterson,Ashley McCollum,Sharon Louise Lambe,15,4
-18501,6,2026-05-05,7OAKS Late Night Kitchen (PM),HASEN Made Ya Dink! (PM),Olga DeGroff,Tori Sutler,Lynn Vitello,Samantha Starr,15,8
-18501,7,2026-05-05,7OAKS Late Night Kitchen (PM),HASEN Made Ya Dink! (PM),Danielle Stringer,Pamela Sue Rigsby,Ashley McCollum,Sharon Louise Lambe,15,6
-18501,8,2026-05-05,7OAKS Late Night Kitchen (PM),HASEN Made Ya Dink! (PM),Julie A Leon,Maggie Patterson,Lynn Vitello,Samantha Starr,15,8
-18501,9,2026-05-05,7OAKS Late Night Kitchen (PM),HASEN Made Ya Dink! (PM),Olga DeGroff,Tori Sutler,Lan C Bello,Dawn Frevert,15,10
-18502,1,2026-05-05,WPCC Dill Breakers (PM),NHC Dinks Before Drinks (PM),Jessica Brimmer,Kate Pirrung,Brooke Abee,Meghan Yancey,15,4
-18502,2,2026-05-05,WPCC Dill Breakers (PM),NHC Dinks Before Drinks (PM),Donna Louise Driscoll,Janice D Lewis,AnneElizabeth Harrell,Jessica McIntyre,6,15
-18502,3,2026-05-05,WPCC Dill Breakers (PM),NHC Dinks Before Drinks (PM),Lori Larrabee,Carrie OFerral,Jessica Willetts,Sharon Baggett,6,15
-18502,4,2026-05-05,WPCC Dill Breakers (PM),NHC Dinks Before Drinks (PM),Jessica Brimmer,Kate Pirrung,AnneElizabeth Harrell,Jessica McIntyre,15,10
-18502,5,2026-05-05,WPCC Dill Breakers (PM),NHC Dinks Before Drinks (PM),Donna Louise Driscoll,Janice D Lewis,Jessica Willetts,Sharon Baggett,8,15
-18502,6,2026-05-05,WPCC Dill Breakers (PM),NHC Dinks Before Drinks (PM),Lori Larrabee,Carrie OFerral,Brooke Abee,Meghan Yancey,11,15
-18502,7,2026-05-05,WPCC Dill Breakers (PM),NHC Dinks Before Drinks (PM),Jessica Brimmer,Kate Pirrung,Jessica Willetts,Sharon Baggett,9,15
-18502,8,2026-05-05,WPCC Dill Breakers (PM),NHC Dinks Before Drinks (PM),Donna Louise Driscoll,Janice D Lewis,Brooke Abee,Meghan Yancey,9,15
-18502,9,2026-05-05,WPCC Dill Breakers (PM),NHC Dinks Before Drinks (PM),Lori Larrabee,Carrie OFerral,AnneElizabeth Harrell,Jessica McIntyre,9,15
-18518,1,2026-05-12,7OAKS Spring Peeps (PM),WPCC Pickled Pink (PM),Kathy Casadonte,Bethany Upton Squires,Katie Ann Percy,Marilyn Slaymaker,16,14
-18518,2,2026-05-12,7OAKS Spring Peeps (PM),WPCC Pickled Pink (PM),Laurie H Kramer,Takako Schenberger,Andrea Ellen McCartney,Susan Laurie Shaw,7,15
-18518,3,2026-05-12,7OAKS Spring Peeps (PM),WPCC Pickled Pink (PM),Judy Liss Reger,Genny Igo,Melissa Michael,Courtney McKim,15,12
-18518,4,2026-05-12,7OAKS Spring Peeps (PM),WPCC Pickled Pink (PM),Kathy Casadonte,Bethany Upton Squires,Andrea Ellen McCartney,Susan Laurie Shaw,15,11
-18518,5,2026-05-12,7OAKS Spring Peeps (PM),WPCC Pickled Pink (PM),Laurie H Kramer,Takako Schenberger,Melissa Michael,Courtney McKim,15,8
-18518,6,2026-05-12,7OAKS Spring Peeps (PM),WPCC Pickled Pink (PM),Judy Liss Reger,Genny Igo,Katie Ann Percy,Marilyn Slaymaker,4,15
-18518,7,2026-05-12,7OAKS Spring Peeps (PM),WPCC Pickled Pink (PM),Kathy Casadonte,Bethany Upton Squires,Melissa Michael,Courtney McKim,15,6
-18518,8,2026-05-12,7OAKS Spring Peeps (PM),WPCC Pickled Pink (PM),Laurie H Kramer,Takako Schenberger,Katie Ann Percy,Marilyn Slaymaker,15,3
-18518,9,2026-05-12,7OAKS Spring Peeps (PM),WPCC Pickled Pink (PM),Judy Liss Reger,Genny Igo,Andrea Ellen McCartney,Susan Laurie Shaw,3,15
-18519,1,2026-05-12,HASEN Made Ya Dink! (PM),BCCC Dinkin' Buddies (PM),Jennifer Lynn Bouck,Michelle Rademann,Kristen DiMillio Howering,Diane Sauer,9,15
-18519,2,2026-05-12,HASEN Made Ya Dink! (PM),BCCC Dinkin' Buddies (PM),Janet Hammond,Lan C Bello,Shari Gianini,Vickie Gibbs,15,1
-18519,3,2026-05-12,HASEN Made Ya Dink! (PM),BCCC Dinkin' Buddies (PM),Ashley McCollum,Samantha Starr,DEFAULT,DEFAULT,15,0
-18519,4,2026-05-12,HASEN Made Ya Dink! (PM),BCCC Dinkin' Buddies (PM),Jennifer Lynn Bouck,Michelle Rademann,Shari Gianini,Vickie Gibbs,15,4
-18519,5,2026-05-12,HASEN Made Ya Dink! (PM),BCCC Dinkin' Buddies (PM),Janet Hammond,Lan C Bello,DEFAULT,DEFAULT,15,0
-18519,6,2026-05-12,HASEN Made Ya Dink! (PM),BCCC Dinkin' Buddies (PM),Ashley McCollum,Samantha Starr,Kristen DiMillio Howering,Diane Sauer,4,15
-18519,7,2026-05-12,HASEN Made Ya Dink! (PM),BCCC Dinkin' Buddies (PM),Jennifer Lynn Bouck,Michelle Rademann,DEFAULT,DEFAULT,15,0
-18519,8,2026-05-12,HASEN Made Ya Dink! (PM),BCCC Dinkin' Buddies (PM),Janet Hammond,Lan C Bello,Kristen DiMillio Howering,Diane Sauer,3,15
-18519,9,2026-05-12,HASEN Made Ya Dink! (PM),BCCC Dinkin' Buddies (PM),Ashley McCollum,Samantha Starr,Shari Gianini,Vickie Gibbs,15,8
-18520,1,2026-05-12,NHC Dinks Before Drinks (PM),7OAKS Late Night Kitchen (PM),Brooke Abee,Meghan Yancey,Olga DeGroff,Tori Sutler,5,15
-18520,2,2026-05-12,NHC Dinks Before Drinks (PM),7OAKS Late Night Kitchen (PM),Julie Sullivan,Kate Whitney,Danielle Stringer,Pamela Sue Rigsby,15,6
-18520,3,2026-05-12,NHC Dinks Before Drinks (PM),7OAKS Late Night Kitchen (PM),AnneElizabeth Harrell,Heather Mauzy,Julie A Leon,Maggie Patterson,12,15
-18520,4,2026-05-12,NHC Dinks Before Drinks (PM),7OAKS Late Night Kitchen (PM),Brooke Abee,Meghan Yancey,Danielle Stringer,Pamela Sue Rigsby,10,15
-18520,5,2026-05-12,NHC Dinks Before Drinks (PM),7OAKS Late Night Kitchen (PM),Julie Sullivan,Kate Whitney,Julie A Leon,Maggie Patterson,15,8
-18520,6,2026-05-12,NHC Dinks Before Drinks (PM),7OAKS Late Night Kitchen (PM),AnneElizabeth Harrell,Heather Mauzy,Olga DeGroff,Tori Sutler,0,15
-18520,7,2026-05-12,NHC Dinks Before Drinks (PM),7OAKS Late Night Kitchen (PM),Brooke Abee,Meghan Yancey,Julie A Leon,Maggie Patterson,8,15
-18520,8,2026-05-12,NHC Dinks Before Drinks (PM),7OAKS Late Night Kitchen (PM),Julie Sullivan,Kate Whitney,Olga DeGroff,Tori Sutler,15,9
-18520,9,2026-05-12,NHC Dinks Before Drinks (PM),7OAKS Late Night Kitchen (PM),AnneElizabeth Harrell,Heather Mauzy,Danielle Stringer,Pamela Sue Rigsby,8,15
-18521,1,2026-05-12,NHC Pink Paddle Club (PM),NCST Point Taken,Becky N Faries,Jennifer J Conley,Valerie Worth,Anh T Trieu,11,15
-18521,2,2026-05-12,NHC Pink Paddle Club (PM),NCST Point Taken,Jennifer Blue,Mollie Hodl,Sarah Hinson,Paige Ruland,15,13
-18521,3,2026-05-12,NHC Pink Paddle Club (PM),NCST Point Taken,Bethany Conner Perkins,Emmy Garvey,Sherrie L Bass,Patty Carter,10,15
-18521,4,2026-05-12,NHC Pink Paddle Club (PM),NCST Point Taken,Becky N Faries,Jennifer J Conley,Sarah Hinson,Paige Ruland,15,12
-18521,5,2026-05-12,NHC Pink Paddle Club (PM),NCST Point Taken,Jennifer Blue,Mollie Hodl,Sherrie L Bass,Patty Carter,7,15
-18521,6,2026-05-12,NHC Pink Paddle Club (PM),NCST Point Taken,Bethany Conner Perkins,Emmy Garvey,Valerie Worth,Anh T Trieu,10,15
-18521,7,2026-05-12,NHC Pink Paddle Club (PM),NCST Point Taken,Becky N Faries,Jennifer J Conley,Sherrie L Bass,Patty Carter,15,11
-18521,8,2026-05-12,NHC Pink Paddle Club (PM),NCST Point Taken,Jennifer Blue,Mollie Hodl,Valerie Worth,Anh T Trieu,2,15
-18521,9,2026-05-12,NHC Pink Paddle Club (PM),NCST Point Taken,Bethany Conner Perkins,Emmy Garvey,Sarah Hinson,Paige Ruland,15,4
-18522,1,2026-05-12,WPCC Dink Dynasty (PM),HASEN Dink Responsibly 18+ (PM),Shelli Clark,Rebecca Steffens,Betsy Perkinson,Mary Jo Nugent,4,15
-18522,2,2026-05-12,WPCC Dink Dynasty (PM),HASEN Dink Responsibly 18+ (PM),Jenny Simon,Lisa DeMarco,Diane Werner,Laurie Randall,5,15
-18522,3,2026-05-12,WPCC Dink Dynasty (PM),HASEN Dink Responsibly 18+ (PM),Karen Beth Delgado,Jody Hill,Jenny Stout,Susan Flanagan,2,15
-18522,4,2026-05-12,WPCC Dink Dynasty (PM),HASEN Dink Responsibly 18+ (PM),Shelli Clark,Rebecca Steffens,Diane Werner,Laurie Randall,3,15
-18522,5,2026-05-12,WPCC Dink Dynasty (PM),HASEN Dink Responsibly 18+ (PM),Jenny Simon,Lisa DeMarco,Jenny Stout,Susan Flanagan,1,15
-18522,6,2026-05-12,WPCC Dink Dynasty (PM),HASEN Dink Responsibly 18+ (PM),Karen Beth Delgado,Jody Hill,Betsy Perkinson,Mary Jo Nugent,9,15
-18522,7,2026-05-12,WPCC Dink Dynasty (PM),HASEN Dink Responsibly 18+ (PM),Shelli Clark,Rebecca Steffens,Jenny Stout,Susan Flanagan,1,15
-18522,8,2026-05-12,WPCC Dink Dynasty (PM),HASEN Dink Responsibly 18+ (PM),Jenny Simon,Lisa DeMarco,Betsy Perkinson,Mary Jo Nugent,4,15
-18522,9,2026-05-12,WPCC Dink Dynasty (PM),HASEN Dink Responsibly 18+ (PM),Karen Beth Delgado,Jody Hill,Diane Werner,Laurie Randall,4,15
-18523,1,2026-05-12,7OAKS Day Dinkers (PM),WPCC Dill Breakers (PM),Mari Elizabeth Porter,Dana Chapman,Melissa Kirk Landry,Kate Pirrung,15,5
-18523,2,2026-05-12,7OAKS Day Dinkers (PM),WPCC Dill Breakers (PM),Peggy B Williams,Christine Widman,Melissa S Green,Lori Larrabee,15,1
-18523,3,2026-05-12,7OAKS Day Dinkers (PM),WPCC Dill Breakers (PM),Ada Gonzalez,Erin Krupa,Beth Murray,Janice D Lewis,15,1
-18523,4,2026-05-12,7OAKS Day Dinkers (PM),WPCC Dill Breakers (PM),Mari Elizabeth Porter,Dana Chapman,Melissa S Green,Lori Larrabee,15,6
-18523,5,2026-05-12,7OAKS Day Dinkers (PM),WPCC Dill Breakers (PM),Peggy B Williams,Christine Widman,Beth Murray,Janice D Lewis,15,2
-18523,6,2026-05-12,7OAKS Day Dinkers (PM),WPCC Dill Breakers (PM),Ada Gonzalez,Erin Krupa,Melissa Kirk Landry,Kate Pirrung,15,4
-18523,7,2026-05-12,7OAKS Day Dinkers (PM),WPCC Dill Breakers (PM),Mari Elizabeth Porter,Dana Chapman,Beth Murray,Janice D Lewis,15,1
-18523,8,2026-05-12,7OAKS Day Dinkers (PM),WPCC Dill Breakers (PM),Peggy B Williams,Christine Widman,Melissa Kirk Landry,Kate Pirrung,13,15
-18523,9,2026-05-12,7OAKS Day Dinkers (PM),WPCC Dill Breakers (PM),Ada Gonzalez,Erin Krupa,Melissa S Green,Lori Larrabee,15,1
-18545,1,2026-05-19,BCCC Dinkin' Buddies (PM),NHC Dinks Before Drinks (PM),Shari Gianini,Sandy Ball,Amy Pena,Jessica McIntyre,1,15
-18545,2,2026-05-19,BCCC Dinkin' Buddies (PM),NHC Dinks Before Drinks (PM),Kristen DiMillio Howering,Diane Sauer,LeAnne Bloedon,AnneElizabeth Harrell,15,5
-18545,3,2026-05-19,BCCC Dinkin' Buddies (PM),NHC Dinks Before Drinks (PM),Vickie Gibbs,Stephanie Testa,DEFAULT,DEFAULT,15,0
-18545,4,2026-05-19,BCCC Dinkin' Buddies (PM),NHC Dinks Before Drinks (PM),Shari Gianini,Sandy Ball,LeAnne Bloedon,AnneElizabeth Harrell,9,15
-18545,5,2026-05-19,BCCC Dinkin' Buddies (PM),NHC Dinks Before Drinks (PM),Kristen DiMillio Howering,Diane Sauer,DEFAULT,DEFAULT,15,0
-18545,6,2026-05-19,BCCC Dinkin' Buddies (PM),NHC Dinks Before Drinks (PM),Vickie Gibbs,Stephanie Testa,Amy Pena,Jessica McIntyre,0,15
-18545,7,2026-05-19,BCCC Dinkin' Buddies (PM),NHC Dinks Before Drinks (PM),Shari Gianini,Sandy Ball,DEFAULT,DEFAULT,15,0
-18545,8,2026-05-19,BCCC Dinkin' Buddies (PM),NHC Dinks Before Drinks (PM),Kristen DiMillio Howering,Diane Sauer,Amy Pena,Jessica McIntyre,13,15
-18545,9,2026-05-19,BCCC Dinkin' Buddies (PM),NHC Dinks Before Drinks (PM),Vickie Gibbs,Stephanie Testa,LeAnne Bloedon,AnneElizabeth Harrell,8,15
-18546,1,2026-05-19,HASEN Made Ya Dink! (PM),7OAKS Day Dinkers (PM),Janet Hammond,Lan C Bello,Mari Elizabeth Porter,Amy A Lindsey,16,14
-18546,2,2026-05-19,HASEN Made Ya Dink! (PM),7OAKS Day Dinkers (PM),Carolyn P Smith,Tracey Sanders,Ada Gonzalez,Peggy B Williams,15,11
-18546,3,2026-05-19,HASEN Made Ya Dink! (PM),7OAKS Day Dinkers (PM),Michelle Rademann,Samantha Starr,Priscilla Hicks,Erin Krupa,15,12
-18546,4,2026-05-19,HASEN Made Ya Dink! (PM),7OAKS Day Dinkers (PM),Janet Hammond,Lan C Bello,Ada Gonzalez,Peggy B Williams,13,15
-18546,5,2026-05-19,HASEN Made Ya Dink! (PM),7OAKS Day Dinkers (PM),Carolyn P Smith,Tracey Sanders,Priscilla Hicks,Erin Krupa,15,9
-18546,6,2026-05-19,HASEN Made Ya Dink! (PM),7OAKS Day Dinkers (PM),Michelle Rademann,Samantha Starr,Mari Elizabeth Porter,Amy A Lindsey,10,15
-18546,7,2026-05-19,HASEN Made Ya Dink! (PM),7OAKS Day Dinkers (PM),Janet Hammond,Lan C Bello,Priscilla Hicks,Erin Krupa,15,17
-18546,8,2026-05-19,HASEN Made Ya Dink! (PM),7OAKS Day Dinkers (PM),Carolyn P Smith,Tracey Sanders,Mari Elizabeth Porter,Amy A Lindsey,11,15
-18546,9,2026-05-19,HASEN Made Ya Dink! (PM),7OAKS Day Dinkers (PM),Michelle Rademann,Samantha Starr,Ada Gonzalez,Peggy B Williams,8,15
-18547,1,2026-05-19,NCST Point Taken,WPCC Pickled Pink (PM),Sherrie L Bass,Paige Ruland,Nancy Page,Susan Laurie Shaw,15,4
-18547,2,2026-05-19,NCST Point Taken,WPCC Pickled Pink (PM),Patty Carter,Caroline Smith-Moore,Alyssa Newton,April Haas,15,1
-18547,3,2026-05-19,NCST Point Taken,WPCC Pickled Pink (PM),Deirdre Clarke,Nancy Bumgarner,Mary Casson,Melissa Michael,15,2
-18547,4,2026-05-19,NCST Point Taken,WPCC Pickled Pink (PM),Sherrie L Bass,Paige Ruland,Alyssa Newton,April Haas,15,2
-18547,5,2026-05-19,NCST Point Taken,WPCC Pickled Pink (PM),Patty Carter,Caroline Smith-Moore,Mary Casson,Melissa Michael,15,4
-18547,6,2026-05-19,NCST Point Taken,WPCC Pickled Pink (PM),Deirdre Clarke,Nancy Bumgarner,Nancy Page,Susan Laurie Shaw,15,11
-18547,7,2026-05-19,NCST Point Taken,WPCC Pickled Pink (PM),Sherrie L Bass,Paige Ruland,Mary Casson,Melissa Michael,15,2
-18547,8,2026-05-19,NCST Point Taken,WPCC Pickled Pink (PM),Patty Carter,Caroline Smith-Moore,Nancy Page,Susan Laurie Shaw,15,4
-18547,9,2026-05-19,NCST Point Taken,WPCC Pickled Pink (PM),Deirdre Clarke,Nancy Bumgarner,Alyssa Newton,April Haas,14,16
-18548,1,2026-05-19,NHC Pink Paddle Club (PM),HASEN Dink Responsibly 18+ (PM),Becky N Faries,Jennifer J Conley,Regina Heroux,Laurie Randall,14,16
-18548,2,2026-05-19,NHC Pink Paddle Club (PM),HASEN Dink Responsibly 18+ (PM),Emmy Garvey,Bethany Conner Perkins,Sharon F Barham,Candice V Diehl,15,12
-18548,3,2026-05-19,NHC Pink Paddle Club (PM),HASEN Dink Responsibly 18+ (PM),Denise Thompson,Mollie Hodl,Maggie DiNome,Betsy Perkinson,14,16
-18548,4,2026-05-19,NHC Pink Paddle Club (PM),HASEN Dink Responsibly 18+ (PM),Becky N Faries,Jennifer J Conley,Sharon F Barham,Candice V Diehl,11,15
-18548,5,2026-05-19,NHC Pink Paddle Club (PM),HASEN Dink Responsibly 18+ (PM),Emmy Garvey,Bethany Conner Perkins,Maggie DiNome,Betsy Perkinson,15,13
-18548,6,2026-05-19,NHC Pink Paddle Club (PM),HASEN Dink Responsibly 18+ (PM),Denise Thompson,Mollie Hodl,Regina Heroux,Laurie Randall,8,15
-18548,7,2026-05-19,NHC Pink Paddle Club (PM),HASEN Dink Responsibly 18+ (PM),Becky N Faries,Jennifer J Conley,Maggie DiNome,Betsy Perkinson,15,11
-18548,8,2026-05-19,NHC Pink Paddle Club (PM),HASEN Dink Responsibly 18+ (PM),Emmy Garvey,Bethany Conner Perkins,Regina Heroux,Laurie Randall,15,8
-18548,9,2026-05-19,NHC Pink Paddle Club (PM),HASEN Dink Responsibly 18+ (PM),Denise Thompson,Mollie Hodl,Sharon F Barham,Candice V Diehl,15,17
-18549,1,2026-05-19,WPCC Dink Dynasty (PM),7OAKS Spring Peeps (PM),Jenny Simon,Susan Hembarsky,Beth Treadway,Joy Cooper,15,12
-18549,2,2026-05-19,WPCC Dink Dynasty (PM),7OAKS Spring Peeps (PM),Dane Hewett Brackett,Rebecca Steffens,Amy Giglio,Cindy Feryo,7,15
-18549,3,2026-05-19,WPCC Dink Dynasty (PM),7OAKS Spring Peeps (PM),Jody Hill,Pat Ann McGoldrick,Linda Nuxoll,Genny Igo,10,15
-18549,4,2026-05-19,WPCC Dink Dynasty (PM),7OAKS Spring Peeps (PM),Jenny Simon,Susan Hembarsky,Amy Giglio,Cindy Feryo,5,15
-18549,5,2026-05-19,WPCC Dink Dynasty (PM),7OAKS Spring Peeps (PM),Dane Hewett Brackett,Rebecca Steffens,Linda Nuxoll,Genny Igo,5,15
-18549,6,2026-05-19,WPCC Dink Dynasty (PM),7OAKS Spring Peeps (PM),Jody Hill,Pat Ann McGoldrick,Beth Treadway,Joy Cooper,2,15
-18549,7,2026-05-19,WPCC Dink Dynasty (PM),7OAKS Spring Peeps (PM),Jenny Simon,Susan Hembarsky,Linda Nuxoll,Genny Igo,15,9
-18549,8,2026-05-19,WPCC Dink Dynasty (PM),7OAKS Spring Peeps (PM),Dane Hewett Brackett,Rebecca Steffens,Beth Treadway,Joy Cooper,8,15
-18549,9,2026-05-19,WPCC Dink Dynasty (PM),7OAKS Spring Peeps (PM),Jody Hill,Pat Ann McGoldrick,Amy Giglio,Cindy Feryo,1,15
-18550,1,2026-05-19,7OAKS Late Night Kitchen (PM),WPCC Dill Breakers (PM),Julia Killian,Danielle Stringer,Teesa McKinley,Janet Wilson Mitch,15,11
-18550,2,2026-05-19,7OAKS Late Night Kitchen (PM),WPCC Dill Breakers (PM),Julie A Leon,Sherrie L Lefere,Kate Pirrung,Jessica Brimmer,2,15
-18550,3,2026-05-19,7OAKS Late Night Kitchen (PM),WPCC Dill Breakers (PM),Tori Sutler,Molly Bradsher Briggs,Beth Murray,Lori Larrabee,15,0
-18550,4,2026-05-19,7OAKS Late Night Kitchen (PM),WPCC Dill Breakers (PM),Julia Killian,Danielle Stringer,Kate Pirrung,Jessica Brimmer,15,12
-18550,5,2026-05-19,7OAKS Late Night Kitchen (PM),WPCC Dill Breakers (PM),Julie A Leon,Sherrie L Lefere,Beth Murray,Lori Larrabee,15,6
-18550,6,2026-05-19,7OAKS Late Night Kitchen (PM),WPCC Dill Breakers (PM),Tori Sutler,Molly Bradsher Briggs,Teesa McKinley,Janet Wilson Mitch,15,5
-18550,7,2026-05-19,7OAKS Late Night Kitchen (PM),WPCC Dill Breakers (PM),Julia Killian,Danielle Stringer,Beth Murray,Lori Larrabee,15,7
-18550,8,2026-05-19,7OAKS Late Night Kitchen (PM),WPCC Dill Breakers (PM),Julie A Leon,Sherrie L Lefere,Teesa McKinley,Janet Wilson Mitch,10,15
-18550,9,2026-05-19,7OAKS Late Night Kitchen (PM),WPCC Dill Breakers (PM),Tori Sutler,Molly Bradsher Briggs,Kate Pirrung,Jessica Brimmer,15,6
-18560,1,2026-05-26,7OAKS Day Dinkers (PM),7OAKS Late Night Kitchen (PM),Erin Krupa,Ada Gonzalez,Danielle Stringer,Pamela Sue Rigsby,15,3
-18560,2,2026-05-26,7OAKS Day Dinkers (PM),7OAKS Late Night Kitchen (PM),Priscilla Hicks,Victoria Bell,Maggie Patterson,Julie A Leon,15,6
-18560,3,2026-05-26,7OAKS Day Dinkers (PM),7OAKS Late Night Kitchen (PM),Mari Elizabeth Porter,Angie Carden,Molly Bradsher Briggs,Tori Sutler,14,16
-18560,4,2026-05-26,7OAKS Day Dinkers (PM),7OAKS Late Night Kitchen (PM),Erin Krupa,Ada Gonzalez,Maggie Patterson,Julie A Leon,15,8
-18560,5,2026-05-26,7OAKS Day Dinkers (PM),7OAKS Late Night Kitchen (PM),Priscilla Hicks,Victoria Bell,Molly Bradsher Briggs,Tori Sutler,4,15
-18560,6,2026-05-26,7OAKS Day Dinkers (PM),7OAKS Late Night Kitchen (PM),Mari Elizabeth Porter,Angie Carden,Danielle Stringer,Pamela Sue Rigsby,15,7
-18560,7,2026-05-26,7OAKS Day Dinkers (PM),7OAKS Late Night Kitchen (PM),Erin Krupa,Ada Gonzalez,Molly Bradsher Briggs,Tori Sutler,6,15
-18560,8,2026-05-26,7OAKS Day Dinkers (PM),7OAKS Late Night Kitchen (PM),Priscilla Hicks,Victoria Bell,Danielle Stringer,Pamela Sue Rigsby,15,7
-18560,9,2026-05-26,7OAKS Day Dinkers (PM),7OAKS Late Night Kitchen (PM),Mari Elizabeth Porter,Angie Carden,Maggie Patterson,Julie A Leon,15,11
-18561,1,2026-05-26,HASEN Dink Responsibly 18+ (PM),NCST Point Taken,Maggie DiNome,Regina Heroux,Deirdre Clarke,Patty Carter,10,15
-18561,2,2026-05-26,HASEN Dink Responsibly 18+ (PM),NCST Point Taken,Cybele Martin Brockmann,Diane Werner,Nancy Bumgarner,Valerie Worth,12,15
-18561,3,2026-05-26,HASEN Dink Responsibly 18+ (PM),NCST Point Taken,Mary Jo Nugent,Laurie Randall,Paige Ruland,Sarah Hinson,5,15
-18561,4,2026-05-26,HASEN Dink Responsibly 18+ (PM),NCST Point Taken,Maggie DiNome,Regina Heroux,Nancy Bumgarner,Valerie Worth,7,15
-18561,5,2026-05-26,HASEN Dink Responsibly 18+ (PM),NCST Point Taken,Cybele Martin Brockmann,Diane Werner,Paige Ruland,Sarah Hinson,11,15
-18561,6,2026-05-26,HASEN Dink Responsibly 18+ (PM),NCST Point Taken,Mary Jo Nugent,Laurie Randall,Deirdre Clarke,Patty Carter,15,13
-18561,7,2026-05-26,HASEN Dink Responsibly 18+ (PM),NCST Point Taken,Maggie DiNome,Regina Heroux,Paige Ruland,Sarah Hinson,15,6
-18561,8,2026-05-26,HASEN Dink Responsibly 18+ (PM),NCST Point Taken,Cybele Martin Brockmann,Diane Werner,Deirdre Clarke,Patty Carter,15,7
-18561,9,2026-05-26,HASEN Dink Responsibly 18+ (PM),NCST Point Taken,Mary Jo Nugent,Laurie Randall,Nancy Bumgarner,Valerie Worth,5,15
-18562,1,2026-05-26,NHC Dinks Before Drinks (PM),HASEN Made Ya Dink! (PM),AnneElizabeth Harrell,Jackie Caprio,Tracey Sanders,Carolyn P Smith,11,15
-18562,2,2026-05-26,NHC Dinks Before Drinks (PM),HASEN Made Ya Dink! (PM),Julie Sullivan,Amy Pena,Lan C Bello,Dawn Frevert,15,9
-18562,3,2026-05-26,NHC Dinks Before Drinks (PM),HASEN Made Ya Dink! (PM),Jessica McIntyre,Jessica Willetts,Ginger Craig,Lynn Vitello,15,2
-18562,4,2026-05-26,NHC Dinks Before Drinks (PM),HASEN Made Ya Dink! (PM),AnneElizabeth Harrell,Jackie Caprio,Lan C Bello,Dawn Frevert,6,15
-18562,5,2026-05-26,NHC Dinks Before Drinks (PM),HASEN Made Ya Dink! (PM),Julie Sullivan,Amy Pena,Ginger Craig,Lynn Vitello,15,2
-18562,6,2026-05-26,NHC Dinks Before Drinks (PM),HASEN Made Ya Dink! (PM),Jessica McIntyre,Jessica Willetts,Tracey Sanders,Carolyn P Smith,11,15
-18562,7,2026-05-26,NHC Dinks Before Drinks (PM),HASEN Made Ya Dink! (PM),AnneElizabeth Harrell,Jackie Caprio,Ginger Craig,Lynn Vitello,15,7
-18562,8,2026-05-26,NHC Dinks Before Drinks (PM),HASEN Made Ya Dink! (PM),Julie Sullivan,Amy Pena,Tracey Sanders,Carolyn P Smith,15,13
-18562,9,2026-05-26,NHC Dinks Before Drinks (PM),HASEN Made Ya Dink! (PM),Jessica McIntyre,Jessica Willetts,Lan C Bello,Dawn Frevert,13,15
-18563,1,2026-05-26,WPCC Dill Breakers (PM),BCCC Dinkin' Buddies (PM),Teesa McKinley,Kate Pirrung,DEFAULT,DEFAULT,15,0
-18563,2,2026-05-26,WPCC Dill Breakers (PM),BCCC Dinkin' Buddies (PM),Melissa Kirk Landry,Donna Louise Driscoll,DEFAULT,DEFAULT,15,0
-18563,3,2026-05-26,WPCC Dill Breakers (PM),BCCC Dinkin' Buddies (PM),Lori Larrabee,Janet Wilson Mitch,DEFAULT,DEFAULT,15,0
-18563,4,2026-05-26,WPCC Dill Breakers (PM),BCCC Dinkin' Buddies (PM),Teesa McKinley,Kate Pirrung,DEFAULT,DEFAULT,15,0
-18563,5,2026-05-26,WPCC Dill Breakers (PM),BCCC Dinkin' Buddies (PM),Melissa Kirk Landry,Donna Louise Driscoll,DEFAULT,DEFAULT,15,0
-18563,6,2026-05-26,WPCC Dill Breakers (PM),BCCC Dinkin' Buddies (PM),Lori Larrabee,Janet Wilson Mitch,DEFAULT,DEFAULT,15,0
-18563,7,2026-05-26,WPCC Dill Breakers (PM),BCCC Dinkin' Buddies (PM),Teesa McKinley,Kate Pirrung,DEFAULT,DEFAULT,15,0
-18563,8,2026-05-26,WPCC Dill Breakers (PM),BCCC Dinkin' Buddies (PM),Melissa Kirk Landry,Donna Louise Driscoll,DEFAULT,DEFAULT,15,0
-18563,9,2026-05-26,WPCC Dill Breakers (PM),BCCC Dinkin' Buddies (PM),Lori Larrabee,Janet Wilson Mitch,DEFAULT,DEFAULT,15,0
-18564,1,2026-05-26,7OAKS Spring Peeps (PM),NHC Pink Paddle Club (PM),Bethany Upton Squires,Kathy Casadonte,Jennifer Blue,Denise Thompson,11,15
-18564,2,2026-05-26,7OAKS Spring Peeps (PM),NHC Pink Paddle Club (PM),Amy Giglio,Cindy Feryo,Teressa Paschaloudis,Sophia Paschaloudis,15,10
-18564,3,2026-05-26,7OAKS Spring Peeps (PM),NHC Pink Paddle Club (PM),Sherry Lynn Goodson,Beth Treadway,Virginia Blake,Jaime Goodson Gaskins,8,15
-18564,4,2026-05-26,7OAKS Spring Peeps (PM),NHC Pink Paddle Club (PM),Bethany Upton Squires,Kathy Casadonte,Teressa Paschaloudis,Sophia Paschaloudis,7,15
-18564,5,2026-05-26,7OAKS Spring Peeps (PM),NHC Pink Paddle Club (PM),Amy Giglio,Cindy Feryo,Virginia Blake,Jaime Goodson Gaskins,15,7
-18564,6,2026-05-26,7OAKS Spring Peeps (PM),NHC Pink Paddle Club (PM),Sherry Lynn Goodson,Beth Treadway,Jennifer Blue,Denise Thompson,3,15
-18564,7,2026-05-26,7OAKS Spring Peeps (PM),NHC Pink Paddle Club (PM),Bethany Upton Squires,Kathy Casadonte,Virginia Blake,Jaime Goodson Gaskins,15,10
-18564,8,2026-05-26,7OAKS Spring Peeps (PM),NHC Pink Paddle Club (PM),Amy Giglio,Cindy Feryo,Jennifer Blue,Denise Thompson,14,16
-18564,9,2026-05-26,7OAKS Spring Peeps (PM),NHC Pink Paddle Club (PM),Sherry Lynn Goodson,Beth Treadway,Teressa Paschaloudis,Sophia Paschaloudis,15,6
-18565,1,2026-05-26,WPCC Pickled Pink (PM),WPCC Dink Dynasty (PM),Melissa Michael,Mary Casson,Susan Hembarsky,Shelli Clark,13,15
-18565,2,2026-05-26,WPCC Pickled Pink (PM),WPCC Dink Dynasty (PM),Lori Parkman,April Haas,Tracey M Carlin,Margie Molloy,15,6
-18565,3,2026-05-26,WPCC Pickled Pink (PM),WPCC Dink Dynasty (PM),Courtney McKim,Nancy Page,Chantry Hurt,Jenny Simon,1,15
-18565,4,2026-05-26,WPCC Pickled Pink (PM),WPCC Dink Dynasty (PM),Melissa Michael,Mary Casson,Tracey M Carlin,Margie Molloy,1,15
-18565,5,2026-05-26,WPCC Pickled Pink (PM),WPCC Dink Dynasty (PM),Lori Parkman,April Haas,Chantry Hurt,Jenny Simon,1,15
-18565,6,2026-05-26,WPCC Pickled Pink (PM),WPCC Dink Dynasty (PM),Courtney McKim,Nancy Page,Susan Hembarsky,Shelli Clark,2,15
-18565,7,2026-05-26,WPCC Pickled Pink (PM),WPCC Dink Dynasty (PM),Melissa Michael,Mary Casson,Chantry Hurt,Jenny Simon,1,15
-18565,8,2026-05-26,WPCC Pickled Pink (PM),WPCC Dink Dynasty (PM),Lori Parkman,April Haas,Susan Hembarsky,Shelli Clark,14,16
-18565,9,2026-05-26,WPCC Pickled Pink (PM),WPCC Dink Dynasty (PM),Courtney McKim,Nancy Page,Tracey M Carlin,Margie Molloy,4,15
-18581,1,2026-06-06,HASEN Dink Responsibly 18+ (PM),7OAKS Day Dinkers (PM),Susan Flanagan,Jenny Stout,Peggy B Williams,Ada Gonzalez,15,17
-18581,2,2026-06-06,HASEN Dink Responsibly 18+ (PM),7OAKS Day Dinkers (PM),Cybele Martin Brockmann,Mary Jo Nugent,Mari Elizabeth Porter,Angie Carden,12,15
-18581,3,2026-06-06,HASEN Dink Responsibly 18+ (PM),7OAKS Day Dinkers (PM),Laurie Randall,Regina Heroux,Dana Chapman,Erin Krupa,15,9
-18581,4,2026-06-06,HASEN Dink Responsibly 18+ (PM),7OAKS Day Dinkers (PM),Susan Flanagan,Jenny Stout,Mari Elizabeth Porter,Angie Carden,4,15
-18581,5,2026-06-06,HASEN Dink Responsibly 18+ (PM),7OAKS Day Dinkers (PM),Cybele Martin Brockmann,Mary Jo Nugent,Dana Chapman,Erin Krupa,15,7
-18581,6,2026-06-06,HASEN Dink Responsibly 18+ (PM),7OAKS Day Dinkers (PM),Laurie Randall,Regina Heroux,Peggy B Williams,Ada Gonzalez,15,6
-18581,7,2026-06-06,HASEN Dink Responsibly 18+ (PM),7OAKS Day Dinkers (PM),Susan Flanagan,Jenny Stout,Dana Chapman,Erin Krupa,4,15
-18581,8,2026-06-06,HASEN Dink Responsibly 18+ (PM),7OAKS Day Dinkers (PM),Cybele Martin Brockmann,Mary Jo Nugent,Peggy B Williams,Ada Gonzalez,7,15
-18581,9,2026-06-06,HASEN Dink Responsibly 18+ (PM),7OAKS Day Dinkers (PM),Laurie Randall,Regina Heroux,Mari Elizabeth Porter,Angie Carden,16,18
+match_id,game_id,match_date,league,season,skill_level,age,gender,team1_name,team2_name,partner1,partner2,opponent1,opponent2,team1_points,team2_points
+18336,1,2026-03-17,raleigh,spring2026,highintermediate,18,women,7OAKS Day Dinkers (PM),NHC Dinks Before Drinks (PM),Erin Krupa,Mari Elizabeth Porter,Amy Pena,Julie Sullivan,15,12
+18336,2,2026-03-17,raleigh,spring2026,highintermediate,18,women,7OAKS Day Dinkers (PM),NHC Dinks Before Drinks (PM),Leigh Magee,Victoria Bell,LeAnne Bloedon,Stephanie Disbrow,13,15
+18336,3,2026-03-17,raleigh,spring2026,highintermediate,18,women,7OAKS Day Dinkers (PM),NHC Dinks Before Drinks (PM),Christine Widman,Angie Carden,Jessica McIntyre,Heather Mauzy,18,16
+18336,4,2026-03-17,raleigh,spring2026,highintermediate,18,women,7OAKS Day Dinkers (PM),NHC Dinks Before Drinks (PM),Erin Krupa,Mari Elizabeth Porter,LeAnne Bloedon,Stephanie Disbrow,15,12
+18336,5,2026-03-17,raleigh,spring2026,highintermediate,18,women,7OAKS Day Dinkers (PM),NHC Dinks Before Drinks (PM),Leigh Magee,Victoria Bell,Jessica McIntyre,Heather Mauzy,13,15
+18336,6,2026-03-17,raleigh,spring2026,highintermediate,18,women,7OAKS Day Dinkers (PM),NHC Dinks Before Drinks (PM),Christine Widman,Angie Carden,Amy Pena,Julie Sullivan,8,15
+18336,7,2026-03-17,raleigh,spring2026,highintermediate,18,women,7OAKS Day Dinkers (PM),NHC Dinks Before Drinks (PM),Erin Krupa,Mari Elizabeth Porter,Jessica McIntyre,Heather Mauzy,12,15
+18336,8,2026-03-17,raleigh,spring2026,highintermediate,18,women,7OAKS Day Dinkers (PM),NHC Dinks Before Drinks (PM),Leigh Magee,Victoria Bell,Amy Pena,Julie Sullivan,5,15
+18336,9,2026-03-17,raleigh,spring2026,highintermediate,18,women,7OAKS Day Dinkers (PM),NHC Dinks Before Drinks (PM),Christine Widman,Angie Carden,LeAnne Bloedon,Stephanie Disbrow,15,11
+18337,1,2026-03-17,raleigh,spring2026,highintermediate,18,women,BCCC Dinkin' Buddies (PM),7OAKS Late Night Kitchen (PM),Stephanie Testa,Megan Testa,Andra Kinlaw,Julie A Leon,4,15
+18337,2,2026-03-17,raleigh,spring2026,highintermediate,18,women,BCCC Dinkin' Buddies (PM),7OAKS Late Night Kitchen (PM),Shari Gianini,Sandy Ball,Sherrie L Lefere,Liz Broadway,7,15
+18337,3,2026-03-17,raleigh,spring2026,highintermediate,18,women,BCCC Dinkin' Buddies (PM),7OAKS Late Night Kitchen (PM),Kristen DiMillio Howering,Diane Sauer,Maggie Patterson,Danielle Stringer,15,3
+18337,4,2026-03-17,raleigh,spring2026,highintermediate,18,women,BCCC Dinkin' Buddies (PM),7OAKS Late Night Kitchen (PM),Stephanie Testa,Megan Testa,Sherrie L Lefere,Liz Broadway,1,15
+18337,5,2026-03-17,raleigh,spring2026,highintermediate,18,women,BCCC Dinkin' Buddies (PM),7OAKS Late Night Kitchen (PM),Shari Gianini,Sandy Ball,Maggie Patterson,Danielle Stringer,10,15
+18337,6,2026-03-17,raleigh,spring2026,highintermediate,18,women,BCCC Dinkin' Buddies (PM),7OAKS Late Night Kitchen (PM),Kristen DiMillio Howering,Diane Sauer,Andra Kinlaw,Julie A Leon,15,6
+18337,7,2026-03-17,raleigh,spring2026,highintermediate,18,women,BCCC Dinkin' Buddies (PM),7OAKS Late Night Kitchen (PM),Stephanie Testa,Megan Testa,Maggie Patterson,Danielle Stringer,2,15
+18337,8,2026-03-17,raleigh,spring2026,highintermediate,18,women,BCCC Dinkin' Buddies (PM),7OAKS Late Night Kitchen (PM),Shari Gianini,Sandy Ball,Andra Kinlaw,Julie A Leon,15,6
+18337,9,2026-03-17,raleigh,spring2026,highintermediate,18,women,BCCC Dinkin' Buddies (PM),7OAKS Late Night Kitchen (PM),Kristen DiMillio Howering,Diane Sauer,Sherrie L Lefere,Liz Broadway,15,3
+18338,1,2026-03-17,raleigh,spring2026,highintermediate,18,women,NHC Pink Paddle Club (PM),WPCC Dink Dynasty (PM),Emmy Garvey,Bethany Conner Perkins,Susan Hembarsky,Leigh Kimball,15,4
+18338,2,2026-03-17,raleigh,spring2026,highintermediate,18,women,NHC Pink Paddle Club (PM),WPCC Dink Dynasty (PM),Jennifer J Conley,Jaime Goodson Gaskins,Jody Hill,Karen Beth Delgado,15,8
+18338,3,2026-03-17,raleigh,spring2026,highintermediate,18,women,NHC Pink Paddle Club (PM),WPCC Dink Dynasty (PM),Kylie Harris,Teressa Paschaloudis,Lisa DeMarco,Rebecca Steffens,15,2
+18338,4,2026-03-17,raleigh,spring2026,highintermediate,18,women,NHC Pink Paddle Club (PM),WPCC Dink Dynasty (PM),Emmy Garvey,Bethany Conner Perkins,Jody Hill,Karen Beth Delgado,15,6
+18338,5,2026-03-17,raleigh,spring2026,highintermediate,18,women,NHC Pink Paddle Club (PM),WPCC Dink Dynasty (PM),Jennifer J Conley,Jaime Goodson Gaskins,Lisa DeMarco,Rebecca Steffens,15,5
+18338,6,2026-03-17,raleigh,spring2026,highintermediate,18,women,NHC Pink Paddle Club (PM),WPCC Dink Dynasty (PM),Kylie Harris,Teressa Paschaloudis,Susan Hembarsky,Leigh Kimball,10,15
+18338,7,2026-03-17,raleigh,spring2026,highintermediate,18,women,NHC Pink Paddle Club (PM),WPCC Dink Dynasty (PM),Emmy Garvey,Bethany Conner Perkins,Lisa DeMarco,Rebecca Steffens,15,0
+18338,8,2026-03-17,raleigh,spring2026,highintermediate,18,women,NHC Pink Paddle Club (PM),WPCC Dink Dynasty (PM),Jennifer J Conley,Jaime Goodson Gaskins,Susan Hembarsky,Leigh Kimball,15,6
+18338,9,2026-03-17,raleigh,spring2026,highintermediate,18,women,NHC Pink Paddle Club (PM),WPCC Dink Dynasty (PM),Kylie Harris,Teressa Paschaloudis,Jody Hill,Karen Beth Delgado,16,14
+18339,1,2026-03-17,raleigh,spring2026,highintermediate,18,women,WPCC Dill Breakers (PM),HASEN Made Ya Dink! (PM),Dafnie Driscoll,Teesa McKinley,Lan C Bello,Carolyn P Smith,15,9
+18339,2,2026-03-17,raleigh,spring2026,highintermediate,18,women,WPCC Dill Breakers (PM),HASEN Made Ya Dink! (PM),Janet Wilson Mitch,Kate Pirrung,Lynn Vitello,Dawn Frevert,4,15
+18339,3,2026-03-17,raleigh,spring2026,highintermediate,18,women,WPCC Dill Breakers (PM),HASEN Made Ya Dink! (PM),Melissa Kirk Landry,Melissa S Green,Sharon Regnier,Ashley McCollum,11,15
+18339,4,2026-03-17,raleigh,spring2026,highintermediate,18,women,WPCC Dill Breakers (PM),HASEN Made Ya Dink! (PM),Dafnie Driscoll,Teesa McKinley,Lynn Vitello,Dawn Frevert,7,15
+18339,5,2026-03-17,raleigh,spring2026,highintermediate,18,women,WPCC Dill Breakers (PM),HASEN Made Ya Dink! (PM),Janet Wilson Mitch,Kate Pirrung,Sharon Regnier,Ashley McCollum,11,15
+18339,6,2026-03-17,raleigh,spring2026,highintermediate,18,women,WPCC Dill Breakers (PM),HASEN Made Ya Dink! (PM),Melissa Kirk Landry,Melissa S Green,Lan C Bello,Carolyn P Smith,6,15
+18339,7,2026-03-17,raleigh,spring2026,highintermediate,18,women,WPCC Dill Breakers (PM),HASEN Made Ya Dink! (PM),Dafnie Driscoll,Teesa McKinley,Sharon Regnier,Ashley McCollum,12,15
+18339,8,2026-03-17,raleigh,spring2026,highintermediate,18,women,WPCC Dill Breakers (PM),HASEN Made Ya Dink! (PM),Janet Wilson Mitch,Kate Pirrung,Lan C Bello,Carolyn P Smith,11,15
+18339,9,2026-03-17,raleigh,spring2026,highintermediate,18,women,WPCC Dill Breakers (PM),HASEN Made Ya Dink! (PM),Melissa Kirk Landry,Melissa S Green,Lynn Vitello,Dawn Frevert,5,15
+18340,1,2026-03-17,raleigh,spring2026,highintermediate,18,women,7OAKS Spring Peeps (PM),NCST Point Taken,Laurie H Kramer,Sherry Lynn Goodson,Valerie Worth,Caroline Smith-Moore,9,15
+18340,2,2026-03-17,raleigh,spring2026,highintermediate,18,women,7OAKS Spring Peeps (PM),NCST Point Taken,Kathy Casadonte,Bethany Upton Squires,Stacy Gant,Silvia Elena Leguizamonschocher,3,15
+18340,3,2026-03-17,raleigh,spring2026,highintermediate,18,women,7OAKS Spring Peeps (PM),NCST Point Taken,Judy Liss Reger,Takako Schenberger,Sarah Hinson,Deirdre Clarke,9,15
+18340,4,2026-03-17,raleigh,spring2026,highintermediate,18,women,7OAKS Spring Peeps (PM),NCST Point Taken,Laurie H Kramer,Sherry Lynn Goodson,Stacy Gant,Silvia Elena Leguizamonschocher,15,7
+18340,5,2026-03-17,raleigh,spring2026,highintermediate,18,women,7OAKS Spring Peeps (PM),NCST Point Taken,Kathy Casadonte,Bethany Upton Squires,Sarah Hinson,Deirdre Clarke,6,15
+18340,6,2026-03-17,raleigh,spring2026,highintermediate,18,women,7OAKS Spring Peeps (PM),NCST Point Taken,Judy Liss Reger,Takako Schenberger,Valerie Worth,Caroline Smith-Moore,13,15
+18340,7,2026-03-17,raleigh,spring2026,highintermediate,18,women,7OAKS Spring Peeps (PM),NCST Point Taken,Laurie H Kramer,Sherry Lynn Goodson,Sarah Hinson,Deirdre Clarke,3,15
+18340,8,2026-03-17,raleigh,spring2026,highintermediate,18,women,7OAKS Spring Peeps (PM),NCST Point Taken,Kathy Casadonte,Bethany Upton Squires,Valerie Worth,Caroline Smith-Moore,17,15
+18340,9,2026-03-17,raleigh,spring2026,highintermediate,18,women,7OAKS Spring Peeps (PM),NCST Point Taken,Judy Liss Reger,Takako Schenberger,Stacy Gant,Silvia Elena Leguizamonschocher,14,16
+18341,1,2026-03-17,raleigh,spring2026,highintermediate,18,women,WPCC Pickled Pink (PM),HASEN Dink Responsibly 18+ (PM),Andrea Ellen McCartney,Lori Parkman,Candice V Diehl,Sharon F Barham,8,15
+18341,2,2026-03-17,raleigh,spring2026,highintermediate,18,women,WPCC Pickled Pink (PM),HASEN Dink Responsibly 18+ (PM),Nancy Page,Courtney McKim,Cybele Martin Brockmann,Jenny Stout,7,15
+18341,3,2026-03-17,raleigh,spring2026,highintermediate,18,women,WPCC Pickled Pink (PM),HASEN Dink Responsibly 18+ (PM),Alyssa Newton,Katie Ann Percy,Regina Heroux,Laurie Randall,5,15
+18341,4,2026-03-17,raleigh,spring2026,highintermediate,18,women,WPCC Pickled Pink (PM),HASEN Dink Responsibly 18+ (PM),Andrea Ellen McCartney,Lori Parkman,Cybele Martin Brockmann,Jenny Stout,15,8
+18341,5,2026-03-17,raleigh,spring2026,highintermediate,18,women,WPCC Pickled Pink (PM),HASEN Dink Responsibly 18+ (PM),Nancy Page,Courtney McKim,Regina Heroux,Laurie Randall,4,15
+18341,6,2026-03-17,raleigh,spring2026,highintermediate,18,women,WPCC Pickled Pink (PM),HASEN Dink Responsibly 18+ (PM),Alyssa Newton,Katie Ann Percy,Candice V Diehl,Sharon F Barham,8,15
+18341,7,2026-03-17,raleigh,spring2026,highintermediate,18,women,WPCC Pickled Pink (PM),HASEN Dink Responsibly 18+ (PM),Andrea Ellen McCartney,Lori Parkman,Regina Heroux,Laurie Randall,14,16
+18341,8,2026-03-17,raleigh,spring2026,highintermediate,18,women,WPCC Pickled Pink (PM),HASEN Dink Responsibly 18+ (PM),Nancy Page,Courtney McKim,Candice V Diehl,Sharon F Barham,7,15
+18341,9,2026-03-17,raleigh,spring2026,highintermediate,18,women,WPCC Pickled Pink (PM),HASEN Dink Responsibly 18+ (PM),Alyssa Newton,Katie Ann Percy,Cybele Martin Brockmann,Jenny Stout,15,11
+18362,1,2026-03-24,raleigh,spring2026,highintermediate,18,women,7OAKS Spring Peeps (PM),HASEN Dink Responsibly 18+ (PM),Cindy Feryo,Linda Nuxoll,Susan Flanagan,Betsy Perkinson,9,15
+18362,2,2026-03-24,raleigh,spring2026,highintermediate,18,women,7OAKS Spring Peeps (PM),HASEN Dink Responsibly 18+ (PM),Amy Giglio,Beth Treadway,Jenny Stout,Mary Jo Nugent,17,15
+18362,3,2026-03-24,raleigh,spring2026,highintermediate,18,women,7OAKS Spring Peeps (PM),HASEN Dink Responsibly 18+ (PM),Laurie H Kramer,Sherry Lynn Goodson,Emily Rubin,Genevieve Daurity,16,14
+18362,4,2026-03-24,raleigh,spring2026,highintermediate,18,women,7OAKS Spring Peeps (PM),HASEN Dink Responsibly 18+ (PM),Cindy Feryo,Linda Nuxoll,Jenny Stout,Mary Jo Nugent,15,12
+18362,5,2026-03-24,raleigh,spring2026,highintermediate,18,women,7OAKS Spring Peeps (PM),HASEN Dink Responsibly 18+ (PM),Amy Giglio,Beth Treadway,Emily Rubin,Genevieve Daurity,11,15
+18362,6,2026-03-24,raleigh,spring2026,highintermediate,18,women,7OAKS Spring Peeps (PM),HASEN Dink Responsibly 18+ (PM),Laurie H Kramer,Sherry Lynn Goodson,Susan Flanagan,Betsy Perkinson,5,15
+18362,7,2026-03-24,raleigh,spring2026,highintermediate,18,women,7OAKS Spring Peeps (PM),HASEN Dink Responsibly 18+ (PM),Cindy Feryo,Linda Nuxoll,Emily Rubin,Genevieve Daurity,11,15
+18362,8,2026-03-24,raleigh,spring2026,highintermediate,18,women,7OAKS Spring Peeps (PM),HASEN Dink Responsibly 18+ (PM),Amy Giglio,Beth Treadway,Susan Flanagan,Betsy Perkinson,15,7
+18362,9,2026-03-24,raleigh,spring2026,highintermediate,18,women,7OAKS Spring Peeps (PM),HASEN Dink Responsibly 18+ (PM),Laurie H Kramer,Sherry Lynn Goodson,Jenny Stout,Mary Jo Nugent,2,15
+18363,1,2026-03-24,raleigh,spring2026,highintermediate,18,women,HASEN Made Ya Dink! (PM),7OAKS Late Night Kitchen (PM),Lynn Vitello,Samantha Starr,Andra Kinlaw,Maggie Patterson,17,15
+18363,2,2026-03-24,raleigh,spring2026,highintermediate,18,women,HASEN Made Ya Dink! (PM),7OAKS Late Night Kitchen (PM),Dawn Frevert,Lan C Bello,Julia Killian,Pamela Sue Rigsby,15,2
+18363,3,2026-03-24,raleigh,spring2026,highintermediate,18,women,HASEN Made Ya Dink! (PM),7OAKS Late Night Kitchen (PM),Janet Hammond,Carolyn P Smith,Molly Bradsher Briggs,Liz Broadway,15,12
+18363,4,2026-03-24,raleigh,spring2026,highintermediate,18,women,HASEN Made Ya Dink! (PM),7OAKS Late Night Kitchen (PM),Lynn Vitello,Samantha Starr,Julia Killian,Pamela Sue Rigsby,15,5
+18363,5,2026-03-24,raleigh,spring2026,highintermediate,18,women,HASEN Made Ya Dink! (PM),7OAKS Late Night Kitchen (PM),Dawn Frevert,Lan C Bello,Molly Bradsher Briggs,Liz Broadway,10,15
+18363,6,2026-03-24,raleigh,spring2026,highintermediate,18,women,HASEN Made Ya Dink! (PM),7OAKS Late Night Kitchen (PM),Janet Hammond,Carolyn P Smith,Andra Kinlaw,Maggie Patterson,15,9
+18363,7,2026-03-24,raleigh,spring2026,highintermediate,18,women,HASEN Made Ya Dink! (PM),7OAKS Late Night Kitchen (PM),Lynn Vitello,Samantha Starr,Molly Bradsher Briggs,Liz Broadway,15,13
+18363,8,2026-03-24,raleigh,spring2026,highintermediate,18,women,HASEN Made Ya Dink! (PM),7OAKS Late Night Kitchen (PM),Dawn Frevert,Lan C Bello,Andra Kinlaw,Maggie Patterson,15,2
+18363,9,2026-03-24,raleigh,spring2026,highintermediate,18,women,HASEN Made Ya Dink! (PM),7OAKS Late Night Kitchen (PM),Janet Hammond,Carolyn P Smith,Julia Killian,Pamela Sue Rigsby,16,14
+18364,1,2026-03-24,raleigh,spring2026,highintermediate,18,women,NHC Dinks Before Drinks (PM),WPCC Dill Breakers (PM),Julie Sullivan,Kate Whitney,Janet Wilson Mitch,Carrie OFerral,15,6
+18364,2,2026-03-24,raleigh,spring2026,highintermediate,18,women,NHC Dinks Before Drinks (PM),WPCC Dill Breakers (PM),Jessica Willetts,Sharon Baggett,Janice D Lewis,Lori Larrabee,15,4
+18364,3,2026-03-24,raleigh,spring2026,highintermediate,18,women,NHC Dinks Before Drinks (PM),WPCC Dill Breakers (PM),Meghan Yancey,Brooke Abee,Beth Murray,Amanda Viele,15,7
+18364,4,2026-03-24,raleigh,spring2026,highintermediate,18,women,NHC Dinks Before Drinks (PM),WPCC Dill Breakers (PM),Julie Sullivan,Kate Whitney,Janice D Lewis,Lori Larrabee,15,3
+18364,5,2026-03-24,raleigh,spring2026,highintermediate,18,women,NHC Dinks Before Drinks (PM),WPCC Dill Breakers (PM),Jessica Willetts,Sharon Baggett,Beth Murray,Amanda Viele,15,0
+18364,6,2026-03-24,raleigh,spring2026,highintermediate,18,women,NHC Dinks Before Drinks (PM),WPCC Dill Breakers (PM),Meghan Yancey,Brooke Abee,Janet Wilson Mitch,Carrie OFerral,15,11
+18364,7,2026-03-24,raleigh,spring2026,highintermediate,18,women,NHC Dinks Before Drinks (PM),WPCC Dill Breakers (PM),Julie Sullivan,Kate Whitney,Beth Murray,Amanda Viele,15,2
+18364,8,2026-03-24,raleigh,spring2026,highintermediate,18,women,NHC Dinks Before Drinks (PM),WPCC Dill Breakers (PM),Jessica Willetts,Sharon Baggett,Janet Wilson Mitch,Carrie OFerral,15,11
+18364,9,2026-03-24,raleigh,spring2026,highintermediate,18,women,NHC Dinks Before Drinks (PM),WPCC Dill Breakers (PM),Meghan Yancey,Brooke Abee,Janice D Lewis,Lori Larrabee,15,5
+18365,1,2026-03-24,raleigh,spring2026,highintermediate,18,women,NHC Pink Paddle Club (PM),WPCC Pickled Pink (PM),Jennifer Blue,Denise Thompson,Andrea Ellen McCartney,Lori Parkman,15,10
+18365,2,2026-03-24,raleigh,spring2026,highintermediate,18,women,NHC Pink Paddle Club (PM),WPCC Pickled Pink (PM),Sophia Paschaloudis,Teressa Paschaloudis,Wendy Brooker Burns,Stacey Giglio,10,15
+18365,3,2026-03-24,raleigh,spring2026,highintermediate,18,women,NHC Pink Paddle Club (PM),WPCC Pickled Pink (PM),Becky N Faries,Jaime Goodson Gaskins,Marilyn Slaymaker,Melissa Michael,15,7
+18365,4,2026-03-24,raleigh,spring2026,highintermediate,18,women,NHC Pink Paddle Club (PM),WPCC Pickled Pink (PM),Jennifer Blue,Denise Thompson,Wendy Brooker Burns,Stacey Giglio,15,8
+18365,5,2026-03-24,raleigh,spring2026,highintermediate,18,women,NHC Pink Paddle Club (PM),WPCC Pickled Pink (PM),Sophia Paschaloudis,Teressa Paschaloudis,Marilyn Slaymaker,Melissa Michael,15,13
+18365,6,2026-03-24,raleigh,spring2026,highintermediate,18,women,NHC Pink Paddle Club (PM),WPCC Pickled Pink (PM),Becky N Faries,Jaime Goodson Gaskins,Andrea Ellen McCartney,Lori Parkman,15,4
+18365,7,2026-03-24,raleigh,spring2026,highintermediate,18,women,NHC Pink Paddle Club (PM),WPCC Pickled Pink (PM),Jennifer Blue,Denise Thompson,Marilyn Slaymaker,Melissa Michael,15,9
+18365,8,2026-03-24,raleigh,spring2026,highintermediate,18,women,NHC Pink Paddle Club (PM),WPCC Pickled Pink (PM),Sophia Paschaloudis,Teressa Paschaloudis,Andrea Ellen McCartney,Lori Parkman,15,11
+18365,9,2026-03-24,raleigh,spring2026,highintermediate,18,women,NHC Pink Paddle Club (PM),WPCC Pickled Pink (PM),Becky N Faries,Jaime Goodson Gaskins,Wendy Brooker Burns,Stacey Giglio,4,15
+18366,1,2026-03-24,raleigh,spring2026,highintermediate,18,women,WPCC Dink Dynasty (PM),NCST Point Taken,Margie Molloy,Jenny Simon,Patty Carter,Sherrie L Bass,4,15
+18366,2,2026-03-24,raleigh,spring2026,highintermediate,18,women,WPCC Dink Dynasty (PM),NCST Point Taken,Tracey M Carlin,Pat Ann McGoldrick,Deirdre Clarke,Sarah Hinson,8,15
+18366,3,2026-03-24,raleigh,spring2026,highintermediate,18,women,WPCC Dink Dynasty (PM),NCST Point Taken,Dane Hewett Brackett,Gina Myers,Stacy Gant,Silvia Elena Leguizamonschocher,11,15
+18366,4,2026-03-24,raleigh,spring2026,highintermediate,18,women,WPCC Dink Dynasty (PM),NCST Point Taken,Margie Molloy,Jenny Simon,Deirdre Clarke,Sarah Hinson,6,15
+18366,5,2026-03-24,raleigh,spring2026,highintermediate,18,women,WPCC Dink Dynasty (PM),NCST Point Taken,Tracey M Carlin,Pat Ann McGoldrick,Stacy Gant,Silvia Elena Leguizamonschocher,8,15
+18366,6,2026-03-24,raleigh,spring2026,highintermediate,18,women,WPCC Dink Dynasty (PM),NCST Point Taken,Dane Hewett Brackett,Gina Myers,Patty Carter,Sherrie L Bass,7,15
+18366,7,2026-03-24,raleigh,spring2026,highintermediate,18,women,WPCC Dink Dynasty (PM),NCST Point Taken,Margie Molloy,Jenny Simon,Stacy Gant,Silvia Elena Leguizamonschocher,5,15
+18366,8,2026-03-24,raleigh,spring2026,highintermediate,18,women,WPCC Dink Dynasty (PM),NCST Point Taken,Tracey M Carlin,Pat Ann McGoldrick,Patty Carter,Sherrie L Bass,1,15
+18366,9,2026-03-24,raleigh,spring2026,highintermediate,18,women,WPCC Dink Dynasty (PM),NCST Point Taken,Dane Hewett Brackett,Gina Myers,Deirdre Clarke,Sarah Hinson,13,15
+18367,1,2026-03-24,raleigh,spring2026,highintermediate,18,women,7OAKS Day Dinkers (PM),BCCC Dinkin' Buddies (PM),Dana Chapman,Amy A Lindsey,Shari Gianini,Sandy Ball,15,7
+18367,2,2026-03-24,raleigh,spring2026,highintermediate,18,women,7OAKS Day Dinkers (PM),BCCC Dinkin' Buddies (PM),Erin Krupa,Ada Gonzalez,Kristen DiMillio Howering,Vickie Gibbs,15,4
+18367,3,2026-03-24,raleigh,spring2026,highintermediate,18,women,7OAKS Day Dinkers (PM),BCCC Dinkin' Buddies (PM),Peggy B Williams,Priscilla Hicks,Bobbie Ann West,Julia Woodson,15,2
+18367,4,2026-03-24,raleigh,spring2026,highintermediate,18,women,7OAKS Day Dinkers (PM),BCCC Dinkin' Buddies (PM),Dana Chapman,Amy A Lindsey,Kristen DiMillio Howering,Vickie Gibbs,12,15
+18367,5,2026-03-24,raleigh,spring2026,highintermediate,18,women,7OAKS Day Dinkers (PM),BCCC Dinkin' Buddies (PM),Erin Krupa,Ada Gonzalez,Bobbie Ann West,Julia Woodson,15,1
+18367,6,2026-03-24,raleigh,spring2026,highintermediate,18,women,7OAKS Day Dinkers (PM),BCCC Dinkin' Buddies (PM),Peggy B Williams,Priscilla Hicks,Shari Gianini,Sandy Ball,15,13
+18367,7,2026-03-24,raleigh,spring2026,highintermediate,18,women,7OAKS Day Dinkers (PM),BCCC Dinkin' Buddies (PM),Dana Chapman,Amy A Lindsey,Bobbie Ann West,Julia Woodson,15,6
+18367,8,2026-03-24,raleigh,spring2026,highintermediate,18,women,7OAKS Day Dinkers (PM),BCCC Dinkin' Buddies (PM),Erin Krupa,Ada Gonzalez,Shari Gianini,Sandy Ball,15,3
+18367,9,2026-03-24,raleigh,spring2026,highintermediate,18,women,7OAKS Day Dinkers (PM),BCCC Dinkin' Buddies (PM),Peggy B Williams,Priscilla Hicks,Kristen DiMillio Howering,Vickie Gibbs,13,15
+18392,1,2026-04-07,raleigh,spring2026,highintermediate,18,women,BCCC Dinkin' Buddies (PM),HASEN Made Ya Dink! (PM),Bobbie Ann West,Megan Testa,Jennifer Lynn Bouck,Sharon Regnier,1,15
+18392,2,2026-04-07,raleigh,spring2026,highintermediate,18,women,BCCC Dinkin' Buddies (PM),HASEN Made Ya Dink! (PM),Diane Sauer,Julia Woodson,Sharon Louise Lambe,Ashley McCollum,4,15
+18392,3,2026-04-07,raleigh,spring2026,highintermediate,18,women,BCCC Dinkin' Buddies (PM),HASEN Made Ya Dink! (PM),DEFAULT,DEFAULT,Ginger Craig,Janet Hammond,0,15
+18392,4,2026-04-07,raleigh,spring2026,highintermediate,18,women,BCCC Dinkin' Buddies (PM),HASEN Made Ya Dink! (PM),Bobbie Ann West,Megan Testa,Sharon Louise Lambe,Ashley McCollum,2,15
+18392,5,2026-04-07,raleigh,spring2026,highintermediate,18,women,BCCC Dinkin' Buddies (PM),HASEN Made Ya Dink! (PM),Diane Sauer,Julia Woodson,Ginger Craig,Janet Hammond,10,15
+18392,6,2026-04-07,raleigh,spring2026,highintermediate,18,women,BCCC Dinkin' Buddies (PM),HASEN Made Ya Dink! (PM),DEFAULT,DEFAULT,Jennifer Lynn Bouck,Sharon Regnier,0,15
+18392,7,2026-04-07,raleigh,spring2026,highintermediate,18,women,BCCC Dinkin' Buddies (PM),HASEN Made Ya Dink! (PM),Bobbie Ann West,Megan Testa,Ginger Craig,Janet Hammond,11,15
+18392,8,2026-04-07,raleigh,spring2026,highintermediate,18,women,BCCC Dinkin' Buddies (PM),HASEN Made Ya Dink! (PM),Diane Sauer,Julia Woodson,Jennifer Lynn Bouck,Sharon Regnier,11,15
+18392,9,2026-04-07,raleigh,spring2026,highintermediate,18,women,BCCC Dinkin' Buddies (PM),HASEN Made Ya Dink! (PM),DEFAULT,DEFAULT,Sharon Louise Lambe,Ashley McCollum,0,15
+18393,1,2026-04-07,raleigh,spring2026,highintermediate,18,women,HASEN Dink Responsibly 18+ (PM),WPCC Dink Dynasty (PM),Candice V Diehl,Sharon F Barham,Gina Myers,Shelli Clark,15,1
+18393,2,2026-04-07,raleigh,spring2026,highintermediate,18,women,HASEN Dink Responsibly 18+ (PM),WPCC Dink Dynasty (PM),Emily Rubin,Genevieve Daurity,Karen Beth Delgado,Rebecca Steffens,15,1
+18393,3,2026-04-07,raleigh,spring2026,highintermediate,18,women,HASEN Dink Responsibly 18+ (PM),WPCC Dink Dynasty (PM),Diane Werner,Jenny Stout,Chantry Hurt,Susan Hembarsky,15,5
+18393,4,2026-04-07,raleigh,spring2026,highintermediate,18,women,HASEN Dink Responsibly 18+ (PM),WPCC Dink Dynasty (PM),Candice V Diehl,Sharon F Barham,Karen Beth Delgado,Rebecca Steffens,15,1
+18393,5,2026-04-07,raleigh,spring2026,highintermediate,18,women,HASEN Dink Responsibly 18+ (PM),WPCC Dink Dynasty (PM),Emily Rubin,Genevieve Daurity,Chantry Hurt,Susan Hembarsky,15,10
+18393,6,2026-04-07,raleigh,spring2026,highintermediate,18,women,HASEN Dink Responsibly 18+ (PM),WPCC Dink Dynasty (PM),Diane Werner,Jenny Stout,Gina Myers,Shelli Clark,15,1
+18393,7,2026-04-07,raleigh,spring2026,highintermediate,18,women,HASEN Dink Responsibly 18+ (PM),WPCC Dink Dynasty (PM),Candice V Diehl,Sharon F Barham,Chantry Hurt,Susan Hembarsky,15,4
+18393,8,2026-04-07,raleigh,spring2026,highintermediate,18,women,HASEN Dink Responsibly 18+ (PM),WPCC Dink Dynasty (PM),Emily Rubin,Genevieve Daurity,Gina Myers,Shelli Clark,15,4
+18393,9,2026-04-07,raleigh,spring2026,highintermediate,18,women,HASEN Dink Responsibly 18+ (PM),WPCC Dink Dynasty (PM),Diane Werner,Jenny Stout,Karen Beth Delgado,Rebecca Steffens,15,1
+18394,1,2026-04-07,raleigh,spring2026,highintermediate,18,women,NCST Point Taken,NHC Pink Paddle Club (PM),Valerie Worth,Stacy Gant,Emmy Garvey,Bethany Conner Perkins,8,15
+18394,2,2026-04-07,raleigh,spring2026,highintermediate,18,women,NCST Point Taken,NHC Pink Paddle Club (PM),Caroline Smith-Moore,Nancy Bumgarner,Denise Thompson,Mollie Hodl,14,16
+18394,3,2026-04-07,raleigh,spring2026,highintermediate,18,women,NCST Point Taken,NHC Pink Paddle Club (PM),Deirdre Clarke,Silvia Elena Leguizamonschocher,Jennifer J Conley,Kylie Harris,15,13
+18394,4,2026-04-07,raleigh,spring2026,highintermediate,18,women,NCST Point Taken,NHC Pink Paddle Club (PM),Valerie Worth,Stacy Gant,Denise Thompson,Mollie Hodl,7,15
+18394,5,2026-04-07,raleigh,spring2026,highintermediate,18,women,NCST Point Taken,NHC Pink Paddle Club (PM),Caroline Smith-Moore,Nancy Bumgarner,Jennifer J Conley,Kylie Harris,7,15
+18394,6,2026-04-07,raleigh,spring2026,highintermediate,18,women,NCST Point Taken,NHC Pink Paddle Club (PM),Deirdre Clarke,Silvia Elena Leguizamonschocher,Emmy Garvey,Bethany Conner Perkins,5,15
+18394,7,2026-04-07,raleigh,spring2026,highintermediate,18,women,NCST Point Taken,NHC Pink Paddle Club (PM),Valerie Worth,Stacy Gant,Jennifer J Conley,Kylie Harris,15,12
+18394,8,2026-04-07,raleigh,spring2026,highintermediate,18,women,NCST Point Taken,NHC Pink Paddle Club (PM),Caroline Smith-Moore,Nancy Bumgarner,Emmy Garvey,Bethany Conner Perkins,16,14
+18394,9,2026-04-07,raleigh,spring2026,highintermediate,18,women,NCST Point Taken,NHC Pink Paddle Club (PM),Deirdre Clarke,Silvia Elena Leguizamonschocher,Denise Thompson,Mollie Hodl,6,15
+18395,1,2026-04-07,raleigh,spring2026,highintermediate,18,women,WPCC Pickled Pink (PM),7OAKS Spring Peeps (PM),Alyssa Newton,Beverly McKim,Cindy Feryo,Sherry Lynn Goodson,5,15
+18395,2,2026-04-07,raleigh,spring2026,highintermediate,18,women,WPCC Pickled Pink (PM),7OAKS Spring Peeps (PM),April Haas,Nancy Page,Takako Schenberger,Kathy Casadonte,3,15
+18395,3,2026-04-07,raleigh,spring2026,highintermediate,18,women,WPCC Pickled Pink (PM),7OAKS Spring Peeps (PM),Katie Ann Percy,Wendy Brooker Burns,Genny Igo,Judy Liss Reger,15,7
+18395,4,2026-04-07,raleigh,spring2026,highintermediate,18,women,WPCC Pickled Pink (PM),7OAKS Spring Peeps (PM),Alyssa Newton,Beverly McKim,Takako Schenberger,Kathy Casadonte,11,15
+18395,5,2026-04-07,raleigh,spring2026,highintermediate,18,women,WPCC Pickled Pink (PM),7OAKS Spring Peeps (PM),April Haas,Nancy Page,Genny Igo,Judy Liss Reger,7,15
+18395,6,2026-04-07,raleigh,spring2026,highintermediate,18,women,WPCC Pickled Pink (PM),7OAKS Spring Peeps (PM),Katie Ann Percy,Wendy Brooker Burns,Cindy Feryo,Sherry Lynn Goodson,6,15
+18395,7,2026-04-07,raleigh,spring2026,highintermediate,18,women,WPCC Pickled Pink (PM),7OAKS Spring Peeps (PM),Alyssa Newton,Beverly McKim,Genny Igo,Judy Liss Reger,12,15
+18395,8,2026-04-07,raleigh,spring2026,highintermediate,18,women,WPCC Pickled Pink (PM),7OAKS Spring Peeps (PM),April Haas,Nancy Page,Cindy Feryo,Sherry Lynn Goodson,1,15
+18395,9,2026-04-07,raleigh,spring2026,highintermediate,18,women,WPCC Pickled Pink (PM),7OAKS Spring Peeps (PM),Katie Ann Percy,Wendy Brooker Burns,Takako Schenberger,Kathy Casadonte,2,15
+18396,1,2026-04-07,raleigh,spring2026,highintermediate,18,women,7OAKS Late Night Kitchen (PM),NHC Dinks Before Drinks (PM),Pamela Sue Rigsby,Danielle Stringer,AnneElizabeth Harrell,Heather Mauzy,15,6
+18396,2,2026-04-07,raleigh,spring2026,highintermediate,18,women,7OAKS Late Night Kitchen (PM),NHC Dinks Before Drinks (PM),Jeanette Gerould,Julie A Leon,Amy Pena,Jessica McIntyre,2,15
+18396,3,2026-04-07,raleigh,spring2026,highintermediate,18,women,7OAKS Late Night Kitchen (PM),NHC Dinks Before Drinks (PM),Olga DeGroff,Tori Sutler,LeAnne Bloedon,Jackie Caprio,15,1
+18396,4,2026-04-07,raleigh,spring2026,highintermediate,18,women,7OAKS Late Night Kitchen (PM),NHC Dinks Before Drinks (PM),Pamela Sue Rigsby,Danielle Stringer,Amy Pena,Jessica McIntyre,4,15
+18396,5,2026-04-07,raleigh,spring2026,highintermediate,18,women,7OAKS Late Night Kitchen (PM),NHC Dinks Before Drinks (PM),Jeanette Gerould,Julie A Leon,LeAnne Bloedon,Jackie Caprio,12,15
+18396,6,2026-04-07,raleigh,spring2026,highintermediate,18,women,7OAKS Late Night Kitchen (PM),NHC Dinks Before Drinks (PM),Olga DeGroff,Tori Sutler,AnneElizabeth Harrell,Heather Mauzy,15,9
+18396,7,2026-04-07,raleigh,spring2026,highintermediate,18,women,7OAKS Late Night Kitchen (PM),NHC Dinks Before Drinks (PM),Pamela Sue Rigsby,Danielle Stringer,LeAnne Bloedon,Jackie Caprio,15,10
+18396,8,2026-04-07,raleigh,spring2026,highintermediate,18,women,7OAKS Late Night Kitchen (PM),NHC Dinks Before Drinks (PM),Jeanette Gerould,Julie A Leon,AnneElizabeth Harrell,Heather Mauzy,12,15
+18396,9,2026-04-07,raleigh,spring2026,highintermediate,18,women,7OAKS Late Night Kitchen (PM),NHC Dinks Before Drinks (PM),Olga DeGroff,Tori Sutler,Amy Pena,Jessica McIntyre,15,9
+18397,1,2026-04-07,raleigh,spring2026,highintermediate,18,women,WPCC Dill Breakers (PM),7OAKS Day Dinkers (PM),Dafnie Driscoll,Kate Pirrung,Amy A Lindsey,Mari Elizabeth Porter,5,15
+18397,2,2026-04-07,raleigh,spring2026,highintermediate,18,women,WPCC Dill Breakers (PM),7OAKS Day Dinkers (PM),Melissa S Green,Donna Louise Driscoll,Leigh Magee,Ada Gonzalez,7,15
+18397,3,2026-04-07,raleigh,spring2026,highintermediate,18,women,WPCC Dill Breakers (PM),7OAKS Day Dinkers (PM),Janice D Lewis,Beth Murray,Peggy B Williams,Priscilla Hicks,5,15
+18397,4,2026-04-07,raleigh,spring2026,highintermediate,18,women,WPCC Dill Breakers (PM),7OAKS Day Dinkers (PM),Dafnie Driscoll,Kate Pirrung,Leigh Magee,Ada Gonzalez,12,15
+18397,5,2026-04-07,raleigh,spring2026,highintermediate,18,women,WPCC Dill Breakers (PM),7OAKS Day Dinkers (PM),Melissa S Green,Donna Louise Driscoll,Peggy B Williams,Priscilla Hicks,15,12
+18397,6,2026-04-07,raleigh,spring2026,highintermediate,18,women,WPCC Dill Breakers (PM),7OAKS Day Dinkers (PM),Janice D Lewis,Beth Murray,Amy A Lindsey,Mari Elizabeth Porter,1,15
+18397,7,2026-04-07,raleigh,spring2026,highintermediate,18,women,WPCC Dill Breakers (PM),7OAKS Day Dinkers (PM),Dafnie Driscoll,Kate Pirrung,Peggy B Williams,Priscilla Hicks,9,15
+18397,8,2026-04-07,raleigh,spring2026,highintermediate,18,women,WPCC Dill Breakers (PM),7OAKS Day Dinkers (PM),Melissa S Green,Donna Louise Driscoll,Amy A Lindsey,Mari Elizabeth Porter,8,15
+18397,9,2026-04-07,raleigh,spring2026,highintermediate,18,women,WPCC Dill Breakers (PM),7OAKS Day Dinkers (PM),Janice D Lewis,Beth Murray,Leigh Magee,Ada Gonzalez,4,15
+18418,1,2026-04-14,raleigh,spring2026,highintermediate,18,women,7OAKS Day Dinkers (PM),HASEN Made Ya Dink! (PM),Leigh Magee,Dana Chapman,Dawn Frevert,Lynn Vitello,16,14
+18418,2,2026-04-14,raleigh,spring2026,highintermediate,18,women,7OAKS Day Dinkers (PM),HASEN Made Ya Dink! (PM),Amy A Lindsey,Victoria Bell,Jennifer Lynn Bouck,Sharon Louise Lambe,15,3
+18418,3,2026-04-14,raleigh,spring2026,highintermediate,18,women,7OAKS Day Dinkers (PM),HASEN Made Ya Dink! (PM),Peggy B Williams,Ada Gonzalez,Lan C Bello,Sharon Regnier,15,9
+18418,4,2026-04-14,raleigh,spring2026,highintermediate,18,women,7OAKS Day Dinkers (PM),HASEN Made Ya Dink! (PM),Leigh Magee,Dana Chapman,Jennifer Lynn Bouck,Sharon Louise Lambe,15,8
+18418,5,2026-04-14,raleigh,spring2026,highintermediate,18,women,7OAKS Day Dinkers (PM),HASEN Made Ya Dink! (PM),Amy A Lindsey,Victoria Bell,Lan C Bello,Sharon Regnier,9,15
+18418,6,2026-04-14,raleigh,spring2026,highintermediate,18,women,7OAKS Day Dinkers (PM),HASEN Made Ya Dink! (PM),Peggy B Williams,Ada Gonzalez,Dawn Frevert,Lynn Vitello,3,15
+18418,7,2026-04-14,raleigh,spring2026,highintermediate,18,women,7OAKS Day Dinkers (PM),HASEN Made Ya Dink! (PM),Leigh Magee,Dana Chapman,Lan C Bello,Sharon Regnier,7,15
+18418,8,2026-04-14,raleigh,spring2026,highintermediate,18,women,7OAKS Day Dinkers (PM),HASEN Made Ya Dink! (PM),Amy A Lindsey,Victoria Bell,Dawn Frevert,Lynn Vitello,12,15
+18418,9,2026-04-14,raleigh,spring2026,highintermediate,18,women,7OAKS Day Dinkers (PM),HASEN Made Ya Dink! (PM),Peggy B Williams,Ada Gonzalez,Jennifer Lynn Bouck,Sharon Louise Lambe,15,1
+18419,1,2026-04-14,raleigh,spring2026,highintermediate,18,women,HASEN Dink Responsibly 18+ (PM),NHC Pink Paddle Club (PM),Maggie DiNome,Susan Flanagan,Becky N Faries,Jaime Goodson Gaskins,15,7
+18419,2,2026-04-14,raleigh,spring2026,highintermediate,18,women,HASEN Dink Responsibly 18+ (PM),NHC Pink Paddle Club (PM),Cybele Martin Brockmann,Diane Werner,Emmy Garvey,Bethany Conner Perkins,12,15
+18419,3,2026-04-14,raleigh,spring2026,highintermediate,18,women,HASEN Dink Responsibly 18+ (PM),NHC Pink Paddle Club (PM),Laurie Randall,Regina Heroux,Mollie Hodl,Sophia Paschaloudis,15,13
+18419,4,2026-04-14,raleigh,spring2026,highintermediate,18,women,HASEN Dink Responsibly 18+ (PM),NHC Pink Paddle Club (PM),Maggie DiNome,Susan Flanagan,Emmy Garvey,Bethany Conner Perkins,3,15
+18419,5,2026-04-14,raleigh,spring2026,highintermediate,18,women,HASEN Dink Responsibly 18+ (PM),NHC Pink Paddle Club (PM),Cybele Martin Brockmann,Diane Werner,Mollie Hodl,Sophia Paschaloudis,15,3
+18419,6,2026-04-14,raleigh,spring2026,highintermediate,18,women,HASEN Dink Responsibly 18+ (PM),NHC Pink Paddle Club (PM),Laurie Randall,Regina Heroux,Becky N Faries,Jaime Goodson Gaskins,15,9
+18419,7,2026-04-14,raleigh,spring2026,highintermediate,18,women,HASEN Dink Responsibly 18+ (PM),NHC Pink Paddle Club (PM),Maggie DiNome,Susan Flanagan,Mollie Hodl,Sophia Paschaloudis,15,5
+18419,8,2026-04-14,raleigh,spring2026,highintermediate,18,women,HASEN Dink Responsibly 18+ (PM),NHC Pink Paddle Club (PM),Cybele Martin Brockmann,Diane Werner,Becky N Faries,Jaime Goodson Gaskins,15,10
+18419,9,2026-04-14,raleigh,spring2026,highintermediate,18,women,HASEN Dink Responsibly 18+ (PM),NHC Pink Paddle Club (PM),Laurie Randall,Regina Heroux,Emmy Garvey,Bethany Conner Perkins,12,15
+18420,1,2026-04-14,raleigh,spring2026,highintermediate,18,women,NHC Dinks Before Drinks (PM),BCCC Dinkin' Buddies (PM),Brooke Abee,Jackie Caprio,DEFAULT,DEFAULT,15,0
+18420,2,2026-04-14,raleigh,spring2026,highintermediate,18,women,NHC Dinks Before Drinks (PM),BCCC Dinkin' Buddies (PM),AnneElizabeth Harrell,Meghan Yancey,DEFAULT,DEFAULT,15,0
+18420,3,2026-04-14,raleigh,spring2026,highintermediate,18,women,NHC Dinks Before Drinks (PM),BCCC Dinkin' Buddies (PM),LeAnne Bloedon,Julie Sullivan,DEFAULT,DEFAULT,15,0
+18420,4,2026-04-14,raleigh,spring2026,highintermediate,18,women,NHC Dinks Before Drinks (PM),BCCC Dinkin' Buddies (PM),Brooke Abee,Jackie Caprio,DEFAULT,DEFAULT,15,0
+18420,5,2026-04-14,raleigh,spring2026,highintermediate,18,women,NHC Dinks Before Drinks (PM),BCCC Dinkin' Buddies (PM),AnneElizabeth Harrell,Meghan Yancey,DEFAULT,DEFAULT,15,0
+18420,6,2026-04-14,raleigh,spring2026,highintermediate,18,women,NHC Dinks Before Drinks (PM),BCCC Dinkin' Buddies (PM),LeAnne Bloedon,Julie Sullivan,DEFAULT,DEFAULT,15,0
+18420,7,2026-04-14,raleigh,spring2026,highintermediate,18,women,NHC Dinks Before Drinks (PM),BCCC Dinkin' Buddies (PM),Brooke Abee,Jackie Caprio,DEFAULT,DEFAULT,15,0
+18420,8,2026-04-14,raleigh,spring2026,highintermediate,18,women,NHC Dinks Before Drinks (PM),BCCC Dinkin' Buddies (PM),AnneElizabeth Harrell,Meghan Yancey,DEFAULT,DEFAULT,15,0
+18420,9,2026-04-14,raleigh,spring2026,highintermediate,18,women,NHC Dinks Before Drinks (PM),BCCC Dinkin' Buddies (PM),LeAnne Bloedon,Julie Sullivan,DEFAULT,DEFAULT,15,0
+18421,1,2026-04-14,raleigh,spring2026,highintermediate,18,women,WPCC Dill Breakers (PM),7OAKS Late Night Kitchen (PM),Melissa S Green,Amanda Viele,Danielle Stringer,Julia Killian,3,15
+18421,2,2026-04-14,raleigh,spring2026,highintermediate,18,women,WPCC Dill Breakers (PM),7OAKS Late Night Kitchen (PM),Melissa Kirk Landry,Jessica Brimmer,Tori Sutler,Molly Bradsher Briggs,5,15
+18421,3,2026-04-14,raleigh,spring2026,highintermediate,18,women,WPCC Dill Breakers (PM),7OAKS Late Night Kitchen (PM),Lori Larrabee,Beth Murray,Sherrie L Lefere,Liz Broadway,6,15
+18421,4,2026-04-14,raleigh,spring2026,highintermediate,18,women,WPCC Dill Breakers (PM),7OAKS Late Night Kitchen (PM),Melissa S Green,Amanda Viele,Tori Sutler,Molly Bradsher Briggs,4,15
+18421,5,2026-04-14,raleigh,spring2026,highintermediate,18,women,WPCC Dill Breakers (PM),7OAKS Late Night Kitchen (PM),Melissa Kirk Landry,Jessica Brimmer,Sherrie L Lefere,Liz Broadway,15,12
+18421,6,2026-04-14,raleigh,spring2026,highintermediate,18,women,WPCC Dill Breakers (PM),7OAKS Late Night Kitchen (PM),Lori Larrabee,Beth Murray,Danielle Stringer,Julia Killian,9,15
+18421,7,2026-04-14,raleigh,spring2026,highintermediate,18,women,WPCC Dill Breakers (PM),7OAKS Late Night Kitchen (PM),Melissa S Green,Amanda Viele,Sherrie L Lefere,Liz Broadway,1,15
+18421,8,2026-04-14,raleigh,spring2026,highintermediate,18,women,WPCC Dill Breakers (PM),7OAKS Late Night Kitchen (PM),Melissa Kirk Landry,Jessica Brimmer,Danielle Stringer,Julia Killian,7,15
+18421,9,2026-04-14,raleigh,spring2026,highintermediate,18,women,WPCC Dill Breakers (PM),7OAKS Late Night Kitchen (PM),Lori Larrabee,Beth Murray,Tori Sutler,Molly Bradsher Briggs,0,15
+18422,1,2026-04-14,raleigh,spring2026,highintermediate,18,women,7OAKS Spring Peeps (PM),WPCC Dink Dynasty (PM),Laurie H Kramer,Takako Schenberger,Susan Hembarsky,Dane Hewett Brackett,14,16
+18422,2,2026-04-14,raleigh,spring2026,highintermediate,18,women,7OAKS Spring Peeps (PM),WPCC Dink Dynasty (PM),Judy Liss Reger,Sherry Lynn Goodson,Jody Hill,Leigh Kimball,15,6
+18422,3,2026-04-14,raleigh,spring2026,highintermediate,18,women,7OAKS Spring Peeps (PM),WPCC Dink Dynasty (PM),Linda Nuxoll,Genny Igo,Tracey M Carlin,Margie Molloy,15,13
+18422,4,2026-04-14,raleigh,spring2026,highintermediate,18,women,7OAKS Spring Peeps (PM),WPCC Dink Dynasty (PM),Laurie H Kramer,Takako Schenberger,Jody Hill,Leigh Kimball,15,0
+18422,5,2026-04-14,raleigh,spring2026,highintermediate,18,women,7OAKS Spring Peeps (PM),WPCC Dink Dynasty (PM),Judy Liss Reger,Sherry Lynn Goodson,Tracey M Carlin,Margie Molloy,15,8
+18422,6,2026-04-14,raleigh,spring2026,highintermediate,18,women,7OAKS Spring Peeps (PM),WPCC Dink Dynasty (PM),Linda Nuxoll,Genny Igo,Susan Hembarsky,Dane Hewett Brackett,10,15
+18422,7,2026-04-14,raleigh,spring2026,highintermediate,18,women,7OAKS Spring Peeps (PM),WPCC Dink Dynasty (PM),Laurie H Kramer,Takako Schenberger,Tracey M Carlin,Margie Molloy,15,11
+18422,8,2026-04-14,raleigh,spring2026,highintermediate,18,women,7OAKS Spring Peeps (PM),WPCC Dink Dynasty (PM),Judy Liss Reger,Sherry Lynn Goodson,Susan Hembarsky,Dane Hewett Brackett,11,15
+18422,9,2026-04-14,raleigh,spring2026,highintermediate,18,women,7OAKS Spring Peeps (PM),WPCC Dink Dynasty (PM),Linda Nuxoll,Genny Igo,Jody Hill,Leigh Kimball,15,7
+18423,1,2026-04-14,raleigh,spring2026,highintermediate,18,women,WPCC Pickled Pink (PM),NCST Point Taken,Melissa Michael,Courtney McKim,Paige Ruland,Sarah Hinson,0,15
+18423,2,2026-04-14,raleigh,spring2026,highintermediate,18,women,WPCC Pickled Pink (PM),NCST Point Taken,Andrea Ellen McCartney,Lori Parkman,Deirdre Clarke,Caroline Smith-Moore,8,15
+18423,3,2026-04-14,raleigh,spring2026,highintermediate,18,women,WPCC Pickled Pink (PM),NCST Point Taken,Wendy Brooker Burns,April Haas,Nancy Bumgarner,Stacy Gant,4,15
+18423,4,2026-04-14,raleigh,spring2026,highintermediate,18,women,WPCC Pickled Pink (PM),NCST Point Taken,Melissa Michael,Courtney McKim,Deirdre Clarke,Caroline Smith-Moore,6,15
+18423,5,2026-04-14,raleigh,spring2026,highintermediate,18,women,WPCC Pickled Pink (PM),NCST Point Taken,Andrea Ellen McCartney,Lori Parkman,Nancy Bumgarner,Stacy Gant,18,16
+18423,6,2026-04-14,raleigh,spring2026,highintermediate,18,women,WPCC Pickled Pink (PM),NCST Point Taken,Wendy Brooker Burns,April Haas,Paige Ruland,Sarah Hinson,1,15
+18423,7,2026-04-14,raleigh,spring2026,highintermediate,18,women,WPCC Pickled Pink (PM),NCST Point Taken,Melissa Michael,Courtney McKim,Nancy Bumgarner,Stacy Gant,7,15
+18423,8,2026-04-14,raleigh,spring2026,highintermediate,18,women,WPCC Pickled Pink (PM),NCST Point Taken,Andrea Ellen McCartney,Lori Parkman,Paige Ruland,Sarah Hinson,8,15
+18423,9,2026-04-14,raleigh,spring2026,highintermediate,18,women,WPCC Pickled Pink (PM),NCST Point Taken,Wendy Brooker Burns,April Haas,Deirdre Clarke,Caroline Smith-Moore,2,15
+18444,1,2026-04-21,raleigh,spring2026,highintermediate,18,women,BCCC Dinkin' Buddies (PM),WPCC Dill Breakers (PM),Kristen DiMillio Howering,Diane Sauer,Jessica Brimmer,Melissa Kirk Landry,15,13
+18444,2,2026-04-21,raleigh,spring2026,highintermediate,18,women,BCCC Dinkin' Buddies (PM),WPCC Dill Breakers (PM),Bobbie Ann West,Sandy Ball,Dafnie Driscoll,Kate Pirrung,7,15
+18444,3,2026-04-21,raleigh,spring2026,highintermediate,18,women,BCCC Dinkin' Buddies (PM),WPCC Dill Breakers (PM),Vickie Gibbs,Shari Gianini,Beth Murray,Lori Larrabee,4,15
+18444,4,2026-04-21,raleigh,spring2026,highintermediate,18,women,BCCC Dinkin' Buddies (PM),WPCC Dill Breakers (PM),Kristen DiMillio Howering,Diane Sauer,Dafnie Driscoll,Kate Pirrung,15,3
+18444,5,2026-04-21,raleigh,spring2026,highintermediate,18,women,BCCC Dinkin' Buddies (PM),WPCC Dill Breakers (PM),Bobbie Ann West,Sandy Ball,Beth Murray,Lori Larrabee,15,10
+18444,6,2026-04-21,raleigh,spring2026,highintermediate,18,women,BCCC Dinkin' Buddies (PM),WPCC Dill Breakers (PM),Vickie Gibbs,Shari Gianini,Jessica Brimmer,Melissa Kirk Landry,9,15
+18444,7,2026-04-21,raleigh,spring2026,highintermediate,18,women,BCCC Dinkin' Buddies (PM),WPCC Dill Breakers (PM),Kristen DiMillio Howering,Diane Sauer,Beth Murray,Lori Larrabee,15,2
+18444,8,2026-04-21,raleigh,spring2026,highintermediate,18,women,BCCC Dinkin' Buddies (PM),WPCC Dill Breakers (PM),Bobbie Ann West,Sandy Ball,Jessica Brimmer,Melissa Kirk Landry,3,15
+18444,9,2026-04-21,raleigh,spring2026,highintermediate,18,women,BCCC Dinkin' Buddies (PM),WPCC Dill Breakers (PM),Vickie Gibbs,Shari Gianini,Dafnie Driscoll,Kate Pirrung,15,11
+18445,1,2026-04-21,raleigh,spring2026,highintermediate,18,women,HASEN Made Ya Dink! (PM),NHC Dinks Before Drinks (PM),Carolyn P Smith,Tracey Sanders,Julie Sullivan,Amy Pena,9,15
+18445,2,2026-04-21,raleigh,spring2026,highintermediate,18,women,HASEN Made Ya Dink! (PM),NHC Dinks Before Drinks (PM),Dawn Frevert,Lynn Vitello,Kate Whitney,Heather Mauzy,15,12
+18445,3,2026-04-21,raleigh,spring2026,highintermediate,18,women,HASEN Made Ya Dink! (PM),NHC Dinks Before Drinks (PM),Janet Hammond,Samantha Starr,Jessica Willetts,Sharon Baggett,15,10
+18445,4,2026-04-21,raleigh,spring2026,highintermediate,18,women,HASEN Made Ya Dink! (PM),NHC Dinks Before Drinks (PM),Carolyn P Smith,Tracey Sanders,Kate Whitney,Heather Mauzy,15,12
+18445,5,2026-04-21,raleigh,spring2026,highintermediate,18,women,HASEN Made Ya Dink! (PM),NHC Dinks Before Drinks (PM),Dawn Frevert,Lynn Vitello,Jessica Willetts,Sharon Baggett,17,15
+18445,6,2026-04-21,raleigh,spring2026,highintermediate,18,women,HASEN Made Ya Dink! (PM),NHC Dinks Before Drinks (PM),Janet Hammond,Samantha Starr,Julie Sullivan,Amy Pena,1,15
+18445,7,2026-04-21,raleigh,spring2026,highintermediate,18,women,HASEN Made Ya Dink! (PM),NHC Dinks Before Drinks (PM),Carolyn P Smith,Tracey Sanders,Jessica Willetts,Sharon Baggett,12,15
+18445,8,2026-04-21,raleigh,spring2026,highintermediate,18,women,HASEN Made Ya Dink! (PM),NHC Dinks Before Drinks (PM),Dawn Frevert,Lynn Vitello,Julie Sullivan,Amy Pena,5,15
+18445,9,2026-04-21,raleigh,spring2026,highintermediate,18,women,HASEN Made Ya Dink! (PM),NHC Dinks Before Drinks (PM),Janet Hammond,Samantha Starr,Kate Whitney,Heather Mauzy,15,12
+18446,1,2026-04-21,raleigh,spring2026,highintermediate,18,women,NCST Point Taken,HASEN Dink Responsibly 18+ (PM),Valerie Worth,Deirdre Clarke,Maggie DiNome,Cybele Martin Brockmann,12,15
+18446,2,2026-04-21,raleigh,spring2026,highintermediate,18,women,NCST Point Taken,HASEN Dink Responsibly 18+ (PM),Patty Carter,Sherrie L Bass,Mary Jo Nugent,Candice V Diehl,15,2
+18446,3,2026-04-21,raleigh,spring2026,highintermediate,18,women,NCST Point Taken,HASEN Dink Responsibly 18+ (PM),Paige Ruland,Stacy Gant,Regina Heroux,Laurie Randall,10,15
+18446,4,2026-04-21,raleigh,spring2026,highintermediate,18,women,NCST Point Taken,HASEN Dink Responsibly 18+ (PM),Valerie Worth,Deirdre Clarke,Mary Jo Nugent,Candice V Diehl,15,5
+18446,5,2026-04-21,raleigh,spring2026,highintermediate,18,women,NCST Point Taken,HASEN Dink Responsibly 18+ (PM),Patty Carter,Sherrie L Bass,Regina Heroux,Laurie Randall,15,7
+18446,6,2026-04-21,raleigh,spring2026,highintermediate,18,women,NCST Point Taken,HASEN Dink Responsibly 18+ (PM),Paige Ruland,Stacy Gant,Maggie DiNome,Cybele Martin Brockmann,4,15
+18446,7,2026-04-21,raleigh,spring2026,highintermediate,18,women,NCST Point Taken,HASEN Dink Responsibly 18+ (PM),Valerie Worth,Deirdre Clarke,Regina Heroux,Laurie Randall,9,15
+18446,8,2026-04-21,raleigh,spring2026,highintermediate,18,women,NCST Point Taken,HASEN Dink Responsibly 18+ (PM),Patty Carter,Sherrie L Bass,Maggie DiNome,Cybele Martin Brockmann,15,6
+18446,9,2026-04-21,raleigh,spring2026,highintermediate,18,women,NCST Point Taken,HASEN Dink Responsibly 18+ (PM),Paige Ruland,Stacy Gant,Mary Jo Nugent,Candice V Diehl,4,15
+18447,1,2026-04-21,raleigh,spring2026,highintermediate,18,women,NHC Pink Paddle Club (PM),7OAKS Spring Peeps (PM),Emmy Garvey,Jennifer Blue,Amy Giglio,Sherry Lynn Goodson,15,7
+18447,2,2026-04-21,raleigh,spring2026,highintermediate,18,women,NHC Pink Paddle Club (PM),7OAKS Spring Peeps (PM),Denise Thompson,Jennifer J Conley,Cindy Feryo,Judy Liss Reger,15,4
+18447,3,2026-04-21,raleigh,spring2026,highintermediate,18,women,NHC Pink Paddle Club (PM),7OAKS Spring Peeps (PM),Sophia Paschaloudis,Teressa Paschaloudis,Laurie H Kramer,Takako Schenberger,15,13
+18447,4,2026-04-21,raleigh,spring2026,highintermediate,18,women,NHC Pink Paddle Club (PM),7OAKS Spring Peeps (PM),Emmy Garvey,Jennifer Blue,Cindy Feryo,Judy Liss Reger,15,2
+18447,5,2026-04-21,raleigh,spring2026,highintermediate,18,women,NHC Pink Paddle Club (PM),7OAKS Spring Peeps (PM),Denise Thompson,Jennifer J Conley,Laurie H Kramer,Takako Schenberger,15,10
+18447,6,2026-04-21,raleigh,spring2026,highintermediate,18,women,NHC Pink Paddle Club (PM),7OAKS Spring Peeps (PM),Sophia Paschaloudis,Teressa Paschaloudis,Amy Giglio,Sherry Lynn Goodson,15,8
+18447,7,2026-04-21,raleigh,spring2026,highintermediate,18,women,NHC Pink Paddle Club (PM),7OAKS Spring Peeps (PM),Emmy Garvey,Jennifer Blue,Laurie H Kramer,Takako Schenberger,15,3
+18447,8,2026-04-21,raleigh,spring2026,highintermediate,18,women,NHC Pink Paddle Club (PM),7OAKS Spring Peeps (PM),Denise Thompson,Jennifer J Conley,Amy Giglio,Sherry Lynn Goodson,15,2
+18447,9,2026-04-21,raleigh,spring2026,highintermediate,18,women,NHC Pink Paddle Club (PM),7OAKS Spring Peeps (PM),Sophia Paschaloudis,Teressa Paschaloudis,Cindy Feryo,Judy Liss Reger,15,9
+18448,1,2026-04-21,raleigh,spring2026,highintermediate,18,women,WPCC Dink Dynasty (PM),WPCC Pickled Pink (PM),Chantry Hurt,Jenny Simon,Courtney McKim,April Haas,15,4
+18448,2,2026-04-21,raleigh,spring2026,highintermediate,18,women,WPCC Dink Dynasty (PM),WPCC Pickled Pink (PM),Karen Beth Delgado,Lisa DeMarco,Mary Casson,Andrea Ellen McCartney,12,15
+18448,3,2026-04-21,raleigh,spring2026,highintermediate,18,women,WPCC Dink Dynasty (PM),WPCC Pickled Pink (PM),Leigh Kimball,Margie Molloy,Stacey Giglio,Lori Parkman,9,15
+18448,4,2026-04-21,raleigh,spring2026,highintermediate,18,women,WPCC Dink Dynasty (PM),WPCC Pickled Pink (PM),Chantry Hurt,Jenny Simon,Mary Casson,Andrea Ellen McCartney,15,2
+18448,5,2026-04-21,raleigh,spring2026,highintermediate,18,women,WPCC Dink Dynasty (PM),WPCC Pickled Pink (PM),Karen Beth Delgado,Lisa DeMarco,Stacey Giglio,Lori Parkman,4,15
+18448,6,2026-04-21,raleigh,spring2026,highintermediate,18,women,WPCC Dink Dynasty (PM),WPCC Pickled Pink (PM),Leigh Kimball,Margie Molloy,Courtney McKim,April Haas,15,2
+18448,7,2026-04-21,raleigh,spring2026,highintermediate,18,women,WPCC Dink Dynasty (PM),WPCC Pickled Pink (PM),Chantry Hurt,Jenny Simon,Stacey Giglio,Lori Parkman,15,10
+18448,8,2026-04-21,raleigh,spring2026,highintermediate,18,women,WPCC Dink Dynasty (PM),WPCC Pickled Pink (PM),Karen Beth Delgado,Lisa DeMarco,Courtney McKim,April Haas,15,9
+18448,9,2026-04-21,raleigh,spring2026,highintermediate,18,women,WPCC Dink Dynasty (PM),WPCC Pickled Pink (PM),Leigh Kimball,Margie Molloy,Mary Casson,Andrea Ellen McCartney,15,3
+18449,1,2026-04-21,raleigh,spring2026,highintermediate,18,women,7OAKS Late Night Kitchen (PM),7OAKS Day Dinkers (PM),Tori Sutler,Molly Bradsher Briggs,Angie Carden,Christine Widman,15,7
+18449,2,2026-04-21,raleigh,spring2026,highintermediate,18,women,7OAKS Late Night Kitchen (PM),7OAKS Day Dinkers (PM),Julia Killian,Jeanette Gerould,Mari Elizabeth Porter,Amy A Lindsey,10,15
+18449,3,2026-04-21,raleigh,spring2026,highintermediate,18,women,7OAKS Late Night Kitchen (PM),7OAKS Day Dinkers (PM),Danielle Stringer,Olga DeGroff,Ada Gonzalez,Dana Chapman,9,15
+18449,4,2026-04-21,raleigh,spring2026,highintermediate,18,women,7OAKS Late Night Kitchen (PM),7OAKS Day Dinkers (PM),Tori Sutler,Molly Bradsher Briggs,Mari Elizabeth Porter,Amy A Lindsey,15,6
+18449,5,2026-04-21,raleigh,spring2026,highintermediate,18,women,7OAKS Late Night Kitchen (PM),7OAKS Day Dinkers (PM),Julia Killian,Jeanette Gerould,Ada Gonzalez,Dana Chapman,6,15
+18449,6,2026-04-21,raleigh,spring2026,highintermediate,18,women,7OAKS Late Night Kitchen (PM),7OAKS Day Dinkers (PM),Danielle Stringer,Olga DeGroff,Angie Carden,Christine Widman,15,9
+18449,7,2026-04-21,raleigh,spring2026,highintermediate,18,women,7OAKS Late Night Kitchen (PM),7OAKS Day Dinkers (PM),Tori Sutler,Molly Bradsher Briggs,Ada Gonzalez,Dana Chapman,15,6
+18449,8,2026-04-21,raleigh,spring2026,highintermediate,18,women,7OAKS Late Night Kitchen (PM),7OAKS Day Dinkers (PM),Julia Killian,Jeanette Gerould,Angie Carden,Christine Widman,9,15
+18449,9,2026-04-21,raleigh,spring2026,highintermediate,18,women,7OAKS Late Night Kitchen (PM),7OAKS Day Dinkers (PM),Danielle Stringer,Olga DeGroff,Mari Elizabeth Porter,Amy A Lindsey,6,15
+18471,1,2026-04-28,raleigh,spring2026,highintermediate,18,women,HASEN Made Ya Dink! (PM),WPCC Dill Breakers (PM),Sharon Regnier,Lan C Bello,Teesa McKinley,Carrie OFerral,13,15
+18471,2,2026-04-28,raleigh,spring2026,highintermediate,18,women,HASEN Made Ya Dink! (PM),WPCC Dill Breakers (PM),Ginger Craig,Michelle Rademann,Kate Pirrung,Janice D Lewis,15,10
+18471,3,2026-04-28,raleigh,spring2026,highintermediate,18,women,HASEN Made Ya Dink! (PM),WPCC Dill Breakers (PM),Janet Hammond,Sharon Louise Lambe,Jessica Brimmer,Melissa Kirk Landry,15,11
+18471,4,2026-04-28,raleigh,spring2026,highintermediate,18,women,HASEN Made Ya Dink! (PM),WPCC Dill Breakers (PM),Sharon Regnier,Lan C Bello,Kate Pirrung,Janice D Lewis,15,13
+18471,5,2026-04-28,raleigh,spring2026,highintermediate,18,women,HASEN Made Ya Dink! (PM),WPCC Dill Breakers (PM),Ginger Craig,Michelle Rademann,Jessica Brimmer,Melissa Kirk Landry,16,14
+18471,6,2026-04-28,raleigh,spring2026,highintermediate,18,women,HASEN Made Ya Dink! (PM),WPCC Dill Breakers (PM),Janet Hammond,Sharon Louise Lambe,Teesa McKinley,Carrie OFerral,8,15
+18471,7,2026-04-28,raleigh,spring2026,highintermediate,18,women,HASEN Made Ya Dink! (PM),WPCC Dill Breakers (PM),Sharon Regnier,Lan C Bello,Jessica Brimmer,Melissa Kirk Landry,9,15
+18471,8,2026-04-28,raleigh,spring2026,highintermediate,18,women,HASEN Made Ya Dink! (PM),WPCC Dill Breakers (PM),Ginger Craig,Michelle Rademann,Teesa McKinley,Carrie OFerral,8,15
+18471,9,2026-04-28,raleigh,spring2026,highintermediate,18,women,HASEN Made Ya Dink! (PM),WPCC Dill Breakers (PM),Janet Hammond,Sharon Louise Lambe,Kate Pirrung,Janice D Lewis,15,8
+18472,1,2026-04-28,raleigh,spring2026,highintermediate,18,women,NCST Point Taken,7OAKS Spring Peeps (PM),Sherrie L Bass,Deirdre Clarke,Cindy Feryo,Amy Giglio,7,15
+18472,2,2026-04-28,raleigh,spring2026,highintermediate,18,women,NCST Point Taken,7OAKS Spring Peeps (PM),Paige Ruland,Sarah Hinson,Bethany Upton Squires,Linda Nuxoll,15,8
+18472,3,2026-04-28,raleigh,spring2026,highintermediate,18,women,NCST Point Taken,7OAKS Spring Peeps (PM),Caroline Smith-Moore,Silvia Elena Leguizamonschocher,Kathy Casadonte,Beth Treadway,11,15
+18472,4,2026-04-28,raleigh,spring2026,highintermediate,18,women,NCST Point Taken,7OAKS Spring Peeps (PM),Sherrie L Bass,Deirdre Clarke,Bethany Upton Squires,Linda Nuxoll,15,5
+18472,5,2026-04-28,raleigh,spring2026,highintermediate,18,women,NCST Point Taken,7OAKS Spring Peeps (PM),Paige Ruland,Sarah Hinson,Kathy Casadonte,Beth Treadway,3,15
+18472,6,2026-04-28,raleigh,spring2026,highintermediate,18,women,NCST Point Taken,7OAKS Spring Peeps (PM),Caroline Smith-Moore,Silvia Elena Leguizamonschocher,Cindy Feryo,Amy Giglio,9,15
+18472,7,2026-04-28,raleigh,spring2026,highintermediate,18,women,NCST Point Taken,7OAKS Spring Peeps (PM),Sherrie L Bass,Deirdre Clarke,Kathy Casadonte,Beth Treadway,15,12
+18472,8,2026-04-28,raleigh,spring2026,highintermediate,18,women,NCST Point Taken,7OAKS Spring Peeps (PM),Paige Ruland,Sarah Hinson,Cindy Feryo,Amy Giglio,15,10
+18472,9,2026-04-28,raleigh,spring2026,highintermediate,18,women,NCST Point Taken,7OAKS Spring Peeps (PM),Caroline Smith-Moore,Silvia Elena Leguizamonschocher,Bethany Upton Squires,Linda Nuxoll,15,2
+18473,1,2026-04-28,raleigh,spring2026,highintermediate,18,women,NHC Dinks Before Drinks (PM),7OAKS Day Dinkers (PM),Jessica McIntyre,Kate Whitney,Leigh Magee,Dana Chapman,10,15
+18473,2,2026-04-28,raleigh,spring2026,highintermediate,18,women,NHC Dinks Before Drinks (PM),7OAKS Day Dinkers (PM),Jessica Willetts,LeAnne Bloedon,Amy A Lindsey,Victoria Bell,15,9
+18473,3,2026-04-28,raleigh,spring2026,highintermediate,18,women,NHC Dinks Before Drinks (PM),7OAKS Day Dinkers (PM),Stephanie Disbrow,Sharon Baggett,Mari Elizabeth Porter,Erin Krupa,2,15
+18473,4,2026-04-28,raleigh,spring2026,highintermediate,18,women,NHC Dinks Before Drinks (PM),7OAKS Day Dinkers (PM),Jessica McIntyre,Kate Whitney,Amy A Lindsey,Victoria Bell,9,15
+18473,5,2026-04-28,raleigh,spring2026,highintermediate,18,women,NHC Dinks Before Drinks (PM),7OAKS Day Dinkers (PM),Jessica Willetts,LeAnne Bloedon,Mari Elizabeth Porter,Erin Krupa,15,8
+18473,6,2026-04-28,raleigh,spring2026,highintermediate,18,women,NHC Dinks Before Drinks (PM),7OAKS Day Dinkers (PM),Stephanie Disbrow,Sharon Baggett,Leigh Magee,Dana Chapman,15,7
+18473,7,2026-04-28,raleigh,spring2026,highintermediate,18,women,NHC Dinks Before Drinks (PM),7OAKS Day Dinkers (PM),Jessica McIntyre,Kate Whitney,Mari Elizabeth Porter,Erin Krupa,15,9
+18473,8,2026-04-28,raleigh,spring2026,highintermediate,18,women,NHC Dinks Before Drinks (PM),7OAKS Day Dinkers (PM),Jessica Willetts,LeAnne Bloedon,Leigh Magee,Dana Chapman,15,10
+18473,9,2026-04-28,raleigh,spring2026,highintermediate,18,women,NHC Dinks Before Drinks (PM),7OAKS Day Dinkers (PM),Stephanie Disbrow,Sharon Baggett,Amy A Lindsey,Victoria Bell,7,15
+18474,1,2026-04-28,raleigh,spring2026,highintermediate,18,women,WPCC Dink Dynasty (PM),NHC Pink Paddle Club (PM),Chantry Hurt,Jenny Simon,Becky N Faries,Denise Thompson,6,15
+18474,2,2026-04-28,raleigh,spring2026,highintermediate,18,women,WPCC Dink Dynasty (PM),NHC Pink Paddle Club (PM),Karen Beth Delgado,Pat Ann McGoldrick,Bethany Conner Perkins,Mollie Hodl,7,15
+18474,3,2026-04-28,raleigh,spring2026,highintermediate,18,women,WPCC Dink Dynasty (PM),NHC Pink Paddle Club (PM),Rebecca Steffens,Susan Hembarsky,Virginia Blake,Kylie Harris,8,15
+18474,4,2026-04-28,raleigh,spring2026,highintermediate,18,women,WPCC Dink Dynasty (PM),NHC Pink Paddle Club (PM),Chantry Hurt,Jenny Simon,Bethany Conner Perkins,Mollie Hodl,5,15
+18474,5,2026-04-28,raleigh,spring2026,highintermediate,18,women,WPCC Dink Dynasty (PM),NHC Pink Paddle Club (PM),Karen Beth Delgado,Pat Ann McGoldrick,Virginia Blake,Kylie Harris,5,15
+18474,6,2026-04-28,raleigh,spring2026,highintermediate,18,women,WPCC Dink Dynasty (PM),NHC Pink Paddle Club (PM),Rebecca Steffens,Susan Hembarsky,Becky N Faries,Denise Thompson,7,15
+18474,7,2026-04-28,raleigh,spring2026,highintermediate,18,women,WPCC Dink Dynasty (PM),NHC Pink Paddle Club (PM),Chantry Hurt,Jenny Simon,Virginia Blake,Kylie Harris,15,11
+18474,8,2026-04-28,raleigh,spring2026,highintermediate,18,women,WPCC Dink Dynasty (PM),NHC Pink Paddle Club (PM),Karen Beth Delgado,Pat Ann McGoldrick,Becky N Faries,Denise Thompson,8,15
+18474,9,2026-04-28,raleigh,spring2026,highintermediate,18,women,WPCC Dink Dynasty (PM),NHC Pink Paddle Club (PM),Rebecca Steffens,Susan Hembarsky,Bethany Conner Perkins,Mollie Hodl,1,15
+18475,1,2026-04-28,raleigh,spring2026,highintermediate,18,women,7OAKS Late Night Kitchen (PM),BCCC Dinkin' Buddies (PM),Pamela Sue Rigsby,Olga DeGroff,Shari Gianini,Sandy Ball,15,9
+18475,2,2026-04-28,raleigh,spring2026,highintermediate,18,women,7OAKS Late Night Kitchen (PM),BCCC Dinkin' Buddies (PM),Annette Page,Liz Broadway,Julia Woodson,Vickie Gibbs,15,7
+18475,3,2026-04-28,raleigh,spring2026,highintermediate,18,women,7OAKS Late Night Kitchen (PM),BCCC Dinkin' Buddies (PM),Molly Bradsher Briggs,Tori Sutler,DEFAULT,DEFAULT,15,0
+18475,4,2026-04-28,raleigh,spring2026,highintermediate,18,women,7OAKS Late Night Kitchen (PM),BCCC Dinkin' Buddies (PM),Pamela Sue Rigsby,Olga DeGroff,Julia Woodson,Vickie Gibbs,15,4
+18475,5,2026-04-28,raleigh,spring2026,highintermediate,18,women,7OAKS Late Night Kitchen (PM),BCCC Dinkin' Buddies (PM),Annette Page,Liz Broadway,DEFAULT,DEFAULT,15,0
+18475,6,2026-04-28,raleigh,spring2026,highintermediate,18,women,7OAKS Late Night Kitchen (PM),BCCC Dinkin' Buddies (PM),Molly Bradsher Briggs,Tori Sutler,Shari Gianini,Sandy Ball,15,5
+18475,7,2026-04-28,raleigh,spring2026,highintermediate,18,women,7OAKS Late Night Kitchen (PM),BCCC Dinkin' Buddies (PM),Pamela Sue Rigsby,Olga DeGroff,DEFAULT,DEFAULT,15,0
+18475,8,2026-04-28,raleigh,spring2026,highintermediate,18,women,7OAKS Late Night Kitchen (PM),BCCC Dinkin' Buddies (PM),Annette Page,Liz Broadway,Shari Gianini,Sandy Ball,6,15
+18475,9,2026-04-28,raleigh,spring2026,highintermediate,18,women,7OAKS Late Night Kitchen (PM),BCCC Dinkin' Buddies (PM),Molly Bradsher Briggs,Tori Sutler,Julia Woodson,Vickie Gibbs,15,1
+18476,1,2026-04-28,raleigh,spring2026,highintermediate,18,women,HASEN Dink Responsibly 18+ (PM),WPCC Pickled Pink (PM),Diane Werner,Jenny Stout,Alyssa Newton,Katie Ann Percy,15,6
+18476,2,2026-04-28,raleigh,spring2026,highintermediate,18,women,HASEN Dink Responsibly 18+ (PM),WPCC Pickled Pink (PM),Regina Heroux,Maggie DiNome,Stacey Giglio,Nancy Page,15,2
+18476,3,2026-04-28,raleigh,spring2026,highintermediate,18,women,HASEN Dink Responsibly 18+ (PM),WPCC Pickled Pink (PM),Emily Rubin,Genevieve Daurity,Beverly McKim,Courtney McKim,15,5
+18476,4,2026-04-28,raleigh,spring2026,highintermediate,18,women,HASEN Dink Responsibly 18+ (PM),WPCC Pickled Pink (PM),Diane Werner,Jenny Stout,Stacey Giglio,Nancy Page,15,3
+18476,5,2026-04-28,raleigh,spring2026,highintermediate,18,women,HASEN Dink Responsibly 18+ (PM),WPCC Pickled Pink (PM),Regina Heroux,Maggie DiNome,Beverly McKim,Courtney McKim,15,3
+18476,6,2026-04-28,raleigh,spring2026,highintermediate,18,women,HASEN Dink Responsibly 18+ (PM),WPCC Pickled Pink (PM),Emily Rubin,Genevieve Daurity,Alyssa Newton,Katie Ann Percy,10,15
+18476,7,2026-04-28,raleigh,spring2026,highintermediate,18,women,HASEN Dink Responsibly 18+ (PM),WPCC Pickled Pink (PM),Diane Werner,Jenny Stout,Beverly McKim,Courtney McKim,15,3
+18476,8,2026-04-28,raleigh,spring2026,highintermediate,18,women,HASEN Dink Responsibly 18+ (PM),WPCC Pickled Pink (PM),Regina Heroux,Maggie DiNome,Alyssa Newton,Katie Ann Percy,15,2
+18476,9,2026-04-28,raleigh,spring2026,highintermediate,18,women,HASEN Dink Responsibly 18+ (PM),WPCC Pickled Pink (PM),Emily Rubin,Genevieve Daurity,Stacey Giglio,Nancy Page,15,3
+18497,1,2026-05-05,raleigh,spring2026,highintermediate,18,women,BCCC Dinkin' Buddies (PM),7OAKS Day Dinkers (PM),Bobbie Ann West,Stephanie Testa,Angie Carden,Erin Krupa,4,15
+18497,2,2026-05-05,raleigh,spring2026,highintermediate,18,women,BCCC Dinkin' Buddies (PM),7OAKS Day Dinkers (PM),Julia Woodson,Megan Testa,Christine Widman,Peggy B Williams,3,15
+18497,3,2026-05-05,raleigh,spring2026,highintermediate,18,women,BCCC Dinkin' Buddies (PM),7OAKS Day Dinkers (PM),Kristen DiMillio Howering,Shari Gianini,Amy A Lindsey,Leigh Magee,11,15
+18497,4,2026-05-05,raleigh,spring2026,highintermediate,18,women,BCCC Dinkin' Buddies (PM),7OAKS Day Dinkers (PM),Bobbie Ann West,Stephanie Testa,Christine Widman,Peggy B Williams,1,15
+18497,5,2026-05-05,raleigh,spring2026,highintermediate,18,women,BCCC Dinkin' Buddies (PM),7OAKS Day Dinkers (PM),Julia Woodson,Megan Testa,Amy A Lindsey,Leigh Magee,5,15
+18497,6,2026-05-05,raleigh,spring2026,highintermediate,18,women,BCCC Dinkin' Buddies (PM),7OAKS Day Dinkers (PM),Kristen DiMillio Howering,Shari Gianini,Angie Carden,Erin Krupa,12,15
+18497,7,2026-05-05,raleigh,spring2026,highintermediate,18,women,BCCC Dinkin' Buddies (PM),7OAKS Day Dinkers (PM),Bobbie Ann West,Stephanie Testa,Amy A Lindsey,Leigh Magee,0,15
+18497,8,2026-05-05,raleigh,spring2026,highintermediate,18,women,BCCC Dinkin' Buddies (PM),7OAKS Day Dinkers (PM),Julia Woodson,Megan Testa,Angie Carden,Erin Krupa,3,15
+18497,9,2026-05-05,raleigh,spring2026,highintermediate,18,women,BCCC Dinkin' Buddies (PM),7OAKS Day Dinkers (PM),Kristen DiMillio Howering,Shari Gianini,Christine Widman,Peggy B Williams,12,15
+18498,1,2026-05-05,raleigh,spring2026,highintermediate,18,women,HASEN Dink Responsibly 18+ (PM),7OAKS Spring Peeps (PM),Mary Jo Nugent,Cybele Martin Brockmann,Cindy Feryo,Sherry Lynn Goodson,15,5
+18498,2,2026-05-05,raleigh,spring2026,highintermediate,18,women,HASEN Dink Responsibly 18+ (PM),7OAKS Spring Peeps (PM),Candice V Diehl,Sharon F Barham,Beth Treadway,Kathy Casadonte,15,11
+18498,3,2026-05-05,raleigh,spring2026,highintermediate,18,women,HASEN Dink Responsibly 18+ (PM),7OAKS Spring Peeps (PM),Laurie Randall,Regina Heroux,Joy Cooper,Takako Schenberger,15,2
+18498,4,2026-05-05,raleigh,spring2026,highintermediate,18,women,HASEN Dink Responsibly 18+ (PM),7OAKS Spring Peeps (PM),Mary Jo Nugent,Cybele Martin Brockmann,Beth Treadway,Kathy Casadonte,6,15
+18498,5,2026-05-05,raleigh,spring2026,highintermediate,18,women,HASEN Dink Responsibly 18+ (PM),7OAKS Spring Peeps (PM),Candice V Diehl,Sharon F Barham,Joy Cooper,Takako Schenberger,15,2
+18498,6,2026-05-05,raleigh,spring2026,highintermediate,18,women,HASEN Dink Responsibly 18+ (PM),7OAKS Spring Peeps (PM),Laurie Randall,Regina Heroux,Cindy Feryo,Sherry Lynn Goodson,15,7
+18498,7,2026-05-05,raleigh,spring2026,highintermediate,18,women,HASEN Dink Responsibly 18+ (PM),7OAKS Spring Peeps (PM),Mary Jo Nugent,Cybele Martin Brockmann,Joy Cooper,Takako Schenberger,15,6
+18498,8,2026-05-05,raleigh,spring2026,highintermediate,18,women,HASEN Dink Responsibly 18+ (PM),7OAKS Spring Peeps (PM),Candice V Diehl,Sharon F Barham,Cindy Feryo,Sherry Lynn Goodson,15,7
+18498,9,2026-05-05,raleigh,spring2026,highintermediate,18,women,HASEN Dink Responsibly 18+ (PM),7OAKS Spring Peeps (PM),Laurie Randall,Regina Heroux,Beth Treadway,Kathy Casadonte,15,11
+18499,1,2026-05-05,raleigh,spring2026,highintermediate,18,women,NCST Point Taken,WPCC Dink Dynasty (PM),Valerie Worth,Sherrie L Bass,Leigh Kimball,Susan Hembarsky,15,4
+18499,2,2026-05-05,raleigh,spring2026,highintermediate,18,women,NCST Point Taken,WPCC Dink Dynasty (PM),Deirdre Clarke,Anh T Trieu,Chantry Hurt,Jody Hill,15,3
+18499,3,2026-05-05,raleigh,spring2026,highintermediate,18,women,NCST Point Taken,WPCC Dink Dynasty (PM),Sarah Hinson,Paige Ruland,Pat Ann McGoldrick,Karen Beth Delgado,15,4
+18499,4,2026-05-05,raleigh,spring2026,highintermediate,18,women,NCST Point Taken,WPCC Dink Dynasty (PM),Valerie Worth,Sherrie L Bass,Chantry Hurt,Jody Hill,15,1
+18499,5,2026-05-05,raleigh,spring2026,highintermediate,18,women,NCST Point Taken,WPCC Dink Dynasty (PM),Deirdre Clarke,Anh T Trieu,Pat Ann McGoldrick,Karen Beth Delgado,15,4
+18499,6,2026-05-05,raleigh,spring2026,highintermediate,18,women,NCST Point Taken,WPCC Dink Dynasty (PM),Sarah Hinson,Paige Ruland,Leigh Kimball,Susan Hembarsky,15,4
+18499,7,2026-05-05,raleigh,spring2026,highintermediate,18,women,NCST Point Taken,WPCC Dink Dynasty (PM),Valerie Worth,Sherrie L Bass,Pat Ann McGoldrick,Karen Beth Delgado,15,5
+18499,8,2026-05-05,raleigh,spring2026,highintermediate,18,women,NCST Point Taken,WPCC Dink Dynasty (PM),Deirdre Clarke,Anh T Trieu,Leigh Kimball,Susan Hembarsky,8,15
+18499,9,2026-05-05,raleigh,spring2026,highintermediate,18,women,NCST Point Taken,WPCC Dink Dynasty (PM),Sarah Hinson,Paige Ruland,Chantry Hurt,Jody Hill,12,15
+18500,1,2026-05-05,raleigh,spring2026,highintermediate,18,women,WPCC Pickled Pink (PM),NHC Pink Paddle Club (PM),DEFAULT,DEFAULT,Bethany Conner Perkins,Jennifer Blue,0,15
+18500,2,2026-05-05,raleigh,spring2026,highintermediate,18,women,WPCC Pickled Pink (PM),NHC Pink Paddle Club (PM),DEFAULT,DEFAULT,Sophia Paschaloudis,Teressa Paschaloudis,0,15
+18500,3,2026-05-05,raleigh,spring2026,highintermediate,18,women,WPCC Pickled Pink (PM),NHC Pink Paddle Club (PM),DEFAULT,DEFAULT,Virginia Blake,Jaime Goodson Gaskins,0,15
+18500,4,2026-05-05,raleigh,spring2026,highintermediate,18,women,WPCC Pickled Pink (PM),NHC Pink Paddle Club (PM),DEFAULT,DEFAULT,Sophia Paschaloudis,Teressa Paschaloudis,0,15
+18500,5,2026-05-05,raleigh,spring2026,highintermediate,18,women,WPCC Pickled Pink (PM),NHC Pink Paddle Club (PM),DEFAULT,DEFAULT,Virginia Blake,Jaime Goodson Gaskins,0,15
+18500,6,2026-05-05,raleigh,spring2026,highintermediate,18,women,WPCC Pickled Pink (PM),NHC Pink Paddle Club (PM),DEFAULT,DEFAULT,Bethany Conner Perkins,Jennifer Blue,0,15
+18500,7,2026-05-05,raleigh,spring2026,highintermediate,18,women,WPCC Pickled Pink (PM),NHC Pink Paddle Club (PM),DEFAULT,DEFAULT,Virginia Blake,Jaime Goodson Gaskins,0,15
+18500,8,2026-05-05,raleigh,spring2026,highintermediate,18,women,WPCC Pickled Pink (PM),NHC Pink Paddle Club (PM),DEFAULT,DEFAULT,Bethany Conner Perkins,Jennifer Blue,0,15
+18500,9,2026-05-05,raleigh,spring2026,highintermediate,18,women,WPCC Pickled Pink (PM),NHC Pink Paddle Club (PM),DEFAULT,DEFAULT,Sophia Paschaloudis,Teressa Paschaloudis,0,15
+18501,1,2026-05-05,raleigh,spring2026,highintermediate,18,women,7OAKS Late Night Kitchen (PM),HASEN Made Ya Dink! (PM),Danielle Stringer,Pamela Sue Rigsby,Lynn Vitello,Samantha Starr,15,12
+18501,2,2026-05-05,raleigh,spring2026,highintermediate,18,women,7OAKS Late Night Kitchen (PM),HASEN Made Ya Dink! (PM),Julie A Leon,Maggie Patterson,Lan C Bello,Dawn Frevert,1,15
+18501,3,2026-05-05,raleigh,spring2026,highintermediate,18,women,7OAKS Late Night Kitchen (PM),HASEN Made Ya Dink! (PM),Olga DeGroff,Tori Sutler,Ashley McCollum,Sharon Louise Lambe,15,5
+18501,4,2026-05-05,raleigh,spring2026,highintermediate,18,women,7OAKS Late Night Kitchen (PM),HASEN Made Ya Dink! (PM),Danielle Stringer,Pamela Sue Rigsby,Lan C Bello,Dawn Frevert,4,15
+18501,5,2026-05-05,raleigh,spring2026,highintermediate,18,women,7OAKS Late Night Kitchen (PM),HASEN Made Ya Dink! (PM),Julie A Leon,Maggie Patterson,Ashley McCollum,Sharon Louise Lambe,15,4
+18501,6,2026-05-05,raleigh,spring2026,highintermediate,18,women,7OAKS Late Night Kitchen (PM),HASEN Made Ya Dink! (PM),Olga DeGroff,Tori Sutler,Lynn Vitello,Samantha Starr,15,8
+18501,7,2026-05-05,raleigh,spring2026,highintermediate,18,women,7OAKS Late Night Kitchen (PM),HASEN Made Ya Dink! (PM),Danielle Stringer,Pamela Sue Rigsby,Ashley McCollum,Sharon Louise Lambe,15,6
+18501,8,2026-05-05,raleigh,spring2026,highintermediate,18,women,7OAKS Late Night Kitchen (PM),HASEN Made Ya Dink! (PM),Julie A Leon,Maggie Patterson,Lynn Vitello,Samantha Starr,15,8
+18501,9,2026-05-05,raleigh,spring2026,highintermediate,18,women,7OAKS Late Night Kitchen (PM),HASEN Made Ya Dink! (PM),Olga DeGroff,Tori Sutler,Lan C Bello,Dawn Frevert,15,10
+18502,1,2026-05-05,raleigh,spring2026,highintermediate,18,women,WPCC Dill Breakers (PM),NHC Dinks Before Drinks (PM),Jessica Brimmer,Kate Pirrung,Brooke Abee,Meghan Yancey,15,4
+18502,2,2026-05-05,raleigh,spring2026,highintermediate,18,women,WPCC Dill Breakers (PM),NHC Dinks Before Drinks (PM),Donna Louise Driscoll,Janice D Lewis,AnneElizabeth Harrell,Jessica McIntyre,6,15
+18502,3,2026-05-05,raleigh,spring2026,highintermediate,18,women,WPCC Dill Breakers (PM),NHC Dinks Before Drinks (PM),Lori Larrabee,Carrie OFerral,Jessica Willetts,Sharon Baggett,6,15
+18502,4,2026-05-05,raleigh,spring2026,highintermediate,18,women,WPCC Dill Breakers (PM),NHC Dinks Before Drinks (PM),Jessica Brimmer,Kate Pirrung,AnneElizabeth Harrell,Jessica McIntyre,15,10
+18502,5,2026-05-05,raleigh,spring2026,highintermediate,18,women,WPCC Dill Breakers (PM),NHC Dinks Before Drinks (PM),Donna Louise Driscoll,Janice D Lewis,Jessica Willetts,Sharon Baggett,8,15
+18502,6,2026-05-05,raleigh,spring2026,highintermediate,18,women,WPCC Dill Breakers (PM),NHC Dinks Before Drinks (PM),Lori Larrabee,Carrie OFerral,Brooke Abee,Meghan Yancey,11,15
+18502,7,2026-05-05,raleigh,spring2026,highintermediate,18,women,WPCC Dill Breakers (PM),NHC Dinks Before Drinks (PM),Jessica Brimmer,Kate Pirrung,Jessica Willetts,Sharon Baggett,9,15
+18502,8,2026-05-05,raleigh,spring2026,highintermediate,18,women,WPCC Dill Breakers (PM),NHC Dinks Before Drinks (PM),Donna Louise Driscoll,Janice D Lewis,Brooke Abee,Meghan Yancey,9,15
+18502,9,2026-05-05,raleigh,spring2026,highintermediate,18,women,WPCC Dill Breakers (PM),NHC Dinks Before Drinks (PM),Lori Larrabee,Carrie OFerral,AnneElizabeth Harrell,Jessica McIntyre,9,15
+18518,1,2026-05-12,raleigh,spring2026,highintermediate,18,women,7OAKS Spring Peeps (PM),WPCC Pickled Pink (PM),Kathy Casadonte,Bethany Upton Squires,Katie Ann Percy,Marilyn Slaymaker,16,14
+18518,2,2026-05-12,raleigh,spring2026,highintermediate,18,women,7OAKS Spring Peeps (PM),WPCC Pickled Pink (PM),Laurie H Kramer,Takako Schenberger,Andrea Ellen McCartney,Susan Laurie Shaw,7,15
+18518,3,2026-05-12,raleigh,spring2026,highintermediate,18,women,7OAKS Spring Peeps (PM),WPCC Pickled Pink (PM),Judy Liss Reger,Genny Igo,Melissa Michael,Courtney McKim,15,12
+18518,4,2026-05-12,raleigh,spring2026,highintermediate,18,women,7OAKS Spring Peeps (PM),WPCC Pickled Pink (PM),Kathy Casadonte,Bethany Upton Squires,Andrea Ellen McCartney,Susan Laurie Shaw,15,11
+18518,5,2026-05-12,raleigh,spring2026,highintermediate,18,women,7OAKS Spring Peeps (PM),WPCC Pickled Pink (PM),Laurie H Kramer,Takako Schenberger,Melissa Michael,Courtney McKim,15,8
+18518,6,2026-05-12,raleigh,spring2026,highintermediate,18,women,7OAKS Spring Peeps (PM),WPCC Pickled Pink (PM),Judy Liss Reger,Genny Igo,Katie Ann Percy,Marilyn Slaymaker,4,15
+18518,7,2026-05-12,raleigh,spring2026,highintermediate,18,women,7OAKS Spring Peeps (PM),WPCC Pickled Pink (PM),Kathy Casadonte,Bethany Upton Squires,Melissa Michael,Courtney McKim,15,6
+18518,8,2026-05-12,raleigh,spring2026,highintermediate,18,women,7OAKS Spring Peeps (PM),WPCC Pickled Pink (PM),Laurie H Kramer,Takako Schenberger,Katie Ann Percy,Marilyn Slaymaker,15,3
+18518,9,2026-05-12,raleigh,spring2026,highintermediate,18,women,7OAKS Spring Peeps (PM),WPCC Pickled Pink (PM),Judy Liss Reger,Genny Igo,Andrea Ellen McCartney,Susan Laurie Shaw,3,15
+18519,1,2026-05-12,raleigh,spring2026,highintermediate,18,women,HASEN Made Ya Dink! (PM),BCCC Dinkin' Buddies (PM),Jennifer Lynn Bouck,Michelle Rademann,Kristen DiMillio Howering,Diane Sauer,9,15
+18519,2,2026-05-12,raleigh,spring2026,highintermediate,18,women,HASEN Made Ya Dink! (PM),BCCC Dinkin' Buddies (PM),Janet Hammond,Lan C Bello,Shari Gianini,Vickie Gibbs,15,1
+18519,3,2026-05-12,raleigh,spring2026,highintermediate,18,women,HASEN Made Ya Dink! (PM),BCCC Dinkin' Buddies (PM),Ashley McCollum,Samantha Starr,DEFAULT,DEFAULT,15,0
+18519,4,2026-05-12,raleigh,spring2026,highintermediate,18,women,HASEN Made Ya Dink! (PM),BCCC Dinkin' Buddies (PM),Jennifer Lynn Bouck,Michelle Rademann,Shari Gianini,Vickie Gibbs,15,4
+18519,5,2026-05-12,raleigh,spring2026,highintermediate,18,women,HASEN Made Ya Dink! (PM),BCCC Dinkin' Buddies (PM),Janet Hammond,Lan C Bello,DEFAULT,DEFAULT,15,0
+18519,6,2026-05-12,raleigh,spring2026,highintermediate,18,women,HASEN Made Ya Dink! (PM),BCCC Dinkin' Buddies (PM),Ashley McCollum,Samantha Starr,Kristen DiMillio Howering,Diane Sauer,4,15
+18519,7,2026-05-12,raleigh,spring2026,highintermediate,18,women,HASEN Made Ya Dink! (PM),BCCC Dinkin' Buddies (PM),Jennifer Lynn Bouck,Michelle Rademann,DEFAULT,DEFAULT,15,0
+18519,8,2026-05-12,raleigh,spring2026,highintermediate,18,women,HASEN Made Ya Dink! (PM),BCCC Dinkin' Buddies (PM),Janet Hammond,Lan C Bello,Kristen DiMillio Howering,Diane Sauer,3,15
+18519,9,2026-05-12,raleigh,spring2026,highintermediate,18,women,HASEN Made Ya Dink! (PM),BCCC Dinkin' Buddies (PM),Ashley McCollum,Samantha Starr,Shari Gianini,Vickie Gibbs,15,8
+18520,1,2026-05-12,raleigh,spring2026,highintermediate,18,women,NHC Dinks Before Drinks (PM),7OAKS Late Night Kitchen (PM),Brooke Abee,Meghan Yancey,Olga DeGroff,Tori Sutler,5,15
+18520,2,2026-05-12,raleigh,spring2026,highintermediate,18,women,NHC Dinks Before Drinks (PM),7OAKS Late Night Kitchen (PM),Julie Sullivan,Kate Whitney,Danielle Stringer,Pamela Sue Rigsby,15,6
+18520,3,2026-05-12,raleigh,spring2026,highintermediate,18,women,NHC Dinks Before Drinks (PM),7OAKS Late Night Kitchen (PM),AnneElizabeth Harrell,Heather Mauzy,Julie A Leon,Maggie Patterson,12,15
+18520,4,2026-05-12,raleigh,spring2026,highintermediate,18,women,NHC Dinks Before Drinks (PM),7OAKS Late Night Kitchen (PM),Brooke Abee,Meghan Yancey,Danielle Stringer,Pamela Sue Rigsby,10,15
+18520,5,2026-05-12,raleigh,spring2026,highintermediate,18,women,NHC Dinks Before Drinks (PM),7OAKS Late Night Kitchen (PM),Julie Sullivan,Kate Whitney,Julie A Leon,Maggie Patterson,15,8
+18520,6,2026-05-12,raleigh,spring2026,highintermediate,18,women,NHC Dinks Before Drinks (PM),7OAKS Late Night Kitchen (PM),AnneElizabeth Harrell,Heather Mauzy,Olga DeGroff,Tori Sutler,0,15
+18520,7,2026-05-12,raleigh,spring2026,highintermediate,18,women,NHC Dinks Before Drinks (PM),7OAKS Late Night Kitchen (PM),Brooke Abee,Meghan Yancey,Julie A Leon,Maggie Patterson,8,15
+18520,8,2026-05-12,raleigh,spring2026,highintermediate,18,women,NHC Dinks Before Drinks (PM),7OAKS Late Night Kitchen (PM),Julie Sullivan,Kate Whitney,Olga DeGroff,Tori Sutler,15,9
+18520,9,2026-05-12,raleigh,spring2026,highintermediate,18,women,NHC Dinks Before Drinks (PM),7OAKS Late Night Kitchen (PM),AnneElizabeth Harrell,Heather Mauzy,Danielle Stringer,Pamela Sue Rigsby,8,15
+18521,1,2026-05-12,raleigh,spring2026,highintermediate,18,women,NHC Pink Paddle Club (PM),NCST Point Taken,Becky N Faries,Jennifer J Conley,Valerie Worth,Anh T Trieu,11,15
+18521,2,2026-05-12,raleigh,spring2026,highintermediate,18,women,NHC Pink Paddle Club (PM),NCST Point Taken,Jennifer Blue,Mollie Hodl,Sarah Hinson,Paige Ruland,15,13
+18521,3,2026-05-12,raleigh,spring2026,highintermediate,18,women,NHC Pink Paddle Club (PM),NCST Point Taken,Bethany Conner Perkins,Emmy Garvey,Sherrie L Bass,Patty Carter,10,15
+18521,4,2026-05-12,raleigh,spring2026,highintermediate,18,women,NHC Pink Paddle Club (PM),NCST Point Taken,Becky N Faries,Jennifer J Conley,Sarah Hinson,Paige Ruland,15,12
+18521,5,2026-05-12,raleigh,spring2026,highintermediate,18,women,NHC Pink Paddle Club (PM),NCST Point Taken,Jennifer Blue,Mollie Hodl,Sherrie L Bass,Patty Carter,7,15
+18521,6,2026-05-12,raleigh,spring2026,highintermediate,18,women,NHC Pink Paddle Club (PM),NCST Point Taken,Bethany Conner Perkins,Emmy Garvey,Valerie Worth,Anh T Trieu,10,15
+18521,7,2026-05-12,raleigh,spring2026,highintermediate,18,women,NHC Pink Paddle Club (PM),NCST Point Taken,Becky N Faries,Jennifer J Conley,Sherrie L Bass,Patty Carter,15,11
+18521,8,2026-05-12,raleigh,spring2026,highintermediate,18,women,NHC Pink Paddle Club (PM),NCST Point Taken,Jennifer Blue,Mollie Hodl,Valerie Worth,Anh T Trieu,2,15
+18521,9,2026-05-12,raleigh,spring2026,highintermediate,18,women,NHC Pink Paddle Club (PM),NCST Point Taken,Bethany Conner Perkins,Emmy Garvey,Sarah Hinson,Paige Ruland,15,4
+18522,1,2026-05-12,raleigh,spring2026,highintermediate,18,women,WPCC Dink Dynasty (PM),HASEN Dink Responsibly 18+ (PM),Shelli Clark,Rebecca Steffens,Betsy Perkinson,Mary Jo Nugent,4,15
+18522,2,2026-05-12,raleigh,spring2026,highintermediate,18,women,WPCC Dink Dynasty (PM),HASEN Dink Responsibly 18+ (PM),Jenny Simon,Lisa DeMarco,Diane Werner,Laurie Randall,5,15
+18522,3,2026-05-12,raleigh,spring2026,highintermediate,18,women,WPCC Dink Dynasty (PM),HASEN Dink Responsibly 18+ (PM),Karen Beth Delgado,Jody Hill,Jenny Stout,Susan Flanagan,2,15
+18522,4,2026-05-12,raleigh,spring2026,highintermediate,18,women,WPCC Dink Dynasty (PM),HASEN Dink Responsibly 18+ (PM),Shelli Clark,Rebecca Steffens,Diane Werner,Laurie Randall,3,15
+18522,5,2026-05-12,raleigh,spring2026,highintermediate,18,women,WPCC Dink Dynasty (PM),HASEN Dink Responsibly 18+ (PM),Jenny Simon,Lisa DeMarco,Jenny Stout,Susan Flanagan,1,15
+18522,6,2026-05-12,raleigh,spring2026,highintermediate,18,women,WPCC Dink Dynasty (PM),HASEN Dink Responsibly 18+ (PM),Karen Beth Delgado,Jody Hill,Betsy Perkinson,Mary Jo Nugent,9,15
+18522,7,2026-05-12,raleigh,spring2026,highintermediate,18,women,WPCC Dink Dynasty (PM),HASEN Dink Responsibly 18+ (PM),Shelli Clark,Rebecca Steffens,Jenny Stout,Susan Flanagan,1,15
+18522,8,2026-05-12,raleigh,spring2026,highintermediate,18,women,WPCC Dink Dynasty (PM),HASEN Dink Responsibly 18+ (PM),Jenny Simon,Lisa DeMarco,Betsy Perkinson,Mary Jo Nugent,4,15
+18522,9,2026-05-12,raleigh,spring2026,highintermediate,18,women,WPCC Dink Dynasty (PM),HASEN Dink Responsibly 18+ (PM),Karen Beth Delgado,Jody Hill,Diane Werner,Laurie Randall,4,15
+18523,1,2026-05-12,raleigh,spring2026,highintermediate,18,women,7OAKS Day Dinkers (PM),WPCC Dill Breakers (PM),Mari Elizabeth Porter,Dana Chapman,Melissa Kirk Landry,Kate Pirrung,15,5
+18523,2,2026-05-12,raleigh,spring2026,highintermediate,18,women,7OAKS Day Dinkers (PM),WPCC Dill Breakers (PM),Peggy B Williams,Christine Widman,Melissa S Green,Lori Larrabee,15,1
+18523,3,2026-05-12,raleigh,spring2026,highintermediate,18,women,7OAKS Day Dinkers (PM),WPCC Dill Breakers (PM),Ada Gonzalez,Erin Krupa,Beth Murray,Janice D Lewis,15,1
+18523,4,2026-05-12,raleigh,spring2026,highintermediate,18,women,7OAKS Day Dinkers (PM),WPCC Dill Breakers (PM),Mari Elizabeth Porter,Dana Chapman,Melissa S Green,Lori Larrabee,15,6
+18523,5,2026-05-12,raleigh,spring2026,highintermediate,18,women,7OAKS Day Dinkers (PM),WPCC Dill Breakers (PM),Peggy B Williams,Christine Widman,Beth Murray,Janice D Lewis,15,2
+18523,6,2026-05-12,raleigh,spring2026,highintermediate,18,women,7OAKS Day Dinkers (PM),WPCC Dill Breakers (PM),Ada Gonzalez,Erin Krupa,Melissa Kirk Landry,Kate Pirrung,15,4
+18523,7,2026-05-12,raleigh,spring2026,highintermediate,18,women,7OAKS Day Dinkers (PM),WPCC Dill Breakers (PM),Mari Elizabeth Porter,Dana Chapman,Beth Murray,Janice D Lewis,15,1
+18523,8,2026-05-12,raleigh,spring2026,highintermediate,18,women,7OAKS Day Dinkers (PM),WPCC Dill Breakers (PM),Peggy B Williams,Christine Widman,Melissa Kirk Landry,Kate Pirrung,13,15
+18523,9,2026-05-12,raleigh,spring2026,highintermediate,18,women,7OAKS Day Dinkers (PM),WPCC Dill Breakers (PM),Ada Gonzalez,Erin Krupa,Melissa S Green,Lori Larrabee,15,1
+18545,1,2026-05-19,raleigh,spring2026,highintermediate,18,women,BCCC Dinkin' Buddies (PM),NHC Dinks Before Drinks (PM),Shari Gianini,Sandy Ball,Amy Pena,Jessica McIntyre,1,15
+18545,2,2026-05-19,raleigh,spring2026,highintermediate,18,women,BCCC Dinkin' Buddies (PM),NHC Dinks Before Drinks (PM),Kristen DiMillio Howering,Diane Sauer,LeAnne Bloedon,AnneElizabeth Harrell,15,5
+18545,3,2026-05-19,raleigh,spring2026,highintermediate,18,women,BCCC Dinkin' Buddies (PM),NHC Dinks Before Drinks (PM),Vickie Gibbs,Stephanie Testa,DEFAULT,DEFAULT,15,0
+18545,4,2026-05-19,raleigh,spring2026,highintermediate,18,women,BCCC Dinkin' Buddies (PM),NHC Dinks Before Drinks (PM),Shari Gianini,Sandy Ball,LeAnne Bloedon,AnneElizabeth Harrell,9,15
+18545,5,2026-05-19,raleigh,spring2026,highintermediate,18,women,BCCC Dinkin' Buddies (PM),NHC Dinks Before Drinks (PM),Kristen DiMillio Howering,Diane Sauer,DEFAULT,DEFAULT,15,0
+18545,6,2026-05-19,raleigh,spring2026,highintermediate,18,women,BCCC Dinkin' Buddies (PM),NHC Dinks Before Drinks (PM),Vickie Gibbs,Stephanie Testa,Amy Pena,Jessica McIntyre,0,15
+18545,7,2026-05-19,raleigh,spring2026,highintermediate,18,women,BCCC Dinkin' Buddies (PM),NHC Dinks Before Drinks (PM),Shari Gianini,Sandy Ball,DEFAULT,DEFAULT,15,0
+18545,8,2026-05-19,raleigh,spring2026,highintermediate,18,women,BCCC Dinkin' Buddies (PM),NHC Dinks Before Drinks (PM),Kristen DiMillio Howering,Diane Sauer,Amy Pena,Jessica McIntyre,13,15
+18545,9,2026-05-19,raleigh,spring2026,highintermediate,18,women,BCCC Dinkin' Buddies (PM),NHC Dinks Before Drinks (PM),Vickie Gibbs,Stephanie Testa,LeAnne Bloedon,AnneElizabeth Harrell,8,15
+18546,1,2026-05-19,raleigh,spring2026,highintermediate,18,women,HASEN Made Ya Dink! (PM),7OAKS Day Dinkers (PM),Janet Hammond,Lan C Bello,Mari Elizabeth Porter,Amy A Lindsey,16,14
+18546,2,2026-05-19,raleigh,spring2026,highintermediate,18,women,HASEN Made Ya Dink! (PM),7OAKS Day Dinkers (PM),Carolyn P Smith,Tracey Sanders,Ada Gonzalez,Peggy B Williams,15,11
+18546,3,2026-05-19,raleigh,spring2026,highintermediate,18,women,HASEN Made Ya Dink! (PM),7OAKS Day Dinkers (PM),Michelle Rademann,Samantha Starr,Priscilla Hicks,Erin Krupa,15,12
+18546,4,2026-05-19,raleigh,spring2026,highintermediate,18,women,HASEN Made Ya Dink! (PM),7OAKS Day Dinkers (PM),Janet Hammond,Lan C Bello,Ada Gonzalez,Peggy B Williams,13,15
+18546,5,2026-05-19,raleigh,spring2026,highintermediate,18,women,HASEN Made Ya Dink! (PM),7OAKS Day Dinkers (PM),Carolyn P Smith,Tracey Sanders,Priscilla Hicks,Erin Krupa,15,9
+18546,6,2026-05-19,raleigh,spring2026,highintermediate,18,women,HASEN Made Ya Dink! (PM),7OAKS Day Dinkers (PM),Michelle Rademann,Samantha Starr,Mari Elizabeth Porter,Amy A Lindsey,10,15
+18546,7,2026-05-19,raleigh,spring2026,highintermediate,18,women,HASEN Made Ya Dink! (PM),7OAKS Day Dinkers (PM),Janet Hammond,Lan C Bello,Priscilla Hicks,Erin Krupa,15,17
+18546,8,2026-05-19,raleigh,spring2026,highintermediate,18,women,HASEN Made Ya Dink! (PM),7OAKS Day Dinkers (PM),Carolyn P Smith,Tracey Sanders,Mari Elizabeth Porter,Amy A Lindsey,11,15
+18546,9,2026-05-19,raleigh,spring2026,highintermediate,18,women,HASEN Made Ya Dink! (PM),7OAKS Day Dinkers (PM),Michelle Rademann,Samantha Starr,Ada Gonzalez,Peggy B Williams,8,15
+18547,1,2026-05-19,raleigh,spring2026,highintermediate,18,women,NCST Point Taken,WPCC Pickled Pink (PM),Sherrie L Bass,Paige Ruland,Nancy Page,Susan Laurie Shaw,15,4
+18547,2,2026-05-19,raleigh,spring2026,highintermediate,18,women,NCST Point Taken,WPCC Pickled Pink (PM),Patty Carter,Caroline Smith-Moore,Alyssa Newton,April Haas,15,1
+18547,3,2026-05-19,raleigh,spring2026,highintermediate,18,women,NCST Point Taken,WPCC Pickled Pink (PM),Deirdre Clarke,Nancy Bumgarner,Mary Casson,Melissa Michael,15,2
+18547,4,2026-05-19,raleigh,spring2026,highintermediate,18,women,NCST Point Taken,WPCC Pickled Pink (PM),Sherrie L Bass,Paige Ruland,Alyssa Newton,April Haas,15,2
+18547,5,2026-05-19,raleigh,spring2026,highintermediate,18,women,NCST Point Taken,WPCC Pickled Pink (PM),Patty Carter,Caroline Smith-Moore,Mary Casson,Melissa Michael,15,4
+18547,6,2026-05-19,raleigh,spring2026,highintermediate,18,women,NCST Point Taken,WPCC Pickled Pink (PM),Deirdre Clarke,Nancy Bumgarner,Nancy Page,Susan Laurie Shaw,15,11
+18547,7,2026-05-19,raleigh,spring2026,highintermediate,18,women,NCST Point Taken,WPCC Pickled Pink (PM),Sherrie L Bass,Paige Ruland,Mary Casson,Melissa Michael,15,2
+18547,8,2026-05-19,raleigh,spring2026,highintermediate,18,women,NCST Point Taken,WPCC Pickled Pink (PM),Patty Carter,Caroline Smith-Moore,Nancy Page,Susan Laurie Shaw,15,4
+18547,9,2026-05-19,raleigh,spring2026,highintermediate,18,women,NCST Point Taken,WPCC Pickled Pink (PM),Deirdre Clarke,Nancy Bumgarner,Alyssa Newton,April Haas,14,16
+18548,1,2026-05-19,raleigh,spring2026,highintermediate,18,women,NHC Pink Paddle Club (PM),HASEN Dink Responsibly 18+ (PM),Becky N Faries,Jennifer J Conley,Regina Heroux,Laurie Randall,14,16
+18548,2,2026-05-19,raleigh,spring2026,highintermediate,18,women,NHC Pink Paddle Club (PM),HASEN Dink Responsibly 18+ (PM),Emmy Garvey,Bethany Conner Perkins,Sharon F Barham,Candice V Diehl,15,12
+18548,3,2026-05-19,raleigh,spring2026,highintermediate,18,women,NHC Pink Paddle Club (PM),HASEN Dink Responsibly 18+ (PM),Denise Thompson,Mollie Hodl,Maggie DiNome,Betsy Perkinson,14,16
+18548,4,2026-05-19,raleigh,spring2026,highintermediate,18,women,NHC Pink Paddle Club (PM),HASEN Dink Responsibly 18+ (PM),Becky N Faries,Jennifer J Conley,Sharon F Barham,Candice V Diehl,11,15
+18548,5,2026-05-19,raleigh,spring2026,highintermediate,18,women,NHC Pink Paddle Club (PM),HASEN Dink Responsibly 18+ (PM),Emmy Garvey,Bethany Conner Perkins,Maggie DiNome,Betsy Perkinson,15,13
+18548,6,2026-05-19,raleigh,spring2026,highintermediate,18,women,NHC Pink Paddle Club (PM),HASEN Dink Responsibly 18+ (PM),Denise Thompson,Mollie Hodl,Regina Heroux,Laurie Randall,8,15
+18548,7,2026-05-19,raleigh,spring2026,highintermediate,18,women,NHC Pink Paddle Club (PM),HASEN Dink Responsibly 18+ (PM),Becky N Faries,Jennifer J Conley,Maggie DiNome,Betsy Perkinson,15,11
+18548,8,2026-05-19,raleigh,spring2026,highintermediate,18,women,NHC Pink Paddle Club (PM),HASEN Dink Responsibly 18+ (PM),Emmy Garvey,Bethany Conner Perkins,Regina Heroux,Laurie Randall,15,8
+18548,9,2026-05-19,raleigh,spring2026,highintermediate,18,women,NHC Pink Paddle Club (PM),HASEN Dink Responsibly 18+ (PM),Denise Thompson,Mollie Hodl,Sharon F Barham,Candice V Diehl,15,17
+18549,1,2026-05-19,raleigh,spring2026,highintermediate,18,women,WPCC Dink Dynasty (PM),7OAKS Spring Peeps (PM),Jenny Simon,Susan Hembarsky,Beth Treadway,Joy Cooper,15,12
+18549,2,2026-05-19,raleigh,spring2026,highintermediate,18,women,WPCC Dink Dynasty (PM),7OAKS Spring Peeps (PM),Dane Hewett Brackett,Rebecca Steffens,Amy Giglio,Cindy Feryo,7,15
+18549,3,2026-05-19,raleigh,spring2026,highintermediate,18,women,WPCC Dink Dynasty (PM),7OAKS Spring Peeps (PM),Jody Hill,Pat Ann McGoldrick,Linda Nuxoll,Genny Igo,10,15
+18549,4,2026-05-19,raleigh,spring2026,highintermediate,18,women,WPCC Dink Dynasty (PM),7OAKS Spring Peeps (PM),Jenny Simon,Susan Hembarsky,Amy Giglio,Cindy Feryo,5,15
+18549,5,2026-05-19,raleigh,spring2026,highintermediate,18,women,WPCC Dink Dynasty (PM),7OAKS Spring Peeps (PM),Dane Hewett Brackett,Rebecca Steffens,Linda Nuxoll,Genny Igo,5,15
+18549,6,2026-05-19,raleigh,spring2026,highintermediate,18,women,WPCC Dink Dynasty (PM),7OAKS Spring Peeps (PM),Jody Hill,Pat Ann McGoldrick,Beth Treadway,Joy Cooper,2,15
+18549,7,2026-05-19,raleigh,spring2026,highintermediate,18,women,WPCC Dink Dynasty (PM),7OAKS Spring Peeps (PM),Jenny Simon,Susan Hembarsky,Linda Nuxoll,Genny Igo,15,9
+18549,8,2026-05-19,raleigh,spring2026,highintermediate,18,women,WPCC Dink Dynasty (PM),7OAKS Spring Peeps (PM),Dane Hewett Brackett,Rebecca Steffens,Beth Treadway,Joy Cooper,8,15
+18549,9,2026-05-19,raleigh,spring2026,highintermediate,18,women,WPCC Dink Dynasty (PM),7OAKS Spring Peeps (PM),Jody Hill,Pat Ann McGoldrick,Amy Giglio,Cindy Feryo,1,15
+18550,1,2026-05-19,raleigh,spring2026,highintermediate,18,women,7OAKS Late Night Kitchen (PM),WPCC Dill Breakers (PM),Julia Killian,Danielle Stringer,Teesa McKinley,Janet Wilson Mitch,15,11
+18550,2,2026-05-19,raleigh,spring2026,highintermediate,18,women,7OAKS Late Night Kitchen (PM),WPCC Dill Breakers (PM),Julie A Leon,Sherrie L Lefere,Kate Pirrung,Jessica Brimmer,2,15
+18550,3,2026-05-19,raleigh,spring2026,highintermediate,18,women,7OAKS Late Night Kitchen (PM),WPCC Dill Breakers (PM),Tori Sutler,Molly Bradsher Briggs,Beth Murray,Lori Larrabee,15,0
+18550,4,2026-05-19,raleigh,spring2026,highintermediate,18,women,7OAKS Late Night Kitchen (PM),WPCC Dill Breakers (PM),Julia Killian,Danielle Stringer,Kate Pirrung,Jessica Brimmer,15,12
+18550,5,2026-05-19,raleigh,spring2026,highintermediate,18,women,7OAKS Late Night Kitchen (PM),WPCC Dill Breakers (PM),Julie A Leon,Sherrie L Lefere,Beth Murray,Lori Larrabee,15,6
+18550,6,2026-05-19,raleigh,spring2026,highintermediate,18,women,7OAKS Late Night Kitchen (PM),WPCC Dill Breakers (PM),Tori Sutler,Molly Bradsher Briggs,Teesa McKinley,Janet Wilson Mitch,15,5
+18550,7,2026-05-19,raleigh,spring2026,highintermediate,18,women,7OAKS Late Night Kitchen (PM),WPCC Dill Breakers (PM),Julia Killian,Danielle Stringer,Beth Murray,Lori Larrabee,15,7
+18550,8,2026-05-19,raleigh,spring2026,highintermediate,18,women,7OAKS Late Night Kitchen (PM),WPCC Dill Breakers (PM),Julie A Leon,Sherrie L Lefere,Teesa McKinley,Janet Wilson Mitch,10,15
+18550,9,2026-05-19,raleigh,spring2026,highintermediate,18,women,7OAKS Late Night Kitchen (PM),WPCC Dill Breakers (PM),Tori Sutler,Molly Bradsher Briggs,Kate Pirrung,Jessica Brimmer,15,6
+18560,1,2026-05-26,raleigh,spring2026,highintermediate,18,women,7OAKS Day Dinkers (PM),7OAKS Late Night Kitchen (PM),Erin Krupa,Ada Gonzalez,Danielle Stringer,Pamela Sue Rigsby,15,3
+18560,2,2026-05-26,raleigh,spring2026,highintermediate,18,women,7OAKS Day Dinkers (PM),7OAKS Late Night Kitchen (PM),Priscilla Hicks,Victoria Bell,Maggie Patterson,Julie A Leon,15,6
+18560,3,2026-05-26,raleigh,spring2026,highintermediate,18,women,7OAKS Day Dinkers (PM),7OAKS Late Night Kitchen (PM),Mari Elizabeth Porter,Angie Carden,Molly Bradsher Briggs,Tori Sutler,14,16
+18560,4,2026-05-26,raleigh,spring2026,highintermediate,18,women,7OAKS Day Dinkers (PM),7OAKS Late Night Kitchen (PM),Erin Krupa,Ada Gonzalez,Maggie Patterson,Julie A Leon,15,8
+18560,5,2026-05-26,raleigh,spring2026,highintermediate,18,women,7OAKS Day Dinkers (PM),7OAKS Late Night Kitchen (PM),Priscilla Hicks,Victoria Bell,Molly Bradsher Briggs,Tori Sutler,4,15
+18560,6,2026-05-26,raleigh,spring2026,highintermediate,18,women,7OAKS Day Dinkers (PM),7OAKS Late Night Kitchen (PM),Mari Elizabeth Porter,Angie Carden,Danielle Stringer,Pamela Sue Rigsby,15,7
+18560,7,2026-05-26,raleigh,spring2026,highintermediate,18,women,7OAKS Day Dinkers (PM),7OAKS Late Night Kitchen (PM),Erin Krupa,Ada Gonzalez,Molly Bradsher Briggs,Tori Sutler,6,15
+18560,8,2026-05-26,raleigh,spring2026,highintermediate,18,women,7OAKS Day Dinkers (PM),7OAKS Late Night Kitchen (PM),Priscilla Hicks,Victoria Bell,Danielle Stringer,Pamela Sue Rigsby,15,7
+18560,9,2026-05-26,raleigh,spring2026,highintermediate,18,women,7OAKS Day Dinkers (PM),7OAKS Late Night Kitchen (PM),Mari Elizabeth Porter,Angie Carden,Maggie Patterson,Julie A Leon,15,11
+18561,1,2026-05-26,raleigh,spring2026,highintermediate,18,women,HASEN Dink Responsibly 18+ (PM),NCST Point Taken,Maggie DiNome,Regina Heroux,Deirdre Clarke,Patty Carter,10,15
+18561,2,2026-05-26,raleigh,spring2026,highintermediate,18,women,HASEN Dink Responsibly 18+ (PM),NCST Point Taken,Cybele Martin Brockmann,Diane Werner,Nancy Bumgarner,Valerie Worth,12,15
+18561,3,2026-05-26,raleigh,spring2026,highintermediate,18,women,HASEN Dink Responsibly 18+ (PM),NCST Point Taken,Mary Jo Nugent,Laurie Randall,Paige Ruland,Sarah Hinson,5,15
+18561,4,2026-05-26,raleigh,spring2026,highintermediate,18,women,HASEN Dink Responsibly 18+ (PM),NCST Point Taken,Maggie DiNome,Regina Heroux,Nancy Bumgarner,Valerie Worth,7,15
+18561,5,2026-05-26,raleigh,spring2026,highintermediate,18,women,HASEN Dink Responsibly 18+ (PM),NCST Point Taken,Cybele Martin Brockmann,Diane Werner,Paige Ruland,Sarah Hinson,11,15
+18561,6,2026-05-26,raleigh,spring2026,highintermediate,18,women,HASEN Dink Responsibly 18+ (PM),NCST Point Taken,Mary Jo Nugent,Laurie Randall,Deirdre Clarke,Patty Carter,15,13
+18561,7,2026-05-26,raleigh,spring2026,highintermediate,18,women,HASEN Dink Responsibly 18+ (PM),NCST Point Taken,Maggie DiNome,Regina Heroux,Paige Ruland,Sarah Hinson,15,6
+18561,8,2026-05-26,raleigh,spring2026,highintermediate,18,women,HASEN Dink Responsibly 18+ (PM),NCST Point Taken,Cybele Martin Brockmann,Diane Werner,Deirdre Clarke,Patty Carter,15,7
+18561,9,2026-05-26,raleigh,spring2026,highintermediate,18,women,HASEN Dink Responsibly 18+ (PM),NCST Point Taken,Mary Jo Nugent,Laurie Randall,Nancy Bumgarner,Valerie Worth,5,15
+18562,1,2026-05-26,raleigh,spring2026,highintermediate,18,women,NHC Dinks Before Drinks (PM),HASEN Made Ya Dink! (PM),AnneElizabeth Harrell,Jackie Caprio,Tracey Sanders,Carolyn P Smith,11,15
+18562,2,2026-05-26,raleigh,spring2026,highintermediate,18,women,NHC Dinks Before Drinks (PM),HASEN Made Ya Dink! (PM),Julie Sullivan,Amy Pena,Lan C Bello,Dawn Frevert,15,9
+18562,3,2026-05-26,raleigh,spring2026,highintermediate,18,women,NHC Dinks Before Drinks (PM),HASEN Made Ya Dink! (PM),Jessica McIntyre,Jessica Willetts,Ginger Craig,Lynn Vitello,15,2
+18562,4,2026-05-26,raleigh,spring2026,highintermediate,18,women,NHC Dinks Before Drinks (PM),HASEN Made Ya Dink! (PM),AnneElizabeth Harrell,Jackie Caprio,Lan C Bello,Dawn Frevert,6,15
+18562,5,2026-05-26,raleigh,spring2026,highintermediate,18,women,NHC Dinks Before Drinks (PM),HASEN Made Ya Dink! (PM),Julie Sullivan,Amy Pena,Ginger Craig,Lynn Vitello,15,2
+18562,6,2026-05-26,raleigh,spring2026,highintermediate,18,women,NHC Dinks Before Drinks (PM),HASEN Made Ya Dink! (PM),Jessica McIntyre,Jessica Willetts,Tracey Sanders,Carolyn P Smith,11,15
+18562,7,2026-05-26,raleigh,spring2026,highintermediate,18,women,NHC Dinks Before Drinks (PM),HASEN Made Ya Dink! (PM),AnneElizabeth Harrell,Jackie Caprio,Ginger Craig,Lynn Vitello,15,7
+18562,8,2026-05-26,raleigh,spring2026,highintermediate,18,women,NHC Dinks Before Drinks (PM),HASEN Made Ya Dink! (PM),Julie Sullivan,Amy Pena,Tracey Sanders,Carolyn P Smith,15,13
+18562,9,2026-05-26,raleigh,spring2026,highintermediate,18,women,NHC Dinks Before Drinks (PM),HASEN Made Ya Dink! (PM),Jessica McIntyre,Jessica Willetts,Lan C Bello,Dawn Frevert,13,15
+18563,1,2026-05-26,raleigh,spring2026,highintermediate,18,women,WPCC Dill Breakers (PM),BCCC Dinkin' Buddies (PM),Teesa McKinley,Kate Pirrung,DEFAULT,DEFAULT,15,0
+18563,2,2026-05-26,raleigh,spring2026,highintermediate,18,women,WPCC Dill Breakers (PM),BCCC Dinkin' Buddies (PM),Melissa Kirk Landry,Donna Louise Driscoll,DEFAULT,DEFAULT,15,0
+18563,3,2026-05-26,raleigh,spring2026,highintermediate,18,women,WPCC Dill Breakers (PM),BCCC Dinkin' Buddies (PM),Lori Larrabee,Janet Wilson Mitch,DEFAULT,DEFAULT,15,0
+18563,4,2026-05-26,raleigh,spring2026,highintermediate,18,women,WPCC Dill Breakers (PM),BCCC Dinkin' Buddies (PM),Teesa McKinley,Kate Pirrung,DEFAULT,DEFAULT,15,0
+18563,5,2026-05-26,raleigh,spring2026,highintermediate,18,women,WPCC Dill Breakers (PM),BCCC Dinkin' Buddies (PM),Melissa Kirk Landry,Donna Louise Driscoll,DEFAULT,DEFAULT,15,0
+18563,6,2026-05-26,raleigh,spring2026,highintermediate,18,women,WPCC Dill Breakers (PM),BCCC Dinkin' Buddies (PM),Lori Larrabee,Janet Wilson Mitch,DEFAULT,DEFAULT,15,0
+18563,7,2026-05-26,raleigh,spring2026,highintermediate,18,women,WPCC Dill Breakers (PM),BCCC Dinkin' Buddies (PM),Teesa McKinley,Kate Pirrung,DEFAULT,DEFAULT,15,0
+18563,8,2026-05-26,raleigh,spring2026,highintermediate,18,women,WPCC Dill Breakers (PM),BCCC Dinkin' Buddies (PM),Melissa Kirk Landry,Donna Louise Driscoll,DEFAULT,DEFAULT,15,0
+18563,9,2026-05-26,raleigh,spring2026,highintermediate,18,women,WPCC Dill Breakers (PM),BCCC Dinkin' Buddies (PM),Lori Larrabee,Janet Wilson Mitch,DEFAULT,DEFAULT,15,0
+18564,1,2026-05-26,raleigh,spring2026,highintermediate,18,women,7OAKS Spring Peeps (PM),NHC Pink Paddle Club (PM),Bethany Upton Squires,Kathy Casadonte,Jennifer Blue,Denise Thompson,11,15
+18564,2,2026-05-26,raleigh,spring2026,highintermediate,18,women,7OAKS Spring Peeps (PM),NHC Pink Paddle Club (PM),Amy Giglio,Cindy Feryo,Teressa Paschaloudis,Sophia Paschaloudis,15,10
+18564,3,2026-05-26,raleigh,spring2026,highintermediate,18,women,7OAKS Spring Peeps (PM),NHC Pink Paddle Club (PM),Sherry Lynn Goodson,Beth Treadway,Virginia Blake,Jaime Goodson Gaskins,8,15
+18564,4,2026-05-26,raleigh,spring2026,highintermediate,18,women,7OAKS Spring Peeps (PM),NHC Pink Paddle Club (PM),Bethany Upton Squires,Kathy Casadonte,Teressa Paschaloudis,Sophia Paschaloudis,7,15
+18564,5,2026-05-26,raleigh,spring2026,highintermediate,18,women,7OAKS Spring Peeps (PM),NHC Pink Paddle Club (PM),Amy Giglio,Cindy Feryo,Virginia Blake,Jaime Goodson Gaskins,15,7
+18564,6,2026-05-26,raleigh,spring2026,highintermediate,18,women,7OAKS Spring Peeps (PM),NHC Pink Paddle Club (PM),Sherry Lynn Goodson,Beth Treadway,Jennifer Blue,Denise Thompson,3,15
+18564,7,2026-05-26,raleigh,spring2026,highintermediate,18,women,7OAKS Spring Peeps (PM),NHC Pink Paddle Club (PM),Bethany Upton Squires,Kathy Casadonte,Virginia Blake,Jaime Goodson Gaskins,15,10
+18564,8,2026-05-26,raleigh,spring2026,highintermediate,18,women,7OAKS Spring Peeps (PM),NHC Pink Paddle Club (PM),Amy Giglio,Cindy Feryo,Jennifer Blue,Denise Thompson,14,16
+18564,9,2026-05-26,raleigh,spring2026,highintermediate,18,women,7OAKS Spring Peeps (PM),NHC Pink Paddle Club (PM),Sherry Lynn Goodson,Beth Treadway,Teressa Paschaloudis,Sophia Paschaloudis,15,6
+18565,1,2026-05-26,raleigh,spring2026,highintermediate,18,women,WPCC Pickled Pink (PM),WPCC Dink Dynasty (PM),Melissa Michael,Mary Casson,Susan Hembarsky,Shelli Clark,13,15
+18565,2,2026-05-26,raleigh,spring2026,highintermediate,18,women,WPCC Pickled Pink (PM),WPCC Dink Dynasty (PM),Lori Parkman,April Haas,Tracey M Carlin,Margie Molloy,15,6
+18565,3,2026-05-26,raleigh,spring2026,highintermediate,18,women,WPCC Pickled Pink (PM),WPCC Dink Dynasty (PM),Courtney McKim,Nancy Page,Chantry Hurt,Jenny Simon,1,15
+18565,4,2026-05-26,raleigh,spring2026,highintermediate,18,women,WPCC Pickled Pink (PM),WPCC Dink Dynasty (PM),Melissa Michael,Mary Casson,Tracey M Carlin,Margie Molloy,1,15
+18565,5,2026-05-26,raleigh,spring2026,highintermediate,18,women,WPCC Pickled Pink (PM),WPCC Dink Dynasty (PM),Lori Parkman,April Haas,Chantry Hurt,Jenny Simon,1,15
+18565,6,2026-05-26,raleigh,spring2026,highintermediate,18,women,WPCC Pickled Pink (PM),WPCC Dink Dynasty (PM),Courtney McKim,Nancy Page,Susan Hembarsky,Shelli Clark,2,15
+18565,7,2026-05-26,raleigh,spring2026,highintermediate,18,women,WPCC Pickled Pink (PM),WPCC Dink Dynasty (PM),Melissa Michael,Mary Casson,Chantry Hurt,Jenny Simon,1,15
+18565,8,2026-05-26,raleigh,spring2026,highintermediate,18,women,WPCC Pickled Pink (PM),WPCC Dink Dynasty (PM),Lori Parkman,April Haas,Susan Hembarsky,Shelli Clark,14,16
+18565,9,2026-05-26,raleigh,spring2026,highintermediate,18,women,WPCC Pickled Pink (PM),WPCC Dink Dynasty (PM),Courtney McKim,Nancy Page,Tracey M Carlin,Margie Molloy,4,15
+18581,1,2026-06-06,raleigh,spring2026,highintermediate,18,women,HASEN Dink Responsibly 18+ (PM),7OAKS Day Dinkers (PM),Susan Flanagan,Jenny Stout,Peggy B Williams,Ada Gonzalez,15,17
+18581,2,2026-06-06,raleigh,spring2026,highintermediate,18,women,HASEN Dink Responsibly 18+ (PM),7OAKS Day Dinkers (PM),Cybele Martin Brockmann,Mary Jo Nugent,Mari Elizabeth Porter,Angie Carden,12,15
+18581,3,2026-06-06,raleigh,spring2026,highintermediate,18,women,HASEN Dink Responsibly 18+ (PM),7OAKS Day Dinkers (PM),Laurie Randall,Regina Heroux,Dana Chapman,Erin Krupa,15,9
+18581,4,2026-06-06,raleigh,spring2026,highintermediate,18,women,HASEN Dink Responsibly 18+ (PM),7OAKS Day Dinkers (PM),Susan Flanagan,Jenny Stout,Mari Elizabeth Porter,Angie Carden,4,15
+18581,5,2026-06-06,raleigh,spring2026,highintermediate,18,women,HASEN Dink Responsibly 18+ (PM),7OAKS Day Dinkers (PM),Cybele Martin Brockmann,Mary Jo Nugent,Dana Chapman,Erin Krupa,15,7
+18581,6,2026-06-06,raleigh,spring2026,highintermediate,18,women,HASEN Dink Responsibly 18+ (PM),7OAKS Day Dinkers (PM),Laurie Randall,Regina Heroux,Peggy B Williams,Ada Gonzalez,15,6
+18581,7,2026-06-06,raleigh,spring2026,highintermediate,18,women,HASEN Dink Responsibly 18+ (PM),7OAKS Day Dinkers (PM),Susan Flanagan,Jenny Stout,Dana Chapman,Erin Krupa,4,15
+18581,8,2026-06-06,raleigh,spring2026,highintermediate,18,women,HASEN Dink Responsibly 18+ (PM),7OAKS Day Dinkers (PM),Cybele Martin Brockmann,Mary Jo Nugent,Peggy B Williams,Ada Gonzalez,7,15
+18581,9,2026-06-06,raleigh,spring2026,highintermediate,18,women,HASEN Dink Responsibly 18+ (PM),7OAKS Day Dinkers (PM),Laurie Randall,Regina Heroux,Mari Elizabeth Porter,Angie Carden,16,18

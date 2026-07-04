@@ -1,118 +1,118 @@
-match_id,game_id,match_date,team1_name,team2_name,partner1,partner2,opponent1,opponent2,team1_points,team2_points
-16522,1,2025-08-20,12OAKS Volley Llama Mamas,LOCH Dinkerbells,Kristine Bachstein,Lou Brooks,Christie Benjamin,Beverly Broslawsky,13,15
-16522,2,2025-08-20,12OAKS Volley Llama Mamas,LOCH Dinkerbells,Linda Day Colgan,Amy Smith,Connie Kannarr,Pam Hunter,15,5
-16522,3,2025-08-20,12OAKS Volley Llama Mamas,LOCH Dinkerbells,Jacqueline Jett,Lori Nichols,Francine Pearce,Jenny Mattingly,15,9
-16522,4,2025-08-20,12OAKS Volley Llama Mamas,LOCH Dinkerbells,Kristine Bachstein,Lou Brooks,Connie Kannarr,Pam Hunter,15,9
-16522,5,2025-08-20,12OAKS Volley Llama Mamas,LOCH Dinkerbells,Linda Day Colgan,Amy Smith,Francine Pearce,Jenny Mattingly,15,0
-16522,6,2025-08-20,12OAKS Volley Llama Mamas,LOCH Dinkerbells,Jacqueline Jett,Lori Nichols,Christie Benjamin,Beverly Broslawsky,7,15
-16522,7,2025-08-20,12OAKS Volley Llama Mamas,LOCH Dinkerbells,Kristine Bachstein,Lou Brooks,Francine Pearce,Jenny Mattingly,15,10
-16522,8,2025-08-20,12OAKS Volley Llama Mamas,LOCH Dinkerbells,Linda Day Colgan,Amy Smith,Christie Benjamin,Beverly Broslawsky,10,15
-16522,9,2025-08-20,12OAKS Volley Llama Mamas,LOCH Dinkerbells,Jacqueline Jett,Lori Nichols,Connie Kannarr,Pam Hunter,15,4
-16547,1,2025-08-27,LOCH In A Pickle,12OAKS Volley Llama Mamas,Lisa Casassa,Pat Anastasio,Jan Faulkner,Suzette Ward,12,15
-16547,2,2025-08-27,LOCH In A Pickle,12OAKS Volley Llama Mamas,Anita Pantera Prevost,Stacey Stallard Shaughnessy,Ellen Polk,Peggy Smith,5,15
-16547,3,2025-08-27,LOCH In A Pickle,12OAKS Volley Llama Mamas,Susan G Coulter,Susan Hoffman,Christine Tyner,Francie P Heckner,5,15
-16547,4,2025-08-27,LOCH In A Pickle,12OAKS Volley Llama Mamas,Lisa Casassa,Pat Anastasio,Ellen Polk,Peggy Smith,4,15
-16547,5,2025-08-27,LOCH In A Pickle,12OAKS Volley Llama Mamas,Anita Pantera Prevost,Stacey Stallard Shaughnessy,Christine Tyner,Francie P Heckner,3,15
-16547,6,2025-08-27,LOCH In A Pickle,12OAKS Volley Llama Mamas,Susan G Coulter,Susan Hoffman,Jan Faulkner,Suzette Ward,4,15
-16547,7,2025-08-27,LOCH In A Pickle,12OAKS Volley Llama Mamas,Lisa Casassa,Pat Anastasio,Christine Tyner,Francie P Heckner,10,15
-16547,8,2025-08-27,LOCH In A Pickle,12OAKS Volley Llama Mamas,Anita Pantera Prevost,Stacey Stallard Shaughnessy,Jan Faulkner,Suzette Ward,11,15
-16547,9,2025-08-27,LOCH In A Pickle,12OAKS Volley Llama Mamas,Susan G Coulter,Susan Hoffman,Ellen Polk,Peggy Smith,4,15
-16556,1,2025-09-03,LOCH Dinkerbells,LOCH In A Pickle,Amy S Fisher,Pam Hunter,Elly Siggins,Susan Wisdom,15,1
-16556,2,2025-09-03,LOCH Dinkerbells,LOCH In A Pickle,Beverly Broslawsky,Christie Benjamin,Jena Hill,Jennifer Dulin,15,1
-16556,3,2025-09-03,LOCH Dinkerbells,LOCH In A Pickle,Kathy R Painter,Susan Larson Frazier,Lisa Casassa,Camille Lewis,15,9
-16556,4,2025-09-03,LOCH Dinkerbells,LOCH In A Pickle,Amy S Fisher,Pam Hunter,Jena Hill,Jennifer Dulin,15,0
-16556,5,2025-09-03,LOCH Dinkerbells,LOCH In A Pickle,Beverly Broslawsky,Christie Benjamin,Lisa Casassa,Camille Lewis,15,4
-16556,6,2025-09-03,LOCH Dinkerbells,LOCH In A Pickle,Kathy R Painter,Susan Larson Frazier,Elly Siggins,Susan Wisdom,15,10
-16556,7,2025-09-03,LOCH Dinkerbells,LOCH In A Pickle,Amy S Fisher,Pam Hunter,Lisa Casassa,Camille Lewis,15,7
-16556,8,2025-09-03,LOCH Dinkerbells,LOCH In A Pickle,Beverly Broslawsky,Christie Benjamin,Elly Siggins,Susan Wisdom,15,5
-16556,9,2025-09-03,LOCH Dinkerbells,LOCH In A Pickle,Kathy R Painter,Susan Larson Frazier,Jena Hill,Jennifer Dulin,15,2
-16578,1,2025-09-10,LOCH Dinkerbells,12OAKS Volley Llama Mamas,Bobbi Bell,Jenny Mattingly,Dee Murray,Kristine Bachstein,15,9
-16578,2,2025-09-10,LOCH Dinkerbells,12OAKS Volley Llama Mamas,Beverly Broslawsky,Christie Benjamin,Jacqueline Jett,Lori Nichols,15,8
-16578,3,2025-09-10,LOCH Dinkerbells,12OAKS Volley Llama Mamas,Connie Kannarr,Francine Pearce,Linda Day Colgan,Amy Smith,7,15
-16578,4,2025-09-10,LOCH Dinkerbells,12OAKS Volley Llama Mamas,Bobbi Bell,Jenny Mattingly,Jacqueline Jett,Lori Nichols,7,15
-16578,5,2025-09-10,LOCH Dinkerbells,12OAKS Volley Llama Mamas,Beverly Broslawsky,Christie Benjamin,Linda Day Colgan,Amy Smith,15,8
-16578,6,2025-09-10,LOCH Dinkerbells,12OAKS Volley Llama Mamas,Connie Kannarr,Francine Pearce,Dee Murray,Kristine Bachstein,15,3
-16578,7,2025-09-10,LOCH Dinkerbells,12OAKS Volley Llama Mamas,Bobbi Bell,Jenny Mattingly,Linda Day Colgan,Amy Smith,15,5
-16578,8,2025-09-10,LOCH Dinkerbells,12OAKS Volley Llama Mamas,Beverly Broslawsky,Christie Benjamin,Dee Murray,Kristine Bachstein,15,7
-16578,9,2025-09-10,LOCH Dinkerbells,12OAKS Volley Llama Mamas,Connie Kannarr,Francine Pearce,Jacqueline Jett,Lori Nichols,6,15
-16603,1,2025-09-17,12OAKS Volley Llama Mamas,LOCH In A Pickle,Lou Brooks,Kristine Bachstein,Elly Siggins,Susan Hoffman,15,8
-16603,2,2025-09-17,12OAKS Volley Llama Mamas,LOCH In A Pickle,Jan Faulkner,Suzette Ward,Susan G Coulter,Pat Anastasio,15,6
-16603,3,2025-09-17,12OAKS Volley Llama Mamas,LOCH In A Pickle,Ellen Polk,Peggy Smith,Barb LeBlanc,Lisa Casassa,15,9
-16603,4,2025-09-17,12OAKS Volley Llama Mamas,LOCH In A Pickle,Lou Brooks,Kristine Bachstein,Susan G Coulter,Pat Anastasio,15,1
-16603,5,2025-09-17,12OAKS Volley Llama Mamas,LOCH In A Pickle,Jan Faulkner,Suzette Ward,Barb LeBlanc,Lisa Casassa,15,13
-16603,6,2025-09-17,12OAKS Volley Llama Mamas,LOCH In A Pickle,Ellen Polk,Peggy Smith,Elly Siggins,Susan Hoffman,15,2
-16603,7,2025-09-17,12OAKS Volley Llama Mamas,LOCH In A Pickle,Lou Brooks,Kristine Bachstein,Barb LeBlanc,Lisa Casassa,15,4
-16603,8,2025-09-17,12OAKS Volley Llama Mamas,LOCH In A Pickle,Jan Faulkner,Suzette Ward,Elly Siggins,Susan Hoffman,15,3
-16603,9,2025-09-17,12OAKS Volley Llama Mamas,LOCH In A Pickle,Ellen Polk,Peggy Smith,Susan G Coulter,Pat Anastasio,15,6
-16626,1,2025-09-24,LOCH In A Pickle,LOCH Dinkerbells,Susan Wisdom,Susan Hoffman,Kathy R Painter,Susan Larson Frazier,3,15
-16626,2,2025-09-24,LOCH In A Pickle,LOCH Dinkerbells,Barb LeBlanc,Jena Hill,Amy S Fisher,Pam Hunter,1,15
-16626,3,2025-09-24,LOCH In A Pickle,LOCH Dinkerbells,DEFAULT,DEFAULT,Connie Kannarr,Francine Pearce,0,15
-16626,4,2025-09-24,LOCH In A Pickle,LOCH Dinkerbells,Susan Wisdom,Susan Hoffman,Amy S Fisher,Pam Hunter,0,15
-16626,5,2025-09-24,LOCH In A Pickle,LOCH Dinkerbells,Barb LeBlanc,Jena Hill,Connie Kannarr,Francine Pearce,1,15
-16626,6,2025-09-24,LOCH In A Pickle,LOCH Dinkerbells,DEFAULT,DEFAULT,Kathy R Painter,Susan Larson Frazier,0,15
-16626,7,2025-09-24,LOCH In A Pickle,LOCH Dinkerbells,Susan Wisdom,Susan Hoffman,Connie Kannarr,Francine Pearce,1,15
-16626,8,2025-09-24,LOCH In A Pickle,LOCH Dinkerbells,Barb LeBlanc,Jena Hill,Kathy R Painter,Susan Larson Frazier,16,14
-16626,9,2025-09-24,LOCH In A Pickle,LOCH Dinkerbells,DEFAULT,DEFAULT,Amy S Fisher,Pam Hunter,0,15
-16650,1,2025-10-01,12OAKS Volley Llama Mamas,LOCH Dinkerbells,Linda Day Colgan,Jacqueline Jett,Bobbi Bell,Jenny Mattingly,7,15
-16650,2,2025-10-01,12OAKS Volley Llama Mamas,LOCH Dinkerbells,Suzette Ward,Dee Murray,Pam Hunter,Amy S Fisher,8,15
-16650,3,2025-10-01,12OAKS Volley Llama Mamas,LOCH Dinkerbells,Lori Nichols,Amy Smith,Susan Larson Frazier,Kathy R Painter,15,7
-16650,4,2025-10-01,12OAKS Volley Llama Mamas,LOCH Dinkerbells,Linda Day Colgan,Jacqueline Jett,Pam Hunter,Amy S Fisher,15,8
-16650,5,2025-10-01,12OAKS Volley Llama Mamas,LOCH Dinkerbells,Suzette Ward,Dee Murray,Susan Larson Frazier,Kathy R Painter,13,15
-16650,6,2025-10-01,12OAKS Volley Llama Mamas,LOCH Dinkerbells,Lori Nichols,Amy Smith,Bobbi Bell,Jenny Mattingly,15,14
-16650,7,2025-10-01,12OAKS Volley Llama Mamas,LOCH Dinkerbells,Linda Day Colgan,Jacqueline Jett,Susan Larson Frazier,Kathy R Painter,15,6
-16650,8,2025-10-01,12OAKS Volley Llama Mamas,LOCH Dinkerbells,Suzette Ward,Dee Murray,Bobbi Bell,Jenny Mattingly,15,13
-16650,9,2025-10-01,12OAKS Volley Llama Mamas,LOCH Dinkerbells,Lori Nichols,Amy Smith,Pam Hunter,Amy S Fisher,15,6
-16660,1,2025-10-05,LOCH In A Pickle,LOCH Dinkerbells,Susan G Coulter,Elly Siggins,Pam Hunter,Amy S Fisher,4,15
-16660,2,2025-10-05,LOCH In A Pickle,LOCH Dinkerbells,Camille Lewis,Barb LeBlanc,Jenny Mattingly,Bobbi Bell,8,15
-16660,3,2025-10-05,LOCH In A Pickle,LOCH Dinkerbells,DEFAULT,DEFAULT,Francine Pearce,Connie Kannarr,0,15
-16660,4,2025-10-05,LOCH In A Pickle,LOCH Dinkerbells,Susan G Coulter,Elly Siggins,Jenny Mattingly,Bobbi Bell,7,15
-16660,5,2025-10-05,LOCH In A Pickle,LOCH Dinkerbells,Camille Lewis,Barb LeBlanc,Francine Pearce,Connie Kannarr,9,15
-16660,6,2025-10-05,LOCH In A Pickle,LOCH Dinkerbells,DEFAULT,DEFAULT,Pam Hunter,Amy S Fisher,0,15
-16660,7,2025-10-05,LOCH In A Pickle,LOCH Dinkerbells,Susan G Coulter,Elly Siggins,Francine Pearce,Connie Kannarr,13,15
-16660,8,2025-10-05,LOCH In A Pickle,LOCH Dinkerbells,Camille Lewis,Barb LeBlanc,Pam Hunter,Amy S Fisher,8,15
-16660,9,2025-10-05,LOCH In A Pickle,LOCH Dinkerbells,DEFAULT,DEFAULT,Jenny Mattingly,Bobbi Bell,0,15
-16675,1,2025-10-08,LOCH In A Pickle,12OAKS Volley Llama Mamas,Jennifer Dulin,Camille Lewis,Lou Brooks,Lori Nichols,2,15
-16675,2,2025-10-08,LOCH In A Pickle,12OAKS Volley Llama Mamas,Elly Siggins,Susan G Coulter,Jan Faulkner,Peggy Smith,13,15
-16675,3,2025-10-08,LOCH In A Pickle,12OAKS Volley Llama Mamas,Susan Wisdom,Jena Hill,Christine Tyner,Suzette Ward,1,15
-16675,4,2025-10-08,LOCH In A Pickle,12OAKS Volley Llama Mamas,Jennifer Dulin,Camille Lewis,Jan Faulkner,Peggy Smith,6,15
-16675,5,2025-10-08,LOCH In A Pickle,12OAKS Volley Llama Mamas,Elly Siggins,Susan G Coulter,Christine Tyner,Suzette Ward,1,15
-16675,6,2025-10-08,LOCH In A Pickle,12OAKS Volley Llama Mamas,Susan Wisdom,Jena Hill,Lou Brooks,Lori Nichols,2,15
-16675,7,2025-10-08,LOCH In A Pickle,12OAKS Volley Llama Mamas,Jennifer Dulin,Camille Lewis,Christine Tyner,Suzette Ward,2,15
-16675,8,2025-10-08,LOCH In A Pickle,12OAKS Volley Llama Mamas,Elly Siggins,Susan G Coulter,Lou Brooks,Lori Nichols,7,15
-16675,9,2025-10-08,LOCH In A Pickle,12OAKS Volley Llama Mamas,Susan Wisdom,Jena Hill,Jan Faulkner,Peggy Smith,5,15
-16701,1,2025-10-15,LOCH Dinkerbells,LOCH In A Pickle,Susan Larson Frazier,Kathy R Painter,Zubeda Paruk,Stacey Stallard Shaughnessy,15,2
-16701,2,2025-10-15,LOCH Dinkerbells,LOCH In A Pickle,Pam Hunter,Amy S Fisher,Susan Wisdom,Susan Hoffman,15,0
-16701,3,2025-10-15,LOCH Dinkerbells,LOCH In A Pickle,Connie Kannarr,Francine Pearce,Camille Lewis,Anita Pantera Prevost,15,6
-16701,4,2025-10-15,LOCH Dinkerbells,LOCH In A Pickle,Susan Larson Frazier,Kathy R Painter,Susan Wisdom,Susan Hoffman,15,7
-16701,5,2025-10-15,LOCH Dinkerbells,LOCH In A Pickle,Pam Hunter,Amy S Fisher,Camille Lewis,Anita Pantera Prevost,15,6
-16701,6,2025-10-15,LOCH Dinkerbells,LOCH In A Pickle,Connie Kannarr,Francine Pearce,Zubeda Paruk,Stacey Stallard Shaughnessy,15,3
-16701,7,2025-10-15,LOCH Dinkerbells,LOCH In A Pickle,Susan Larson Frazier,Kathy R Painter,Camille Lewis,Anita Pantera Prevost,15,6
-16701,8,2025-10-15,LOCH Dinkerbells,LOCH In A Pickle,Pam Hunter,Amy S Fisher,Zubeda Paruk,Stacey Stallard Shaughnessy,15,9
-16701,9,2025-10-15,LOCH Dinkerbells,LOCH In A Pickle,Connie Kannarr,Francine Pearce,Susan Wisdom,Susan Hoffman,15,2
-16723,1,2025-10-22,LOCH Dinkerbells,12OAKS Volley Llama Mamas,Jenny Mattingly,Bobbi Bell,Kristine Bachstein,Francie P Heckner,15,6
-16723,2,2025-10-22,LOCH Dinkerbells,12OAKS Volley Llama Mamas,Kathy R Painter,Susan Larson Frazier,Peggy Smith,Ellen Polk,6,15
-16723,3,2025-10-22,LOCH Dinkerbells,12OAKS Volley Llama Mamas,Amy S Fisher,Pam Hunter,Christine Tyner,Amy Smith,8,15
-16723,4,2025-10-22,LOCH Dinkerbells,12OAKS Volley Llama Mamas,Jenny Mattingly,Bobbi Bell,Peggy Smith,Ellen Polk,15,4
-16723,5,2025-10-22,LOCH Dinkerbells,12OAKS Volley Llama Mamas,Kathy R Painter,Susan Larson Frazier,Christine Tyner,Amy Smith,3,15
-16723,6,2025-10-22,LOCH Dinkerbells,12OAKS Volley Llama Mamas,Amy S Fisher,Pam Hunter,Kristine Bachstein,Francie P Heckner,8,15
-16723,7,2025-10-22,LOCH Dinkerbells,12OAKS Volley Llama Mamas,Jenny Mattingly,Bobbi Bell,Christine Tyner,Amy Smith,4,15
-16723,8,2025-10-22,LOCH Dinkerbells,12OAKS Volley Llama Mamas,Kathy R Painter,Susan Larson Frazier,Kristine Bachstein,Francie P Heckner,14,16
-16723,9,2025-10-22,LOCH Dinkerbells,12OAKS Volley Llama Mamas,Amy S Fisher,Pam Hunter,Peggy Smith,Ellen Polk,10,15
-16744,1,2025-10-29,12OAKS Volley Llama Mamas,LOCH In A Pickle,Dee Murray,Suzette Ward,Zubeda Paruk,Camille Lewis,15,12
-16744,2,2025-10-29,12OAKS Volley Llama Mamas,LOCH In A Pickle,Kristine Bachstein,Lori Nichols,Susan G Coulter,Pat Anastasio,15,3
-16744,3,2025-10-29,12OAKS Volley Llama Mamas,LOCH In A Pickle,Linda Day Colgan,Ellen Polk,Susan Hoffman,Susan Wisdom,15,3
-16744,4,2025-10-29,12OAKS Volley Llama Mamas,LOCH In A Pickle,Dee Murray,Suzette Ward,Susan G Coulter,Pat Anastasio,15,4
-16744,5,2025-10-29,12OAKS Volley Llama Mamas,LOCH In A Pickle,Kristine Bachstein,Lori Nichols,Susan Hoffman,Susan Wisdom,15,2
-16744,6,2025-10-29,12OAKS Volley Llama Mamas,LOCH In A Pickle,Linda Day Colgan,Ellen Polk,Zubeda Paruk,Camille Lewis,15,9
-16744,7,2025-10-29,12OAKS Volley Llama Mamas,LOCH In A Pickle,Dee Murray,Suzette Ward,Susan Hoffman,Susan Wisdom,15,0
-16744,8,2025-10-29,12OAKS Volley Llama Mamas,LOCH In A Pickle,Kristine Bachstein,Lori Nichols,Zubeda Paruk,Camille Lewis,15,13
-16744,9,2025-10-29,12OAKS Volley Llama Mamas,LOCH In A Pickle,Linda Day Colgan,Ellen Polk,Susan G Coulter,Pat Anastasio,15,5
-16756,1,2025-11-08,12OAKS Volley Llama Mamas,LOCH Dinkerbells,Kristine Bachstein,Lori Nichols,Amy S Fisher,Pam Hunter,15,9
-16756,2,2025-11-08,12OAKS Volley Llama Mamas,LOCH Dinkerbells,Suzette Ward,Jacqueline Jett,Beverly Broslawsky,Christie Benjamin,8,15
-16756,3,2025-11-08,12OAKS Volley Llama Mamas,LOCH Dinkerbells,Linda Day Colgan,Ellen Polk,Bobbi Bell,Connie Kannarr,9,15
-16756,4,2025-11-08,12OAKS Volley Llama Mamas,LOCH Dinkerbells,Kristine Bachstein,Lori Nichols,Beverly Broslawsky,Christie Benjamin,9,15
-16756,5,2025-11-08,12OAKS Volley Llama Mamas,LOCH Dinkerbells,Suzette Ward,Jacqueline Jett,Bobbi Bell,Connie Kannarr,15,11
-16756,6,2025-11-08,12OAKS Volley Llama Mamas,LOCH Dinkerbells,Linda Day Colgan,Ellen Polk,Amy S Fisher,Pam Hunter,15,1
-16756,7,2025-11-08,12OAKS Volley Llama Mamas,LOCH Dinkerbells,Kristine Bachstein,Lori Nichols,Bobbi Bell,Connie Kannarr,13,15
-16756,8,2025-11-08,12OAKS Volley Llama Mamas,LOCH Dinkerbells,Suzette Ward,Jacqueline Jett,Amy S Fisher,Pam Hunter,15,1
-16756,9,2025-11-08,12OAKS Volley Llama Mamas,LOCH Dinkerbells,Linda Day Colgan,Ellen Polk,Beverly Broslawsky,Christie Benjamin,6,15
+match_id,game_id,match_date,league,season,skill_level,age,gender,team1_name,team2_name,partner1,partner2,opponent1,opponent2,team1_points,team2_points
+16522,1,2025-08-20,cary,fall2025,lowintermediate,50,women,12OAKS Volley Llama Mamas,LOCH Dinkerbells,Kristine Bachstein,Lou Brooks,Christie Benjamin,Beverly Broslawsky,13,15
+16522,2,2025-08-20,cary,fall2025,lowintermediate,50,women,12OAKS Volley Llama Mamas,LOCH Dinkerbells,Linda Day Colgan,Amy Smith,Connie Kannarr,Pam Hunter,15,5
+16522,3,2025-08-20,cary,fall2025,lowintermediate,50,women,12OAKS Volley Llama Mamas,LOCH Dinkerbells,Jacqueline Jett,Lori Nichols,Francine Pearce,Jenny Mattingly,15,9
+16522,4,2025-08-20,cary,fall2025,lowintermediate,50,women,12OAKS Volley Llama Mamas,LOCH Dinkerbells,Kristine Bachstein,Lou Brooks,Connie Kannarr,Pam Hunter,15,9
+16522,5,2025-08-20,cary,fall2025,lowintermediate,50,women,12OAKS Volley Llama Mamas,LOCH Dinkerbells,Linda Day Colgan,Amy Smith,Francine Pearce,Jenny Mattingly,15,0
+16522,6,2025-08-20,cary,fall2025,lowintermediate,50,women,12OAKS Volley Llama Mamas,LOCH Dinkerbells,Jacqueline Jett,Lori Nichols,Christie Benjamin,Beverly Broslawsky,7,15
+16522,7,2025-08-20,cary,fall2025,lowintermediate,50,women,12OAKS Volley Llama Mamas,LOCH Dinkerbells,Kristine Bachstein,Lou Brooks,Francine Pearce,Jenny Mattingly,15,10
+16522,8,2025-08-20,cary,fall2025,lowintermediate,50,women,12OAKS Volley Llama Mamas,LOCH Dinkerbells,Linda Day Colgan,Amy Smith,Christie Benjamin,Beverly Broslawsky,10,15
+16522,9,2025-08-20,cary,fall2025,lowintermediate,50,women,12OAKS Volley Llama Mamas,LOCH Dinkerbells,Jacqueline Jett,Lori Nichols,Connie Kannarr,Pam Hunter,15,4
+16547,1,2025-08-27,cary,fall2025,lowintermediate,50,women,LOCH In A Pickle,12OAKS Volley Llama Mamas,Lisa Casassa,Pat Anastasio,Jan Faulkner,Suzette Ward,12,15
+16547,2,2025-08-27,cary,fall2025,lowintermediate,50,women,LOCH In A Pickle,12OAKS Volley Llama Mamas,Anita Pantera Prevost,Stacey Stallard Shaughnessy,Ellen Polk,Peggy Smith,5,15
+16547,3,2025-08-27,cary,fall2025,lowintermediate,50,women,LOCH In A Pickle,12OAKS Volley Llama Mamas,Susan G Coulter,Susan Hoffman,Christine Tyner,Francie P Heckner,5,15
+16547,4,2025-08-27,cary,fall2025,lowintermediate,50,women,LOCH In A Pickle,12OAKS Volley Llama Mamas,Lisa Casassa,Pat Anastasio,Ellen Polk,Peggy Smith,4,15
+16547,5,2025-08-27,cary,fall2025,lowintermediate,50,women,LOCH In A Pickle,12OAKS Volley Llama Mamas,Anita Pantera Prevost,Stacey Stallard Shaughnessy,Christine Tyner,Francie P Heckner,3,15
+16547,6,2025-08-27,cary,fall2025,lowintermediate,50,women,LOCH In A Pickle,12OAKS Volley Llama Mamas,Susan G Coulter,Susan Hoffman,Jan Faulkner,Suzette Ward,4,15
+16547,7,2025-08-27,cary,fall2025,lowintermediate,50,women,LOCH In A Pickle,12OAKS Volley Llama Mamas,Lisa Casassa,Pat Anastasio,Christine Tyner,Francie P Heckner,10,15
+16547,8,2025-08-27,cary,fall2025,lowintermediate,50,women,LOCH In A Pickle,12OAKS Volley Llama Mamas,Anita Pantera Prevost,Stacey Stallard Shaughnessy,Jan Faulkner,Suzette Ward,11,15
+16547,9,2025-08-27,cary,fall2025,lowintermediate,50,women,LOCH In A Pickle,12OAKS Volley Llama Mamas,Susan G Coulter,Susan Hoffman,Ellen Polk,Peggy Smith,4,15
+16556,1,2025-09-03,cary,fall2025,lowintermediate,50,women,LOCH Dinkerbells,LOCH In A Pickle,Amy S Fisher,Pam Hunter,Elly Siggins,Susan Wisdom,15,1
+16556,2,2025-09-03,cary,fall2025,lowintermediate,50,women,LOCH Dinkerbells,LOCH In A Pickle,Beverly Broslawsky,Christie Benjamin,Jena Hill,Jennifer Dulin,15,1
+16556,3,2025-09-03,cary,fall2025,lowintermediate,50,women,LOCH Dinkerbells,LOCH In A Pickle,Kathy R Painter,Susan Larson Frazier,Lisa Casassa,Camille Lewis,15,9
+16556,4,2025-09-03,cary,fall2025,lowintermediate,50,women,LOCH Dinkerbells,LOCH In A Pickle,Amy S Fisher,Pam Hunter,Jena Hill,Jennifer Dulin,15,0
+16556,5,2025-09-03,cary,fall2025,lowintermediate,50,women,LOCH Dinkerbells,LOCH In A Pickle,Beverly Broslawsky,Christie Benjamin,Lisa Casassa,Camille Lewis,15,4
+16556,6,2025-09-03,cary,fall2025,lowintermediate,50,women,LOCH Dinkerbells,LOCH In A Pickle,Kathy R Painter,Susan Larson Frazier,Elly Siggins,Susan Wisdom,15,10
+16556,7,2025-09-03,cary,fall2025,lowintermediate,50,women,LOCH Dinkerbells,LOCH In A Pickle,Amy S Fisher,Pam Hunter,Lisa Casassa,Camille Lewis,15,7
+16556,8,2025-09-03,cary,fall2025,lowintermediate,50,women,LOCH Dinkerbells,LOCH In A Pickle,Beverly Broslawsky,Christie Benjamin,Elly Siggins,Susan Wisdom,15,5
+16556,9,2025-09-03,cary,fall2025,lowintermediate,50,women,LOCH Dinkerbells,LOCH In A Pickle,Kathy R Painter,Susan Larson Frazier,Jena Hill,Jennifer Dulin,15,2
+16578,1,2025-09-10,cary,fall2025,lowintermediate,50,women,LOCH Dinkerbells,12OAKS Volley Llama Mamas,Bobbi Bell,Jenny Mattingly,Dee Murray,Kristine Bachstein,15,9
+16578,2,2025-09-10,cary,fall2025,lowintermediate,50,women,LOCH Dinkerbells,12OAKS Volley Llama Mamas,Beverly Broslawsky,Christie Benjamin,Jacqueline Jett,Lori Nichols,15,8
+16578,3,2025-09-10,cary,fall2025,lowintermediate,50,women,LOCH Dinkerbells,12OAKS Volley Llama Mamas,Connie Kannarr,Francine Pearce,Linda Day Colgan,Amy Smith,7,15
+16578,4,2025-09-10,cary,fall2025,lowintermediate,50,women,LOCH Dinkerbells,12OAKS Volley Llama Mamas,Bobbi Bell,Jenny Mattingly,Jacqueline Jett,Lori Nichols,7,15
+16578,5,2025-09-10,cary,fall2025,lowintermediate,50,women,LOCH Dinkerbells,12OAKS Volley Llama Mamas,Beverly Broslawsky,Christie Benjamin,Linda Day Colgan,Amy Smith,15,8
+16578,6,2025-09-10,cary,fall2025,lowintermediate,50,women,LOCH Dinkerbells,12OAKS Volley Llama Mamas,Connie Kannarr,Francine Pearce,Dee Murray,Kristine Bachstein,15,3
+16578,7,2025-09-10,cary,fall2025,lowintermediate,50,women,LOCH Dinkerbells,12OAKS Volley Llama Mamas,Bobbi Bell,Jenny Mattingly,Linda Day Colgan,Amy Smith,15,5
+16578,8,2025-09-10,cary,fall2025,lowintermediate,50,women,LOCH Dinkerbells,12OAKS Volley Llama Mamas,Beverly Broslawsky,Christie Benjamin,Dee Murray,Kristine Bachstein,15,7
+16578,9,2025-09-10,cary,fall2025,lowintermediate,50,women,LOCH Dinkerbells,12OAKS Volley Llama Mamas,Connie Kannarr,Francine Pearce,Jacqueline Jett,Lori Nichols,6,15
+16603,1,2025-09-17,cary,fall2025,lowintermediate,50,women,12OAKS Volley Llama Mamas,LOCH In A Pickle,Lou Brooks,Kristine Bachstein,Elly Siggins,Susan Hoffman,15,8
+16603,2,2025-09-17,cary,fall2025,lowintermediate,50,women,12OAKS Volley Llama Mamas,LOCH In A Pickle,Jan Faulkner,Suzette Ward,Susan G Coulter,Pat Anastasio,15,6
+16603,3,2025-09-17,cary,fall2025,lowintermediate,50,women,12OAKS Volley Llama Mamas,LOCH In A Pickle,Ellen Polk,Peggy Smith,Barb LeBlanc,Lisa Casassa,15,9
+16603,4,2025-09-17,cary,fall2025,lowintermediate,50,women,12OAKS Volley Llama Mamas,LOCH In A Pickle,Lou Brooks,Kristine Bachstein,Susan G Coulter,Pat Anastasio,15,1
+16603,5,2025-09-17,cary,fall2025,lowintermediate,50,women,12OAKS Volley Llama Mamas,LOCH In A Pickle,Jan Faulkner,Suzette Ward,Barb LeBlanc,Lisa Casassa,15,13
+16603,6,2025-09-17,cary,fall2025,lowintermediate,50,women,12OAKS Volley Llama Mamas,LOCH In A Pickle,Ellen Polk,Peggy Smith,Elly Siggins,Susan Hoffman,15,2
+16603,7,2025-09-17,cary,fall2025,lowintermediate,50,women,12OAKS Volley Llama Mamas,LOCH In A Pickle,Lou Brooks,Kristine Bachstein,Barb LeBlanc,Lisa Casassa,15,4
+16603,8,2025-09-17,cary,fall2025,lowintermediate,50,women,12OAKS Volley Llama Mamas,LOCH In A Pickle,Jan Faulkner,Suzette Ward,Elly Siggins,Susan Hoffman,15,3
+16603,9,2025-09-17,cary,fall2025,lowintermediate,50,women,12OAKS Volley Llama Mamas,LOCH In A Pickle,Ellen Polk,Peggy Smith,Susan G Coulter,Pat Anastasio,15,6
+16626,1,2025-09-24,cary,fall2025,lowintermediate,50,women,LOCH In A Pickle,LOCH Dinkerbells,Susan Wisdom,Susan Hoffman,Kathy R Painter,Susan Larson Frazier,3,15
+16626,2,2025-09-24,cary,fall2025,lowintermediate,50,women,LOCH In A Pickle,LOCH Dinkerbells,Barb LeBlanc,Jena Hill,Amy S Fisher,Pam Hunter,1,15
+16626,3,2025-09-24,cary,fall2025,lowintermediate,50,women,LOCH In A Pickle,LOCH Dinkerbells,DEFAULT,DEFAULT,Connie Kannarr,Francine Pearce,0,15
+16626,4,2025-09-24,cary,fall2025,lowintermediate,50,women,LOCH In A Pickle,LOCH Dinkerbells,Susan Wisdom,Susan Hoffman,Amy S Fisher,Pam Hunter,0,15
+16626,5,2025-09-24,cary,fall2025,lowintermediate,50,women,LOCH In A Pickle,LOCH Dinkerbells,Barb LeBlanc,Jena Hill,Connie Kannarr,Francine Pearce,1,15
+16626,6,2025-09-24,cary,fall2025,lowintermediate,50,women,LOCH In A Pickle,LOCH Dinkerbells,DEFAULT,DEFAULT,Kathy R Painter,Susan Larson Frazier,0,15
+16626,7,2025-09-24,cary,fall2025,lowintermediate,50,women,LOCH In A Pickle,LOCH Dinkerbells,Susan Wisdom,Susan Hoffman,Connie Kannarr,Francine Pearce,1,15
+16626,8,2025-09-24,cary,fall2025,lowintermediate,50,women,LOCH In A Pickle,LOCH Dinkerbells,Barb LeBlanc,Jena Hill,Kathy R Painter,Susan Larson Frazier,16,14
+16626,9,2025-09-24,cary,fall2025,lowintermediate,50,women,LOCH In A Pickle,LOCH Dinkerbells,DEFAULT,DEFAULT,Amy S Fisher,Pam Hunter,0,15
+16650,1,2025-10-01,cary,fall2025,lowintermediate,50,women,12OAKS Volley Llama Mamas,LOCH Dinkerbells,Linda Day Colgan,Jacqueline Jett,Bobbi Bell,Jenny Mattingly,7,15
+16650,2,2025-10-01,cary,fall2025,lowintermediate,50,women,12OAKS Volley Llama Mamas,LOCH Dinkerbells,Suzette Ward,Dee Murray,Pam Hunter,Amy S Fisher,8,15
+16650,3,2025-10-01,cary,fall2025,lowintermediate,50,women,12OAKS Volley Llama Mamas,LOCH Dinkerbells,Lori Nichols,Amy Smith,Susan Larson Frazier,Kathy R Painter,15,7
+16650,4,2025-10-01,cary,fall2025,lowintermediate,50,women,12OAKS Volley Llama Mamas,LOCH Dinkerbells,Linda Day Colgan,Jacqueline Jett,Pam Hunter,Amy S Fisher,15,8
+16650,5,2025-10-01,cary,fall2025,lowintermediate,50,women,12OAKS Volley Llama Mamas,LOCH Dinkerbells,Suzette Ward,Dee Murray,Susan Larson Frazier,Kathy R Painter,13,15
+16650,6,2025-10-01,cary,fall2025,lowintermediate,50,women,12OAKS Volley Llama Mamas,LOCH Dinkerbells,Lori Nichols,Amy Smith,Bobbi Bell,Jenny Mattingly,15,14
+16650,7,2025-10-01,cary,fall2025,lowintermediate,50,women,12OAKS Volley Llama Mamas,LOCH Dinkerbells,Linda Day Colgan,Jacqueline Jett,Susan Larson Frazier,Kathy R Painter,15,6
+16650,8,2025-10-01,cary,fall2025,lowintermediate,50,women,12OAKS Volley Llama Mamas,LOCH Dinkerbells,Suzette Ward,Dee Murray,Bobbi Bell,Jenny Mattingly,15,13
+16650,9,2025-10-01,cary,fall2025,lowintermediate,50,women,12OAKS Volley Llama Mamas,LOCH Dinkerbells,Lori Nichols,Amy Smith,Pam Hunter,Amy S Fisher,15,6
+16660,1,2025-10-05,cary,fall2025,lowintermediate,50,women,LOCH In A Pickle,LOCH Dinkerbells,Susan G Coulter,Elly Siggins,Pam Hunter,Amy S Fisher,4,15
+16660,2,2025-10-05,cary,fall2025,lowintermediate,50,women,LOCH In A Pickle,LOCH Dinkerbells,Camille Lewis,Barb LeBlanc,Jenny Mattingly,Bobbi Bell,8,15
+16660,3,2025-10-05,cary,fall2025,lowintermediate,50,women,LOCH In A Pickle,LOCH Dinkerbells,DEFAULT,DEFAULT,Francine Pearce,Connie Kannarr,0,15
+16660,4,2025-10-05,cary,fall2025,lowintermediate,50,women,LOCH In A Pickle,LOCH Dinkerbells,Susan G Coulter,Elly Siggins,Jenny Mattingly,Bobbi Bell,7,15
+16660,5,2025-10-05,cary,fall2025,lowintermediate,50,women,LOCH In A Pickle,LOCH Dinkerbells,Camille Lewis,Barb LeBlanc,Francine Pearce,Connie Kannarr,9,15
+16660,6,2025-10-05,cary,fall2025,lowintermediate,50,women,LOCH In A Pickle,LOCH Dinkerbells,DEFAULT,DEFAULT,Pam Hunter,Amy S Fisher,0,15
+16660,7,2025-10-05,cary,fall2025,lowintermediate,50,women,LOCH In A Pickle,LOCH Dinkerbells,Susan G Coulter,Elly Siggins,Francine Pearce,Connie Kannarr,13,15
+16660,8,2025-10-05,cary,fall2025,lowintermediate,50,women,LOCH In A Pickle,LOCH Dinkerbells,Camille Lewis,Barb LeBlanc,Pam Hunter,Amy S Fisher,8,15
+16660,9,2025-10-05,cary,fall2025,lowintermediate,50,women,LOCH In A Pickle,LOCH Dinkerbells,DEFAULT,DEFAULT,Jenny Mattingly,Bobbi Bell,0,15
+16675,1,2025-10-08,cary,fall2025,lowintermediate,50,women,LOCH In A Pickle,12OAKS Volley Llama Mamas,Jennifer Dulin,Camille Lewis,Lou Brooks,Lori Nichols,2,15
+16675,2,2025-10-08,cary,fall2025,lowintermediate,50,women,LOCH In A Pickle,12OAKS Volley Llama Mamas,Elly Siggins,Susan G Coulter,Jan Faulkner,Peggy Smith,13,15
+16675,3,2025-10-08,cary,fall2025,lowintermediate,50,women,LOCH In A Pickle,12OAKS Volley Llama Mamas,Susan Wisdom,Jena Hill,Christine Tyner,Suzette Ward,1,15
+16675,4,2025-10-08,cary,fall2025,lowintermediate,50,women,LOCH In A Pickle,12OAKS Volley Llama Mamas,Jennifer Dulin,Camille Lewis,Jan Faulkner,Peggy Smith,6,15
+16675,5,2025-10-08,cary,fall2025,lowintermediate,50,women,LOCH In A Pickle,12OAKS Volley Llama Mamas,Elly Siggins,Susan G Coulter,Christine Tyner,Suzette Ward,1,15
+16675,6,2025-10-08,cary,fall2025,lowintermediate,50,women,LOCH In A Pickle,12OAKS Volley Llama Mamas,Susan Wisdom,Jena Hill,Lou Brooks,Lori Nichols,2,15
+16675,7,2025-10-08,cary,fall2025,lowintermediate,50,women,LOCH In A Pickle,12OAKS Volley Llama Mamas,Jennifer Dulin,Camille Lewis,Christine Tyner,Suzette Ward,2,15
+16675,8,2025-10-08,cary,fall2025,lowintermediate,50,women,LOCH In A Pickle,12OAKS Volley Llama Mamas,Elly Siggins,Susan G Coulter,Lou Brooks,Lori Nichols,7,15
+16675,9,2025-10-08,cary,fall2025,lowintermediate,50,women,LOCH In A Pickle,12OAKS Volley Llama Mamas,Susan Wisdom,Jena Hill,Jan Faulkner,Peggy Smith,5,15
+16701,1,2025-10-15,cary,fall2025,lowintermediate,50,women,LOCH Dinkerbells,LOCH In A Pickle,Susan Larson Frazier,Kathy R Painter,Zubeda Paruk,Stacey Stallard Shaughnessy,15,2
+16701,2,2025-10-15,cary,fall2025,lowintermediate,50,women,LOCH Dinkerbells,LOCH In A Pickle,Pam Hunter,Amy S Fisher,Susan Wisdom,Susan Hoffman,15,0
+16701,3,2025-10-15,cary,fall2025,lowintermediate,50,women,LOCH Dinkerbells,LOCH In A Pickle,Connie Kannarr,Francine Pearce,Camille Lewis,Anita Pantera Prevost,15,6
+16701,4,2025-10-15,cary,fall2025,lowintermediate,50,women,LOCH Dinkerbells,LOCH In A Pickle,Susan Larson Frazier,Kathy R Painter,Susan Wisdom,Susan Hoffman,15,7
+16701,5,2025-10-15,cary,fall2025,lowintermediate,50,women,LOCH Dinkerbells,LOCH In A Pickle,Pam Hunter,Amy S Fisher,Camille Lewis,Anita Pantera Prevost,15,6
+16701,6,2025-10-15,cary,fall2025,lowintermediate,50,women,LOCH Dinkerbells,LOCH In A Pickle,Connie Kannarr,Francine Pearce,Zubeda Paruk,Stacey Stallard Shaughnessy,15,3
+16701,7,2025-10-15,cary,fall2025,lowintermediate,50,women,LOCH Dinkerbells,LOCH In A Pickle,Susan Larson Frazier,Kathy R Painter,Camille Lewis,Anita Pantera Prevost,15,6
+16701,8,2025-10-15,cary,fall2025,lowintermediate,50,women,LOCH Dinkerbells,LOCH In A Pickle,Pam Hunter,Amy S Fisher,Zubeda Paruk,Stacey Stallard Shaughnessy,15,9
+16701,9,2025-10-15,cary,fall2025,lowintermediate,50,women,LOCH Dinkerbells,LOCH In A Pickle,Connie Kannarr,Francine Pearce,Susan Wisdom,Susan Hoffman,15,2
+16723,1,2025-10-22,cary,fall2025,lowintermediate,50,women,LOCH Dinkerbells,12OAKS Volley Llama Mamas,Jenny Mattingly,Bobbi Bell,Kristine Bachstein,Francie P Heckner,15,6
+16723,2,2025-10-22,cary,fall2025,lowintermediate,50,women,LOCH Dinkerbells,12OAKS Volley Llama Mamas,Kathy R Painter,Susan Larson Frazier,Peggy Smith,Ellen Polk,6,15
+16723,3,2025-10-22,cary,fall2025,lowintermediate,50,women,LOCH Dinkerbells,12OAKS Volley Llama Mamas,Amy S Fisher,Pam Hunter,Christine Tyner,Amy Smith,8,15
+16723,4,2025-10-22,cary,fall2025,lowintermediate,50,women,LOCH Dinkerbells,12OAKS Volley Llama Mamas,Jenny Mattingly,Bobbi Bell,Peggy Smith,Ellen Polk,15,4
+16723,5,2025-10-22,cary,fall2025,lowintermediate,50,women,LOCH Dinkerbells,12OAKS Volley Llama Mamas,Kathy R Painter,Susan Larson Frazier,Christine Tyner,Amy Smith,3,15
+16723,6,2025-10-22,cary,fall2025,lowintermediate,50,women,LOCH Dinkerbells,12OAKS Volley Llama Mamas,Amy S Fisher,Pam Hunter,Kristine Bachstein,Francie P Heckner,8,15
+16723,7,2025-10-22,cary,fall2025,lowintermediate,50,women,LOCH Dinkerbells,12OAKS Volley Llama Mamas,Jenny Mattingly,Bobbi Bell,Christine Tyner,Amy Smith,4,15
+16723,8,2025-10-22,cary,fall2025,lowintermediate,50,women,LOCH Dinkerbells,12OAKS Volley Llama Mamas,Kathy R Painter,Susan Larson Frazier,Kristine Bachstein,Francie P Heckner,14,16
+16723,9,2025-10-22,cary,fall2025,lowintermediate,50,women,LOCH Dinkerbells,12OAKS Volley Llama Mamas,Amy S Fisher,Pam Hunter,Peggy Smith,Ellen Polk,10,15
+16744,1,2025-10-29,cary,fall2025,lowintermediate,50,women,12OAKS Volley Llama Mamas,LOCH In A Pickle,Dee Murray,Suzette Ward,Zubeda Paruk,Camille Lewis,15,12
+16744,2,2025-10-29,cary,fall2025,lowintermediate,50,women,12OAKS Volley Llama Mamas,LOCH In A Pickle,Kristine Bachstein,Lori Nichols,Susan G Coulter,Pat Anastasio,15,3
+16744,3,2025-10-29,cary,fall2025,lowintermediate,50,women,12OAKS Volley Llama Mamas,LOCH In A Pickle,Linda Day Colgan,Ellen Polk,Susan Hoffman,Susan Wisdom,15,3
+16744,4,2025-10-29,cary,fall2025,lowintermediate,50,women,12OAKS Volley Llama Mamas,LOCH In A Pickle,Dee Murray,Suzette Ward,Susan G Coulter,Pat Anastasio,15,4
+16744,5,2025-10-29,cary,fall2025,lowintermediate,50,women,12OAKS Volley Llama Mamas,LOCH In A Pickle,Kristine Bachstein,Lori Nichols,Susan Hoffman,Susan Wisdom,15,2
+16744,6,2025-10-29,cary,fall2025,lowintermediate,50,women,12OAKS Volley Llama Mamas,LOCH In A Pickle,Linda Day Colgan,Ellen Polk,Zubeda Paruk,Camille Lewis,15,9
+16744,7,2025-10-29,cary,fall2025,lowintermediate,50,women,12OAKS Volley Llama Mamas,LOCH In A Pickle,Dee Murray,Suzette Ward,Susan Hoffman,Susan Wisdom,15,0
+16744,8,2025-10-29,cary,fall2025,lowintermediate,50,women,12OAKS Volley Llama Mamas,LOCH In A Pickle,Kristine Bachstein,Lori Nichols,Zubeda Paruk,Camille Lewis,15,13
+16744,9,2025-10-29,cary,fall2025,lowintermediate,50,women,12OAKS Volley Llama Mamas,LOCH In A Pickle,Linda Day Colgan,Ellen Polk,Susan G Coulter,Pat Anastasio,15,5
+16756,1,2025-11-08,cary,fall2025,lowintermediate,50,women,12OAKS Volley Llama Mamas,LOCH Dinkerbells,Kristine Bachstein,Lori Nichols,Amy S Fisher,Pam Hunter,15,9
+16756,2,2025-11-08,cary,fall2025,lowintermediate,50,women,12OAKS Volley Llama Mamas,LOCH Dinkerbells,Suzette Ward,Jacqueline Jett,Beverly Broslawsky,Christie Benjamin,8,15
+16756,3,2025-11-08,cary,fall2025,lowintermediate,50,women,12OAKS Volley Llama Mamas,LOCH Dinkerbells,Linda Day Colgan,Ellen Polk,Bobbi Bell,Connie Kannarr,9,15
+16756,4,2025-11-08,cary,fall2025,lowintermediate,50,women,12OAKS Volley Llama Mamas,LOCH Dinkerbells,Kristine Bachstein,Lori Nichols,Beverly Broslawsky,Christie Benjamin,9,15
+16756,5,2025-11-08,cary,fall2025,lowintermediate,50,women,12OAKS Volley Llama Mamas,LOCH Dinkerbells,Suzette Ward,Jacqueline Jett,Bobbi Bell,Connie Kannarr,15,11
+16756,6,2025-11-08,cary,fall2025,lowintermediate,50,women,12OAKS Volley Llama Mamas,LOCH Dinkerbells,Linda Day Colgan,Ellen Polk,Amy S Fisher,Pam Hunter,15,1
+16756,7,2025-11-08,cary,fall2025,lowintermediate,50,women,12OAKS Volley Llama Mamas,LOCH Dinkerbells,Kristine Bachstein,Lori Nichols,Bobbi Bell,Connie Kannarr,13,15
+16756,8,2025-11-08,cary,fall2025,lowintermediate,50,women,12OAKS Volley Llama Mamas,LOCH Dinkerbells,Suzette Ward,Jacqueline Jett,Amy S Fisher,Pam Hunter,15,1
+16756,9,2025-11-08,cary,fall2025,lowintermediate,50,women,12OAKS Volley Llama Mamas,LOCH Dinkerbells,Linda Day Colgan,Ellen Polk,Beverly Broslawsky,Christie Benjamin,6,15

@@ -1,64 +1,64 @@
-match_id,game_id,match_date,team1_name,team2_name,partner1,partner2,opponent1,opponent2,team1_points,team2_points
-17696,1,2025-11-23,CPC Volley Girls,HASEN Hasentree Kitchenettes,Amy E Lowrance,Annette Deck,Jean Miklosko,Michelle Rubin,11,6
-17696,2,2025-11-23,CPC Volley Girls,HASEN Hasentree Kitchenettes,Betsy Faulk,Cris Best,Ann Willard,Michelle Rademann,11,4
-17696,3,2025-11-23,CPC Volley Girls,HASEN Hasentree Kitchenettes,Kimberly Rockenstyre,Cindy Green,Leigh Watson,Pamela Pitre,11,1
-17696,4,2025-11-23,CPC Volley Girls,HASEN Hasentree Kitchenettes,Amy E Lowrance,Annette Deck,Ann Willard,Michelle Rademann,11,8
-17696,5,2025-11-23,CPC Volley Girls,HASEN Hasentree Kitchenettes,Betsy Faulk,Cris Best,Leigh Watson,Pamela Pitre,11,0
-17696,6,2025-11-23,CPC Volley Girls,HASEN Hasentree Kitchenettes,Kimberly Rockenstyre,Cindy Green,Jean Miklosko,Michelle Rubin,2,11
-17696,7,2025-11-23,CPC Volley Girls,HASEN Hasentree Kitchenettes,Amy E Lowrance,Annette Deck,Leigh Watson,Pamela Pitre,11,6
-17696,8,2025-11-23,CPC Volley Girls,HASEN Hasentree Kitchenettes,Betsy Faulk,Cris Best,Jean Miklosko,Michelle Rubin,11,1
-17696,9,2025-11-23,CPC Volley Girls,HASEN Hasentree Kitchenettes,Kimberly Rockenstyre,Cindy Green,Ann Willard,Michelle Rademann,8,11
-17697,1,2025-11-23,NHC North Hills Kitchen,PEAK Pickle and Giggle,Dana Aderhold,Heather Mauzy,Thao LaVoie,Wen Zheng,6,11
-17697,2,2025-11-23,NHC North Hills Kitchen,PEAK Pickle and Giggle,Caroline Monson,Ann Garey,Casey Federovitch,Courtney Anderson,1,11
-17697,3,2025-11-23,NHC North Hills Kitchen,PEAK Pickle and Giggle,Jill Cramer,Bridget Welborn,Vicki Rohde,Anita C Barker,1,11
-17697,4,2025-11-23,NHC North Hills Kitchen,PEAK Pickle and Giggle,Dana Aderhold,Heather Mauzy,Casey Federovitch,Courtney Anderson,1,11
-17697,5,2025-11-23,NHC North Hills Kitchen,PEAK Pickle and Giggle,Caroline Monson,Ann Garey,Vicki Rohde,Anita C Barker,3,11
-17697,6,2025-11-23,NHC North Hills Kitchen,PEAK Pickle and Giggle,Jill Cramer,Bridget Welborn,Thao LaVoie,Wen Zheng,1,11
-17697,7,2025-11-23,NHC North Hills Kitchen,PEAK Pickle and Giggle,Dana Aderhold,Heather Mauzy,Vicki Rohde,Anita C Barker,6,11
-17697,8,2025-11-23,NHC North Hills Kitchen,PEAK Pickle and Giggle,Caroline Monson,Ann Garey,Thao LaVoie,Wen Zheng,6,11
-17697,9,2025-11-23,NHC North Hills Kitchen,PEAK Pickle and Giggle,Jill Cramer,Bridget Welborn,Casey Federovitch,Courtney Anderson,8,11
-17704,1,2025-11-23,HASEN Hasentree Kitchenettes,NHC North Hills Kitchen,Jean Miklosko,Mary Ramsey,Dana Aderhold,Heather Mauzy,6,11
-17704,2,2025-11-23,HASEN Hasentree Kitchenettes,NHC North Hills Kitchen,Michelle Rademann,Melinda White Coutts,Caroline Monson,AnneElizabeth Harrell,11,2
-17704,3,2025-11-23,HASEN Hasentree Kitchenettes,NHC North Hills Kitchen,Jade Paunovich,Julie Shuey,Ann Garey,Bridget Welborn,11,8
-17704,4,2025-11-23,HASEN Hasentree Kitchenettes,NHC North Hills Kitchen,Jean Miklosko,Mary Ramsey,Caroline Monson,AnneElizabeth Harrell,5,11
-17704,5,2025-11-23,HASEN Hasentree Kitchenettes,NHC North Hills Kitchen,Michelle Rademann,Melinda White Coutts,Ann Garey,Bridget Welborn,11,5
-17704,6,2025-11-23,HASEN Hasentree Kitchenettes,NHC North Hills Kitchen,Jade Paunovich,Julie Shuey,Dana Aderhold,Heather Mauzy,6,11
-17704,7,2025-11-23,HASEN Hasentree Kitchenettes,NHC North Hills Kitchen,Jean Miklosko,Mary Ramsey,Ann Garey,Bridget Welborn,11,5
-17704,8,2025-11-23,HASEN Hasentree Kitchenettes,NHC North Hills Kitchen,Michelle Rademann,Melinda White Coutts,Dana Aderhold,Heather Mauzy,13,11
-17704,9,2025-11-23,HASEN Hasentree Kitchenettes,NHC North Hills Kitchen,Jade Paunovich,Julie Shuey,Caroline Monson,AnneElizabeth Harrell,8,11
-17705,1,2025-11-23,PEAK Pickle and Giggle,CPC Volley Girls,Thao LaVoie,Cheryl Y Whitney,Amy E Lowrance,Annette Deck,11,7
-17705,2,2025-11-23,PEAK Pickle and Giggle,CPC Volley Girls,Casey Federovitch,Courtney Anderson,Betsy Faulk,Cris Best,11,5
-17705,3,2025-11-23,PEAK Pickle and Giggle,CPC Volley Girls,Vicki Rohde,Anita C Barker,Kimberly Rockenstyre,Cindy Green,11,1
-17705,4,2025-11-23,PEAK Pickle and Giggle,CPC Volley Girls,Thao LaVoie,Cheryl Y Whitney,Betsy Faulk,Cris Best,6,11
-17705,5,2025-11-23,PEAK Pickle and Giggle,CPC Volley Girls,Casey Federovitch,Courtney Anderson,Kimberly Rockenstyre,Cindy Green,11,1
-17705,6,2025-11-23,PEAK Pickle and Giggle,CPC Volley Girls,Vicki Rohde,Anita C Barker,Amy E Lowrance,Annette Deck,11,5
-17705,7,2025-11-23,PEAK Pickle and Giggle,CPC Volley Girls,Thao LaVoie,Cheryl Y Whitney,Kimberly Rockenstyre,Cindy Green,11,0
-17705,8,2025-11-23,PEAK Pickle and Giggle,CPC Volley Girls,Casey Federovitch,Courtney Anderson,Amy E Lowrance,Annette Deck,11,5
-17705,9,2025-11-23,PEAK Pickle and Giggle,CPC Volley Girls,Vicki Rohde,Anita C Barker,Betsy Faulk,Cris Best,11,4
-17717,1,2025-11-23,CPC Volley Girls,NHC North Hills Kitchen,Amy E Lowrance,Annette Deck,Dana Aderhold,Heather Mauzy,11,6
-17717,2,2025-11-23,CPC Volley Girls,NHC North Hills Kitchen,Betsy Faulk,Cris Best,Caroline Monson,AnneElizabeth Harrell,11,6
-17717,3,2025-11-23,CPC Volley Girls,NHC North Hills Kitchen,Kimberly Rockenstyre,Cindy Green,Ann Garey,Bridget Welborn,10,12
-17717,4,2025-11-23,CPC Volley Girls,NHC North Hills Kitchen,Amy E Lowrance,Annette Deck,Caroline Monson,AnneElizabeth Harrell,11,6
-17717,5,2025-11-23,CPC Volley Girls,NHC North Hills Kitchen,Betsy Faulk,Cris Best,Ann Garey,Bridget Welborn,11,2
-17717,6,2025-11-23,CPC Volley Girls,NHC North Hills Kitchen,Kimberly Rockenstyre,Cindy Green,Dana Aderhold,Heather Mauzy,11,5
-17717,7,2025-11-23,CPC Volley Girls,NHC North Hills Kitchen,Amy E Lowrance,Annette Deck,Ann Garey,Bridget Welborn,11,1
-17717,8,2025-11-23,CPC Volley Girls,NHC North Hills Kitchen,Betsy Faulk,Cris Best,Dana Aderhold,Heather Mauzy,11,6
-17717,9,2025-11-23,CPC Volley Girls,NHC North Hills Kitchen,Kimberly Rockenstyre,Cindy Green,Caroline Monson,AnneElizabeth Harrell,8,11
-17718,1,2025-11-23,HASEN Hasentree Kitchenettes,PEAK Pickle and Giggle,Jade Paunovich,Mary Ramsey,Thao LaVoie,Wen Zheng,2,11
-17718,2,2025-11-23,HASEN Hasentree Kitchenettes,PEAK Pickle and Giggle,Ann Willard,Melinda White Coutts,Casey Federovitch,Courtney Anderson,1,11
-17718,3,2025-11-23,HASEN Hasentree Kitchenettes,PEAK Pickle and Giggle,Julie Shuey,Pamela Pitre,Anita C Barker,Vicki Rohde,3,11
-17718,4,2025-11-23,HASEN Hasentree Kitchenettes,PEAK Pickle and Giggle,Jade Paunovich,Mary Ramsey,Casey Federovitch,Courtney Anderson,5,11
-17718,5,2025-11-23,HASEN Hasentree Kitchenettes,PEAK Pickle and Giggle,Ann Willard,Melinda White Coutts,Anita C Barker,Vicki Rohde,5,11
-17718,6,2025-11-23,HASEN Hasentree Kitchenettes,PEAK Pickle and Giggle,Julie Shuey,Pamela Pitre,Thao LaVoie,Wen Zheng,1,11
-17718,7,2025-11-23,HASEN Hasentree Kitchenettes,PEAK Pickle and Giggle,Jade Paunovich,Mary Ramsey,Anita C Barker,Vicki Rohde,4,11
-17718,8,2025-11-23,HASEN Hasentree Kitchenettes,PEAK Pickle and Giggle,Ann Willard,Melinda White Coutts,Thao LaVoie,Wen Zheng,6,11
-17718,9,2025-11-23,HASEN Hasentree Kitchenettes,PEAK Pickle and Giggle,Julie Shuey,Pamela Pitre,Casey Federovitch,Courtney Anderson,1,11
-17730,1,2025-11-23,PEAK Pickle and Giggle,CPC Volley Girls,Thao LaVoie,Cheryl Y Whitney,Amy E Lowrance,Annette Deck,15,2
-17730,2,2025-11-23,PEAK Pickle and Giggle,CPC Volley Girls,Casey Federovitch,Courtney Anderson,Betsy Faulk,Cris Best,15,9
-17730,3,2025-11-23,PEAK Pickle and Giggle,CPC Volley Girls,Anita C Barker,Vicki Rohde,Cindy Green,Kimberly Rockenstyre,15,5
-17730,4,2025-11-23,PEAK Pickle and Giggle,CPC Volley Girls,Thao LaVoie,Cheryl Y Whitney,Betsy Faulk,Cris Best,15,4
-17730,5,2025-11-23,PEAK Pickle and Giggle,CPC Volley Girls,Casey Federovitch,Courtney Anderson,Cindy Green,Kimberly Rockenstyre,15,1
-17730,6,2025-11-23,PEAK Pickle and Giggle,CPC Volley Girls,Anita C Barker,Vicki Rohde,Amy E Lowrance,Annette Deck,15,13
-17730,7,2025-11-23,PEAK Pickle and Giggle,CPC Volley Girls,Thao LaVoie,Cheryl Y Whitney,Cindy Green,Kimberly Rockenstyre,15,3
-17730,8,2025-11-23,PEAK Pickle and Giggle,CPC Volley Girls,Casey Federovitch,Courtney Anderson,Amy E Lowrance,Annette Deck,15,4
-17730,9,2025-11-23,PEAK Pickle and Giggle,CPC Volley Girls,Anita C Barker,Vicki Rohde,Betsy Faulk,Cris Best,6,15
+match_id,game_id,match_date,league,season,skill_level,age,gender,team1_name,team2_name,partner1,partner2,opponent1,opponent2,team1_points,team2_points
+17696,1,2025-11-23,ecc,fall2025,lowintermediate,18,women,CPC Volley Girls,HASEN Hasentree Kitchenettes,Amy E Lowrance,Annette Deck,Jean Miklosko,Michelle Rubin,11,6
+17696,2,2025-11-23,ecc,fall2025,lowintermediate,18,women,CPC Volley Girls,HASEN Hasentree Kitchenettes,Betsy Faulk,Cris Best,Ann Willard,Michelle Rademann,11,4
+17696,3,2025-11-23,ecc,fall2025,lowintermediate,18,women,CPC Volley Girls,HASEN Hasentree Kitchenettes,Kimberly Rockenstyre,Cindy Green,Leigh Watson,Pamela Pitre,11,1
+17696,4,2025-11-23,ecc,fall2025,lowintermediate,18,women,CPC Volley Girls,HASEN Hasentree Kitchenettes,Amy E Lowrance,Annette Deck,Ann Willard,Michelle Rademann,11,8
+17696,5,2025-11-23,ecc,fall2025,lowintermediate,18,women,CPC Volley Girls,HASEN Hasentree Kitchenettes,Betsy Faulk,Cris Best,Leigh Watson,Pamela Pitre,11,0
+17696,6,2025-11-23,ecc,fall2025,lowintermediate,18,women,CPC Volley Girls,HASEN Hasentree Kitchenettes,Kimberly Rockenstyre,Cindy Green,Jean Miklosko,Michelle Rubin,2,11
+17696,7,2025-11-23,ecc,fall2025,lowintermediate,18,women,CPC Volley Girls,HASEN Hasentree Kitchenettes,Amy E Lowrance,Annette Deck,Leigh Watson,Pamela Pitre,11,6
+17696,8,2025-11-23,ecc,fall2025,lowintermediate,18,women,CPC Volley Girls,HASEN Hasentree Kitchenettes,Betsy Faulk,Cris Best,Jean Miklosko,Michelle Rubin,11,1
+17696,9,2025-11-23,ecc,fall2025,lowintermediate,18,women,CPC Volley Girls,HASEN Hasentree Kitchenettes,Kimberly Rockenstyre,Cindy Green,Ann Willard,Michelle Rademann,8,11
+17697,1,2025-11-23,ecc,fall2025,lowintermediate,18,women,NHC North Hills Kitchen,PEAK Pickle and Giggle,Dana Aderhold,Heather Mauzy,Thao LaVoie,Wen Zheng,6,11
+17697,2,2025-11-23,ecc,fall2025,lowintermediate,18,women,NHC North Hills Kitchen,PEAK Pickle and Giggle,Caroline Monson,Ann Garey,Casey Federovitch,Courtney Anderson,1,11
+17697,3,2025-11-23,ecc,fall2025,lowintermediate,18,women,NHC North Hills Kitchen,PEAK Pickle and Giggle,Jill Cramer,Bridget Welborn,Vicki Rohde,Anita C Barker,1,11
+17697,4,2025-11-23,ecc,fall2025,lowintermediate,18,women,NHC North Hills Kitchen,PEAK Pickle and Giggle,Dana Aderhold,Heather Mauzy,Casey Federovitch,Courtney Anderson,1,11
+17697,5,2025-11-23,ecc,fall2025,lowintermediate,18,women,NHC North Hills Kitchen,PEAK Pickle and Giggle,Caroline Monson,Ann Garey,Vicki Rohde,Anita C Barker,3,11
+17697,6,2025-11-23,ecc,fall2025,lowintermediate,18,women,NHC North Hills Kitchen,PEAK Pickle and Giggle,Jill Cramer,Bridget Welborn,Thao LaVoie,Wen Zheng,1,11
+17697,7,2025-11-23,ecc,fall2025,lowintermediate,18,women,NHC North Hills Kitchen,PEAK Pickle and Giggle,Dana Aderhold,Heather Mauzy,Vicki Rohde,Anita C Barker,6,11
+17697,8,2025-11-23,ecc,fall2025,lowintermediate,18,women,NHC North Hills Kitchen,PEAK Pickle and Giggle,Caroline Monson,Ann Garey,Thao LaVoie,Wen Zheng,6,11
+17697,9,2025-11-23,ecc,fall2025,lowintermediate,18,women,NHC North Hills Kitchen,PEAK Pickle and Giggle,Jill Cramer,Bridget Welborn,Casey Federovitch,Courtney Anderson,8,11
+17704,1,2025-11-23,ecc,fall2025,lowintermediate,18,women,HASEN Hasentree Kitchenettes,NHC North Hills Kitchen,Jean Miklosko,Mary Ramsey,Dana Aderhold,Heather Mauzy,6,11
+17704,2,2025-11-23,ecc,fall2025,lowintermediate,18,women,HASEN Hasentree Kitchenettes,NHC North Hills Kitchen,Michelle Rademann,Melinda White Coutts,Caroline Monson,AnneElizabeth Harrell,11,2
+17704,3,2025-11-23,ecc,fall2025,lowintermediate,18,women,HASEN Hasentree Kitchenettes,NHC North Hills Kitchen,Jade Paunovich,Julie Shuey,Ann Garey,Bridget Welborn,11,8
+17704,4,2025-11-23,ecc,fall2025,lowintermediate,18,women,HASEN Hasentree Kitchenettes,NHC North Hills Kitchen,Jean Miklosko,Mary Ramsey,Caroline Monson,AnneElizabeth Harrell,5,11
+17704,5,2025-11-23,ecc,fall2025,lowintermediate,18,women,HASEN Hasentree Kitchenettes,NHC North Hills Kitchen,Michelle Rademann,Melinda White Coutts,Ann Garey,Bridget Welborn,11,5
+17704,6,2025-11-23,ecc,fall2025,lowintermediate,18,women,HASEN Hasentree Kitchenettes,NHC North Hills Kitchen,Jade Paunovich,Julie Shuey,Dana Aderhold,Heather Mauzy,6,11
+17704,7,2025-11-23,ecc,fall2025,lowintermediate,18,women,HASEN Hasentree Kitchenettes,NHC North Hills Kitchen,Jean Miklosko,Mary Ramsey,Ann Garey,Bridget Welborn,11,5
+17704,8,2025-11-23,ecc,fall2025,lowintermediate,18,women,HASEN Hasentree Kitchenettes,NHC North Hills Kitchen,Michelle Rademann,Melinda White Coutts,Dana Aderhold,Heather Mauzy,13,11
+17704,9,2025-11-23,ecc,fall2025,lowintermediate,18,women,HASEN Hasentree Kitchenettes,NHC North Hills Kitchen,Jade Paunovich,Julie Shuey,Caroline Monson,AnneElizabeth Harrell,8,11
+17705,1,2025-11-23,ecc,fall2025,lowintermediate,18,women,PEAK Pickle and Giggle,CPC Volley Girls,Thao LaVoie,Cheryl Y Whitney,Amy E Lowrance,Annette Deck,11,7
+17705,2,2025-11-23,ecc,fall2025,lowintermediate,18,women,PEAK Pickle and Giggle,CPC Volley Girls,Casey Federovitch,Courtney Anderson,Betsy Faulk,Cris Best,11,5
+17705,3,2025-11-23,ecc,fall2025,lowintermediate,18,women,PEAK Pickle and Giggle,CPC Volley Girls,Vicki Rohde,Anita C Barker,Kimberly Rockenstyre,Cindy Green,11,1
+17705,4,2025-11-23,ecc,fall2025,lowintermediate,18,women,PEAK Pickle and Giggle,CPC Volley Girls,Thao LaVoie,Cheryl Y Whitney,Betsy Faulk,Cris Best,6,11
+17705,5,2025-11-23,ecc,fall2025,lowintermediate,18,women,PEAK Pickle and Giggle,CPC Volley Girls,Casey Federovitch,Courtney Anderson,Kimberly Rockenstyre,Cindy Green,11,1
+17705,6,2025-11-23,ecc,fall2025,lowintermediate,18,women,PEAK Pickle and Giggle,CPC Volley Girls,Vicki Rohde,Anita C Barker,Amy E Lowrance,Annette Deck,11,5
+17705,7,2025-11-23,ecc,fall2025,lowintermediate,18,women,PEAK Pickle and Giggle,CPC Volley Girls,Thao LaVoie,Cheryl Y Whitney,Kimberly Rockenstyre,Cindy Green,11,0
+17705,8,2025-11-23,ecc,fall2025,lowintermediate,18,women,PEAK Pickle and Giggle,CPC Volley Girls,Casey Federovitch,Courtney Anderson,Amy E Lowrance,Annette Deck,11,5
+17705,9,2025-11-23,ecc,fall2025,lowintermediate,18,women,PEAK Pickle and Giggle,CPC Volley Girls,Vicki Rohde,Anita C Barker,Betsy Faulk,Cris Best,11,4
+17717,1,2025-11-23,ecc,fall2025,lowintermediate,18,women,CPC Volley Girls,NHC North Hills Kitchen,Amy E Lowrance,Annette Deck,Dana Aderhold,Heather Mauzy,11,6
+17717,2,2025-11-23,ecc,fall2025,lowintermediate,18,women,CPC Volley Girls,NHC North Hills Kitchen,Betsy Faulk,Cris Best,Caroline Monson,AnneElizabeth Harrell,11,6
+17717,3,2025-11-23,ecc,fall2025,lowintermediate,18,women,CPC Volley Girls,NHC North Hills Kitchen,Kimberly Rockenstyre,Cindy Green,Ann Garey,Bridget Welborn,10,12
+17717,4,2025-11-23,ecc,fall2025,lowintermediate,18,women,CPC Volley Girls,NHC North Hills Kitchen,Amy E Lowrance,Annette Deck,Caroline Monson,AnneElizabeth Harrell,11,6
+17717,5,2025-11-23,ecc,fall2025,lowintermediate,18,women,CPC Volley Girls,NHC North Hills Kitchen,Betsy Faulk,Cris Best,Ann Garey,Bridget Welborn,11,2
+17717,6,2025-11-23,ecc,fall2025,lowintermediate,18,women,CPC Volley Girls,NHC North Hills Kitchen,Kimberly Rockenstyre,Cindy Green,Dana Aderhold,Heather Mauzy,11,5
+17717,7,2025-11-23,ecc,fall2025,lowintermediate,18,women,CPC Volley Girls,NHC North Hills Kitchen,Amy E Lowrance,Annette Deck,Ann Garey,Bridget Welborn,11,1
+17717,8,2025-11-23,ecc,fall2025,lowintermediate,18,women,CPC Volley Girls,NHC North Hills Kitchen,Betsy Faulk,Cris Best,Dana Aderhold,Heather Mauzy,11,6
+17717,9,2025-11-23,ecc,fall2025,lowintermediate,18,women,CPC Volley Girls,NHC North Hills Kitchen,Kimberly Rockenstyre,Cindy Green,Caroline Monson,AnneElizabeth Harrell,8,11
+17718,1,2025-11-23,ecc,fall2025,lowintermediate,18,women,HASEN Hasentree Kitchenettes,PEAK Pickle and Giggle,Jade Paunovich,Mary Ramsey,Thao LaVoie,Wen Zheng,2,11
+17718,2,2025-11-23,ecc,fall2025,lowintermediate,18,women,HASEN Hasentree Kitchenettes,PEAK Pickle and Giggle,Ann Willard,Melinda White Coutts,Casey Federovitch,Courtney Anderson,1,11
+17718,3,2025-11-23,ecc,fall2025,lowintermediate,18,women,HASEN Hasentree Kitchenettes,PEAK Pickle and Giggle,Julie Shuey,Pamela Pitre,Anita C Barker,Vicki Rohde,3,11
+17718,4,2025-11-23,ecc,fall2025,lowintermediate,18,women,HASEN Hasentree Kitchenettes,PEAK Pickle and Giggle,Jade Paunovich,Mary Ramsey,Casey Federovitch,Courtney Anderson,5,11
+17718,5,2025-11-23,ecc,fall2025,lowintermediate,18,women,HASEN Hasentree Kitchenettes,PEAK Pickle and Giggle,Ann Willard,Melinda White Coutts,Anita C Barker,Vicki Rohde,5,11
+17718,6,2025-11-23,ecc,fall2025,lowintermediate,18,women,HASEN Hasentree Kitchenettes,PEAK Pickle and Giggle,Julie Shuey,Pamela Pitre,Thao LaVoie,Wen Zheng,1,11
+17718,7,2025-11-23,ecc,fall2025,lowintermediate,18,women,HASEN Hasentree Kitchenettes,PEAK Pickle and Giggle,Jade Paunovich,Mary Ramsey,Anita C Barker,Vicki Rohde,4,11
+17718,8,2025-11-23,ecc,fall2025,lowintermediate,18,women,HASEN Hasentree Kitchenettes,PEAK Pickle and Giggle,Ann Willard,Melinda White Coutts,Thao LaVoie,Wen Zheng,6,11
+17718,9,2025-11-23,ecc,fall2025,lowintermediate,18,women,HASEN Hasentree Kitchenettes,PEAK Pickle and Giggle,Julie Shuey,Pamela Pitre,Casey Federovitch,Courtney Anderson,1,11
+17730,1,2025-11-23,ecc,fall2025,lowintermediate,18,women,PEAK Pickle and Giggle,CPC Volley Girls,Thao LaVoie,Cheryl Y Whitney,Amy E Lowrance,Annette Deck,15,2
+17730,2,2025-11-23,ecc,fall2025,lowintermediate,18,women,PEAK Pickle and Giggle,CPC Volley Girls,Casey Federovitch,Courtney Anderson,Betsy Faulk,Cris Best,15,9
+17730,3,2025-11-23,ecc,fall2025,lowintermediate,18,women,PEAK Pickle and Giggle,CPC Volley Girls,Anita C Barker,Vicki Rohde,Cindy Green,Kimberly Rockenstyre,15,5
+17730,4,2025-11-23,ecc,fall2025,lowintermediate,18,women,PEAK Pickle and Giggle,CPC Volley Girls,Thao LaVoie,Cheryl Y Whitney,Betsy Faulk,Cris Best,15,4
+17730,5,2025-11-23,ecc,fall2025,lowintermediate,18,women,PEAK Pickle and Giggle,CPC Volley Girls,Casey Federovitch,Courtney Anderson,Cindy Green,Kimberly Rockenstyre,15,1
+17730,6,2025-11-23,ecc,fall2025,lowintermediate,18,women,PEAK Pickle and Giggle,CPC Volley Girls,Anita C Barker,Vicki Rohde,Amy E Lowrance,Annette Deck,15,13
+17730,7,2025-11-23,ecc,fall2025,lowintermediate,18,women,PEAK Pickle and Giggle,CPC Volley Girls,Thao LaVoie,Cheryl Y Whitney,Cindy Green,Kimberly Rockenstyre,15,3
+17730,8,2025-11-23,ecc,fall2025,lowintermediate,18,women,PEAK Pickle and Giggle,CPC Volley Girls,Casey Federovitch,Courtney Anderson,Amy E Lowrance,Annette Deck,15,4
+17730,9,2025-11-23,ecc,fall2025,lowintermediate,18,women,PEAK Pickle and Giggle,CPC Volley Girls,Anita C Barker,Vicki Rohde,Betsy Faulk,Cris Best,6,15

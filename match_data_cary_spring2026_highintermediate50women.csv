@@ -1,334 +1,334 @@
-match_id,game_id,match_date,team1_name,team2_name,partner1,partner2,opponent1,opponent2,team1_points,team2_points
-18605,1,2026-03-19,LOCH Dinkerbells,TOC Desperate Housewives of Wake County,Beverly Broslawsky,Christie Benjamin,Christa Resavy,Lynelle Boorey,12,15
-18605,2,2026-03-19,LOCH Dinkerbells,TOC Desperate Housewives of Wake County,Carol N Wright,Sherrie L Bass,Ruth Coon,AnneMarie Conklin,15,5
-18605,3,2026-03-19,LOCH Dinkerbells,TOC Desperate Housewives of Wake County,Anita C Barker,Vicki Rohde,Nicole Gagnon,Julie T Stallman,13,15
-18605,4,2026-03-19,LOCH Dinkerbells,TOC Desperate Housewives of Wake County,Beverly Broslawsky,Christie Benjamin,Ruth Coon,AnneMarie Conklin,15,10
-18605,5,2026-03-19,LOCH Dinkerbells,TOC Desperate Housewives of Wake County,Carol N Wright,Sherrie L Bass,Nicole Gagnon,Julie T Stallman,15,3
-18605,6,2026-03-19,LOCH Dinkerbells,TOC Desperate Housewives of Wake County,Anita C Barker,Vicki Rohde,Christa Resavy,Lynelle Boorey,6,15
-18605,7,2026-03-19,LOCH Dinkerbells,TOC Desperate Housewives of Wake County,Beverly Broslawsky,Christie Benjamin,Nicole Gagnon,Julie T Stallman,15,8
-18605,8,2026-03-19,LOCH Dinkerbells,TOC Desperate Housewives of Wake County,Carol N Wright,Sherrie L Bass,Christa Resavy,Lynelle Boorey,15,11
-18605,9,2026-03-19,LOCH Dinkerbells,TOC Desperate Housewives of Wake County,Anita C Barker,Vicki Rohde,Ruth Coon,AnneMarie Conklin,4,15
-18606,1,2026-03-19,TOC Dink Divas,LOCH Lochmere Ladies Picklers,Daisy VanCauwenbergh,MaryBeth Munz,Sandra C Jolly,Eileen Cavanaugh,15,5
-18606,2,2026-03-19,TOC Dink Divas,LOCH Lochmere Ladies Picklers,Elizabeth Curtis,Nicole Mars Juillerat,Vanessa Uecker Martini,Kathy Nigro,14,16
-18606,3,2026-03-19,TOC Dink Divas,LOCH Lochmere Ladies Picklers,Tammy Bevan,Susan Washburn,Barbara Jean Reichelt,Marilyn Terrill,8,15
-18606,4,2026-03-19,TOC Dink Divas,LOCH Lochmere Ladies Picklers,Daisy VanCauwenbergh,MaryBeth Munz,Vanessa Uecker Martini,Kathy Nigro,15,8
-18606,5,2026-03-19,TOC Dink Divas,LOCH Lochmere Ladies Picklers,Elizabeth Curtis,Nicole Mars Juillerat,Barbara Jean Reichelt,Marilyn Terrill,6,15
-18606,6,2026-03-19,TOC Dink Divas,LOCH Lochmere Ladies Picklers,Tammy Bevan,Susan Washburn,Sandra C Jolly,Eileen Cavanaugh,0,15
-18606,7,2026-03-19,TOC Dink Divas,LOCH Lochmere Ladies Picklers,Daisy VanCauwenbergh,MaryBeth Munz,Barbara Jean Reichelt,Marilyn Terrill,15,8
-18606,8,2026-03-19,TOC Dink Divas,LOCH Lochmere Ladies Picklers,Elizabeth Curtis,Nicole Mars Juillerat,Sandra C Jolly,Eileen Cavanaugh,5,15
-18606,9,2026-03-19,TOC Dink Divas,LOCH Lochmere Ladies Picklers,Tammy Bevan,Susan Washburn,Vanessa Uecker Martini,Kathy Nigro,15,6
-18607,1,2026-03-19,TOC Dill Breakers,TOC Mid-Court Crisis,Kelly Polizzi,Nadine Williams,Ali Mallison,Karen Espenhahn,3,15
-18607,2,2026-03-19,TOC Dill Breakers,TOC Mid-Court Crisis,Anne Farmer,Chrissy Mogan,Ellen A Elliott,Tracie Stolove,16,14
-18607,3,2026-03-19,TOC Dill Breakers,TOC Mid-Court Crisis,Teri Augustine,Vesna Neiberger,Cherie D Berger,Dawn Worthington,12,15
-18607,4,2026-03-19,TOC Dill Breakers,TOC Mid-Court Crisis,Kelly Polizzi,Nadine Williams,Ellen A Elliott,Tracie Stolove,6,15
-18607,5,2026-03-19,TOC Dill Breakers,TOC Mid-Court Crisis,Anne Farmer,Chrissy Mogan,Cherie D Berger,Dawn Worthington,4,15
-18607,6,2026-03-19,TOC Dill Breakers,TOC Mid-Court Crisis,Teri Augustine,Vesna Neiberger,Ali Mallison,Karen Espenhahn,15,13
-18607,7,2026-03-19,TOC Dill Breakers,TOC Mid-Court Crisis,Kelly Polizzi,Nadine Williams,Cherie D Berger,Dawn Worthington,1,15
-18607,8,2026-03-19,TOC Dill Breakers,TOC Mid-Court Crisis,Anne Farmer,Chrissy Mogan,Ali Mallison,Karen Espenhahn,4,15
-18607,9,2026-03-19,TOC Dill Breakers,TOC Mid-Court Crisis,Teri Augustine,Vesna Neiberger,Ellen A Elliott,Tracie Stolove,14,16
-18610,1,2026-03-19,TOC Kitchen Masters,12OAKS Volley Llama Mamas,Susan Oglesby Reeves,Joanne Eder,Peggy Smith,Susan B Harmon,15,1
-18610,2,2026-03-19,TOC Kitchen Masters,12OAKS Volley Llama Mamas,Beth F Warren,Lisa Card,Lou Brooks,AnnMarie Johnson,15,12
-18610,3,2026-03-19,TOC Kitchen Masters,12OAKS Volley Llama Mamas,DEFAULT,DEFAULT,Christine Tyner,Kristine Bachstein,0,15
-18610,4,2026-03-19,TOC Kitchen Masters,12OAKS Volley Llama Mamas,Susan Oglesby Reeves,Joanne Eder,Lou Brooks,AnnMarie Johnson,15,8
-18610,5,2026-03-19,TOC Kitchen Masters,12OAKS Volley Llama Mamas,Beth F Warren,Lisa Card,Christine Tyner,Kristine Bachstein,15,6
-18610,6,2026-03-19,TOC Kitchen Masters,12OAKS Volley Llama Mamas,DEFAULT,DEFAULT,Peggy Smith,Susan B Harmon,0,15
-18610,7,2026-03-19,TOC Kitchen Masters,12OAKS Volley Llama Mamas,Susan Oglesby Reeves,Joanne Eder,Christine Tyner,Kristine Bachstein,15,6
-18610,8,2026-03-19,TOC Kitchen Masters,12OAKS Volley Llama Mamas,Beth F Warren,Lisa Card,Peggy Smith,Susan B Harmon,11,15
-18610,9,2026-03-19,TOC Kitchen Masters,12OAKS Volley Llama Mamas,DEFAULT,DEFAULT,Lou Brooks,AnnMarie Johnson,0,15
-18631,1,2026-03-26,LOCH Lochmere Ladies Picklers,TOC Kitchen Masters,Eileen Culley,Eileen Cavanaugh,Janeth Pearl,Lani Morrow,9,15
-18631,2,2026-03-26,LOCH Lochmere Ladies Picklers,TOC Kitchen Masters,Sandra C Jolly,Melissa Feuerstein,Susan Oglesby Reeves,Lisa Card,10,15
-18631,3,2026-03-26,LOCH Lochmere Ladies Picklers,TOC Kitchen Masters,Vanessa Uecker Martini,Marti Crane,Tammy H Clarke,Lynette Peterson,15,7
-18631,4,2026-03-26,LOCH Lochmere Ladies Picklers,TOC Kitchen Masters,Eileen Culley,Eileen Cavanaugh,Susan Oglesby Reeves,Lisa Card,14,16
-18631,5,2026-03-26,LOCH Lochmere Ladies Picklers,TOC Kitchen Masters,Sandra C Jolly,Melissa Feuerstein,Tammy H Clarke,Lynette Peterson,7,15
-18631,6,2026-03-26,LOCH Lochmere Ladies Picklers,TOC Kitchen Masters,Vanessa Uecker Martini,Marti Crane,Janeth Pearl,Lani Morrow,6,15
-18631,7,2026-03-26,LOCH Lochmere Ladies Picklers,TOC Kitchen Masters,Eileen Culley,Eileen Cavanaugh,Tammy H Clarke,Lynette Peterson,15,5
-18631,8,2026-03-26,LOCH Lochmere Ladies Picklers,TOC Kitchen Masters,Sandra C Jolly,Melissa Feuerstein,Janeth Pearl,Lani Morrow,3,15
-18631,9,2026-03-26,LOCH Lochmere Ladies Picklers,TOC Kitchen Masters,Vanessa Uecker Martini,Marti Crane,Susan Oglesby Reeves,Lisa Card,10,15
-18632,1,2026-03-26,TOC Volley Girls 3.0,TOC Dill Breakers,Janny Frazier,Kate Morse Falkiner,Denise Wilson,Nadine Williams,15,1
-18632,2,2026-03-26,TOC Volley Girls 3.0,TOC Dill Breakers,Pamela DeLoatch,Stacy Zotter,Teri Augustine,Nelda Vanaarde,15,0
-18632,3,2026-03-26,TOC Volley Girls 3.0,TOC Dill Breakers,Yolanda McCluney,Rebecca Drabenstott,Patty Twomey,Rhonda Bowman Kaspar,15,11
-18632,4,2026-03-26,TOC Volley Girls 3.0,TOC Dill Breakers,Janny Frazier,Kate Morse Falkiner,Teri Augustine,Nelda Vanaarde,15,1
-18632,5,2026-03-26,TOC Volley Girls 3.0,TOC Dill Breakers,Pamela DeLoatch,Stacy Zotter,Patty Twomey,Rhonda Bowman Kaspar,15,4
-18632,6,2026-03-26,TOC Volley Girls 3.0,TOC Dill Breakers,Yolanda McCluney,Rebecca Drabenstott,Denise Wilson,Nadine Williams,15,6
-18632,7,2026-03-26,TOC Volley Girls 3.0,TOC Dill Breakers,Janny Frazier,Kate Morse Falkiner,Patty Twomey,Rhonda Bowman Kaspar,15,3
-18632,8,2026-03-26,TOC Volley Girls 3.0,TOC Dill Breakers,Pamela DeLoatch,Stacy Zotter,Denise Wilson,Nadine Williams,15,4
-18632,9,2026-03-26,TOC Volley Girls 3.0,TOC Dill Breakers,Yolanda McCluney,Rebecca Drabenstott,Teri Augustine,Nelda Vanaarde,15,6
-18633,1,2026-03-26,TOC Dink Divas,LOCH Dinkerbells,Lori Bidgood,Suzanne Trexler,Bobbi Bell,Patty L Owens,15,11
-18633,2,2026-03-26,TOC Dink Divas,LOCH Dinkerbells,Daisy VanCauwenbergh,Kim Lang,Carol N Wright,Suzan Bumby,7,15
-18633,3,2026-03-26,TOC Dink Divas,LOCH Dinkerbells,Elizabeth Curtis,Nicole Mars Juillerat,Anita C Barker,Vicki Rohde,6,15
-18633,4,2026-03-26,TOC Dink Divas,LOCH Dinkerbells,Lori Bidgood,Suzanne Trexler,Carol N Wright,Suzan Bumby,8,15
-18633,5,2026-03-26,TOC Dink Divas,LOCH Dinkerbells,Daisy VanCauwenbergh,Kim Lang,Anita C Barker,Vicki Rohde,4,15
-18633,6,2026-03-26,TOC Dink Divas,LOCH Dinkerbells,Elizabeth Curtis,Nicole Mars Juillerat,Bobbi Bell,Patty L Owens,15,12
-18633,7,2026-03-26,TOC Dink Divas,LOCH Dinkerbells,Lori Bidgood,Suzanne Trexler,Anita C Barker,Vicki Rohde,15,7
-18633,8,2026-03-26,TOC Dink Divas,LOCH Dinkerbells,Daisy VanCauwenbergh,Kim Lang,Bobbi Bell,Patty L Owens,2,15
-18633,9,2026-03-26,TOC Dink Divas,LOCH Dinkerbells,Elizabeth Curtis,Nicole Mars Juillerat,Carol N Wright,Suzan Bumby,8,15
-18643,1,2026-04-02,TOC Desperate Housewives of Wake County,12OAKS Volley Llama Mamas,Christa Resavy,Heather Kane,Christine Tyner,Kristine Bachstein,15,7
-18643,2,2026-04-02,TOC Desperate Housewives of Wake County,12OAKS Volley Llama Mamas,Melissa Cetola,Wendy Pannell,Linda Day Colgan,Lou Brooks,15,2
-18643,3,2026-04-02,TOC Desperate Housewives of Wake County,12OAKS Volley Llama Mamas,Holly Haney,Kathryn L Jezior,Suzette Ward,Peggy Smith,11,15
-18643,4,2026-04-02,TOC Desperate Housewives of Wake County,12OAKS Volley Llama Mamas,Christa Resavy,Heather Kane,Linda Day Colgan,Lou Brooks,15,3
-18643,5,2026-04-02,TOC Desperate Housewives of Wake County,12OAKS Volley Llama Mamas,Melissa Cetola,Wendy Pannell,Suzette Ward,Peggy Smith,15,0
-18643,6,2026-04-02,TOC Desperate Housewives of Wake County,12OAKS Volley Llama Mamas,Holly Haney,Kathryn L Jezior,Christine Tyner,Kristine Bachstein,16,14
-18643,7,2026-04-02,TOC Desperate Housewives of Wake County,12OAKS Volley Llama Mamas,Christa Resavy,Heather Kane,Suzette Ward,Peggy Smith,15,2
-18643,8,2026-04-02,TOC Desperate Housewives of Wake County,12OAKS Volley Llama Mamas,Melissa Cetola,Wendy Pannell,Christine Tyner,Kristine Bachstein,15,2
-18643,9,2026-04-02,TOC Desperate Housewives of Wake County,12OAKS Volley Llama Mamas,Holly Haney,Kathryn L Jezior,Linda Day Colgan,Lou Brooks,9,15
-18657,1,2026-04-09,12OAKS Volley Llama Mamas,TOC Mid-Court Crisis,Peggy Smith,Suzette Ward,Cherie D Berger,Dawn Worthington,5,15
-18657,2,2026-04-09,12OAKS Volley Llama Mamas,TOC Mid-Court Crisis,Ellen Polk,Dee Murray,Dani Devinney,Tracie Stolove,8,15
-18657,3,2026-04-09,12OAKS Volley Llama Mamas,TOC Mid-Court Crisis,Lori Nichols,Jacqueline Jett,Francie Low,Christy H Edwards,15,5
-18657,4,2026-04-09,12OAKS Volley Llama Mamas,TOC Mid-Court Crisis,Peggy Smith,Suzette Ward,Dani Devinney,Tracie Stolove,15,1
-18657,5,2026-04-09,12OAKS Volley Llama Mamas,TOC Mid-Court Crisis,Ellen Polk,Dee Murray,Francie Low,Christy H Edwards,5,15
-18657,6,2026-04-09,12OAKS Volley Llama Mamas,TOC Mid-Court Crisis,Lori Nichols,Jacqueline Jett,Cherie D Berger,Dawn Worthington,15,13
-18657,7,2026-04-09,12OAKS Volley Llama Mamas,TOC Mid-Court Crisis,Peggy Smith,Suzette Ward,Francie Low,Christy H Edwards,6,15
-18657,8,2026-04-09,12OAKS Volley Llama Mamas,TOC Mid-Court Crisis,Ellen Polk,Dee Murray,Cherie D Berger,Dawn Worthington,4,15
-18657,9,2026-04-09,12OAKS Volley Llama Mamas,TOC Mid-Court Crisis,Lori Nichols,Jacqueline Jett,Dani Devinney,Tracie Stolove,15,8
-18658,1,2026-04-09,LOCH Dinkerbells,TOC Volley Girls 3.0,Suzan Bumby,Carol N Wright,Shubha Sachdev,Rebecca Drabenstott,15,8
-18658,2,2026-04-09,LOCH Dinkerbells,TOC Volley Girls 3.0,Anita C Barker,Vicki Rohde,Pamela DeLoatch,Stacy Zotter,9,15
-18658,3,2026-04-09,LOCH Dinkerbells,TOC Volley Girls 3.0,Beverly Broslawsky,Christie Benjamin,Cathy Culton,Michelle Reyes,1,15
-18658,4,2026-04-09,LOCH Dinkerbells,TOC Volley Girls 3.0,Suzan Bumby,Carol N Wright,Pamela DeLoatch,Stacy Zotter,15,6
-18658,5,2026-04-09,LOCH Dinkerbells,TOC Volley Girls 3.0,Anita C Barker,Vicki Rohde,Cathy Culton,Michelle Reyes,7,15
-18658,6,2026-04-09,LOCH Dinkerbells,TOC Volley Girls 3.0,Beverly Broslawsky,Christie Benjamin,Shubha Sachdev,Rebecca Drabenstott,7,15
-18658,7,2026-04-09,LOCH Dinkerbells,TOC Volley Girls 3.0,Suzan Bumby,Carol N Wright,Cathy Culton,Michelle Reyes,12,15
-18658,8,2026-04-09,LOCH Dinkerbells,TOC Volley Girls 3.0,Anita C Barker,Vicki Rohde,Shubha Sachdev,Rebecca Drabenstott,9,15
-18658,9,2026-04-09,LOCH Dinkerbells,TOC Volley Girls 3.0,Beverly Broslawsky,Christie Benjamin,Pamela DeLoatch,Stacy Zotter,13,15
-18659,1,2026-04-09,TOC Dill Breakers,LOCH Lochmere Ladies Picklers,Joey Gibson,Kelly Polizzi,Eileen Cavanaugh,Eileen Culley,5,15
-18659,2,2026-04-09,TOC Dill Breakers,LOCH Lochmere Ladies Picklers,Nelda Vanaarde,Nadine Williams,Kathy Nigro,Julie Burke,3,15
-18659,3,2026-04-09,TOC Dill Breakers,LOCH Lochmere Ladies Picklers,Jami Kim-Rowley,Chrissy Mogan,Marilyn Terrill,Barbara Jean Reichelt,11,15
-18659,4,2026-04-09,TOC Dill Breakers,LOCH Lochmere Ladies Picklers,Joey Gibson,Kelly Polizzi,Kathy Nigro,Julie Burke,7,15
-18659,5,2026-04-09,TOC Dill Breakers,LOCH Lochmere Ladies Picklers,Nelda Vanaarde,Nadine Williams,Marilyn Terrill,Barbara Jean Reichelt,10,15
-18659,6,2026-04-09,TOC Dill Breakers,LOCH Lochmere Ladies Picklers,Jami Kim-Rowley,Chrissy Mogan,Eileen Cavanaugh,Eileen Culley,7,15
-18659,7,2026-04-09,TOC Dill Breakers,LOCH Lochmere Ladies Picklers,Joey Gibson,Kelly Polizzi,Marilyn Terrill,Barbara Jean Reichelt,5,15
-18659,8,2026-04-09,TOC Dill Breakers,LOCH Lochmere Ladies Picklers,Nelda Vanaarde,Nadine Williams,Eileen Cavanaugh,Eileen Culley,2,15
-18659,9,2026-04-09,TOC Dill Breakers,LOCH Lochmere Ladies Picklers,Jami Kim-Rowley,Chrissy Mogan,Kathy Nigro,Julie Burke,10,15
-18660,1,2026-04-09,TOC Kitchen Masters,TOC Desperate Housewives of Wake County,Lani Morrow,Janeth Pearl,Melissa Cetola,Valerie Dorrier,15,11
-18660,2,2026-04-09,TOC Kitchen Masters,TOC Desperate Housewives of Wake County,Susan Oglesby Reeves,Lisa Card,Lynelle Boorey,Dawn Losito,17,15
-18660,3,2026-04-09,TOC Kitchen Masters,TOC Desperate Housewives of Wake County,Joanne Eder,Tammy H Clarke,Heather Kane,AnneMarie Conklin,7,15
-18660,4,2026-04-09,TOC Kitchen Masters,TOC Desperate Housewives of Wake County,Lani Morrow,Janeth Pearl,Lynelle Boorey,Dawn Losito,15,9
-18660,5,2026-04-09,TOC Kitchen Masters,TOC Desperate Housewives of Wake County,Susan Oglesby Reeves,Lisa Card,Heather Kane,AnneMarie Conklin,10,15
-18660,6,2026-04-09,TOC Kitchen Masters,TOC Desperate Housewives of Wake County,Joanne Eder,Tammy H Clarke,Melissa Cetola,Valerie Dorrier,6,15
-18660,7,2026-04-09,TOC Kitchen Masters,TOC Desperate Housewives of Wake County,Lani Morrow,Janeth Pearl,Heather Kane,AnneMarie Conklin,3,15
-18660,8,2026-04-09,TOC Kitchen Masters,TOC Desperate Housewives of Wake County,Susan Oglesby Reeves,Lisa Card,Melissa Cetola,Valerie Dorrier,11,15
-18660,9,2026-04-09,TOC Kitchen Masters,TOC Desperate Housewives of Wake County,Joanne Eder,Tammy H Clarke,Lynelle Boorey,Dawn Losito,15,7
-18681,1,2026-04-16,LOCH Lochmere Ladies Picklers,TOC Mid-Court Crisis,Vanessa Uecker Martini,Julie Burke,Kelly Young,Ali Mallison,2,15
-18681,2,2026-04-16,LOCH Lochmere Ladies Picklers,TOC Mid-Court Crisis,Melissa Feuerstein,Becky Leblond,Christy H Edwards,Karen Espenhahn,10,15
-18681,3,2026-04-16,LOCH Lochmere Ladies Picklers,TOC Mid-Court Crisis,Sandra C Jolly,Barbara Jean Reichelt,Tracie Stolove,Dani Devinney,5,15
-18681,4,2026-04-16,LOCH Lochmere Ladies Picklers,TOC Mid-Court Crisis,Vanessa Uecker Martini,Julie Burke,Christy H Edwards,Karen Espenhahn,12,15
-18681,5,2026-04-16,LOCH Lochmere Ladies Picklers,TOC Mid-Court Crisis,Melissa Feuerstein,Becky Leblond,Tracie Stolove,Dani Devinney,8,15
-18681,6,2026-04-16,LOCH Lochmere Ladies Picklers,TOC Mid-Court Crisis,Sandra C Jolly,Barbara Jean Reichelt,Kelly Young,Ali Mallison,15,10
-18681,7,2026-04-16,LOCH Lochmere Ladies Picklers,TOC Mid-Court Crisis,Vanessa Uecker Martini,Julie Burke,Tracie Stolove,Dani Devinney,11,15
-18681,8,2026-04-16,LOCH Lochmere Ladies Picklers,TOC Mid-Court Crisis,Melissa Feuerstein,Becky Leblond,Kelly Young,Ali Mallison,1,15
-18681,9,2026-04-16,LOCH Lochmere Ladies Picklers,TOC Mid-Court Crisis,Sandra C Jolly,Barbara Jean Reichelt,Christy H Edwards,Karen Espenhahn,17,15
-18682,1,2026-04-16,LOCH Dinkerbells,TOC Dill Breakers,Francine Pearce,Patty L Owens,Joey Gibson,Kelly Polizzi,9,15
-18682,2,2026-04-16,LOCH Dinkerbells,TOC Dill Breakers,Anita C Barker,Vicki Rohde,Anne Farmer,Jami Kim-Rowley,15,6
-18682,3,2026-04-16,LOCH Dinkerbells,TOC Dill Breakers,Beverly Broslawsky,Suzan Bumby,Teri Augustine,Patty Twomey,15,0
-18682,4,2026-04-16,LOCH Dinkerbells,TOC Dill Breakers,Francine Pearce,Patty L Owens,Anne Farmer,Jami Kim-Rowley,7,15
-18682,5,2026-04-16,LOCH Dinkerbells,TOC Dill Breakers,Anita C Barker,Vicki Rohde,Teri Augustine,Patty Twomey,15,10
-18682,6,2026-04-16,LOCH Dinkerbells,TOC Dill Breakers,Beverly Broslawsky,Suzan Bumby,Joey Gibson,Kelly Polizzi,15,5
-18682,7,2026-04-16,LOCH Dinkerbells,TOC Dill Breakers,Francine Pearce,Patty L Owens,Teri Augustine,Patty Twomey,15,4
-18682,8,2026-04-16,LOCH Dinkerbells,TOC Dill Breakers,Anita C Barker,Vicki Rohde,Joey Gibson,Kelly Polizzi,15,1
-18682,9,2026-04-16,LOCH Dinkerbells,TOC Dill Breakers,Beverly Broslawsky,Suzan Bumby,Anne Farmer,Jami Kim-Rowley,5,15
-18683,1,2026-04-16,TOC Volley Girls 3.0,12OAKS Volley Llama Mamas,Pamela DeLoatch,Kate Morse Falkiner,Kristine Bachstein,Susan B Harmon,10,15
-18683,2,2026-04-16,TOC Volley Girls 3.0,12OAKS Volley Llama Mamas,Cathy Culton,Rebecca Drabenstott,Lori Nichols,Jacqueline Jett,15,7
-18683,3,2026-04-16,TOC Volley Girls 3.0,12OAKS Volley Llama Mamas,Stacy Zotter,Kelda Bailey,Suzette Ward,Peggy Smith,15,7
-18683,4,2026-04-16,TOC Volley Girls 3.0,12OAKS Volley Llama Mamas,Pamela DeLoatch,Kate Morse Falkiner,Lori Nichols,Jacqueline Jett,10,15
-18683,5,2026-04-16,TOC Volley Girls 3.0,12OAKS Volley Llama Mamas,Cathy Culton,Rebecca Drabenstott,Suzette Ward,Peggy Smith,15,6
-18683,6,2026-04-16,TOC Volley Girls 3.0,12OAKS Volley Llama Mamas,Stacy Zotter,Kelda Bailey,Kristine Bachstein,Susan B Harmon,15,7
-18683,7,2026-04-16,TOC Volley Girls 3.0,12OAKS Volley Llama Mamas,Pamela DeLoatch,Kate Morse Falkiner,Suzette Ward,Peggy Smith,15,8
-18683,8,2026-04-16,TOC Volley Girls 3.0,12OAKS Volley Llama Mamas,Cathy Culton,Rebecca Drabenstott,Kristine Bachstein,Susan B Harmon,15,10
-18683,9,2026-04-16,TOC Volley Girls 3.0,12OAKS Volley Llama Mamas,Stacy Zotter,Kelda Bailey,Lori Nichols,Jacqueline Jett,15,8
-18684,1,2026-04-16,TOC Dink Divas,TOC Kitchen Masters,Elizabeth Curtis,Nicole Mars Juillerat,Beth F Warren,Lani Morrow,3,15
-18684,2,2026-04-16,TOC Dink Divas,TOC Kitchen Masters,Susan Washburn,Tammy Bevan,Lisa Card,Lynette Peterson,15,8
-18684,3,2026-04-16,TOC Dink Divas,TOC Kitchen Masters,Daisy VanCauwenbergh,Lynn Ann Swanson,Cindie Johnson,Tammy H Clarke,8,15
-18684,4,2026-04-16,TOC Dink Divas,TOC Kitchen Masters,Elizabeth Curtis,Nicole Mars Juillerat,Lisa Card,Lynette Peterson,15,6
-18684,5,2026-04-16,TOC Dink Divas,TOC Kitchen Masters,Susan Washburn,Tammy Bevan,Cindie Johnson,Tammy H Clarke,1,15
-18684,6,2026-04-16,TOC Dink Divas,TOC Kitchen Masters,Daisy VanCauwenbergh,Lynn Ann Swanson,Beth F Warren,Lani Morrow,0,15
-18684,7,2026-04-16,TOC Dink Divas,TOC Kitchen Masters,Elizabeth Curtis,Nicole Mars Juillerat,Cindie Johnson,Tammy H Clarke,15,7
-18684,8,2026-04-16,TOC Dink Divas,TOC Kitchen Masters,Susan Washburn,Tammy Bevan,Beth F Warren,Lani Morrow,7,15
-18684,9,2026-04-16,TOC Dink Divas,TOC Kitchen Masters,Daisy VanCauwenbergh,Lynn Ann Swanson,Lisa Card,Lynette Peterson,9,15
-18707,1,2026-04-23,12OAKS Volley Llama Mamas,LOCH Lochmere Ladies Picklers,Christine Tyner,Kristine Bachstein,Marti Crane,Julie Burke,11,15
-18707,2,2026-04-23,12OAKS Volley Llama Mamas,LOCH Lochmere Ladies Picklers,AnnMarie Johnson,Lou Brooks,Vanessa Uecker Martini,Kathy Nigro,15,6
-18707,3,2026-04-23,12OAKS Volley Llama Mamas,LOCH Lochmere Ladies Picklers,Suzette Ward,Peggy Smith,Marilyn Terrill,Melissa Feuerstein,15,0
-18707,4,2026-04-23,12OAKS Volley Llama Mamas,LOCH Lochmere Ladies Picklers,Christine Tyner,Kristine Bachstein,Vanessa Uecker Martini,Kathy Nigro,15,9
-18707,5,2026-04-23,12OAKS Volley Llama Mamas,LOCH Lochmere Ladies Picklers,AnnMarie Johnson,Lou Brooks,Marilyn Terrill,Melissa Feuerstein,15,2
-18707,6,2026-04-23,12OAKS Volley Llama Mamas,LOCH Lochmere Ladies Picklers,Suzette Ward,Peggy Smith,Marti Crane,Julie Burke,15,6
-18707,7,2026-04-23,12OAKS Volley Llama Mamas,LOCH Lochmere Ladies Picklers,Christine Tyner,Kristine Bachstein,Marilyn Terrill,Melissa Feuerstein,15,7
-18707,8,2026-04-23,12OAKS Volley Llama Mamas,LOCH Lochmere Ladies Picklers,AnnMarie Johnson,Lou Brooks,Marti Crane,Julie Burke,10,15
-18707,9,2026-04-23,12OAKS Volley Llama Mamas,LOCH Lochmere Ladies Picklers,Suzette Ward,Peggy Smith,Vanessa Uecker Martini,Kathy Nigro,15,5
-18708,1,2026-04-23,TOC Mid-Court Crisis,TOC Desperate Housewives of Wake County,Christy H Edwards,Karen Espenhahn,Christa Resavy,Heather Kane,11,15
-18708,2,2026-04-23,TOC Mid-Court Crisis,TOC Desperate Housewives of Wake County,Cherie D Berger,Dawn Worthington,Ruth Coon,AnneMarie Conklin,15,9
-18708,3,2026-04-23,TOC Mid-Court Crisis,TOC Desperate Housewives of Wake County,Kelly Young,Ali Mallison,Lynelle Boorey,Valerie Dorrier,3,15
-18708,4,2026-04-23,TOC Mid-Court Crisis,TOC Desperate Housewives of Wake County,Christy H Edwards,Karen Espenhahn,Ruth Coon,AnneMarie Conklin,4,15
-18708,5,2026-04-23,TOC Mid-Court Crisis,TOC Desperate Housewives of Wake County,Cherie D Berger,Dawn Worthington,Lynelle Boorey,Valerie Dorrier,9,15
-18708,6,2026-04-23,TOC Mid-Court Crisis,TOC Desperate Housewives of Wake County,Kelly Young,Ali Mallison,Christa Resavy,Heather Kane,7,15
-18708,7,2026-04-23,TOC Mid-Court Crisis,TOC Desperate Housewives of Wake County,Christy H Edwards,Karen Espenhahn,Lynelle Boorey,Valerie Dorrier,9,15
-18708,8,2026-04-23,TOC Mid-Court Crisis,TOC Desperate Housewives of Wake County,Cherie D Berger,Dawn Worthington,Christa Resavy,Heather Kane,9,15
-18708,9,2026-04-23,TOC Mid-Court Crisis,TOC Desperate Housewives of Wake County,Kelly Young,Ali Mallison,Ruth Coon,AnneMarie Conklin,15,11
-18709,1,2026-04-23,TOC Dill Breakers,TOC Dink Divas,Kelly Polizzi,Nelda Vanaarde,Kim Lang,Lisa W Wingard,7,15
-18709,2,2026-04-23,TOC Dill Breakers,TOC Dink Divas,Jami Kim-Rowley,Chrissy Mogan,MaryBeth Munz,Daisy VanCauwenbergh,11,15
-18709,3,2026-04-23,TOC Dill Breakers,TOC Dink Divas,Patty Twomey,Rhonda Bowman Kaspar,Lynn Ann Swanson,Renee M Getz,7,15
-18709,4,2026-04-23,TOC Dill Breakers,TOC Dink Divas,Kelly Polizzi,Nelda Vanaarde,MaryBeth Munz,Daisy VanCauwenbergh,7,15
-18709,5,2026-04-23,TOC Dill Breakers,TOC Dink Divas,Jami Kim-Rowley,Chrissy Mogan,Lynn Ann Swanson,Renee M Getz,15,6
-18709,6,2026-04-23,TOC Dill Breakers,TOC Dink Divas,Patty Twomey,Rhonda Bowman Kaspar,Kim Lang,Lisa W Wingard,15,9
-18709,7,2026-04-23,TOC Dill Breakers,TOC Dink Divas,Kelly Polizzi,Nelda Vanaarde,Lynn Ann Swanson,Renee M Getz,15,8
-18709,8,2026-04-23,TOC Dill Breakers,TOC Dink Divas,Jami Kim-Rowley,Chrissy Mogan,Kim Lang,Lisa W Wingard,7,15
-18709,9,2026-04-23,TOC Dill Breakers,TOC Dink Divas,Patty Twomey,Rhonda Bowman Kaspar,MaryBeth Munz,Daisy VanCauwenbergh,1,15
-18733,1,2026-04-28,TOC Dill Breakers,TOC Kitchen Masters,Denise Wilson,Nadine Williams,Janeth Pearl,Joanne Eder,1,15
-18733,2,2026-04-28,TOC Dill Breakers,TOC Kitchen Masters,Jami Kim-Rowley,Anne Farmer,Lynette Peterson,Tammy H Clarke,15,5
-18733,3,2026-04-28,TOC Dill Breakers,TOC Kitchen Masters,Rhonda Bowman Kaspar,Patty Twomey,Beth F Warren,Lisa Card,6,15
-18733,4,2026-04-28,TOC Dill Breakers,TOC Kitchen Masters,Denise Wilson,Nadine Williams,Lynette Peterson,Tammy H Clarke,15,11
-18733,5,2026-04-28,TOC Dill Breakers,TOC Kitchen Masters,Jami Kim-Rowley,Anne Farmer,Beth F Warren,Lisa Card,4,15
-18733,6,2026-04-28,TOC Dill Breakers,TOC Kitchen Masters,Rhonda Bowman Kaspar,Patty Twomey,Janeth Pearl,Joanne Eder,5,15
-18733,7,2026-04-28,TOC Dill Breakers,TOC Kitchen Masters,Denise Wilson,Nadine Williams,Beth F Warren,Lisa Card,7,15
-18733,8,2026-04-28,TOC Dill Breakers,TOC Kitchen Masters,Jami Kim-Rowley,Anne Farmer,Janeth Pearl,Joanne Eder,3,15
-18733,9,2026-04-28,TOC Dill Breakers,TOC Kitchen Masters,Rhonda Bowman Kaspar,Patty Twomey,Lynette Peterson,Tammy H Clarke,9,15
-18730,1,2026-04-30,LOCH Dinkerbells,12OAKS Volley Llama Mamas,Anita C Barker,Vicki Rohde,Lori Nichols,Jacqueline Jett,1,15
-18730,2,2026-04-30,LOCH Dinkerbells,12OAKS Volley Llama Mamas,Francine Pearce,Patty L Owens,Susan B Harmon,Linda Day Colgan,8,15
-18730,3,2026-04-30,LOCH Dinkerbells,12OAKS Volley Llama Mamas,Sherrie L Bass,Suzan Bumby,Peggy Smith,Suzette Ward,15,7
-18730,4,2026-04-30,LOCH Dinkerbells,12OAKS Volley Llama Mamas,Anita C Barker,Vicki Rohde,Susan B Harmon,Linda Day Colgan,16,14
-18730,5,2026-04-30,LOCH Dinkerbells,12OAKS Volley Llama Mamas,Francine Pearce,Patty L Owens,Peggy Smith,Suzette Ward,15,12
-18730,6,2026-04-30,LOCH Dinkerbells,12OAKS Volley Llama Mamas,Sherrie L Bass,Suzan Bumby,Lori Nichols,Jacqueline Jett,4,15
-18730,7,2026-04-30,LOCH Dinkerbells,12OAKS Volley Llama Mamas,Anita C Barker,Vicki Rohde,Peggy Smith,Suzette Ward,15,2
-18730,8,2026-04-30,LOCH Dinkerbells,12OAKS Volley Llama Mamas,Francine Pearce,Patty L Owens,Lori Nichols,Jacqueline Jett,8,15
-18730,9,2026-04-30,LOCH Dinkerbells,12OAKS Volley Llama Mamas,Sherrie L Bass,Suzan Bumby,Susan B Harmon,Linda Day Colgan,15,4
-18731,1,2026-04-30,TOC Volley Girls 3.0,TOC Desperate Housewives of Wake County,Yolanda McCluney,Shubha Sachdev,Heather Kane,Christa Resavy,7,15
-18731,2,2026-04-30,TOC Volley Girls 3.0,TOC Desperate Housewives of Wake County,Cathy Culton,Rebecca Drabenstott,Lynelle Boorey,Valerie Dorrier,15,1
-18731,3,2026-04-30,TOC Volley Girls 3.0,TOC Desperate Housewives of Wake County,Kelda Bailey,Michelle Reyes,Wendy Pannell,Melissa Cetola,16,18
-18731,4,2026-04-30,TOC Volley Girls 3.0,TOC Desperate Housewives of Wake County,Yolanda McCluney,Shubha Sachdev,Lynelle Boorey,Valerie Dorrier,15,9
-18731,5,2026-04-30,TOC Volley Girls 3.0,TOC Desperate Housewives of Wake County,Cathy Culton,Rebecca Drabenstott,Wendy Pannell,Melissa Cetola,16,14
-18731,6,2026-04-30,TOC Volley Girls 3.0,TOC Desperate Housewives of Wake County,Kelda Bailey,Michelle Reyes,Heather Kane,Christa Resavy,11,15
-18731,7,2026-04-30,TOC Volley Girls 3.0,TOC Desperate Housewives of Wake County,Yolanda McCluney,Shubha Sachdev,Wendy Pannell,Melissa Cetola,16,14
-18731,8,2026-04-30,TOC Volley Girls 3.0,TOC Desperate Housewives of Wake County,Cathy Culton,Rebecca Drabenstott,Heather Kane,Christa Resavy,13,15
-18731,9,2026-04-30,TOC Volley Girls 3.0,TOC Desperate Housewives of Wake County,Kelda Bailey,Michelle Reyes,Lynelle Boorey,Valerie Dorrier,15,8
-18732,1,2026-04-30,TOC Dink Divas,TOC Mid-Court Crisis,Lori Bidgood,Suzanne Trexler,Kelly Young,Ali Mallison,11,15
-18732,2,2026-04-30,TOC Dink Divas,TOC Mid-Court Crisis,Tammy Bevan,Susan Washburn,Christy H Edwards,Karen Espenhahn,5,15
-18732,3,2026-04-30,TOC Dink Divas,TOC Mid-Court Crisis,Daisy VanCauwenbergh,MaryBeth Munz,Francie Low,Ellen A Elliott,15,11
-18732,4,2026-04-30,TOC Dink Divas,TOC Mid-Court Crisis,Lori Bidgood,Suzanne Trexler,Christy H Edwards,Karen Espenhahn,11,15
-18732,5,2026-04-30,TOC Dink Divas,TOC Mid-Court Crisis,Tammy Bevan,Susan Washburn,Francie Low,Ellen A Elliott,15,13
-18732,6,2026-04-30,TOC Dink Divas,TOC Mid-Court Crisis,Daisy VanCauwenbergh,MaryBeth Munz,Kelly Young,Ali Mallison,3,15
-18732,7,2026-04-30,TOC Dink Divas,TOC Mid-Court Crisis,Lori Bidgood,Suzanne Trexler,Francie Low,Ellen A Elliott,15,3
-18732,8,2026-04-30,TOC Dink Divas,TOC Mid-Court Crisis,Tammy Bevan,Susan Washburn,Kelly Young,Ali Mallison,6,15
-18732,9,2026-04-30,TOC Dink Divas,TOC Mid-Court Crisis,Daisy VanCauwenbergh,MaryBeth Munz,Christy H Edwards,Karen Espenhahn,15,12
-18757,1,2026-05-07,12OAKS Volley Llama Mamas,TOC Dink Divas,Linda Day Colgan,Lou Brooks,Lori Bidgood,Suzanne Trexler,5,15
-18757,2,2026-05-07,12OAKS Volley Llama Mamas,TOC Dink Divas,Lori Nichols,Jacqueline Jett,MaryBeth Munz,Daisy VanCauwenbergh,14,16
-18757,3,2026-05-07,12OAKS Volley Llama Mamas,TOC Dink Divas,Susan B Harmon,AnnMarie Johnson,Lisa W Wingard,Renee M Getz,15,8
-18757,4,2026-05-07,12OAKS Volley Llama Mamas,TOC Dink Divas,Linda Day Colgan,Lou Brooks,MaryBeth Munz,Daisy VanCauwenbergh,8,15
-18757,5,2026-05-07,12OAKS Volley Llama Mamas,TOC Dink Divas,Lori Nichols,Jacqueline Jett,Lisa W Wingard,Renee M Getz,15,9
-18757,6,2026-05-07,12OAKS Volley Llama Mamas,TOC Dink Divas,Susan B Harmon,AnnMarie Johnson,Lori Bidgood,Suzanne Trexler,8,15
-18757,7,2026-05-07,12OAKS Volley Llama Mamas,TOC Dink Divas,Linda Day Colgan,Lou Brooks,Lisa W Wingard,Renee M Getz,15,13
-18757,8,2026-05-07,12OAKS Volley Llama Mamas,TOC Dink Divas,Lori Nichols,Jacqueline Jett,Lori Bidgood,Suzanne Trexler,15,7
-18757,9,2026-05-07,12OAKS Volley Llama Mamas,TOC Dink Divas,Susan B Harmon,AnnMarie Johnson,MaryBeth Munz,Daisy VanCauwenbergh,15,9
-18758,1,2026-05-07,TOC Mid-Court Crisis,TOC Volley Girls 3.0,Dani Devinney,Tracie Stolove,Shubha Sachdev,Kate Morse Falkiner,0,15
-18758,2,2026-05-07,TOC Mid-Court Crisis,TOC Volley Girls 3.0,Francie Low,Ellen A Elliott,Stacy Zotter,Kelda Bailey,3,15
-18758,3,2026-05-07,TOC Mid-Court Crisis,TOC Volley Girls 3.0,Cherie D Berger,Dawn Worthington,Cathy Culton,Rebecca Drabenstott,4,15
-18758,4,2026-05-07,TOC Mid-Court Crisis,TOC Volley Girls 3.0,Dani Devinney,Tracie Stolove,Stacy Zotter,Kelda Bailey,4,15
-18758,5,2026-05-07,TOC Mid-Court Crisis,TOC Volley Girls 3.0,Francie Low,Ellen A Elliott,Cathy Culton,Rebecca Drabenstott,0,15
-18758,6,2026-05-07,TOC Mid-Court Crisis,TOC Volley Girls 3.0,Cherie D Berger,Dawn Worthington,Shubha Sachdev,Kate Morse Falkiner,6,15
-18758,7,2026-05-07,TOC Mid-Court Crisis,TOC Volley Girls 3.0,Dani Devinney,Tracie Stolove,Cathy Culton,Rebecca Drabenstott,3,15
-18758,8,2026-05-07,TOC Mid-Court Crisis,TOC Volley Girls 3.0,Francie Low,Ellen A Elliott,Shubha Sachdev,Kate Morse Falkiner,0,15
-18758,9,2026-05-07,TOC Mid-Court Crisis,TOC Volley Girls 3.0,Cherie D Berger,Dawn Worthington,Stacy Zotter,Kelda Bailey,15,12
-18759,1,2026-05-07,TOC Desperate Housewives of Wake County,LOCH Lochmere Ladies Picklers,AnneMarie Conklin,Wendy Pannell,Eileen Cavanaugh,Eileen Culley,15,1
-18759,2,2026-05-07,TOC Desperate Housewives of Wake County,LOCH Lochmere Ladies Picklers,Nicole Gagnon,Valerie Dorrier,Vanessa Uecker Martini,Becky Leblond,15,1
-18759,3,2026-05-07,TOC Desperate Housewives of Wake County,LOCH Lochmere Ladies Picklers,Christa Resavy,Ruth Coon,Barbara Jean Reichelt,Marti Crane,0,15
-18759,4,2026-05-07,TOC Desperate Housewives of Wake County,LOCH Lochmere Ladies Picklers,AnneMarie Conklin,Wendy Pannell,Vanessa Uecker Martini,Becky Leblond,15,6
-18759,5,2026-05-07,TOC Desperate Housewives of Wake County,LOCH Lochmere Ladies Picklers,Nicole Gagnon,Valerie Dorrier,Barbara Jean Reichelt,Marti Crane,15,7
-18759,6,2026-05-07,TOC Desperate Housewives of Wake County,LOCH Lochmere Ladies Picklers,Christa Resavy,Ruth Coon,Eileen Cavanaugh,Eileen Culley,0,15
-18759,7,2026-05-07,TOC Desperate Housewives of Wake County,LOCH Lochmere Ladies Picklers,AnneMarie Conklin,Wendy Pannell,Barbara Jean Reichelt,Marti Crane,15,2
-18759,8,2026-05-07,TOC Desperate Housewives of Wake County,LOCH Lochmere Ladies Picklers,Nicole Gagnon,Valerie Dorrier,Eileen Cavanaugh,Eileen Culley,15,13
-18759,9,2026-05-07,TOC Desperate Housewives of Wake County,LOCH Lochmere Ladies Picklers,Christa Resavy,Ruth Coon,Vanessa Uecker Martini,Becky Leblond,0,15
-18760,1,2026-05-07,TOC Kitchen Masters,LOCH Dinkerbells,Janeth Pearl,Joanne Eder,Bobbi Bell,Patty L Owens,15,12
-18760,2,2026-05-07,TOC Kitchen Masters,LOCH Dinkerbells,Lisa Card,Lynette Peterson,Carol N Wright,Suzan Bumby,12,15
-18760,3,2026-05-07,TOC Kitchen Masters,LOCH Dinkerbells,Cindie Johnson,Tammy H Clarke,Vicki Rohde,Anita C Barker,5,15
-18760,4,2026-05-07,TOC Kitchen Masters,LOCH Dinkerbells,Janeth Pearl,Joanne Eder,Carol N Wright,Suzan Bumby,15,10
-18760,5,2026-05-07,TOC Kitchen Masters,LOCH Dinkerbells,Lisa Card,Lynette Peterson,Vicki Rohde,Anita C Barker,5,15
-18760,6,2026-05-07,TOC Kitchen Masters,LOCH Dinkerbells,Cindie Johnson,Tammy H Clarke,Bobbi Bell,Patty L Owens,14,16
-18760,7,2026-05-07,TOC Kitchen Masters,LOCH Dinkerbells,Janeth Pearl,Joanne Eder,Vicki Rohde,Anita C Barker,15,3
-18760,8,2026-05-07,TOC Kitchen Masters,LOCH Dinkerbells,Lisa Card,Lynette Peterson,Bobbi Bell,Patty L Owens,7,15
-18760,9,2026-05-07,TOC Kitchen Masters,LOCH Dinkerbells,Cindie Johnson,Tammy H Clarke,Carol N Wright,Suzan Bumby,6,15
-18780,1,2026-05-14,12OAKS Volley Llama Mamas,TOC Dill Breakers,Linda Day Colgan,Suzette Ward,Rhonda Bowman Kaspar,Nelda Vanaarde,15,9
-18780,2,2026-05-14,12OAKS Volley Llama Mamas,TOC Dill Breakers,Lou Brooks,Susan B Harmon,Joey Gibson,Kelly Polizzi,15,7
-18780,3,2026-05-14,12OAKS Volley Llama Mamas,TOC Dill Breakers,Christine Tyner,Kristine Bachstein,Denise Wilson,Anne Farmer,12,15
-18780,4,2026-05-14,12OAKS Volley Llama Mamas,TOC Dill Breakers,Linda Day Colgan,Suzette Ward,Joey Gibson,Kelly Polizzi,15,9
-18780,5,2026-05-14,12OAKS Volley Llama Mamas,TOC Dill Breakers,Lou Brooks,Susan B Harmon,Denise Wilson,Anne Farmer,15,5
-18780,6,2026-05-14,12OAKS Volley Llama Mamas,TOC Dill Breakers,Christine Tyner,Kristine Bachstein,Rhonda Bowman Kaspar,Nelda Vanaarde,16,14
-18780,7,2026-05-14,12OAKS Volley Llama Mamas,TOC Dill Breakers,Linda Day Colgan,Suzette Ward,Denise Wilson,Anne Farmer,15,4
-18780,8,2026-05-14,12OAKS Volley Llama Mamas,TOC Dill Breakers,Lou Brooks,Susan B Harmon,Rhonda Bowman Kaspar,Nelda Vanaarde,15,1
-18780,9,2026-05-14,12OAKS Volley Llama Mamas,TOC Dill Breakers,Christine Tyner,Kristine Bachstein,Joey Gibson,Kelly Polizzi,13,15
-18781,1,2026-05-14,LOCH Lochmere Ladies Picklers,TOC Volley Girls 3.0,Eileen Cavanaugh,Eileen Culley,Kelda Bailey,Michelle Reyes,7,15
-18781,2,2026-05-14,LOCH Lochmere Ladies Picklers,TOC Volley Girls 3.0,Debbie Neel,Kathy Nigro,Yolanda McCluney,Shubha Sachdev,2,15
-18781,3,2026-05-14,LOCH Lochmere Ladies Picklers,TOC Volley Girls 3.0,Marti Crane,Becky Leblond,Pamela DeLoatch,Janny Frazier,9,15
-18781,4,2026-05-14,LOCH Lochmere Ladies Picklers,TOC Volley Girls 3.0,Eileen Cavanaugh,Eileen Culley,Yolanda McCluney,Shubha Sachdev,14,16
-18781,5,2026-05-14,LOCH Lochmere Ladies Picklers,TOC Volley Girls 3.0,Debbie Neel,Kathy Nigro,Pamela DeLoatch,Janny Frazier,6,15
-18781,6,2026-05-14,LOCH Lochmere Ladies Picklers,TOC Volley Girls 3.0,Marti Crane,Becky Leblond,Kelda Bailey,Michelle Reyes,4,15
-18781,7,2026-05-14,LOCH Lochmere Ladies Picklers,TOC Volley Girls 3.0,Eileen Cavanaugh,Eileen Culley,Pamela DeLoatch,Janny Frazier,8,15
-18781,8,2026-05-14,LOCH Lochmere Ladies Picklers,TOC Volley Girls 3.0,Debbie Neel,Kathy Nigro,Kelda Bailey,Michelle Reyes,2,15
-18781,9,2026-05-14,LOCH Lochmere Ladies Picklers,TOC Volley Girls 3.0,Marti Crane,Becky Leblond,Yolanda McCluney,Shubha Sachdev,7,15
-18782,1,2026-05-14,TOC Mid-Court Crisis,LOCH Dinkerbells,Christy H Edwards,Karen Espenhahn,Carol N Wright,Suzan Bumby,9,15
-18782,2,2026-05-14,TOC Mid-Court Crisis,LOCH Dinkerbells,Dani Devinney,Tracie Stolove,Vicki Rohde,Anita C Barker,6,15
-18782,3,2026-05-14,TOC Mid-Court Crisis,LOCH Dinkerbells,Francie Low,Ellen A Elliott,Bobbi Bell,Francine Pearce,4,15
-18782,4,2026-05-14,TOC Mid-Court Crisis,LOCH Dinkerbells,Christy H Edwards,Karen Espenhahn,Vicki Rohde,Anita C Barker,12,15
-18782,5,2026-05-14,TOC Mid-Court Crisis,LOCH Dinkerbells,Dani Devinney,Tracie Stolove,Bobbi Bell,Francine Pearce,13,15
-18782,6,2026-05-14,TOC Mid-Court Crisis,LOCH Dinkerbells,Francie Low,Ellen A Elliott,Carol N Wright,Suzan Bumby,4,15
-18782,7,2026-05-14,TOC Mid-Court Crisis,LOCH Dinkerbells,Christy H Edwards,Karen Espenhahn,Bobbi Bell,Francine Pearce,11,15
-18782,8,2026-05-14,TOC Mid-Court Crisis,LOCH Dinkerbells,Dani Devinney,Tracie Stolove,Carol N Wright,Suzan Bumby,1,15
-18782,9,2026-05-14,TOC Mid-Court Crisis,LOCH Dinkerbells,Francie Low,Ellen A Elliott,Vicki Rohde,Anita C Barker,3,15
-18783,1,2026-05-14,TOC Desperate Housewives of Wake County,TOC Dink Divas,Wendy Pannell,Valerie Dorrier,Lisa W Wingard,Kim Lang,15,6
-18783,2,2026-05-14,TOC Desperate Housewives of Wake County,TOC Dink Divas,Dawn Losito,Nicole Gagnon,Tammy Bevan,Susan Washburn,15,4
-18783,3,2026-05-14,TOC Desperate Housewives of Wake County,TOC Dink Divas,Ruth Coon,Christa Resavy,Elizabeth Curtis,Nicole Mars Juillerat,15,8
-18783,4,2026-05-14,TOC Desperate Housewives of Wake County,TOC Dink Divas,Wendy Pannell,Valerie Dorrier,Tammy Bevan,Susan Washburn,15,3
-18783,5,2026-05-14,TOC Desperate Housewives of Wake County,TOC Dink Divas,Dawn Losito,Nicole Gagnon,Elizabeth Curtis,Nicole Mars Juillerat,8,15
-18783,6,2026-05-14,TOC Desperate Housewives of Wake County,TOC Dink Divas,Ruth Coon,Christa Resavy,Lisa W Wingard,Kim Lang,8,15
-18783,7,2026-05-14,TOC Desperate Housewives of Wake County,TOC Dink Divas,Wendy Pannell,Valerie Dorrier,Elizabeth Curtis,Nicole Mars Juillerat,15,1
-18783,8,2026-05-14,TOC Desperate Housewives of Wake County,TOC Dink Divas,Dawn Losito,Nicole Gagnon,Lisa W Wingard,Kim Lang,9,15
-18783,9,2026-05-14,TOC Desperate Housewives of Wake County,TOC Dink Divas,Ruth Coon,Christa Resavy,Tammy Bevan,Susan Washburn,15,4
-18809,1,2026-05-19,TOC Volley Girls 3.0,TOC Dink Divas,Yolanda McCluney,Shubha Sachdev,Renee M Getz,Daisy VanCauwenbergh,15,8
-18809,2,2026-05-19,TOC Volley Girls 3.0,TOC Dink Divas,Janny Frazier,Kate Morse Falkiner,Tammy Bevan,Kim Lang,15,9
-18809,3,2026-05-19,TOC Volley Girls 3.0,TOC Dink Divas,Pamela DeLoatch,Stacy Zotter,Lori Bidgood,Suzanne Trexler,15,13
-18809,4,2026-05-19,TOC Volley Girls 3.0,TOC Dink Divas,Yolanda McCluney,Shubha Sachdev,Tammy Bevan,Kim Lang,15,10
-18809,5,2026-05-19,TOC Volley Girls 3.0,TOC Dink Divas,Janny Frazier,Kate Morse Falkiner,Lori Bidgood,Suzanne Trexler,15,5
-18809,6,2026-05-19,TOC Volley Girls 3.0,TOC Dink Divas,Pamela DeLoatch,Stacy Zotter,Renee M Getz,Daisy VanCauwenbergh,15,10
-18809,7,2026-05-19,TOC Volley Girls 3.0,TOC Dink Divas,Yolanda McCluney,Shubha Sachdev,Lori Bidgood,Suzanne Trexler,12,15
-18809,8,2026-05-19,TOC Volley Girls 3.0,TOC Dink Divas,Janny Frazier,Kate Morse Falkiner,Renee M Getz,Daisy VanCauwenbergh,15,9
-18809,9,2026-05-19,TOC Volley Girls 3.0,TOC Dink Divas,Pamela DeLoatch,Stacy Zotter,Tammy Bevan,Kim Lang,15,9
-18806,1,2026-05-21,LOCH Lochmere Ladies Picklers,LOCH Dinkerbells,Eileen Cavanaugh,Eileen Culley,Bobbi Bell,Beverly Broslawsky,15,11
-18806,2,2026-05-21,LOCH Lochmere Ladies Picklers,LOCH Dinkerbells,Julie Burke,Marti Crane,Anita C Barker,Vicki Rohde,15,12
-18806,3,2026-05-21,LOCH Lochmere Ladies Picklers,LOCH Dinkerbells,Marilyn Terrill,Vanessa Uecker Martini,Carol N Wright,Suzan Bumby,10,15
-18806,4,2026-05-21,LOCH Lochmere Ladies Picklers,LOCH Dinkerbells,Eileen Cavanaugh,Eileen Culley,Anita C Barker,Vicki Rohde,11,15
-18806,5,2026-05-21,LOCH Lochmere Ladies Picklers,LOCH Dinkerbells,Julie Burke,Marti Crane,Carol N Wright,Suzan Bumby,7,15
-18806,6,2026-05-21,LOCH Lochmere Ladies Picklers,LOCH Dinkerbells,Marilyn Terrill,Vanessa Uecker Martini,Bobbi Bell,Beverly Broslawsky,15,13
-18806,7,2026-05-21,LOCH Lochmere Ladies Picklers,LOCH Dinkerbells,Eileen Cavanaugh,Eileen Culley,Carol N Wright,Suzan Bumby,8,15
-18806,8,2026-05-21,LOCH Lochmere Ladies Picklers,LOCH Dinkerbells,Julie Burke,Marti Crane,Bobbi Bell,Beverly Broslawsky,15,3
-18806,9,2026-05-21,LOCH Lochmere Ladies Picklers,LOCH Dinkerbells,Marilyn Terrill,Vanessa Uecker Martini,Anita C Barker,Vicki Rohde,4,15
-18807,1,2026-05-21,TOC Mid-Court Crisis,TOC Kitchen Masters,Cherie D Berger,Dawn Worthington,Tammy H Clarke,Janeth Pearl,16,18
-18807,2,2026-05-21,TOC Mid-Court Crisis,TOC Kitchen Masters,Tracie Stolove,Dani Devinney,Beth F Warren,Lynette Peterson,15,5
-18807,3,2026-05-21,TOC Mid-Court Crisis,TOC Kitchen Masters,Ali Mallison,Kelly Young,Joanne Eder,Lisa Card,15,8
-18807,4,2026-05-21,TOC Mid-Court Crisis,TOC Kitchen Masters,Cherie D Berger,Dawn Worthington,Beth F Warren,Lynette Peterson,15,2
-18807,5,2026-05-21,TOC Mid-Court Crisis,TOC Kitchen Masters,Tracie Stolove,Dani Devinney,Joanne Eder,Lisa Card,10,15
-18807,6,2026-05-21,TOC Mid-Court Crisis,TOC Kitchen Masters,Ali Mallison,Kelly Young,Tammy H Clarke,Janeth Pearl,15,10
-18807,7,2026-05-21,TOC Mid-Court Crisis,TOC Kitchen Masters,Cherie D Berger,Dawn Worthington,Joanne Eder,Lisa Card,6,15
-18807,8,2026-05-21,TOC Mid-Court Crisis,TOC Kitchen Masters,Tracie Stolove,Dani Devinney,Tammy H Clarke,Janeth Pearl,4,15
-18807,9,2026-05-21,TOC Mid-Court Crisis,TOC Kitchen Masters,Ali Mallison,Kelly Young,Beth F Warren,Lynette Peterson,15,3
-18808,1,2026-05-21,TOC Desperate Housewives of Wake County,TOC Dill Breakers,Heather Kane,Christa Resavy,Nelda Vanaarde,Patty Twomey,15,0
-18808,2,2026-05-21,TOC Desperate Housewives of Wake County,TOC Dill Breakers,Ruth Coon,Wendy Pannell,Nadine Williams,Teri Augustine,15,1
-18808,3,2026-05-21,TOC Desperate Housewives of Wake County,TOC Dill Breakers,DEFAULT,DEFAULT,DEFAULT,DEFAULT,0,0
-18808,4,2026-05-21,TOC Desperate Housewives of Wake County,TOC Dill Breakers,Heather Kane,Christa Resavy,Nadine Williams,Teri Augustine,15,7
-18808,5,2026-05-21,TOC Desperate Housewives of Wake County,TOC Dill Breakers,Ruth Coon,Wendy Pannell,DEFAULT,DEFAULT,15,0
-18808,6,2026-05-21,TOC Desperate Housewives of Wake County,TOC Dill Breakers,DEFAULT,DEFAULT,Nelda Vanaarde,Patty Twomey,0,15
-18808,7,2026-05-21,TOC Desperate Housewives of Wake County,TOC Dill Breakers,Heather Kane,Christa Resavy,DEFAULT,DEFAULT,15,0
-18808,8,2026-05-21,TOC Desperate Housewives of Wake County,TOC Dill Breakers,Ruth Coon,Wendy Pannell,Nelda Vanaarde,Patty Twomey,15,4
-18808,9,2026-05-21,TOC Desperate Housewives of Wake County,TOC Dill Breakers,DEFAULT,DEFAULT,Nadine Williams,Teri Augustine,0,15
-18818,1,2026-05-28,TOC Kitchen Masters,TOC Volley Girls 3.0,Susan Oglesby Reeves,Lisa Card,Shubha Sachdev,Yolanda McCluney,15,9
-18818,2,2026-05-28,TOC Kitchen Masters,TOC Volley Girls 3.0,Joanne Eder,Tammy H Clarke,Pamela DeLoatch,Michelle Reyes,15,17
-18818,3,2026-05-28,TOC Kitchen Masters,TOC Volley Girls 3.0,Lani Morrow,Beth F Warren,Kate Morse Falkiner,Janny Frazier,3,15
-18818,4,2026-05-28,TOC Kitchen Masters,TOC Volley Girls 3.0,Susan Oglesby Reeves,Lisa Card,Pamela DeLoatch,Michelle Reyes,11,15
-18818,5,2026-05-28,TOC Kitchen Masters,TOC Volley Girls 3.0,Joanne Eder,Tammy H Clarke,Kate Morse Falkiner,Janny Frazier,16,14
-18818,6,2026-05-28,TOC Kitchen Masters,TOC Volley Girls 3.0,Lani Morrow,Beth F Warren,Shubha Sachdev,Yolanda McCluney,4,15
-18818,7,2026-05-28,TOC Kitchen Masters,TOC Volley Girls 3.0,Susan Oglesby Reeves,Lisa Card,Kate Morse Falkiner,Janny Frazier,8,15
-18818,8,2026-05-28,TOC Kitchen Masters,TOC Volley Girls 3.0,Joanne Eder,Tammy H Clarke,Shubha Sachdev,Yolanda McCluney,5,15
-18818,9,2026-05-28,TOC Kitchen Masters,TOC Volley Girls 3.0,Lani Morrow,Beth F Warren,Pamela DeLoatch,Michelle Reyes,8,15
-18835,1,2026-06-07,TOC Volley Girls 3.0,LOCH Dinkerbells,Kelda Bailey,Stacy Zotter,Suzan Bumby,Carol N Wright,15,11
-18835,2,2026-06-07,TOC Volley Girls 3.0,LOCH Dinkerbells,Shubha Sachdev,Kate Morse Falkiner,Vicki Rohde,Anita C Barker,15,5
-18835,3,2026-06-07,TOC Volley Girls 3.0,LOCH Dinkerbells,Rebecca Drabenstott,Michelle Reyes,Sherrie L Bass,Bobbi Bell,11,15
-18835,4,2026-06-07,TOC Volley Girls 3.0,LOCH Dinkerbells,Kelda Bailey,Stacy Zotter,Vicki Rohde,Anita C Barker,15,8
-18835,5,2026-06-07,TOC Volley Girls 3.0,LOCH Dinkerbells,Shubha Sachdev,Kate Morse Falkiner,Sherrie L Bass,Bobbi Bell,15,4
-18835,6,2026-06-07,TOC Volley Girls 3.0,LOCH Dinkerbells,Rebecca Drabenstott,Michelle Reyes,Suzan Bumby,Carol N Wright,8,15
-18835,7,2026-06-07,TOC Volley Girls 3.0,LOCH Dinkerbells,Kelda Bailey,Stacy Zotter,Sherrie L Bass,Bobbi Bell,15,8
-18835,8,2026-06-07,TOC Volley Girls 3.0,LOCH Dinkerbells,Shubha Sachdev,Kate Morse Falkiner,Suzan Bumby,Carol N Wright,15,3
-18835,9,2026-06-07,TOC Volley Girls 3.0,LOCH Dinkerbells,Rebecca Drabenstott,Michelle Reyes,Vicki Rohde,Anita C Barker,15,4
+match_id,game_id,match_date,league,season,skill_level,age,gender,team1_name,team2_name,partner1,partner2,opponent1,opponent2,team1_points,team2_points
+18605,1,2026-03-19,cary,spring2026,highintermediate,50,women,LOCH Dinkerbells,TOC Desperate Housewives of Wake County,Beverly Broslawsky,Christie Benjamin,Christa Resavy,Lynelle Boorey,12,15
+18605,2,2026-03-19,cary,spring2026,highintermediate,50,women,LOCH Dinkerbells,TOC Desperate Housewives of Wake County,Carol N Wright,Sherrie L Bass,Ruth Coon,AnneMarie Conklin,15,5
+18605,3,2026-03-19,cary,spring2026,highintermediate,50,women,LOCH Dinkerbells,TOC Desperate Housewives of Wake County,Anita C Barker,Vicki Rohde,Nicole Gagnon,Julie T Stallman,13,15
+18605,4,2026-03-19,cary,spring2026,highintermediate,50,women,LOCH Dinkerbells,TOC Desperate Housewives of Wake County,Beverly Broslawsky,Christie Benjamin,Ruth Coon,AnneMarie Conklin,15,10
+18605,5,2026-03-19,cary,spring2026,highintermediate,50,women,LOCH Dinkerbells,TOC Desperate Housewives of Wake County,Carol N Wright,Sherrie L Bass,Nicole Gagnon,Julie T Stallman,15,3
+18605,6,2026-03-19,cary,spring2026,highintermediate,50,women,LOCH Dinkerbells,TOC Desperate Housewives of Wake County,Anita C Barker,Vicki Rohde,Christa Resavy,Lynelle Boorey,6,15
+18605,7,2026-03-19,cary,spring2026,highintermediate,50,women,LOCH Dinkerbells,TOC Desperate Housewives of Wake County,Beverly Broslawsky,Christie Benjamin,Nicole Gagnon,Julie T Stallman,15,8
+18605,8,2026-03-19,cary,spring2026,highintermediate,50,women,LOCH Dinkerbells,TOC Desperate Housewives of Wake County,Carol N Wright,Sherrie L Bass,Christa Resavy,Lynelle Boorey,15,11
+18605,9,2026-03-19,cary,spring2026,highintermediate,50,women,LOCH Dinkerbells,TOC Desperate Housewives of Wake County,Anita C Barker,Vicki Rohde,Ruth Coon,AnneMarie Conklin,4,15
+18606,1,2026-03-19,cary,spring2026,highintermediate,50,women,TOC Dink Divas,LOCH Lochmere Ladies Picklers,Daisy VanCauwenbergh,MaryBeth Munz,Sandra C Jolly,Eileen Cavanaugh,15,5
+18606,2,2026-03-19,cary,spring2026,highintermediate,50,women,TOC Dink Divas,LOCH Lochmere Ladies Picklers,Elizabeth Curtis,Nicole Mars Juillerat,Vanessa Uecker Martini,Kathy Nigro,14,16
+18606,3,2026-03-19,cary,spring2026,highintermediate,50,women,TOC Dink Divas,LOCH Lochmere Ladies Picklers,Tammy Bevan,Susan Washburn,Barbara Jean Reichelt,Marilyn Terrill,8,15
+18606,4,2026-03-19,cary,spring2026,highintermediate,50,women,TOC Dink Divas,LOCH Lochmere Ladies Picklers,Daisy VanCauwenbergh,MaryBeth Munz,Vanessa Uecker Martini,Kathy Nigro,15,8
+18606,5,2026-03-19,cary,spring2026,highintermediate,50,women,TOC Dink Divas,LOCH Lochmere Ladies Picklers,Elizabeth Curtis,Nicole Mars Juillerat,Barbara Jean Reichelt,Marilyn Terrill,6,15
+18606,6,2026-03-19,cary,spring2026,highintermediate,50,women,TOC Dink Divas,LOCH Lochmere Ladies Picklers,Tammy Bevan,Susan Washburn,Sandra C Jolly,Eileen Cavanaugh,0,15
+18606,7,2026-03-19,cary,spring2026,highintermediate,50,women,TOC Dink Divas,LOCH Lochmere Ladies Picklers,Daisy VanCauwenbergh,MaryBeth Munz,Barbara Jean Reichelt,Marilyn Terrill,15,8
+18606,8,2026-03-19,cary,spring2026,highintermediate,50,women,TOC Dink Divas,LOCH Lochmere Ladies Picklers,Elizabeth Curtis,Nicole Mars Juillerat,Sandra C Jolly,Eileen Cavanaugh,5,15
+18606,9,2026-03-19,cary,spring2026,highintermediate,50,women,TOC Dink Divas,LOCH Lochmere Ladies Picklers,Tammy Bevan,Susan Washburn,Vanessa Uecker Martini,Kathy Nigro,15,6
+18607,1,2026-03-19,cary,spring2026,highintermediate,50,women,TOC Dill Breakers,TOC Mid-Court Crisis,Kelly Polizzi,Nadine Williams,Ali Mallison,Karen Espenhahn,3,15
+18607,2,2026-03-19,cary,spring2026,highintermediate,50,women,TOC Dill Breakers,TOC Mid-Court Crisis,Anne Farmer,Chrissy Mogan,Ellen A Elliott,Tracie Stolove,16,14
+18607,3,2026-03-19,cary,spring2026,highintermediate,50,women,TOC Dill Breakers,TOC Mid-Court Crisis,Teri Augustine,Vesna Neiberger,Cherie D Berger,Dawn Worthington,12,15
+18607,4,2026-03-19,cary,spring2026,highintermediate,50,women,TOC Dill Breakers,TOC Mid-Court Crisis,Kelly Polizzi,Nadine Williams,Ellen A Elliott,Tracie Stolove,6,15
+18607,5,2026-03-19,cary,spring2026,highintermediate,50,women,TOC Dill Breakers,TOC Mid-Court Crisis,Anne Farmer,Chrissy Mogan,Cherie D Berger,Dawn Worthington,4,15
+18607,6,2026-03-19,cary,spring2026,highintermediate,50,women,TOC Dill Breakers,TOC Mid-Court Crisis,Teri Augustine,Vesna Neiberger,Ali Mallison,Karen Espenhahn,15,13
+18607,7,2026-03-19,cary,spring2026,highintermediate,50,women,TOC Dill Breakers,TOC Mid-Court Crisis,Kelly Polizzi,Nadine Williams,Cherie D Berger,Dawn Worthington,1,15
+18607,8,2026-03-19,cary,spring2026,highintermediate,50,women,TOC Dill Breakers,TOC Mid-Court Crisis,Anne Farmer,Chrissy Mogan,Ali Mallison,Karen Espenhahn,4,15
+18607,9,2026-03-19,cary,spring2026,highintermediate,50,women,TOC Dill Breakers,TOC Mid-Court Crisis,Teri Augustine,Vesna Neiberger,Ellen A Elliott,Tracie Stolove,14,16
+18610,1,2026-03-19,cary,spring2026,highintermediate,50,women,TOC Kitchen Masters,12OAKS Volley Llama Mamas,Susan Oglesby Reeves,Joanne Eder,Peggy Smith,Susan B Harmon,15,1
+18610,2,2026-03-19,cary,spring2026,highintermediate,50,women,TOC Kitchen Masters,12OAKS Volley Llama Mamas,Beth F Warren,Lisa Card,Lou Brooks,AnnMarie Johnson,15,12
+18610,3,2026-03-19,cary,spring2026,highintermediate,50,women,TOC Kitchen Masters,12OAKS Volley Llama Mamas,DEFAULT,DEFAULT,Christine Tyner,Kristine Bachstein,0,15
+18610,4,2026-03-19,cary,spring2026,highintermediate,50,women,TOC Kitchen Masters,12OAKS Volley Llama Mamas,Susan Oglesby Reeves,Joanne Eder,Lou Brooks,AnnMarie Johnson,15,8
+18610,5,2026-03-19,cary,spring2026,highintermediate,50,women,TOC Kitchen Masters,12OAKS Volley Llama Mamas,Beth F Warren,Lisa Card,Christine Tyner,Kristine Bachstein,15,6
+18610,6,2026-03-19,cary,spring2026,highintermediate,50,women,TOC Kitchen Masters,12OAKS Volley Llama Mamas,DEFAULT,DEFAULT,Peggy Smith,Susan B Harmon,0,15
+18610,7,2026-03-19,cary,spring2026,highintermediate,50,women,TOC Kitchen Masters,12OAKS Volley Llama Mamas,Susan Oglesby Reeves,Joanne Eder,Christine Tyner,Kristine Bachstein,15,6
+18610,8,2026-03-19,cary,spring2026,highintermediate,50,women,TOC Kitchen Masters,12OAKS Volley Llama Mamas,Beth F Warren,Lisa Card,Peggy Smith,Susan B Harmon,11,15
+18610,9,2026-03-19,cary,spring2026,highintermediate,50,women,TOC Kitchen Masters,12OAKS Volley Llama Mamas,DEFAULT,DEFAULT,Lou Brooks,AnnMarie Johnson,0,15
+18631,1,2026-03-26,cary,spring2026,highintermediate,50,women,LOCH Lochmere Ladies Picklers,TOC Kitchen Masters,Eileen Culley,Eileen Cavanaugh,Janeth Pearl,Lani Morrow,9,15
+18631,2,2026-03-26,cary,spring2026,highintermediate,50,women,LOCH Lochmere Ladies Picklers,TOC Kitchen Masters,Sandra C Jolly,Melissa Feuerstein,Susan Oglesby Reeves,Lisa Card,10,15
+18631,3,2026-03-26,cary,spring2026,highintermediate,50,women,LOCH Lochmere Ladies Picklers,TOC Kitchen Masters,Vanessa Uecker Martini,Marti Crane,Tammy H Clarke,Lynette Peterson,15,7
+18631,4,2026-03-26,cary,spring2026,highintermediate,50,women,LOCH Lochmere Ladies Picklers,TOC Kitchen Masters,Eileen Culley,Eileen Cavanaugh,Susan Oglesby Reeves,Lisa Card,14,16
+18631,5,2026-03-26,cary,spring2026,highintermediate,50,women,LOCH Lochmere Ladies Picklers,TOC Kitchen Masters,Sandra C Jolly,Melissa Feuerstein,Tammy H Clarke,Lynette Peterson,7,15
+18631,6,2026-03-26,cary,spring2026,highintermediate,50,women,LOCH Lochmere Ladies Picklers,TOC Kitchen Masters,Vanessa Uecker Martini,Marti Crane,Janeth Pearl,Lani Morrow,6,15
+18631,7,2026-03-26,cary,spring2026,highintermediate,50,women,LOCH Lochmere Ladies Picklers,TOC Kitchen Masters,Eileen Culley,Eileen Cavanaugh,Tammy H Clarke,Lynette Peterson,15,5
+18631,8,2026-03-26,cary,spring2026,highintermediate,50,women,LOCH Lochmere Ladies Picklers,TOC Kitchen Masters,Sandra C Jolly,Melissa Feuerstein,Janeth Pearl,Lani Morrow,3,15
+18631,9,2026-03-26,cary,spring2026,highintermediate,50,women,LOCH Lochmere Ladies Picklers,TOC Kitchen Masters,Vanessa Uecker Martini,Marti Crane,Susan Oglesby Reeves,Lisa Card,10,15
+18632,1,2026-03-26,cary,spring2026,highintermediate,50,women,TOC Volley Girls 3.0,TOC Dill Breakers,Janny Frazier,Kate Morse Falkiner,Denise Wilson,Nadine Williams,15,1
+18632,2,2026-03-26,cary,spring2026,highintermediate,50,women,TOC Volley Girls 3.0,TOC Dill Breakers,Pamela DeLoatch,Stacy Zotter,Teri Augustine,Nelda Vanaarde,15,0
+18632,3,2026-03-26,cary,spring2026,highintermediate,50,women,TOC Volley Girls 3.0,TOC Dill Breakers,Yolanda McCluney,Rebecca Drabenstott,Patty Twomey,Rhonda Bowman Kaspar,15,11
+18632,4,2026-03-26,cary,spring2026,highintermediate,50,women,TOC Volley Girls 3.0,TOC Dill Breakers,Janny Frazier,Kate Morse Falkiner,Teri Augustine,Nelda Vanaarde,15,1
+18632,5,2026-03-26,cary,spring2026,highintermediate,50,women,TOC Volley Girls 3.0,TOC Dill Breakers,Pamela DeLoatch,Stacy Zotter,Patty Twomey,Rhonda Bowman Kaspar,15,4
+18632,6,2026-03-26,cary,spring2026,highintermediate,50,women,TOC Volley Girls 3.0,TOC Dill Breakers,Yolanda McCluney,Rebecca Drabenstott,Denise Wilson,Nadine Williams,15,6
+18632,7,2026-03-26,cary,spring2026,highintermediate,50,women,TOC Volley Girls 3.0,TOC Dill Breakers,Janny Frazier,Kate Morse Falkiner,Patty Twomey,Rhonda Bowman Kaspar,15,3
+18632,8,2026-03-26,cary,spring2026,highintermediate,50,women,TOC Volley Girls 3.0,TOC Dill Breakers,Pamela DeLoatch,Stacy Zotter,Denise Wilson,Nadine Williams,15,4
+18632,9,2026-03-26,cary,spring2026,highintermediate,50,women,TOC Volley Girls 3.0,TOC Dill Breakers,Yolanda McCluney,Rebecca Drabenstott,Teri Augustine,Nelda Vanaarde,15,6
+18633,1,2026-03-26,cary,spring2026,highintermediate,50,women,TOC Dink Divas,LOCH Dinkerbells,Lori Bidgood,Suzanne Trexler,Bobbi Bell,Patty L Owens,15,11
+18633,2,2026-03-26,cary,spring2026,highintermediate,50,women,TOC Dink Divas,LOCH Dinkerbells,Daisy VanCauwenbergh,Kim Lang,Carol N Wright,Suzan Bumby,7,15
+18633,3,2026-03-26,cary,spring2026,highintermediate,50,women,TOC Dink Divas,LOCH Dinkerbells,Elizabeth Curtis,Nicole Mars Juillerat,Anita C Barker,Vicki Rohde,6,15
+18633,4,2026-03-26,cary,spring2026,highintermediate,50,women,TOC Dink Divas,LOCH Dinkerbells,Lori Bidgood,Suzanne Trexler,Carol N Wright,Suzan Bumby,8,15
+18633,5,2026-03-26,cary,spring2026,highintermediate,50,women,TOC Dink Divas,LOCH Dinkerbells,Daisy VanCauwenbergh,Kim Lang,Anita C Barker,Vicki Rohde,4,15
+18633,6,2026-03-26,cary,spring2026,highintermediate,50,women,TOC Dink Divas,LOCH Dinkerbells,Elizabeth Curtis,Nicole Mars Juillerat,Bobbi Bell,Patty L Owens,15,12
+18633,7,2026-03-26,cary,spring2026,highintermediate,50,women,TOC Dink Divas,LOCH Dinkerbells,Lori Bidgood,Suzanne Trexler,Anita C Barker,Vicki Rohde,15,7
+18633,8,2026-03-26,cary,spring2026,highintermediate,50,women,TOC Dink Divas,LOCH Dinkerbells,Daisy VanCauwenbergh,Kim Lang,Bobbi Bell,Patty L Owens,2,15
+18633,9,2026-03-26,cary,spring2026,highintermediate,50,women,TOC Dink Divas,LOCH Dinkerbells,Elizabeth Curtis,Nicole Mars Juillerat,Carol N Wright,Suzan Bumby,8,15
+18643,1,2026-04-02,cary,spring2026,highintermediate,50,women,TOC Desperate Housewives of Wake County,12OAKS Volley Llama Mamas,Christa Resavy,Heather Kane,Christine Tyner,Kristine Bachstein,15,7
+18643,2,2026-04-02,cary,spring2026,highintermediate,50,women,TOC Desperate Housewives of Wake County,12OAKS Volley Llama Mamas,Melissa Cetola,Wendy Pannell,Linda Day Colgan,Lou Brooks,15,2
+18643,3,2026-04-02,cary,spring2026,highintermediate,50,women,TOC Desperate Housewives of Wake County,12OAKS Volley Llama Mamas,Holly Haney,Kathryn L Jezior,Suzette Ward,Peggy Smith,11,15
+18643,4,2026-04-02,cary,spring2026,highintermediate,50,women,TOC Desperate Housewives of Wake County,12OAKS Volley Llama Mamas,Christa Resavy,Heather Kane,Linda Day Colgan,Lou Brooks,15,3
+18643,5,2026-04-02,cary,spring2026,highintermediate,50,women,TOC Desperate Housewives of Wake County,12OAKS Volley Llama Mamas,Melissa Cetola,Wendy Pannell,Suzette Ward,Peggy Smith,15,0
+18643,6,2026-04-02,cary,spring2026,highintermediate,50,women,TOC Desperate Housewives of Wake County,12OAKS Volley Llama Mamas,Holly Haney,Kathryn L Jezior,Christine Tyner,Kristine Bachstein,16,14
+18643,7,2026-04-02,cary,spring2026,highintermediate,50,women,TOC Desperate Housewives of Wake County,12OAKS Volley Llama Mamas,Christa Resavy,Heather Kane,Suzette Ward,Peggy Smith,15,2
+18643,8,2026-04-02,cary,spring2026,highintermediate,50,women,TOC Desperate Housewives of Wake County,12OAKS Volley Llama Mamas,Melissa Cetola,Wendy Pannell,Christine Tyner,Kristine Bachstein,15,2
+18643,9,2026-04-02,cary,spring2026,highintermediate,50,women,TOC Desperate Housewives of Wake County,12OAKS Volley Llama Mamas,Holly Haney,Kathryn L Jezior,Linda Day Colgan,Lou Brooks,9,15
+18657,1,2026-04-09,cary,spring2026,highintermediate,50,women,12OAKS Volley Llama Mamas,TOC Mid-Court Crisis,Peggy Smith,Suzette Ward,Cherie D Berger,Dawn Worthington,5,15
+18657,2,2026-04-09,cary,spring2026,highintermediate,50,women,12OAKS Volley Llama Mamas,TOC Mid-Court Crisis,Ellen Polk,Dee Murray,Dani Devinney,Tracie Stolove,8,15
+18657,3,2026-04-09,cary,spring2026,highintermediate,50,women,12OAKS Volley Llama Mamas,TOC Mid-Court Crisis,Lori Nichols,Jacqueline Jett,Francie Low,Christy H Edwards,15,5
+18657,4,2026-04-09,cary,spring2026,highintermediate,50,women,12OAKS Volley Llama Mamas,TOC Mid-Court Crisis,Peggy Smith,Suzette Ward,Dani Devinney,Tracie Stolove,15,1
+18657,5,2026-04-09,cary,spring2026,highintermediate,50,women,12OAKS Volley Llama Mamas,TOC Mid-Court Crisis,Ellen Polk,Dee Murray,Francie Low,Christy H Edwards,5,15
+18657,6,2026-04-09,cary,spring2026,highintermediate,50,women,12OAKS Volley Llama Mamas,TOC Mid-Court Crisis,Lori Nichols,Jacqueline Jett,Cherie D Berger,Dawn Worthington,15,13
+18657,7,2026-04-09,cary,spring2026,highintermediate,50,women,12OAKS Volley Llama Mamas,TOC Mid-Court Crisis,Peggy Smith,Suzette Ward,Francie Low,Christy H Edwards,6,15
+18657,8,2026-04-09,cary,spring2026,highintermediate,50,women,12OAKS Volley Llama Mamas,TOC Mid-Court Crisis,Ellen Polk,Dee Murray,Cherie D Berger,Dawn Worthington,4,15
+18657,9,2026-04-09,cary,spring2026,highintermediate,50,women,12OAKS Volley Llama Mamas,TOC Mid-Court Crisis,Lori Nichols,Jacqueline Jett,Dani Devinney,Tracie Stolove,15,8
+18658,1,2026-04-09,cary,spring2026,highintermediate,50,women,LOCH Dinkerbells,TOC Volley Girls 3.0,Suzan Bumby,Carol N Wright,Shubha Sachdev,Rebecca Drabenstott,15,8
+18658,2,2026-04-09,cary,spring2026,highintermediate,50,women,LOCH Dinkerbells,TOC Volley Girls 3.0,Anita C Barker,Vicki Rohde,Pamela DeLoatch,Stacy Zotter,9,15
+18658,3,2026-04-09,cary,spring2026,highintermediate,50,women,LOCH Dinkerbells,TOC Volley Girls 3.0,Beverly Broslawsky,Christie Benjamin,Cathy Culton,Michelle Reyes,1,15
+18658,4,2026-04-09,cary,spring2026,highintermediate,50,women,LOCH Dinkerbells,TOC Volley Girls 3.0,Suzan Bumby,Carol N Wright,Pamela DeLoatch,Stacy Zotter,15,6
+18658,5,2026-04-09,cary,spring2026,highintermediate,50,women,LOCH Dinkerbells,TOC Volley Girls 3.0,Anita C Barker,Vicki Rohde,Cathy Culton,Michelle Reyes,7,15
+18658,6,2026-04-09,cary,spring2026,highintermediate,50,women,LOCH Dinkerbells,TOC Volley Girls 3.0,Beverly Broslawsky,Christie Benjamin,Shubha Sachdev,Rebecca Drabenstott,7,15
+18658,7,2026-04-09,cary,spring2026,highintermediate,50,women,LOCH Dinkerbells,TOC Volley Girls 3.0,Suzan Bumby,Carol N Wright,Cathy Culton,Michelle Reyes,12,15
+18658,8,2026-04-09,cary,spring2026,highintermediate,50,women,LOCH Dinkerbells,TOC Volley Girls 3.0,Anita C Barker,Vicki Rohde,Shubha Sachdev,Rebecca Drabenstott,9,15
+18658,9,2026-04-09,cary,spring2026,highintermediate,50,women,LOCH Dinkerbells,TOC Volley Girls 3.0,Beverly Broslawsky,Christie Benjamin,Pamela DeLoatch,Stacy Zotter,13,15
+18659,1,2026-04-09,cary,spring2026,highintermediate,50,women,TOC Dill Breakers,LOCH Lochmere Ladies Picklers,Joey Gibson,Kelly Polizzi,Eileen Cavanaugh,Eileen Culley,5,15
+18659,2,2026-04-09,cary,spring2026,highintermediate,50,women,TOC Dill Breakers,LOCH Lochmere Ladies Picklers,Nelda Vanaarde,Nadine Williams,Kathy Nigro,Julie Burke,3,15
+18659,3,2026-04-09,cary,spring2026,highintermediate,50,women,TOC Dill Breakers,LOCH Lochmere Ladies Picklers,Jami Kim-Rowley,Chrissy Mogan,Marilyn Terrill,Barbara Jean Reichelt,11,15
+18659,4,2026-04-09,cary,spring2026,highintermediate,50,women,TOC Dill Breakers,LOCH Lochmere Ladies Picklers,Joey Gibson,Kelly Polizzi,Kathy Nigro,Julie Burke,7,15
+18659,5,2026-04-09,cary,spring2026,highintermediate,50,women,TOC Dill Breakers,LOCH Lochmere Ladies Picklers,Nelda Vanaarde,Nadine Williams,Marilyn Terrill,Barbara Jean Reichelt,10,15
+18659,6,2026-04-09,cary,spring2026,highintermediate,50,women,TOC Dill Breakers,LOCH Lochmere Ladies Picklers,Jami Kim-Rowley,Chrissy Mogan,Eileen Cavanaugh,Eileen Culley,7,15
+18659,7,2026-04-09,cary,spring2026,highintermediate,50,women,TOC Dill Breakers,LOCH Lochmere Ladies Picklers,Joey Gibson,Kelly Polizzi,Marilyn Terrill,Barbara Jean Reichelt,5,15
+18659,8,2026-04-09,cary,spring2026,highintermediate,50,women,TOC Dill Breakers,LOCH Lochmere Ladies Picklers,Nelda Vanaarde,Nadine Williams,Eileen Cavanaugh,Eileen Culley,2,15
+18659,9,2026-04-09,cary,spring2026,highintermediate,50,women,TOC Dill Breakers,LOCH Lochmere Ladies Picklers,Jami Kim-Rowley,Chrissy Mogan,Kathy Nigro,Julie Burke,10,15
+18660,1,2026-04-09,cary,spring2026,highintermediate,50,women,TOC Kitchen Masters,TOC Desperate Housewives of Wake County,Lani Morrow,Janeth Pearl,Melissa Cetola,Valerie Dorrier,15,11
+18660,2,2026-04-09,cary,spring2026,highintermediate,50,women,TOC Kitchen Masters,TOC Desperate Housewives of Wake County,Susan Oglesby Reeves,Lisa Card,Lynelle Boorey,Dawn Losito,17,15
+18660,3,2026-04-09,cary,spring2026,highintermediate,50,women,TOC Kitchen Masters,TOC Desperate Housewives of Wake County,Joanne Eder,Tammy H Clarke,Heather Kane,AnneMarie Conklin,7,15
+18660,4,2026-04-09,cary,spring2026,highintermediate,50,women,TOC Kitchen Masters,TOC Desperate Housewives of Wake County,Lani Morrow,Janeth Pearl,Lynelle Boorey,Dawn Losito,15,9
+18660,5,2026-04-09,cary,spring2026,highintermediate,50,women,TOC Kitchen Masters,TOC Desperate Housewives of Wake County,Susan Oglesby Reeves,Lisa Card,Heather Kane,AnneMarie Conklin,10,15
+18660,6,2026-04-09,cary,spring2026,highintermediate,50,women,TOC Kitchen Masters,TOC Desperate Housewives of Wake County,Joanne Eder,Tammy H Clarke,Melissa Cetola,Valerie Dorrier,6,15
+18660,7,2026-04-09,cary,spring2026,highintermediate,50,women,TOC Kitchen Masters,TOC Desperate Housewives of Wake County,Lani Morrow,Janeth Pearl,Heather Kane,AnneMarie Conklin,3,15
+18660,8,2026-04-09,cary,spring2026,highintermediate,50,women,TOC Kitchen Masters,TOC Desperate Housewives of Wake County,Susan Oglesby Reeves,Lisa Card,Melissa Cetola,Valerie Dorrier,11,15
+18660,9,2026-04-09,cary,spring2026,highintermediate,50,women,TOC Kitchen Masters,TOC Desperate Housewives of Wake County,Joanne Eder,Tammy H Clarke,Lynelle Boorey,Dawn Losito,15,7
+18681,1,2026-04-16,cary,spring2026,highintermediate,50,women,LOCH Lochmere Ladies Picklers,TOC Mid-Court Crisis,Vanessa Uecker Martini,Julie Burke,Kelly Young,Ali Mallison,2,15
+18681,2,2026-04-16,cary,spring2026,highintermediate,50,women,LOCH Lochmere Ladies Picklers,TOC Mid-Court Crisis,Melissa Feuerstein,Becky Leblond,Christy H Edwards,Karen Espenhahn,10,15
+18681,3,2026-04-16,cary,spring2026,highintermediate,50,women,LOCH Lochmere Ladies Picklers,TOC Mid-Court Crisis,Sandra C Jolly,Barbara Jean Reichelt,Tracie Stolove,Dani Devinney,5,15
+18681,4,2026-04-16,cary,spring2026,highintermediate,50,women,LOCH Lochmere Ladies Picklers,TOC Mid-Court Crisis,Vanessa Uecker Martini,Julie Burke,Christy H Edwards,Karen Espenhahn,12,15
+18681,5,2026-04-16,cary,spring2026,highintermediate,50,women,LOCH Lochmere Ladies Picklers,TOC Mid-Court Crisis,Melissa Feuerstein,Becky Leblond,Tracie Stolove,Dani Devinney,8,15
+18681,6,2026-04-16,cary,spring2026,highintermediate,50,women,LOCH Lochmere Ladies Picklers,TOC Mid-Court Crisis,Sandra C Jolly,Barbara Jean Reichelt,Kelly Young,Ali Mallison,15,10
+18681,7,2026-04-16,cary,spring2026,highintermediate,50,women,LOCH Lochmere Ladies Picklers,TOC Mid-Court Crisis,Vanessa Uecker Martini,Julie Burke,Tracie Stolove,Dani Devinney,11,15
+18681,8,2026-04-16,cary,spring2026,highintermediate,50,women,LOCH Lochmere Ladies Picklers,TOC Mid-Court Crisis,Melissa Feuerstein,Becky Leblond,Kelly Young,Ali Mallison,1,15
+18681,9,2026-04-16,cary,spring2026,highintermediate,50,women,LOCH Lochmere Ladies Picklers,TOC Mid-Court Crisis,Sandra C Jolly,Barbara Jean Reichelt,Christy H Edwards,Karen Espenhahn,17,15
+18682,1,2026-04-16,cary,spring2026,highintermediate,50,women,LOCH Dinkerbells,TOC Dill Breakers,Francine Pearce,Patty L Owens,Joey Gibson,Kelly Polizzi,9,15
+18682,2,2026-04-16,cary,spring2026,highintermediate,50,women,LOCH Dinkerbells,TOC Dill Breakers,Anita C Barker,Vicki Rohde,Anne Farmer,Jami Kim-Rowley,15,6
+18682,3,2026-04-16,cary,spring2026,highintermediate,50,women,LOCH Dinkerbells,TOC Dill Breakers,Beverly Broslawsky,Suzan Bumby,Teri Augustine,Patty Twomey,15,0
+18682,4,2026-04-16,cary,spring2026,highintermediate,50,women,LOCH Dinkerbells,TOC Dill Breakers,Francine Pearce,Patty L Owens,Anne Farmer,Jami Kim-Rowley,7,15
+18682,5,2026-04-16,cary,spring2026,highintermediate,50,women,LOCH Dinkerbells,TOC Dill Breakers,Anita C Barker,Vicki Rohde,Teri Augustine,Patty Twomey,15,10
+18682,6,2026-04-16,cary,spring2026,highintermediate,50,women,LOCH Dinkerbells,TOC Dill Breakers,Beverly Broslawsky,Suzan Bumby,Joey Gibson,Kelly Polizzi,15,5
+18682,7,2026-04-16,cary,spring2026,highintermediate,50,women,LOCH Dinkerbells,TOC Dill Breakers,Francine Pearce,Patty L Owens,Teri Augustine,Patty Twomey,15,4
+18682,8,2026-04-16,cary,spring2026,highintermediate,50,women,LOCH Dinkerbells,TOC Dill Breakers,Anita C Barker,Vicki Rohde,Joey Gibson,Kelly Polizzi,15,1
+18682,9,2026-04-16,cary,spring2026,highintermediate,50,women,LOCH Dinkerbells,TOC Dill Breakers,Beverly Broslawsky,Suzan Bumby,Anne Farmer,Jami Kim-Rowley,5,15
+18683,1,2026-04-16,cary,spring2026,highintermediate,50,women,TOC Volley Girls 3.0,12OAKS Volley Llama Mamas,Pamela DeLoatch,Kate Morse Falkiner,Kristine Bachstein,Susan B Harmon,10,15
+18683,2,2026-04-16,cary,spring2026,highintermediate,50,women,TOC Volley Girls 3.0,12OAKS Volley Llama Mamas,Cathy Culton,Rebecca Drabenstott,Lori Nichols,Jacqueline Jett,15,7
+18683,3,2026-04-16,cary,spring2026,highintermediate,50,women,TOC Volley Girls 3.0,12OAKS Volley Llama Mamas,Stacy Zotter,Kelda Bailey,Suzette Ward,Peggy Smith,15,7
+18683,4,2026-04-16,cary,spring2026,highintermediate,50,women,TOC Volley Girls 3.0,12OAKS Volley Llama Mamas,Pamela DeLoatch,Kate Morse Falkiner,Lori Nichols,Jacqueline Jett,10,15
+18683,5,2026-04-16,cary,spring2026,highintermediate,50,women,TOC Volley Girls 3.0,12OAKS Volley Llama Mamas,Cathy Culton,Rebecca Drabenstott,Suzette Ward,Peggy Smith,15,6
+18683,6,2026-04-16,cary,spring2026,highintermediate,50,women,TOC Volley Girls 3.0,12OAKS Volley Llama Mamas,Stacy Zotter,Kelda Bailey,Kristine Bachstein,Susan B Harmon,15,7
+18683,7,2026-04-16,cary,spring2026,highintermediate,50,women,TOC Volley Girls 3.0,12OAKS Volley Llama Mamas,Pamela DeLoatch,Kate Morse Falkiner,Suzette Ward,Peggy Smith,15,8
+18683,8,2026-04-16,cary,spring2026,highintermediate,50,women,TOC Volley Girls 3.0,12OAKS Volley Llama Mamas,Cathy Culton,Rebecca Drabenstott,Kristine Bachstein,Susan B Harmon,15,10
+18683,9,2026-04-16,cary,spring2026,highintermediate,50,women,TOC Volley Girls 3.0,12OAKS Volley Llama Mamas,Stacy Zotter,Kelda Bailey,Lori Nichols,Jacqueline Jett,15,8
+18684,1,2026-04-16,cary,spring2026,highintermediate,50,women,TOC Dink Divas,TOC Kitchen Masters,Elizabeth Curtis,Nicole Mars Juillerat,Beth F Warren,Lani Morrow,3,15
+18684,2,2026-04-16,cary,spring2026,highintermediate,50,women,TOC Dink Divas,TOC Kitchen Masters,Susan Washburn,Tammy Bevan,Lisa Card,Lynette Peterson,15,8
+18684,3,2026-04-16,cary,spring2026,highintermediate,50,women,TOC Dink Divas,TOC Kitchen Masters,Daisy VanCauwenbergh,Lynn Ann Swanson,Cindie Johnson,Tammy H Clarke,8,15
+18684,4,2026-04-16,cary,spring2026,highintermediate,50,women,TOC Dink Divas,TOC Kitchen Masters,Elizabeth Curtis,Nicole Mars Juillerat,Lisa Card,Lynette Peterson,15,6
+18684,5,2026-04-16,cary,spring2026,highintermediate,50,women,TOC Dink Divas,TOC Kitchen Masters,Susan Washburn,Tammy Bevan,Cindie Johnson,Tammy H Clarke,1,15
+18684,6,2026-04-16,cary,spring2026,highintermediate,50,women,TOC Dink Divas,TOC Kitchen Masters,Daisy VanCauwenbergh,Lynn Ann Swanson,Beth F Warren,Lani Morrow,0,15
+18684,7,2026-04-16,cary,spring2026,highintermediate,50,women,TOC Dink Divas,TOC Kitchen Masters,Elizabeth Curtis,Nicole Mars Juillerat,Cindie Johnson,Tammy H Clarke,15,7
+18684,8,2026-04-16,cary,spring2026,highintermediate,50,women,TOC Dink Divas,TOC Kitchen Masters,Susan Washburn,Tammy Bevan,Beth F Warren,Lani Morrow,7,15
+18684,9,2026-04-16,cary,spring2026,highintermediate,50,women,TOC Dink Divas,TOC Kitchen Masters,Daisy VanCauwenbergh,Lynn Ann Swanson,Lisa Card,Lynette Peterson,9,15
+18707,1,2026-04-23,cary,spring2026,highintermediate,50,women,12OAKS Volley Llama Mamas,LOCH Lochmere Ladies Picklers,Christine Tyner,Kristine Bachstein,Marti Crane,Julie Burke,11,15
+18707,2,2026-04-23,cary,spring2026,highintermediate,50,women,12OAKS Volley Llama Mamas,LOCH Lochmere Ladies Picklers,AnnMarie Johnson,Lou Brooks,Vanessa Uecker Martini,Kathy Nigro,15,6
+18707,3,2026-04-23,cary,spring2026,highintermediate,50,women,12OAKS Volley Llama Mamas,LOCH Lochmere Ladies Picklers,Suzette Ward,Peggy Smith,Marilyn Terrill,Melissa Feuerstein,15,0
+18707,4,2026-04-23,cary,spring2026,highintermediate,50,women,12OAKS Volley Llama Mamas,LOCH Lochmere Ladies Picklers,Christine Tyner,Kristine Bachstein,Vanessa Uecker Martini,Kathy Nigro,15,9
+18707,5,2026-04-23,cary,spring2026,highintermediate,50,women,12OAKS Volley Llama Mamas,LOCH Lochmere Ladies Picklers,AnnMarie Johnson,Lou Brooks,Marilyn Terrill,Melissa Feuerstein,15,2
+18707,6,2026-04-23,cary,spring2026,highintermediate,50,women,12OAKS Volley Llama Mamas,LOCH Lochmere Ladies Picklers,Suzette Ward,Peggy Smith,Marti Crane,Julie Burke,15,6
+18707,7,2026-04-23,cary,spring2026,highintermediate,50,women,12OAKS Volley Llama Mamas,LOCH Lochmere Ladies Picklers,Christine Tyner,Kristine Bachstein,Marilyn Terrill,Melissa Feuerstein,15,7
+18707,8,2026-04-23,cary,spring2026,highintermediate,50,women,12OAKS Volley Llama Mamas,LOCH Lochmere Ladies Picklers,AnnMarie Johnson,Lou Brooks,Marti Crane,Julie Burke,10,15
+18707,9,2026-04-23,cary,spring2026,highintermediate,50,women,12OAKS Volley Llama Mamas,LOCH Lochmere Ladies Picklers,Suzette Ward,Peggy Smith,Vanessa Uecker Martini,Kathy Nigro,15,5
+18708,1,2026-04-23,cary,spring2026,highintermediate,50,women,TOC Mid-Court Crisis,TOC Desperate Housewives of Wake County,Christy H Edwards,Karen Espenhahn,Christa Resavy,Heather Kane,11,15
+18708,2,2026-04-23,cary,spring2026,highintermediate,50,women,TOC Mid-Court Crisis,TOC Desperate Housewives of Wake County,Cherie D Berger,Dawn Worthington,Ruth Coon,AnneMarie Conklin,15,9
+18708,3,2026-04-23,cary,spring2026,highintermediate,50,women,TOC Mid-Court Crisis,TOC Desperate Housewives of Wake County,Kelly Young,Ali Mallison,Lynelle Boorey,Valerie Dorrier,3,15
+18708,4,2026-04-23,cary,spring2026,highintermediate,50,women,TOC Mid-Court Crisis,TOC Desperate Housewives of Wake County,Christy H Edwards,Karen Espenhahn,Ruth Coon,AnneMarie Conklin,4,15
+18708,5,2026-04-23,cary,spring2026,highintermediate,50,women,TOC Mid-Court Crisis,TOC Desperate Housewives of Wake County,Cherie D Berger,Dawn Worthington,Lynelle Boorey,Valerie Dorrier,9,15
+18708,6,2026-04-23,cary,spring2026,highintermediate,50,women,TOC Mid-Court Crisis,TOC Desperate Housewives of Wake County,Kelly Young,Ali Mallison,Christa Resavy,Heather Kane,7,15
+18708,7,2026-04-23,cary,spring2026,highintermediate,50,women,TOC Mid-Court Crisis,TOC Desperate Housewives of Wake County,Christy H Edwards,Karen Espenhahn,Lynelle Boorey,Valerie Dorrier,9,15
+18708,8,2026-04-23,cary,spring2026,highintermediate,50,women,TOC Mid-Court Crisis,TOC Desperate Housewives of Wake County,Cherie D Berger,Dawn Worthington,Christa Resavy,Heather Kane,9,15
+18708,9,2026-04-23,cary,spring2026,highintermediate,50,women,TOC Mid-Court Crisis,TOC Desperate Housewives of Wake County,Kelly Young,Ali Mallison,Ruth Coon,AnneMarie Conklin,15,11
+18709,1,2026-04-23,cary,spring2026,highintermediate,50,women,TOC Dill Breakers,TOC Dink Divas,Kelly Polizzi,Nelda Vanaarde,Kim Lang,Lisa W Wingard,7,15
+18709,2,2026-04-23,cary,spring2026,highintermediate,50,women,TOC Dill Breakers,TOC Dink Divas,Jami Kim-Rowley,Chrissy Mogan,MaryBeth Munz,Daisy VanCauwenbergh,11,15
+18709,3,2026-04-23,cary,spring2026,highintermediate,50,women,TOC Dill Breakers,TOC Dink Divas,Patty Twomey,Rhonda Bowman Kaspar,Lynn Ann Swanson,Renee M Getz,7,15
+18709,4,2026-04-23,cary,spring2026,highintermediate,50,women,TOC Dill Breakers,TOC Dink Divas,Kelly Polizzi,Nelda Vanaarde,MaryBeth Munz,Daisy VanCauwenbergh,7,15
+18709,5,2026-04-23,cary,spring2026,highintermediate,50,women,TOC Dill Breakers,TOC Dink Divas,Jami Kim-Rowley,Chrissy Mogan,Lynn Ann Swanson,Renee M Getz,15,6
+18709,6,2026-04-23,cary,spring2026,highintermediate,50,women,TOC Dill Breakers,TOC Dink Divas,Patty Twomey,Rhonda Bowman Kaspar,Kim Lang,Lisa W Wingard,15,9
+18709,7,2026-04-23,cary,spring2026,highintermediate,50,women,TOC Dill Breakers,TOC Dink Divas,Kelly Polizzi,Nelda Vanaarde,Lynn Ann Swanson,Renee M Getz,15,8
+18709,8,2026-04-23,cary,spring2026,highintermediate,50,women,TOC Dill Breakers,TOC Dink Divas,Jami Kim-Rowley,Chrissy Mogan,Kim Lang,Lisa W Wingard,7,15
+18709,9,2026-04-23,cary,spring2026,highintermediate,50,women,TOC Dill Breakers,TOC Dink Divas,Patty Twomey,Rhonda Bowman Kaspar,MaryBeth Munz,Daisy VanCauwenbergh,1,15
+18733,1,2026-04-28,cary,spring2026,highintermediate,50,women,TOC Dill Breakers,TOC Kitchen Masters,Denise Wilson,Nadine Williams,Janeth Pearl,Joanne Eder,1,15
+18733,2,2026-04-28,cary,spring2026,highintermediate,50,women,TOC Dill Breakers,TOC Kitchen Masters,Jami Kim-Rowley,Anne Farmer,Lynette Peterson,Tammy H Clarke,15,5
+18733,3,2026-04-28,cary,spring2026,highintermediate,50,women,TOC Dill Breakers,TOC Kitchen Masters,Rhonda Bowman Kaspar,Patty Twomey,Beth F Warren,Lisa Card,6,15
+18733,4,2026-04-28,cary,spring2026,highintermediate,50,women,TOC Dill Breakers,TOC Kitchen Masters,Denise Wilson,Nadine Williams,Lynette Peterson,Tammy H Clarke,15,11
+18733,5,2026-04-28,cary,spring2026,highintermediate,50,women,TOC Dill Breakers,TOC Kitchen Masters,Jami Kim-Rowley,Anne Farmer,Beth F Warren,Lisa Card,4,15
+18733,6,2026-04-28,cary,spring2026,highintermediate,50,women,TOC Dill Breakers,TOC Kitchen Masters,Rhonda Bowman Kaspar,Patty Twomey,Janeth Pearl,Joanne Eder,5,15
+18733,7,2026-04-28,cary,spring2026,highintermediate,50,women,TOC Dill Breakers,TOC Kitchen Masters,Denise Wilson,Nadine Williams,Beth F Warren,Lisa Card,7,15
+18733,8,2026-04-28,cary,spring2026,highintermediate,50,women,TOC Dill Breakers,TOC Kitchen Masters,Jami Kim-Rowley,Anne Farmer,Janeth Pearl,Joanne Eder,3,15
+18733,9,2026-04-28,cary,spring2026,highintermediate,50,women,TOC Dill Breakers,TOC Kitchen Masters,Rhonda Bowman Kaspar,Patty Twomey,Lynette Peterson,Tammy H Clarke,9,15
+18730,1,2026-04-30,cary,spring2026,highintermediate,50,women,LOCH Dinkerbells,12OAKS Volley Llama Mamas,Anita C Barker,Vicki Rohde,Lori Nichols,Jacqueline Jett,1,15
+18730,2,2026-04-30,cary,spring2026,highintermediate,50,women,LOCH Dinkerbells,12OAKS Volley Llama Mamas,Francine Pearce,Patty L Owens,Susan B Harmon,Linda Day Colgan,8,15
+18730,3,2026-04-30,cary,spring2026,highintermediate,50,women,LOCH Dinkerbells,12OAKS Volley Llama Mamas,Sherrie L Bass,Suzan Bumby,Peggy Smith,Suzette Ward,15,7
+18730,4,2026-04-30,cary,spring2026,highintermediate,50,women,LOCH Dinkerbells,12OAKS Volley Llama Mamas,Anita C Barker,Vicki Rohde,Susan B Harmon,Linda Day Colgan,16,14
+18730,5,2026-04-30,cary,spring2026,highintermediate,50,women,LOCH Dinkerbells,12OAKS Volley Llama Mamas,Francine Pearce,Patty L Owens,Peggy Smith,Suzette Ward,15,12
+18730,6,2026-04-30,cary,spring2026,highintermediate,50,women,LOCH Dinkerbells,12OAKS Volley Llama Mamas,Sherrie L Bass,Suzan Bumby,Lori Nichols,Jacqueline Jett,4,15
+18730,7,2026-04-30,cary,spring2026,highintermediate,50,women,LOCH Dinkerbells,12OAKS Volley Llama Mamas,Anita C Barker,Vicki Rohde,Peggy Smith,Suzette Ward,15,2
+18730,8,2026-04-30,cary,spring2026,highintermediate,50,women,LOCH Dinkerbells,12OAKS Volley Llama Mamas,Francine Pearce,Patty L Owens,Lori Nichols,Jacqueline Jett,8,15
+18730,9,2026-04-30,cary,spring2026,highintermediate,50,women,LOCH Dinkerbells,12OAKS Volley Llama Mamas,Sherrie L Bass,Suzan Bumby,Susan B Harmon,Linda Day Colgan,15,4
+18731,1,2026-04-30,cary,spring2026,highintermediate,50,women,TOC Volley Girls 3.0,TOC Desperate Housewives of Wake County,Yolanda McCluney,Shubha Sachdev,Heather Kane,Christa Resavy,7,15
+18731,2,2026-04-30,cary,spring2026,highintermediate,50,women,TOC Volley Girls 3.0,TOC Desperate Housewives of Wake County,Cathy Culton,Rebecca Drabenstott,Lynelle Boorey,Valerie Dorrier,15,1
+18731,3,2026-04-30,cary,spring2026,highintermediate,50,women,TOC Volley Girls 3.0,TOC Desperate Housewives of Wake County,Kelda Bailey,Michelle Reyes,Wendy Pannell,Melissa Cetola,16,18
+18731,4,2026-04-30,cary,spring2026,highintermediate,50,women,TOC Volley Girls 3.0,TOC Desperate Housewives of Wake County,Yolanda McCluney,Shubha Sachdev,Lynelle Boorey,Valerie Dorrier,15,9
+18731,5,2026-04-30,cary,spring2026,highintermediate,50,women,TOC Volley Girls 3.0,TOC Desperate Housewives of Wake County,Cathy Culton,Rebecca Drabenstott,Wendy Pannell,Melissa Cetola,16,14
+18731,6,2026-04-30,cary,spring2026,highintermediate,50,women,TOC Volley Girls 3.0,TOC Desperate Housewives of Wake County,Kelda Bailey,Michelle Reyes,Heather Kane,Christa Resavy,11,15
+18731,7,2026-04-30,cary,spring2026,highintermediate,50,women,TOC Volley Girls 3.0,TOC Desperate Housewives of Wake County,Yolanda McCluney,Shubha Sachdev,Wendy Pannell,Melissa Cetola,16,14
+18731,8,2026-04-30,cary,spring2026,highintermediate,50,women,TOC Volley Girls 3.0,TOC Desperate Housewives of Wake County,Cathy Culton,Rebecca Drabenstott,Heather Kane,Christa Resavy,13,15
+18731,9,2026-04-30,cary,spring2026,highintermediate,50,women,TOC Volley Girls 3.0,TOC Desperate Housewives of Wake County,Kelda Bailey,Michelle Reyes,Lynelle Boorey,Valerie Dorrier,15,8
+18732,1,2026-04-30,cary,spring2026,highintermediate,50,women,TOC Dink Divas,TOC Mid-Court Crisis,Lori Bidgood,Suzanne Trexler,Kelly Young,Ali Mallison,11,15
+18732,2,2026-04-30,cary,spring2026,highintermediate,50,women,TOC Dink Divas,TOC Mid-Court Crisis,Tammy Bevan,Susan Washburn,Christy H Edwards,Karen Espenhahn,5,15
+18732,3,2026-04-30,cary,spring2026,highintermediate,50,women,TOC Dink Divas,TOC Mid-Court Crisis,Daisy VanCauwenbergh,MaryBeth Munz,Francie Low,Ellen A Elliott,15,11
+18732,4,2026-04-30,cary,spring2026,highintermediate,50,women,TOC Dink Divas,TOC Mid-Court Crisis,Lori Bidgood,Suzanne Trexler,Christy H Edwards,Karen Espenhahn,11,15
+18732,5,2026-04-30,cary,spring2026,highintermediate,50,women,TOC Dink Divas,TOC Mid-Court Crisis,Tammy Bevan,Susan Washburn,Francie Low,Ellen A Elliott,15,13
+18732,6,2026-04-30,cary,spring2026,highintermediate,50,women,TOC Dink Divas,TOC Mid-Court Crisis,Daisy VanCauwenbergh,MaryBeth Munz,Kelly Young,Ali Mallison,3,15
+18732,7,2026-04-30,cary,spring2026,highintermediate,50,women,TOC Dink Divas,TOC Mid-Court Crisis,Lori Bidgood,Suzanne Trexler,Francie Low,Ellen A Elliott,15,3
+18732,8,2026-04-30,cary,spring2026,highintermediate,50,women,TOC Dink Divas,TOC Mid-Court Crisis,Tammy Bevan,Susan Washburn,Kelly Young,Ali Mallison,6,15
+18732,9,2026-04-30,cary,spring2026,highintermediate,50,women,TOC Dink Divas,TOC Mid-Court Crisis,Daisy VanCauwenbergh,MaryBeth Munz,Christy H Edwards,Karen Espenhahn,15,12
+18757,1,2026-05-07,cary,spring2026,highintermediate,50,women,12OAKS Volley Llama Mamas,TOC Dink Divas,Linda Day Colgan,Lou Brooks,Lori Bidgood,Suzanne Trexler,5,15
+18757,2,2026-05-07,cary,spring2026,highintermediate,50,women,12OAKS Volley Llama Mamas,TOC Dink Divas,Lori Nichols,Jacqueline Jett,MaryBeth Munz,Daisy VanCauwenbergh,14,16
+18757,3,2026-05-07,cary,spring2026,highintermediate,50,women,12OAKS Volley Llama Mamas,TOC Dink Divas,Susan B Harmon,AnnMarie Johnson,Lisa W Wingard,Renee M Getz,15,8
+18757,4,2026-05-07,cary,spring2026,highintermediate,50,women,12OAKS Volley Llama Mamas,TOC Dink Divas,Linda Day Colgan,Lou Brooks,MaryBeth Munz,Daisy VanCauwenbergh,8,15
+18757,5,2026-05-07,cary,spring2026,highintermediate,50,women,12OAKS Volley Llama Mamas,TOC Dink Divas,Lori Nichols,Jacqueline Jett,Lisa W Wingard,Renee M Getz,15,9
+18757,6,2026-05-07,cary,spring2026,highintermediate,50,women,12OAKS Volley Llama Mamas,TOC Dink Divas,Susan B Harmon,AnnMarie Johnson,Lori Bidgood,Suzanne Trexler,8,15
+18757,7,2026-05-07,cary,spring2026,highintermediate,50,women,12OAKS Volley Llama Mamas,TOC Dink Divas,Linda Day Colgan,Lou Brooks,Lisa W Wingard,Renee M Getz,15,13
+18757,8,2026-05-07,cary,spring2026,highintermediate,50,women,12OAKS Volley Llama Mamas,TOC Dink Divas,Lori Nichols,Jacqueline Jett,Lori Bidgood,Suzanne Trexler,15,7
+18757,9,2026-05-07,cary,spring2026,highintermediate,50,women,12OAKS Volley Llama Mamas,TOC Dink Divas,Susan B Harmon,AnnMarie Johnson,MaryBeth Munz,Daisy VanCauwenbergh,15,9
+18758,1,2026-05-07,cary,spring2026,highintermediate,50,women,TOC Mid-Court Crisis,TOC Volley Girls 3.0,Dani Devinney,Tracie Stolove,Shubha Sachdev,Kate Morse Falkiner,0,15
+18758,2,2026-05-07,cary,spring2026,highintermediate,50,women,TOC Mid-Court Crisis,TOC Volley Girls 3.0,Francie Low,Ellen A Elliott,Stacy Zotter,Kelda Bailey,3,15
+18758,3,2026-05-07,cary,spring2026,highintermediate,50,women,TOC Mid-Court Crisis,TOC Volley Girls 3.0,Cherie D Berger,Dawn Worthington,Cathy Culton,Rebecca Drabenstott,4,15
+18758,4,2026-05-07,cary,spring2026,highintermediate,50,women,TOC Mid-Court Crisis,TOC Volley Girls 3.0,Dani Devinney,Tracie Stolove,Stacy Zotter,Kelda Bailey,4,15
+18758,5,2026-05-07,cary,spring2026,highintermediate,50,women,TOC Mid-Court Crisis,TOC Volley Girls 3.0,Francie Low,Ellen A Elliott,Cathy Culton,Rebecca Drabenstott,0,15
+18758,6,2026-05-07,cary,spring2026,highintermediate,50,women,TOC Mid-Court Crisis,TOC Volley Girls 3.0,Cherie D Berger,Dawn Worthington,Shubha Sachdev,Kate Morse Falkiner,6,15
+18758,7,2026-05-07,cary,spring2026,highintermediate,50,women,TOC Mid-Court Crisis,TOC Volley Girls 3.0,Dani Devinney,Tracie Stolove,Cathy Culton,Rebecca Drabenstott,3,15
+18758,8,2026-05-07,cary,spring2026,highintermediate,50,women,TOC Mid-Court Crisis,TOC Volley Girls 3.0,Francie Low,Ellen A Elliott,Shubha Sachdev,Kate Morse Falkiner,0,15
+18758,9,2026-05-07,cary,spring2026,highintermediate,50,women,TOC Mid-Court Crisis,TOC Volley Girls 3.0,Cherie D Berger,Dawn Worthington,Stacy Zotter,Kelda Bailey,15,12
+18759,1,2026-05-07,cary,spring2026,highintermediate,50,women,TOC Desperate Housewives of Wake County,LOCH Lochmere Ladies Picklers,AnneMarie Conklin,Wendy Pannell,Eileen Cavanaugh,Eileen Culley,15,1
+18759,2,2026-05-07,cary,spring2026,highintermediate,50,women,TOC Desperate Housewives of Wake County,LOCH Lochmere Ladies Picklers,Nicole Gagnon,Valerie Dorrier,Vanessa Uecker Martini,Becky Leblond,15,1
+18759,3,2026-05-07,cary,spring2026,highintermediate,50,women,TOC Desperate Housewives of Wake County,LOCH Lochmere Ladies Picklers,Christa Resavy,Ruth Coon,Barbara Jean Reichelt,Marti Crane,0,15
+18759,4,2026-05-07,cary,spring2026,highintermediate,50,women,TOC Desperate Housewives of Wake County,LOCH Lochmere Ladies Picklers,AnneMarie Conklin,Wendy Pannell,Vanessa Uecker Martini,Becky Leblond,15,6
+18759,5,2026-05-07,cary,spring2026,highintermediate,50,women,TOC Desperate Housewives of Wake County,LOCH Lochmere Ladies Picklers,Nicole Gagnon,Valerie Dorrier,Barbara Jean Reichelt,Marti Crane,15,7
+18759,6,2026-05-07,cary,spring2026,highintermediate,50,women,TOC Desperate Housewives of Wake County,LOCH Lochmere Ladies Picklers,Christa Resavy,Ruth Coon,Eileen Cavanaugh,Eileen Culley,0,15
+18759,7,2026-05-07,cary,spring2026,highintermediate,50,women,TOC Desperate Housewives of Wake County,LOCH Lochmere Ladies Picklers,AnneMarie Conklin,Wendy Pannell,Barbara Jean Reichelt,Marti Crane,15,2
+18759,8,2026-05-07,cary,spring2026,highintermediate,50,women,TOC Desperate Housewives of Wake County,LOCH Lochmere Ladies Picklers,Nicole Gagnon,Valerie Dorrier,Eileen Cavanaugh,Eileen Culley,15,13
+18759,9,2026-05-07,cary,spring2026,highintermediate,50,women,TOC Desperate Housewives of Wake County,LOCH Lochmere Ladies Picklers,Christa Resavy,Ruth Coon,Vanessa Uecker Martini,Becky Leblond,0,15
+18760,1,2026-05-07,cary,spring2026,highintermediate,50,women,TOC Kitchen Masters,LOCH Dinkerbells,Janeth Pearl,Joanne Eder,Bobbi Bell,Patty L Owens,15,12
+18760,2,2026-05-07,cary,spring2026,highintermediate,50,women,TOC Kitchen Masters,LOCH Dinkerbells,Lisa Card,Lynette Peterson,Carol N Wright,Suzan Bumby,12,15
+18760,3,2026-05-07,cary,spring2026,highintermediate,50,women,TOC Kitchen Masters,LOCH Dinkerbells,Cindie Johnson,Tammy H Clarke,Vicki Rohde,Anita C Barker,5,15
+18760,4,2026-05-07,cary,spring2026,highintermediate,50,women,TOC Kitchen Masters,LOCH Dinkerbells,Janeth Pearl,Joanne Eder,Carol N Wright,Suzan Bumby,15,10
+18760,5,2026-05-07,cary,spring2026,highintermediate,50,women,TOC Kitchen Masters,LOCH Dinkerbells,Lisa Card,Lynette Peterson,Vicki Rohde,Anita C Barker,5,15
+18760,6,2026-05-07,cary,spring2026,highintermediate,50,women,TOC Kitchen Masters,LOCH Dinkerbells,Cindie Johnson,Tammy H Clarke,Bobbi Bell,Patty L Owens,14,16
+18760,7,2026-05-07,cary,spring2026,highintermediate,50,women,TOC Kitchen Masters,LOCH Dinkerbells,Janeth Pearl,Joanne Eder,Vicki Rohde,Anita C Barker,15,3
+18760,8,2026-05-07,cary,spring2026,highintermediate,50,women,TOC Kitchen Masters,LOCH Dinkerbells,Lisa Card,Lynette Peterson,Bobbi Bell,Patty L Owens,7,15
+18760,9,2026-05-07,cary,spring2026,highintermediate,50,women,TOC Kitchen Masters,LOCH Dinkerbells,Cindie Johnson,Tammy H Clarke,Carol N Wright,Suzan Bumby,6,15
+18780,1,2026-05-14,cary,spring2026,highintermediate,50,women,12OAKS Volley Llama Mamas,TOC Dill Breakers,Linda Day Colgan,Suzette Ward,Rhonda Bowman Kaspar,Nelda Vanaarde,15,9
+18780,2,2026-05-14,cary,spring2026,highintermediate,50,women,12OAKS Volley Llama Mamas,TOC Dill Breakers,Lou Brooks,Susan B Harmon,Joey Gibson,Kelly Polizzi,15,7
+18780,3,2026-05-14,cary,spring2026,highintermediate,50,women,12OAKS Volley Llama Mamas,TOC Dill Breakers,Christine Tyner,Kristine Bachstein,Denise Wilson,Anne Farmer,12,15
+18780,4,2026-05-14,cary,spring2026,highintermediate,50,women,12OAKS Volley Llama Mamas,TOC Dill Breakers,Linda Day Colgan,Suzette Ward,Joey Gibson,Kelly Polizzi,15,9
+18780,5,2026-05-14,cary,spring2026,highintermediate,50,women,12OAKS Volley Llama Mamas,TOC Dill Breakers,Lou Brooks,Susan B Harmon,Denise Wilson,Anne Farmer,15,5
+18780,6,2026-05-14,cary,spring2026,highintermediate,50,women,12OAKS Volley Llama Mamas,TOC Dill Breakers,Christine Tyner,Kristine Bachstein,Rhonda Bowman Kaspar,Nelda Vanaarde,16,14
+18780,7,2026-05-14,cary,spring2026,highintermediate,50,women,12OAKS Volley Llama Mamas,TOC Dill Breakers,Linda Day Colgan,Suzette Ward,Denise Wilson,Anne Farmer,15,4
+18780,8,2026-05-14,cary,spring2026,highintermediate,50,women,12OAKS Volley Llama Mamas,TOC Dill Breakers,Lou Brooks,Susan B Harmon,Rhonda Bowman Kaspar,Nelda Vanaarde,15,1
+18780,9,2026-05-14,cary,spring2026,highintermediate,50,women,12OAKS Volley Llama Mamas,TOC Dill Breakers,Christine Tyner,Kristine Bachstein,Joey Gibson,Kelly Polizzi,13,15
+18781,1,2026-05-14,cary,spring2026,highintermediate,50,women,LOCH Lochmere Ladies Picklers,TOC Volley Girls 3.0,Eileen Cavanaugh,Eileen Culley,Kelda Bailey,Michelle Reyes,7,15
+18781,2,2026-05-14,cary,spring2026,highintermediate,50,women,LOCH Lochmere Ladies Picklers,TOC Volley Girls 3.0,Debbie Neel,Kathy Nigro,Yolanda McCluney,Shubha Sachdev,2,15
+18781,3,2026-05-14,cary,spring2026,highintermediate,50,women,LOCH Lochmere Ladies Picklers,TOC Volley Girls 3.0,Marti Crane,Becky Leblond,Pamela DeLoatch,Janny Frazier,9,15
+18781,4,2026-05-14,cary,spring2026,highintermediate,50,women,LOCH Lochmere Ladies Picklers,TOC Volley Girls 3.0,Eileen Cavanaugh,Eileen Culley,Yolanda McCluney,Shubha Sachdev,14,16
+18781,5,2026-05-14,cary,spring2026,highintermediate,50,women,LOCH Lochmere Ladies Picklers,TOC Volley Girls 3.0,Debbie Neel,Kathy Nigro,Pamela DeLoatch,Janny Frazier,6,15
+18781,6,2026-05-14,cary,spring2026,highintermediate,50,women,LOCH Lochmere Ladies Picklers,TOC Volley Girls 3.0,Marti Crane,Becky Leblond,Kelda Bailey,Michelle Reyes,4,15
+18781,7,2026-05-14,cary,spring2026,highintermediate,50,women,LOCH Lochmere Ladies Picklers,TOC Volley Girls 3.0,Eileen Cavanaugh,Eileen Culley,Pamela DeLoatch,Janny Frazier,8,15
+18781,8,2026-05-14,cary,spring2026,highintermediate,50,women,LOCH Lochmere Ladies Picklers,TOC Volley Girls 3.0,Debbie Neel,Kathy Nigro,Kelda Bailey,Michelle Reyes,2,15
+18781,9,2026-05-14,cary,spring2026,highintermediate,50,women,LOCH Lochmere Ladies Picklers,TOC Volley Girls 3.0,Marti Crane,Becky Leblond,Yolanda McCluney,Shubha Sachdev,7,15
+18782,1,2026-05-14,cary,spring2026,highintermediate,50,women,TOC Mid-Court Crisis,LOCH Dinkerbells,Christy H Edwards,Karen Espenhahn,Carol N Wright,Suzan Bumby,9,15
+18782,2,2026-05-14,cary,spring2026,highintermediate,50,women,TOC Mid-Court Crisis,LOCH Dinkerbells,Dani Devinney,Tracie Stolove,Vicki Rohde,Anita C Barker,6,15
+18782,3,2026-05-14,cary,spring2026,highintermediate,50,women,TOC Mid-Court Crisis,LOCH Dinkerbells,Francie Low,Ellen A Elliott,Bobbi Bell,Francine Pearce,4,15
+18782,4,2026-05-14,cary,spring2026,highintermediate,50,women,TOC Mid-Court Crisis,LOCH Dinkerbells,Christy H Edwards,Karen Espenhahn,Vicki Rohde,Anita C Barker,12,15
+18782,5,2026-05-14,cary,spring2026,highintermediate,50,women,TOC Mid-Court Crisis,LOCH Dinkerbells,Dani Devinney,Tracie Stolove,Bobbi Bell,Francine Pearce,13,15
+18782,6,2026-05-14,cary,spring2026,highintermediate,50,women,TOC Mid-Court Crisis,LOCH Dinkerbells,Francie Low,Ellen A Elliott,Carol N Wright,Suzan Bumby,4,15
+18782,7,2026-05-14,cary,spring2026,highintermediate,50,women,TOC Mid-Court Crisis,LOCH Dinkerbells,Christy H Edwards,Karen Espenhahn,Bobbi Bell,Francine Pearce,11,15
+18782,8,2026-05-14,cary,spring2026,highintermediate,50,women,TOC Mid-Court Crisis,LOCH Dinkerbells,Dani Devinney,Tracie Stolove,Carol N Wright,Suzan Bumby,1,15
+18782,9,2026-05-14,cary,spring2026,highintermediate,50,women,TOC Mid-Court Crisis,LOCH Dinkerbells,Francie Low,Ellen A Elliott,Vicki Rohde,Anita C Barker,3,15
+18783,1,2026-05-14,cary,spring2026,highintermediate,50,women,TOC Desperate Housewives of Wake County,TOC Dink Divas,Wendy Pannell,Valerie Dorrier,Lisa W Wingard,Kim Lang,15,6
+18783,2,2026-05-14,cary,spring2026,highintermediate,50,women,TOC Desperate Housewives of Wake County,TOC Dink Divas,Dawn Losito,Nicole Gagnon,Tammy Bevan,Susan Washburn,15,4
+18783,3,2026-05-14,cary,spring2026,highintermediate,50,women,TOC Desperate Housewives of Wake County,TOC Dink Divas,Ruth Coon,Christa Resavy,Elizabeth Curtis,Nicole Mars Juillerat,15,8
+18783,4,2026-05-14,cary,spring2026,highintermediate,50,women,TOC Desperate Housewives of Wake County,TOC Dink Divas,Wendy Pannell,Valerie Dorrier,Tammy Bevan,Susan Washburn,15,3
+18783,5,2026-05-14,cary,spring2026,highintermediate,50,women,TOC Desperate Housewives of Wake County,TOC Dink Divas,Dawn Losito,Nicole Gagnon,Elizabeth Curtis,Nicole Mars Juillerat,8,15
+18783,6,2026-05-14,cary,spring2026,highintermediate,50,women,TOC Desperate Housewives of Wake County,TOC Dink Divas,Ruth Coon,Christa Resavy,Lisa W Wingard,Kim Lang,8,15
+18783,7,2026-05-14,cary,spring2026,highintermediate,50,women,TOC Desperate Housewives of Wake County,TOC Dink Divas,Wendy Pannell,Valerie Dorrier,Elizabeth Curtis,Nicole Mars Juillerat,15,1
+18783,8,2026-05-14,cary,spring2026,highintermediate,50,women,TOC Desperate Housewives of Wake County,TOC Dink Divas,Dawn Losito,Nicole Gagnon,Lisa W Wingard,Kim Lang,9,15
+18783,9,2026-05-14,cary,spring2026,highintermediate,50,women,TOC Desperate Housewives of Wake County,TOC Dink Divas,Ruth Coon,Christa Resavy,Tammy Bevan,Susan Washburn,15,4
+18809,1,2026-05-19,cary,spring2026,highintermediate,50,women,TOC Volley Girls 3.0,TOC Dink Divas,Yolanda McCluney,Shubha Sachdev,Renee M Getz,Daisy VanCauwenbergh,15,8
+18809,2,2026-05-19,cary,spring2026,highintermediate,50,women,TOC Volley Girls 3.0,TOC Dink Divas,Janny Frazier,Kate Morse Falkiner,Tammy Bevan,Kim Lang,15,9
+18809,3,2026-05-19,cary,spring2026,highintermediate,50,women,TOC Volley Girls 3.0,TOC Dink Divas,Pamela DeLoatch,Stacy Zotter,Lori Bidgood,Suzanne Trexler,15,13
+18809,4,2026-05-19,cary,spring2026,highintermediate,50,women,TOC Volley Girls 3.0,TOC Dink Divas,Yolanda McCluney,Shubha Sachdev,Tammy Bevan,Kim Lang,15,10
+18809,5,2026-05-19,cary,spring2026,highintermediate,50,women,TOC Volley Girls 3.0,TOC Dink Divas,Janny Frazier,Kate Morse Falkiner,Lori Bidgood,Suzanne Trexler,15,5
+18809,6,2026-05-19,cary,spring2026,highintermediate,50,women,TOC Volley Girls 3.0,TOC Dink Divas,Pamela DeLoatch,Stacy Zotter,Renee M Getz,Daisy VanCauwenbergh,15,10
+18809,7,2026-05-19,cary,spring2026,highintermediate,50,women,TOC Volley Girls 3.0,TOC Dink Divas,Yolanda McCluney,Shubha Sachdev,Lori Bidgood,Suzanne Trexler,12,15
+18809,8,2026-05-19,cary,spring2026,highintermediate,50,women,TOC Volley Girls 3.0,TOC Dink Divas,Janny Frazier,Kate Morse Falkiner,Renee M Getz,Daisy VanCauwenbergh,15,9
+18809,9,2026-05-19,cary,spring2026,highintermediate,50,women,TOC Volley Girls 3.0,TOC Dink Divas,Pamela DeLoatch,Stacy Zotter,Tammy Bevan,Kim Lang,15,9
+18806,1,2026-05-21,cary,spring2026,highintermediate,50,women,LOCH Lochmere Ladies Picklers,LOCH Dinkerbells,Eileen Cavanaugh,Eileen Culley,Bobbi Bell,Beverly Broslawsky,15,11
+18806,2,2026-05-21,cary,spring2026,highintermediate,50,women,LOCH Lochmere Ladies Picklers,LOCH Dinkerbells,Julie Burke,Marti Crane,Anita C Barker,Vicki Rohde,15,12
+18806,3,2026-05-21,cary,spring2026,highintermediate,50,women,LOCH Lochmere Ladies Picklers,LOCH Dinkerbells,Marilyn Terrill,Vanessa Uecker Martini,Carol N Wright,Suzan Bumby,10,15
+18806,4,2026-05-21,cary,spring2026,highintermediate,50,women,LOCH Lochmere Ladies Picklers,LOCH Dinkerbells,Eileen Cavanaugh,Eileen Culley,Anita C Barker,Vicki Rohde,11,15
+18806,5,2026-05-21,cary,spring2026,highintermediate,50,women,LOCH Lochmere Ladies Picklers,LOCH Dinkerbells,Julie Burke,Marti Crane,Carol N Wright,Suzan Bumby,7,15
+18806,6,2026-05-21,cary,spring2026,highintermediate,50,women,LOCH Lochmere Ladies Picklers,LOCH Dinkerbells,Marilyn Terrill,Vanessa Uecker Martini,Bobbi Bell,Beverly Broslawsky,15,13
+18806,7,2026-05-21,cary,spring2026,highintermediate,50,women,LOCH Lochmere Ladies Picklers,LOCH Dinkerbells,Eileen Cavanaugh,Eileen Culley,Carol N Wright,Suzan Bumby,8,15
+18806,8,2026-05-21,cary,spring2026,highintermediate,50,women,LOCH Lochmere Ladies Picklers,LOCH Dinkerbells,Julie Burke,Marti Crane,Bobbi Bell,Beverly Broslawsky,15,3
+18806,9,2026-05-21,cary,spring2026,highintermediate,50,women,LOCH Lochmere Ladies Picklers,LOCH Dinkerbells,Marilyn Terrill,Vanessa Uecker Martini,Anita C Barker,Vicki Rohde,4,15
+18807,1,2026-05-21,cary,spring2026,highintermediate,50,women,TOC Mid-Court Crisis,TOC Kitchen Masters,Cherie D Berger,Dawn Worthington,Tammy H Clarke,Janeth Pearl,16,18
+18807,2,2026-05-21,cary,spring2026,highintermediate,50,women,TOC Mid-Court Crisis,TOC Kitchen Masters,Tracie Stolove,Dani Devinney,Beth F Warren,Lynette Peterson,15,5
+18807,3,2026-05-21,cary,spring2026,highintermediate,50,women,TOC Mid-Court Crisis,TOC Kitchen Masters,Ali Mallison,Kelly Young,Joanne Eder,Lisa Card,15,8
+18807,4,2026-05-21,cary,spring2026,highintermediate,50,women,TOC Mid-Court Crisis,TOC Kitchen Masters,Cherie D Berger,Dawn Worthington,Beth F Warren,Lynette Peterson,15,2
+18807,5,2026-05-21,cary,spring2026,highintermediate,50,women,TOC Mid-Court Crisis,TOC Kitchen Masters,Tracie Stolove,Dani Devinney,Joanne Eder,Lisa Card,10,15
+18807,6,2026-05-21,cary,spring2026,highintermediate,50,women,TOC Mid-Court Crisis,TOC Kitchen Masters,Ali Mallison,Kelly Young,Tammy H Clarke,Janeth Pearl,15,10
+18807,7,2026-05-21,cary,spring2026,highintermediate,50,women,TOC Mid-Court Crisis,TOC Kitchen Masters,Cherie D Berger,Dawn Worthington,Joanne Eder,Lisa Card,6,15
+18807,8,2026-05-21,cary,spring2026,highintermediate,50,women,TOC Mid-Court Crisis,TOC Kitchen Masters,Tracie Stolove,Dani Devinney,Tammy H Clarke,Janeth Pearl,4,15
+18807,9,2026-05-21,cary,spring2026,highintermediate,50,women,TOC Mid-Court Crisis,TOC Kitchen Masters,Ali Mallison,Kelly Young,Beth F Warren,Lynette Peterson,15,3
+18808,1,2026-05-21,cary,spring2026,highintermediate,50,women,TOC Desperate Housewives of Wake County,TOC Dill Breakers,Heather Kane,Christa Resavy,Nelda Vanaarde,Patty Twomey,15,0
+18808,2,2026-05-21,cary,spring2026,highintermediate,50,women,TOC Desperate Housewives of Wake County,TOC Dill Breakers,Ruth Coon,Wendy Pannell,Nadine Williams,Teri Augustine,15,1
+18808,3,2026-05-21,cary,spring2026,highintermediate,50,women,TOC Desperate Housewives of Wake County,TOC Dill Breakers,DEFAULT,DEFAULT,DEFAULT,DEFAULT,0,0
+18808,4,2026-05-21,cary,spring2026,highintermediate,50,women,TOC Desperate Housewives of Wake County,TOC Dill Breakers,Heather Kane,Christa Resavy,Nadine Williams,Teri Augustine,15,7
+18808,5,2026-05-21,cary,spring2026,highintermediate,50,women,TOC Desperate Housewives of Wake County,TOC Dill Breakers,Ruth Coon,Wendy Pannell,DEFAULT,DEFAULT,15,0
+18808,6,2026-05-21,cary,spring2026,highintermediate,50,women,TOC Desperate Housewives of Wake County,TOC Dill Breakers,DEFAULT,DEFAULT,Nelda Vanaarde,Patty Twomey,0,15
+18808,7,2026-05-21,cary,spring2026,highintermediate,50,women,TOC Desperate Housewives of Wake County,TOC Dill Breakers,Heather Kane,Christa Resavy,DEFAULT,DEFAULT,15,0
+18808,8,2026-05-21,cary,spring2026,highintermediate,50,women,TOC Desperate Housewives of Wake County,TOC Dill Breakers,Ruth Coon,Wendy Pannell,Nelda Vanaarde,Patty Twomey,15,4
+18808,9,2026-05-21,cary,spring2026,highintermediate,50,women,TOC Desperate Housewives of Wake County,TOC Dill Breakers,DEFAULT,DEFAULT,Nadine Williams,Teri Augustine,0,15
+18818,1,2026-05-28,cary,spring2026,highintermediate,50,women,TOC Kitchen Masters,TOC Volley Girls 3.0,Susan Oglesby Reeves,Lisa Card,Shubha Sachdev,Yolanda McCluney,15,9
+18818,2,2026-05-28,cary,spring2026,highintermediate,50,women,TOC Kitchen Masters,TOC Volley Girls 3.0,Joanne Eder,Tammy H Clarke,Pamela DeLoatch,Michelle Reyes,15,17
+18818,3,2026-05-28,cary,spring2026,highintermediate,50,women,TOC Kitchen Masters,TOC Volley Girls 3.0,Lani Morrow,Beth F Warren,Kate Morse Falkiner,Janny Frazier,3,15
+18818,4,2026-05-28,cary,spring2026,highintermediate,50,women,TOC Kitchen Masters,TOC Volley Girls 3.0,Susan Oglesby Reeves,Lisa Card,Pamela DeLoatch,Michelle Reyes,11,15
+18818,5,2026-05-28,cary,spring2026,highintermediate,50,women,TOC Kitchen Masters,TOC Volley Girls 3.0,Joanne Eder,Tammy H Clarke,Kate Morse Falkiner,Janny Frazier,16,14
+18818,6,2026-05-28,cary,spring2026,highintermediate,50,women,TOC Kitchen Masters,TOC Volley Girls 3.0,Lani Morrow,Beth F Warren,Shubha Sachdev,Yolanda McCluney,4,15
+18818,7,2026-05-28,cary,spring2026,highintermediate,50,women,TOC Kitchen Masters,TOC Volley Girls 3.0,Susan Oglesby Reeves,Lisa Card,Kate Morse Falkiner,Janny Frazier,8,15
+18818,8,2026-05-28,cary,spring2026,highintermediate,50,women,TOC Kitchen Masters,TOC Volley Girls 3.0,Joanne Eder,Tammy H Clarke,Shubha Sachdev,Yolanda McCluney,5,15
+18818,9,2026-05-28,cary,spring2026,highintermediate,50,women,TOC Kitchen Masters,TOC Volley Girls 3.0,Lani Morrow,Beth F Warren,Pamela DeLoatch,Michelle Reyes,8,15
+18835,1,2026-06-07,cary,spring2026,highintermediate,50,women,TOC Volley Girls 3.0,LOCH Dinkerbells,Kelda Bailey,Stacy Zotter,Suzan Bumby,Carol N Wright,15,11
+18835,2,2026-06-07,cary,spring2026,highintermediate,50,women,TOC Volley Girls 3.0,LOCH Dinkerbells,Shubha Sachdev,Kate Morse Falkiner,Vicki Rohde,Anita C Barker,15,5
+18835,3,2026-06-07,cary,spring2026,highintermediate,50,women,TOC Volley Girls 3.0,LOCH Dinkerbells,Rebecca Drabenstott,Michelle Reyes,Sherrie L Bass,Bobbi Bell,11,15
+18835,4,2026-06-07,cary,spring2026,highintermediate,50,women,TOC Volley Girls 3.0,LOCH Dinkerbells,Kelda Bailey,Stacy Zotter,Vicki Rohde,Anita C Barker,15,8
+18835,5,2026-06-07,cary,spring2026,highintermediate,50,women,TOC Volley Girls 3.0,LOCH Dinkerbells,Shubha Sachdev,Kate Morse Falkiner,Sherrie L Bass,Bobbi Bell,15,4
+18835,6,2026-06-07,cary,spring2026,highintermediate,50,women,TOC Volley Girls 3.0,LOCH Dinkerbells,Rebecca Drabenstott,Michelle Reyes,Suzan Bumby,Carol N Wright,8,15
+18835,7,2026-06-07,cary,spring2026,highintermediate,50,women,TOC Volley Girls 3.0,LOCH Dinkerbells,Kelda Bailey,Stacy Zotter,Sherrie L Bass,Bobbi Bell,15,8
+18835,8,2026-06-07,cary,spring2026,highintermediate,50,women,TOC Volley Girls 3.0,LOCH Dinkerbells,Shubha Sachdev,Kate Morse Falkiner,Suzan Bumby,Carol N Wright,15,3
+18835,9,2026-06-07,cary,spring2026,highintermediate,50,women,TOC Volley Girls 3.0,LOCH Dinkerbells,Rebecca Drabenstott,Michelle Reyes,Vicki Rohde,Anita C Barker,15,4

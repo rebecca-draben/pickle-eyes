@@ -1,172 +1,172 @@
-match_id,game_id,match_date,team1_name,team2_name,partner1,partner2,opponent1,opponent2,team1_points,team2_points
-18590,1,2026-03-15,IND/PEAK The Real Dill,12OAKS Serve Me A Double,Aulia Tandradinata,Nicole Santos,Sherry Stolfo,Heather Kane,5,15
-18590,2,2026-03-15,IND/PEAK The Real Dill,12OAKS Serve Me A Double,Melissa Cetola,Dori Mathews,Brenda Quinn,Carrie Allen,15,8
-18590,3,2026-03-15,IND/PEAK The Real Dill,12OAKS Serve Me A Double,Sarika Hardas Mehta,Eva Yip,Amy Smith,AnneMarie Conklin,15,8
-18590,4,2026-03-15,IND/PEAK The Real Dill,12OAKS Serve Me A Double,Aulia Tandradinata,Nicole Santos,Brenda Quinn,Carrie Allen,15,3
-18590,5,2026-03-15,IND/PEAK The Real Dill,12OAKS Serve Me A Double,Melissa Cetola,Dori Mathews,Amy Smith,AnneMarie Conklin,15,7
-18590,6,2026-03-15,IND/PEAK The Real Dill,12OAKS Serve Me A Double,Sarika Hardas Mehta,Eva Yip,Sherry Stolfo,Heather Kane,2,15
-18590,7,2026-03-15,IND/PEAK The Real Dill,12OAKS Serve Me A Double,Aulia Tandradinata,Nicole Santos,Amy Smith,AnneMarie Conklin,15,10
-18590,8,2026-03-15,IND/PEAK The Real Dill,12OAKS Serve Me A Double,Melissa Cetola,Dori Mathews,Sherry Stolfo,Heather Kane,15,5
-18590,9,2026-03-15,IND/PEAK The Real Dill,12OAKS Serve Me A Double,Sarika Hardas Mehta,Eva Yip,Brenda Quinn,Carrie Allen,15,6
-18591,1,2026-03-15,TOC Drop It Like it's Hot (Flashes),IND/PEAK Paddle Smashers,Anouk Dehandtschutter,Cathy Culton,Emily Shira,Caitlin Rogers,15,10
-18591,2,2026-03-15,TOC Drop It Like it's Hot (Flashes),IND/PEAK Paddle Smashers,Rhonda Benkiel,Pamela DeLoatch,Dione Stuart,Shannon Stewart,6,15
-18591,3,2026-03-15,TOC Drop It Like it's Hot (Flashes),IND/PEAK Paddle Smashers,Rebecca Drabenstott,Shubha Sachdev,Callie Ellison,Kimberly Macenko,15,7
-18591,4,2026-03-15,TOC Drop It Like it's Hot (Flashes),IND/PEAK Paddle Smashers,Anouk Dehandtschutter,Cathy Culton,Dione Stuart,Shannon Stewart,15,11
-18591,5,2026-03-15,TOC Drop It Like it's Hot (Flashes),IND/PEAK Paddle Smashers,Rhonda Benkiel,Pamela DeLoatch,Callie Ellison,Kimberly Macenko,15,8
-18591,6,2026-03-15,TOC Drop It Like it's Hot (Flashes),IND/PEAK Paddle Smashers,Rebecca Drabenstott,Shubha Sachdev,Emily Shira,Caitlin Rogers,8,15
-18591,7,2026-03-15,TOC Drop It Like it's Hot (Flashes),IND/PEAK Paddle Smashers,Anouk Dehandtschutter,Cathy Culton,Callie Ellison,Kimberly Macenko,11,15
-18591,8,2026-03-15,TOC Drop It Like it's Hot (Flashes),IND/PEAK Paddle Smashers,Rhonda Benkiel,Pamela DeLoatch,Emily Shira,Caitlin Rogers,6,15
-18591,9,2026-03-15,TOC Drop It Like it's Hot (Flashes),IND/PEAK Paddle Smashers,Rebecca Drabenstott,Shubha Sachdev,Dione Stuart,Shannon Stewart,12,15
-18613,1,2026-03-22,IND/PEAK The Real Dill,TOC Drop It Like it's Hot (Flashes),Dori Mathews,Marie Saylor,Kelda Bailey,Stacy Zotter,15,12
-18613,2,2026-03-22,IND/PEAK The Real Dill,TOC Drop It Like it's Hot (Flashes),Melissa Cetola,Cari Soleo,Cherie D Berger,Kate Morse Falkiner,15,0
-18613,3,2026-03-22,IND/PEAK The Real Dill,TOC Drop It Like it's Hot (Flashes),Sarika Hardas Mehta,Eva Yip,Rhonda Benkiel,Rebecca Drabenstott,11,15
-18613,4,2026-03-22,IND/PEAK The Real Dill,TOC Drop It Like it's Hot (Flashes),Dori Mathews,Marie Saylor,Cherie D Berger,Kate Morse Falkiner,15,10
-18613,5,2026-03-22,IND/PEAK The Real Dill,TOC Drop It Like it's Hot (Flashes),Melissa Cetola,Cari Soleo,Rhonda Benkiel,Rebecca Drabenstott,15,5
-18613,6,2026-03-22,IND/PEAK The Real Dill,TOC Drop It Like it's Hot (Flashes),Sarika Hardas Mehta,Eva Yip,Kelda Bailey,Stacy Zotter,15,8
-18613,7,2026-03-22,IND/PEAK The Real Dill,TOC Drop It Like it's Hot (Flashes),Dori Mathews,Marie Saylor,Rhonda Benkiel,Rebecca Drabenstott,15,4
-18613,8,2026-03-22,IND/PEAK The Real Dill,TOC Drop It Like it's Hot (Flashes),Melissa Cetola,Cari Soleo,Kelda Bailey,Stacy Zotter,15,3
-18613,9,2026-03-22,IND/PEAK The Real Dill,TOC Drop It Like it's Hot (Flashes),Sarika Hardas Mehta,Eva Yip,Cherie D Berger,Kate Morse Falkiner,15,5
-18637,1,2026-03-26,12OAKS Serve Me A Double,IND/PEAK Paddle Smashers,Sherry Stolfo,Heather Kane,Daniela Antonova Prodanova,Lisa Davidson,8,15
-18637,2,2026-03-26,12OAKS Serve Me A Double,IND/PEAK Paddle Smashers,Kristen P Ramsey,Wendy Pannell,Erin Clary,Dione Stuart,6,15
-18637,3,2026-03-26,12OAKS Serve Me A Double,IND/PEAK Paddle Smashers,Christa Resavy,Lisa Nomanson,Kimberly Macenko,Shannon Stewart,15,6
-18637,4,2026-03-26,12OAKS Serve Me A Double,IND/PEAK Paddle Smashers,Sherry Stolfo,Heather Kane,Erin Clary,Dione Stuart,11,15
-18637,5,2026-03-26,12OAKS Serve Me A Double,IND/PEAK Paddle Smashers,Kristen P Ramsey,Wendy Pannell,Kimberly Macenko,Shannon Stewart,12,15
-18637,6,2026-03-26,12OAKS Serve Me A Double,IND/PEAK Paddle Smashers,Christa Resavy,Lisa Nomanson,Daniela Antonova Prodanova,Lisa Davidson,11,15
-18637,7,2026-03-26,12OAKS Serve Me A Double,IND/PEAK Paddle Smashers,Sherry Stolfo,Heather Kane,Kimberly Macenko,Shannon Stewart,15,8
-18637,8,2026-03-26,12OAKS Serve Me A Double,IND/PEAK Paddle Smashers,Kristen P Ramsey,Wendy Pannell,Daniela Antonova Prodanova,Lisa Davidson,12,15
-18637,9,2026-03-26,12OAKS Serve Me A Double,IND/PEAK Paddle Smashers,Christa Resavy,Lisa Nomanson,Erin Clary,Dione Stuart,15,13
-18639,1,2026-03-29,IND/PEAK Paddle Smashers,IND/PEAK The Real Dill,Daniela Antonova Prodanova,Lisa Davidson,Aulia Tandradinata,Stephanie Charlino,15,13
-18639,2,2026-03-29,IND/PEAK Paddle Smashers,IND/PEAK The Real Dill,Dione Stuart,Erin Clary,Marie Saylor,Melissa Cetola,9,15
-18639,3,2026-03-29,IND/PEAK Paddle Smashers,IND/PEAK The Real Dill,Emily Shira,Shannon Stewart,Nicole Santos,Molly VanDyne,13,15
-18639,4,2026-03-29,IND/PEAK Paddle Smashers,IND/PEAK The Real Dill,Daniela Antonova Prodanova,Lisa Davidson,Marie Saylor,Melissa Cetola,11,15
-18639,5,2026-03-29,IND/PEAK Paddle Smashers,IND/PEAK The Real Dill,Dione Stuart,Erin Clary,Nicole Santos,Molly VanDyne,10,15
-18639,6,2026-03-29,IND/PEAK Paddle Smashers,IND/PEAK The Real Dill,Emily Shira,Shannon Stewart,Aulia Tandradinata,Stephanie Charlino,11,15
-18639,7,2026-03-29,IND/PEAK Paddle Smashers,IND/PEAK The Real Dill,Daniela Antonova Prodanova,Lisa Davidson,Nicole Santos,Molly VanDyne,15,7
-18639,8,2026-03-29,IND/PEAK Paddle Smashers,IND/PEAK The Real Dill,Dione Stuart,Erin Clary,Aulia Tandradinata,Stephanie Charlino,15,4
-18639,9,2026-03-29,IND/PEAK Paddle Smashers,IND/PEAK The Real Dill,Emily Shira,Shannon Stewart,Marie Saylor,Melissa Cetola,5,15
-18642,1,2026-03-29,TOC Drop It Like it's Hot (Flashes),12OAKS Serve Me A Double,Anouk Dehandtschutter,Rhonda Benkiel,Wendy Pannell,AnneMarie Conklin,15,8
-18642,2,2026-03-29,TOC Drop It Like it's Hot (Flashes),12OAKS Serve Me A Double,Kate Morse Falkiner,Shubha Sachdev,Amy Smith,Lisa Nomanson,15,7
-18642,3,2026-03-29,TOC Drop It Like it's Hot (Flashes),12OAKS Serve Me A Double,Michelle Reyes,Rebecca Drabenstott,Carrie Allen,Kristen P Ramsey,15,17
-18642,4,2026-03-29,TOC Drop It Like it's Hot (Flashes),12OAKS Serve Me A Double,Anouk Dehandtschutter,Rhonda Benkiel,Amy Smith,Lisa Nomanson,15,0
-18642,5,2026-03-29,TOC Drop It Like it's Hot (Flashes),12OAKS Serve Me A Double,Kate Morse Falkiner,Shubha Sachdev,Carrie Allen,Kristen P Ramsey,15,4
-18642,6,2026-03-29,TOC Drop It Like it's Hot (Flashes),12OAKS Serve Me A Double,Michelle Reyes,Rebecca Drabenstott,Wendy Pannell,AnneMarie Conklin,15,13
-18642,7,2026-03-29,TOC Drop It Like it's Hot (Flashes),12OAKS Serve Me A Double,Anouk Dehandtschutter,Rhonda Benkiel,Carrie Allen,Kristen P Ramsey,15,2
-18642,8,2026-03-29,TOC Drop It Like it's Hot (Flashes),12OAKS Serve Me A Double,Kate Morse Falkiner,Shubha Sachdev,Wendy Pannell,AnneMarie Conklin,15,3
-18642,9,2026-03-29,TOC Drop It Like it's Hot (Flashes),12OAKS Serve Me A Double,Michelle Reyes,Rebecca Drabenstott,Amy Smith,Lisa Nomanson,14,16
-18667,1,2026-04-12,IND/PEAK Paddle Smashers,TOC Drop It Like it's Hot (Flashes),Lisa Davidson,Erin Clary,Shubha Sachdev,Kelda Bailey,15,12
-18667,2,2026-04-12,IND/PEAK Paddle Smashers,TOC Drop It Like it's Hot (Flashes),Daniela Antonova Prodanova,Kimberly Macenko,Rhonda Benkiel,Michelle Reyes,11,15
-18667,3,2026-04-12,IND/PEAK Paddle Smashers,TOC Drop It Like it's Hot (Flashes),Caitlin Rogers,Callie Ellison,Anouk Dehandtschutter,Cathy Culton,14,16
-18667,4,2026-04-12,IND/PEAK Paddle Smashers,TOC Drop It Like it's Hot (Flashes),Lisa Davidson,Erin Clary,Rhonda Benkiel,Michelle Reyes,15,7
-18667,5,2026-04-12,IND/PEAK Paddle Smashers,TOC Drop It Like it's Hot (Flashes),Daniela Antonova Prodanova,Kimberly Macenko,Anouk Dehandtschutter,Cathy Culton,13,15
-18667,6,2026-04-12,IND/PEAK Paddle Smashers,TOC Drop It Like it's Hot (Flashes),Caitlin Rogers,Callie Ellison,Shubha Sachdev,Kelda Bailey,15,10
-18667,7,2026-04-12,IND/PEAK Paddle Smashers,TOC Drop It Like it's Hot (Flashes),Lisa Davidson,Erin Clary,Anouk Dehandtschutter,Cathy Culton,15,13
-18667,8,2026-04-12,IND/PEAK Paddle Smashers,TOC Drop It Like it's Hot (Flashes),Daniela Antonova Prodanova,Kimberly Macenko,Shubha Sachdev,Kelda Bailey,15,13
-18667,9,2026-04-12,IND/PEAK Paddle Smashers,TOC Drop It Like it's Hot (Flashes),Caitlin Rogers,Callie Ellison,Rhonda Benkiel,Michelle Reyes,15,9
-18688,1,2026-04-16,12OAKS Serve Me A Double,IND/PEAK The Real Dill,Amy Smith,Heather Helen Dashnau,Aulia Tandradinata,Stephanie Charlino,11,15
-18688,2,2026-04-16,12OAKS Serve Me A Double,IND/PEAK The Real Dill,DEFAULT,DEFAULT,Eva Yip,Sarika Hardas Mehta,0,15
-18688,3,2026-04-16,12OAKS Serve Me A Double,IND/PEAK The Real Dill,Heather Kane,AnneMarie Conklin,Cari Soleo,Dori Mathews,13,15
-18688,4,2026-04-16,12OAKS Serve Me A Double,IND/PEAK The Real Dill,Amy Smith,Heather Helen Dashnau,Eva Yip,Sarika Hardas Mehta,6,15
-18688,5,2026-04-16,12OAKS Serve Me A Double,IND/PEAK The Real Dill,DEFAULT,DEFAULT,Cari Soleo,Dori Mathews,0,15
-18688,6,2026-04-16,12OAKS Serve Me A Double,IND/PEAK The Real Dill,Heather Kane,AnneMarie Conklin,Aulia Tandradinata,Stephanie Charlino,15,7
-18688,7,2026-04-16,12OAKS Serve Me A Double,IND/PEAK The Real Dill,Amy Smith,Heather Helen Dashnau,Cari Soleo,Dori Mathews,5,15
-18688,8,2026-04-16,12OAKS Serve Me A Double,IND/PEAK The Real Dill,DEFAULT,DEFAULT,Aulia Tandradinata,Stephanie Charlino,0,15
-18688,9,2026-04-16,12OAKS Serve Me A Double,IND/PEAK The Real Dill,Heather Kane,AnneMarie Conklin,Eva Yip,Sarika Hardas Mehta,14,16
-18692,1,2026-04-19,TOC Drop It Like it's Hot (Flashes),IND/PEAK The Real Dill,Cathy Culton,Anouk Dehandtschutter,Nicole Santos,Molly VanDyne,15,13
-18692,2,2026-04-19,TOC Drop It Like it's Hot (Flashes),IND/PEAK The Real Dill,Michelle Reyes,Cherie D Berger,Marie Saylor,Sarika Hardas Mehta,9,15
-18692,3,2026-04-19,TOC Drop It Like it's Hot (Flashes),IND/PEAK The Real Dill,Rhonda Benkiel,Shubha Sachdev,Cari Soleo,Melissa Cetola,5,15
-18692,4,2026-04-19,TOC Drop It Like it's Hot (Flashes),IND/PEAK The Real Dill,Cathy Culton,Anouk Dehandtschutter,Marie Saylor,Sarika Hardas Mehta,15,2
-18692,5,2026-04-19,TOC Drop It Like it's Hot (Flashes),IND/PEAK The Real Dill,Michelle Reyes,Cherie D Berger,Cari Soleo,Melissa Cetola,10,15
-18692,6,2026-04-19,TOC Drop It Like it's Hot (Flashes),IND/PEAK The Real Dill,Rhonda Benkiel,Shubha Sachdev,Nicole Santos,Molly VanDyne,15,9
-18692,7,2026-04-19,TOC Drop It Like it's Hot (Flashes),IND/PEAK The Real Dill,Cathy Culton,Anouk Dehandtschutter,Cari Soleo,Melissa Cetola,9,15
-18692,8,2026-04-19,TOC Drop It Like it's Hot (Flashes),IND/PEAK The Real Dill,Michelle Reyes,Cherie D Berger,Nicole Santos,Molly VanDyne,6,15
-18692,9,2026-04-19,TOC Drop It Like it's Hot (Flashes),IND/PEAK The Real Dill,Rhonda Benkiel,Shubha Sachdev,Marie Saylor,Sarika Hardas Mehta,13,15
-18737,1,2026-04-30,12OAKS Serve Me A Double,TOC Drop It Like it's Hot (Flashes),Nikki Orie,Amy Smith,Kelda Bailey,Stacy Zotter,1,15
-18737,2,2026-04-30,12OAKS Serve Me A Double,TOC Drop It Like it's Hot (Flashes),Kristen P Ramsey,Heather Helen Dashnau,Michelle Reyes,Cathy Culton,9,15
-18737,3,2026-04-30,12OAKS Serve Me A Double,TOC Drop It Like it's Hot (Flashes),Christa Resavy,Sherry Stolfo,Pamela DeLoatch,Rebecca Drabenstott,15,8
-18737,4,2026-04-30,12OAKS Serve Me A Double,TOC Drop It Like it's Hot (Flashes),Nikki Orie,Amy Smith,Michelle Reyes,Cathy Culton,7,15
-18737,5,2026-04-30,12OAKS Serve Me A Double,TOC Drop It Like it's Hot (Flashes),Kristen P Ramsey,Heather Helen Dashnau,Pamela DeLoatch,Rebecca Drabenstott,15,8
-18737,6,2026-04-30,12OAKS Serve Me A Double,TOC Drop It Like it's Hot (Flashes),Christa Resavy,Sherry Stolfo,Kelda Bailey,Stacy Zotter,13,15
-18737,7,2026-04-30,12OAKS Serve Me A Double,TOC Drop It Like it's Hot (Flashes),Nikki Orie,Amy Smith,Pamela DeLoatch,Rebecca Drabenstott,15,13
-18737,8,2026-04-30,12OAKS Serve Me A Double,TOC Drop It Like it's Hot (Flashes),Kristen P Ramsey,Heather Helen Dashnau,Kelda Bailey,Stacy Zotter,13,15
-18737,9,2026-04-30,12OAKS Serve Me A Double,TOC Drop It Like it's Hot (Flashes),Christa Resavy,Sherry Stolfo,Michelle Reyes,Cathy Culton,12,15
-18739,1,2026-05-03,IND/PEAK The Real Dill,12OAKS Serve Me A Double,Cari Soleo,Melissa Cetola,DEFAULT,DEFAULT,15,0
-18739,2,2026-05-03,IND/PEAK The Real Dill,12OAKS Serve Me A Double,Molly VanDyne,Sarika Hardas Mehta,DEFAULT,DEFAULT,15,0
-18739,3,2026-05-03,IND/PEAK The Real Dill,12OAKS Serve Me A Double,Marie Saylor,Dori Mathews,DEFAULT,DEFAULT,15,0
-18739,4,2026-05-03,IND/PEAK The Real Dill,12OAKS Serve Me A Double,Cari Soleo,Melissa Cetola,DEFAULT,DEFAULT,15,0
-18739,5,2026-05-03,IND/PEAK The Real Dill,12OAKS Serve Me A Double,Molly VanDyne,Sarika Hardas Mehta,DEFAULT,DEFAULT,15,0
-18739,6,2026-05-03,IND/PEAK The Real Dill,12OAKS Serve Me A Double,Marie Saylor,Dori Mathews,DEFAULT,DEFAULT,15,0
-18739,7,2026-05-03,IND/PEAK The Real Dill,12OAKS Serve Me A Double,Cari Soleo,Melissa Cetola,DEFAULT,DEFAULT,15,0
-18739,8,2026-05-03,IND/PEAK The Real Dill,12OAKS Serve Me A Double,Molly VanDyne,Sarika Hardas Mehta,DEFAULT,DEFAULT,15,0
-18739,9,2026-05-03,IND/PEAK The Real Dill,12OAKS Serve Me A Double,Marie Saylor,Dori Mathews,DEFAULT,DEFAULT,15,0
-18744,1,2026-05-03,TOC Drop It Like it's Hot (Flashes),IND/PEAK Paddle Smashers,Stacy Zotter,Pamela DeLoatch,Kimberly Macenko,Shannon Stewart,13,15
-18744,2,2026-05-03,TOC Drop It Like it's Hot (Flashes),IND/PEAK Paddle Smashers,Kate Morse Falkiner,Shubha Sachdev,Dione Stuart,Emily Shira,15,11
-18744,3,2026-05-03,TOC Drop It Like it's Hot (Flashes),IND/PEAK Paddle Smashers,Michelle Reyes,Kelda Bailey,Erin Clary,Lisa Davidson,6,15
-18744,4,2026-05-03,TOC Drop It Like it's Hot (Flashes),IND/PEAK Paddle Smashers,Stacy Zotter,Pamela DeLoatch,Dione Stuart,Emily Shira,1,15
-18744,5,2026-05-03,TOC Drop It Like it's Hot (Flashes),IND/PEAK Paddle Smashers,Kate Morse Falkiner,Shubha Sachdev,Erin Clary,Lisa Davidson,13,15
-18744,6,2026-05-03,TOC Drop It Like it's Hot (Flashes),IND/PEAK Paddle Smashers,Michelle Reyes,Kelda Bailey,Kimberly Macenko,Shannon Stewart,15,7
-18744,7,2026-05-03,TOC Drop It Like it's Hot (Flashes),IND/PEAK Paddle Smashers,Stacy Zotter,Pamela DeLoatch,Erin Clary,Lisa Davidson,9,15
-18744,8,2026-05-03,TOC Drop It Like it's Hot (Flashes),IND/PEAK Paddle Smashers,Kate Morse Falkiner,Shubha Sachdev,Kimberly Macenko,Shannon Stewart,8,15
-18744,9,2026-05-03,TOC Drop It Like it's Hot (Flashes),IND/PEAK Paddle Smashers,Michelle Reyes,Kelda Bailey,Dione Stuart,Emily Shira,9,15
-18767,1,2026-05-10,IND/PEAK The Real Dill,TOC Drop It Like it's Hot (Flashes),Cari Soleo,Melissa Cetola,Rhonda Benkiel,Cathy Culton,15,12
-18767,2,2026-05-10,IND/PEAK The Real Dill,TOC Drop It Like it's Hot (Flashes),Aulia Tandradinata,Stephanie Charlino,Shubha Sachdev,Rebecca Drabenstott,8,15
-18767,3,2026-05-10,IND/PEAK The Real Dill,TOC Drop It Like it's Hot (Flashes),Eva Yip,Nicole Santos,Pamela DeLoatch,Cherie D Berger,15,7
-18767,4,2026-05-10,IND/PEAK The Real Dill,TOC Drop It Like it's Hot (Flashes),Cari Soleo,Melissa Cetola,Shubha Sachdev,Rebecca Drabenstott,15,3
-18767,5,2026-05-10,IND/PEAK The Real Dill,TOC Drop It Like it's Hot (Flashes),Aulia Tandradinata,Stephanie Charlino,Pamela DeLoatch,Cherie D Berger,15,5
-18767,6,2026-05-10,IND/PEAK The Real Dill,TOC Drop It Like it's Hot (Flashes),Eva Yip,Nicole Santos,Rhonda Benkiel,Cathy Culton,10,15
-18767,7,2026-05-10,IND/PEAK The Real Dill,TOC Drop It Like it's Hot (Flashes),Cari Soleo,Melissa Cetola,Pamela DeLoatch,Cherie D Berger,15,3
-18767,8,2026-05-10,IND/PEAK The Real Dill,TOC Drop It Like it's Hot (Flashes),Aulia Tandradinata,Stephanie Charlino,Rhonda Benkiel,Cathy Culton,12,15
-18767,9,2026-05-10,IND/PEAK The Real Dill,TOC Drop It Like it's Hot (Flashes),Eva Yip,Nicole Santos,Shubha Sachdev,Rebecca Drabenstott,15,6
-18787,1,2026-05-14,12OAKS Serve Me A Double,IND/PEAK Paddle Smashers,Sherry Stolfo,Christa Resavy,Daniela Antonova Prodanova,Lisa Davidson,3,15
-18787,2,2026-05-14,12OAKS Serve Me A Double,IND/PEAK Paddle Smashers,Heather Kane,Nikki Orie,Kimberly Macenko,Shannon Stewart,15,10
-18787,3,2026-05-14,12OAKS Serve Me A Double,IND/PEAK Paddle Smashers,Heather Helen Dashnau,Wendy Pannell,Caitlin Rogers,Callie Ellison,7,15
-18787,4,2026-05-14,12OAKS Serve Me A Double,IND/PEAK Paddle Smashers,Sherry Stolfo,Christa Resavy,Kimberly Macenko,Shannon Stewart,15,8
-18787,5,2026-05-14,12OAKS Serve Me A Double,IND/PEAK Paddle Smashers,Heather Kane,Nikki Orie,Caitlin Rogers,Callie Ellison,6,15
-18787,6,2026-05-14,12OAKS Serve Me A Double,IND/PEAK Paddle Smashers,Heather Helen Dashnau,Wendy Pannell,Daniela Antonova Prodanova,Lisa Davidson,7,15
-18787,7,2026-05-14,12OAKS Serve Me A Double,IND/PEAK Paddle Smashers,Sherry Stolfo,Christa Resavy,Caitlin Rogers,Callie Ellison,11,15
-18787,8,2026-05-14,12OAKS Serve Me A Double,IND/PEAK Paddle Smashers,Heather Kane,Nikki Orie,Daniela Antonova Prodanova,Lisa Davidson,8,15
-18787,9,2026-05-14,12OAKS Serve Me A Double,IND/PEAK Paddle Smashers,Heather Helen Dashnau,Wendy Pannell,Kimberly Macenko,Shannon Stewart,8,15
-18789,1,2026-05-17,IND/PEAK Paddle Smashers,IND/PEAK The Real Dill,Caitlin Rogers,Emily Shira,Nicole Santos,Eva Yip,15,1
-18789,2,2026-05-17,IND/PEAK Paddle Smashers,IND/PEAK The Real Dill,Dione Stuart,Erin Clary,Cari Soleo,Marie Saylor,7,15
-18789,3,2026-05-17,IND/PEAK Paddle Smashers,IND/PEAK The Real Dill,Callie Ellison,Daniela Antonova Prodanova,Dori Mathews,Stephanie Charlino,13,15
-18789,4,2026-05-17,IND/PEAK Paddle Smashers,IND/PEAK The Real Dill,Caitlin Rogers,Emily Shira,Cari Soleo,Marie Saylor,10,15
-18789,5,2026-05-17,IND/PEAK Paddle Smashers,IND/PEAK The Real Dill,Dione Stuart,Erin Clary,Dori Mathews,Stephanie Charlino,7,15
-18789,6,2026-05-17,IND/PEAK Paddle Smashers,IND/PEAK The Real Dill,Callie Ellison,Daniela Antonova Prodanova,Nicole Santos,Eva Yip,11,15
-18789,7,2026-05-17,IND/PEAK Paddle Smashers,IND/PEAK The Real Dill,Caitlin Rogers,Emily Shira,Dori Mathews,Stephanie Charlino,12,15
-18789,8,2026-05-17,IND/PEAK Paddle Smashers,IND/PEAK The Real Dill,Dione Stuart,Erin Clary,Nicole Santos,Eva Yip,15,9
-18789,9,2026-05-17,IND/PEAK Paddle Smashers,IND/PEAK The Real Dill,Callie Ellison,Daniela Antonova Prodanova,Cari Soleo,Marie Saylor,12,15
-18793,1,2026-05-17,TOC Drop It Like it's Hot (Flashes),12OAKS Serve Me A Double,Rhonda Benkiel,Stacy Zotter,Lisa Nomanson,Nikki Orie,15,3
-18793,2,2026-05-17,TOC Drop It Like it's Hot (Flashes),12OAKS Serve Me A Double,Cherie D Berger,Rebecca Drabenstott,Kristen P Ramsey,Heather Helen Dashnau,10,15
-18793,3,2026-05-17,TOC Drop It Like it's Hot (Flashes),12OAKS Serve Me A Double,Kate Morse Falkiner,Pamela DeLoatch,Christa Resavy,Sherry Stolfo,6,15
-18793,4,2026-05-17,TOC Drop It Like it's Hot (Flashes),12OAKS Serve Me A Double,Rhonda Benkiel,Stacy Zotter,Kristen P Ramsey,Heather Helen Dashnau,14,16
-18793,5,2026-05-17,TOC Drop It Like it's Hot (Flashes),12OAKS Serve Me A Double,Cherie D Berger,Rebecca Drabenstott,Christa Resavy,Sherry Stolfo,9,15
-18793,6,2026-05-17,TOC Drop It Like it's Hot (Flashes),12OAKS Serve Me A Double,Kate Morse Falkiner,Pamela DeLoatch,Lisa Nomanson,Nikki Orie,5,15
-18793,7,2026-05-17,TOC Drop It Like it's Hot (Flashes),12OAKS Serve Me A Double,Rhonda Benkiel,Stacy Zotter,Christa Resavy,Sherry Stolfo,10,15
-18793,8,2026-05-17,TOC Drop It Like it's Hot (Flashes),12OAKS Serve Me A Double,Cherie D Berger,Rebecca Drabenstott,Lisa Nomanson,Nikki Orie,14,16
-18793,9,2026-05-17,TOC Drop It Like it's Hot (Flashes),12OAKS Serve Me A Double,Kate Morse Falkiner,Pamela DeLoatch,Kristen P Ramsey,Heather Helen Dashnau,15,13
-18821,1,2026-05-28,12OAKS Serve Me A Double,IND/PEAK Paddle Smashers,Lisa Nomanson,Christa Resavy,Caitlin Rogers,Callie Ellison,11,15
-18821,2,2026-05-28,12OAKS Serve Me A Double,IND/PEAK Paddle Smashers,Sherry Stolfo,Heather Kane,Daniela Antonova Prodanova,Shannon Stewart,15,12
-18821,3,2026-05-28,12OAKS Serve Me A Double,IND/PEAK Paddle Smashers,Nikki Orie,Heather Helen Dashnau,Emily Shira,Kimberly Macenko,16,14
-18821,4,2026-05-28,12OAKS Serve Me A Double,IND/PEAK Paddle Smashers,Lisa Nomanson,Christa Resavy,Daniela Antonova Prodanova,Shannon Stewart,15,12
-18821,5,2026-05-28,12OAKS Serve Me A Double,IND/PEAK Paddle Smashers,Sherry Stolfo,Heather Kane,Emily Shira,Kimberly Macenko,15,11
-18821,6,2026-05-28,12OAKS Serve Me A Double,IND/PEAK Paddle Smashers,Nikki Orie,Heather Helen Dashnau,Caitlin Rogers,Callie Ellison,12,15
-18821,7,2026-05-28,12OAKS Serve Me A Double,IND/PEAK Paddle Smashers,Lisa Nomanson,Christa Resavy,Emily Shira,Kimberly Macenko,17,15
-18821,8,2026-05-28,12OAKS Serve Me A Double,IND/PEAK Paddle Smashers,Sherry Stolfo,Heather Kane,Caitlin Rogers,Callie Ellison,10,15
-18821,9,2026-05-28,12OAKS Serve Me A Double,IND/PEAK Paddle Smashers,Nikki Orie,Heather Helen Dashnau,Daniela Antonova Prodanova,Shannon Stewart,11,15
-18823,1,2026-05-31,IND/PEAK Paddle Smashers,IND/PEAK The Real Dill,Dione Stuart,Erin Clary,Marie Saylor,Aulia Tandradinata,14,16
-18823,2,2026-05-31,IND/PEAK Paddle Smashers,IND/PEAK The Real Dill,Caitlin Rogers,Emily Shira,Stephanie Charlino,Cari Soleo,15,4
-18823,3,2026-05-31,IND/PEAK Paddle Smashers,IND/PEAK The Real Dill,Daniela Antonova Prodanova,Lisa Davidson,Sarika Hardas Mehta,Molly VanDyne,15,7
-18823,4,2026-05-31,IND/PEAK Paddle Smashers,IND/PEAK The Real Dill,Dione Stuart,Erin Clary,Stephanie Charlino,Cari Soleo,6,15
-18823,5,2026-05-31,IND/PEAK Paddle Smashers,IND/PEAK The Real Dill,Caitlin Rogers,Emily Shira,Sarika Hardas Mehta,Molly VanDyne,15,12
-18823,6,2026-05-31,IND/PEAK Paddle Smashers,IND/PEAK The Real Dill,Daniela Antonova Prodanova,Lisa Davidson,Marie Saylor,Aulia Tandradinata,15,11
-18823,7,2026-05-31,IND/PEAK Paddle Smashers,IND/PEAK The Real Dill,Dione Stuart,Erin Clary,Sarika Hardas Mehta,Molly VanDyne,10,15
-18823,8,2026-05-31,IND/PEAK Paddle Smashers,IND/PEAK The Real Dill,Caitlin Rogers,Emily Shira,Marie Saylor,Aulia Tandradinata,15,8
-18823,9,2026-05-31,IND/PEAK Paddle Smashers,IND/PEAK The Real Dill,Daniela Antonova Prodanova,Lisa Davidson,Stephanie Charlino,Cari Soleo,7,15
-18842,1,2026-06-07,IND/PEAK The Real Dill,IND/PEAK Paddle Smashers,Cari Soleo,Melissa Cetola,Callie Ellison,Dione Stuart,6,15
-18842,2,2026-06-07,IND/PEAK The Real Dill,IND/PEAK Paddle Smashers,Sarika Hardas Mehta,Marie Saylor,Caitlin Rogers,Erin Clary,9,15
-18842,3,2026-06-07,IND/PEAK The Real Dill,IND/PEAK Paddle Smashers,Dori Mathews,Stephanie Charlino,Daniela Antonova Prodanova,Lisa Davidson,10,15
-18842,4,2026-06-07,IND/PEAK The Real Dill,IND/PEAK Paddle Smashers,Cari Soleo,Melissa Cetola,Caitlin Rogers,Erin Clary,15,12
-18842,5,2026-06-07,IND/PEAK The Real Dill,IND/PEAK Paddle Smashers,Sarika Hardas Mehta,Marie Saylor,Daniela Antonova Prodanova,Lisa Davidson,15,9
-18842,6,2026-06-07,IND/PEAK The Real Dill,IND/PEAK Paddle Smashers,Dori Mathews,Stephanie Charlino,Callie Ellison,Dione Stuart,10,15
-18842,7,2026-06-07,IND/PEAK The Real Dill,IND/PEAK Paddle Smashers,Cari Soleo,Melissa Cetola,Daniela Antonova Prodanova,Lisa Davidson,15,9
-18842,8,2026-06-07,IND/PEAK The Real Dill,IND/PEAK Paddle Smashers,Sarika Hardas Mehta,Marie Saylor,Callie Ellison,Dione Stuart,15,11
-18842,9,2026-06-07,IND/PEAK The Real Dill,IND/PEAK Paddle Smashers,Dori Mathews,Stephanie Charlino,Caitlin Rogers,Erin Clary,8,15
+match_id,game_id,match_date,league,season,skill_level,age,gender,team1_name,team2_name,partner1,partner2,opponent1,opponent2,team1_points,team2_points
+18590,1,2026-03-15,cary,spring2026,lowadvanced,18,women,IND/PEAK The Real Dill,12OAKS Serve Me A Double,Aulia Tandradinata,Nicole Santos,Sherry Stolfo,Heather Kane,5,15
+18590,2,2026-03-15,cary,spring2026,lowadvanced,18,women,IND/PEAK The Real Dill,12OAKS Serve Me A Double,Melissa Cetola,Dori Mathews,Brenda Quinn,Carrie Allen,15,8
+18590,3,2026-03-15,cary,spring2026,lowadvanced,18,women,IND/PEAK The Real Dill,12OAKS Serve Me A Double,Sarika Hardas Mehta,Eva Yip,Amy Smith,AnneMarie Conklin,15,8
+18590,4,2026-03-15,cary,spring2026,lowadvanced,18,women,IND/PEAK The Real Dill,12OAKS Serve Me A Double,Aulia Tandradinata,Nicole Santos,Brenda Quinn,Carrie Allen,15,3
+18590,5,2026-03-15,cary,spring2026,lowadvanced,18,women,IND/PEAK The Real Dill,12OAKS Serve Me A Double,Melissa Cetola,Dori Mathews,Amy Smith,AnneMarie Conklin,15,7
+18590,6,2026-03-15,cary,spring2026,lowadvanced,18,women,IND/PEAK The Real Dill,12OAKS Serve Me A Double,Sarika Hardas Mehta,Eva Yip,Sherry Stolfo,Heather Kane,2,15
+18590,7,2026-03-15,cary,spring2026,lowadvanced,18,women,IND/PEAK The Real Dill,12OAKS Serve Me A Double,Aulia Tandradinata,Nicole Santos,Amy Smith,AnneMarie Conklin,15,10
+18590,8,2026-03-15,cary,spring2026,lowadvanced,18,women,IND/PEAK The Real Dill,12OAKS Serve Me A Double,Melissa Cetola,Dori Mathews,Sherry Stolfo,Heather Kane,15,5
+18590,9,2026-03-15,cary,spring2026,lowadvanced,18,women,IND/PEAK The Real Dill,12OAKS Serve Me A Double,Sarika Hardas Mehta,Eva Yip,Brenda Quinn,Carrie Allen,15,6
+18591,1,2026-03-15,cary,spring2026,lowadvanced,18,women,TOC Drop It Like it's Hot (Flashes),IND/PEAK Paddle Smashers,Anouk Dehandtschutter,Cathy Culton,Emily Shira,Caitlin Rogers,15,10
+18591,2,2026-03-15,cary,spring2026,lowadvanced,18,women,TOC Drop It Like it's Hot (Flashes),IND/PEAK Paddle Smashers,Rhonda Benkiel,Pamela DeLoatch,Dione Stuart,Shannon Stewart,6,15
+18591,3,2026-03-15,cary,spring2026,lowadvanced,18,women,TOC Drop It Like it's Hot (Flashes),IND/PEAK Paddle Smashers,Rebecca Drabenstott,Shubha Sachdev,Callie Ellison,Kimberly Macenko,15,7
+18591,4,2026-03-15,cary,spring2026,lowadvanced,18,women,TOC Drop It Like it's Hot (Flashes),IND/PEAK Paddle Smashers,Anouk Dehandtschutter,Cathy Culton,Dione Stuart,Shannon Stewart,15,11
+18591,5,2026-03-15,cary,spring2026,lowadvanced,18,women,TOC Drop It Like it's Hot (Flashes),IND/PEAK Paddle Smashers,Rhonda Benkiel,Pamela DeLoatch,Callie Ellison,Kimberly Macenko,15,8
+18591,6,2026-03-15,cary,spring2026,lowadvanced,18,women,TOC Drop It Like it's Hot (Flashes),IND/PEAK Paddle Smashers,Rebecca Drabenstott,Shubha Sachdev,Emily Shira,Caitlin Rogers,8,15
+18591,7,2026-03-15,cary,spring2026,lowadvanced,18,women,TOC Drop It Like it's Hot (Flashes),IND/PEAK Paddle Smashers,Anouk Dehandtschutter,Cathy Culton,Callie Ellison,Kimberly Macenko,11,15
+18591,8,2026-03-15,cary,spring2026,lowadvanced,18,women,TOC Drop It Like it's Hot (Flashes),IND/PEAK Paddle Smashers,Rhonda Benkiel,Pamela DeLoatch,Emily Shira,Caitlin Rogers,6,15
+18591,9,2026-03-15,cary,spring2026,lowadvanced,18,women,TOC Drop It Like it's Hot (Flashes),IND/PEAK Paddle Smashers,Rebecca Drabenstott,Shubha Sachdev,Dione Stuart,Shannon Stewart,12,15
+18613,1,2026-03-22,cary,spring2026,lowadvanced,18,women,IND/PEAK The Real Dill,TOC Drop It Like it's Hot (Flashes),Dori Mathews,Marie Saylor,Kelda Bailey,Stacy Zotter,15,12
+18613,2,2026-03-22,cary,spring2026,lowadvanced,18,women,IND/PEAK The Real Dill,TOC Drop It Like it's Hot (Flashes),Melissa Cetola,Cari Soleo,Cherie D Berger,Kate Morse Falkiner,15,0
+18613,3,2026-03-22,cary,spring2026,lowadvanced,18,women,IND/PEAK The Real Dill,TOC Drop It Like it's Hot (Flashes),Sarika Hardas Mehta,Eva Yip,Rhonda Benkiel,Rebecca Drabenstott,11,15
+18613,4,2026-03-22,cary,spring2026,lowadvanced,18,women,IND/PEAK The Real Dill,TOC Drop It Like it's Hot (Flashes),Dori Mathews,Marie Saylor,Cherie D Berger,Kate Morse Falkiner,15,10
+18613,5,2026-03-22,cary,spring2026,lowadvanced,18,women,IND/PEAK The Real Dill,TOC Drop It Like it's Hot (Flashes),Melissa Cetola,Cari Soleo,Rhonda Benkiel,Rebecca Drabenstott,15,5
+18613,6,2026-03-22,cary,spring2026,lowadvanced,18,women,IND/PEAK The Real Dill,TOC Drop It Like it's Hot (Flashes),Sarika Hardas Mehta,Eva Yip,Kelda Bailey,Stacy Zotter,15,8
+18613,7,2026-03-22,cary,spring2026,lowadvanced,18,women,IND/PEAK The Real Dill,TOC Drop It Like it's Hot (Flashes),Dori Mathews,Marie Saylor,Rhonda Benkiel,Rebecca Drabenstott,15,4
+18613,8,2026-03-22,cary,spring2026,lowadvanced,18,women,IND/PEAK The Real Dill,TOC Drop It Like it's Hot (Flashes),Melissa Cetola,Cari Soleo,Kelda Bailey,Stacy Zotter,15,3
+18613,9,2026-03-22,cary,spring2026,lowadvanced,18,women,IND/PEAK The Real Dill,TOC Drop It Like it's Hot (Flashes),Sarika Hardas Mehta,Eva Yip,Cherie D Berger,Kate Morse Falkiner,15,5
+18637,1,2026-03-26,cary,spring2026,lowadvanced,18,women,12OAKS Serve Me A Double,IND/PEAK Paddle Smashers,Sherry Stolfo,Heather Kane,Daniela Antonova Prodanova,Lisa Davidson,8,15
+18637,2,2026-03-26,cary,spring2026,lowadvanced,18,women,12OAKS Serve Me A Double,IND/PEAK Paddle Smashers,Kristen P Ramsey,Wendy Pannell,Erin Clary,Dione Stuart,6,15
+18637,3,2026-03-26,cary,spring2026,lowadvanced,18,women,12OAKS Serve Me A Double,IND/PEAK Paddle Smashers,Christa Resavy,Lisa Nomanson,Kimberly Macenko,Shannon Stewart,15,6
+18637,4,2026-03-26,cary,spring2026,lowadvanced,18,women,12OAKS Serve Me A Double,IND/PEAK Paddle Smashers,Sherry Stolfo,Heather Kane,Erin Clary,Dione Stuart,11,15
+18637,5,2026-03-26,cary,spring2026,lowadvanced,18,women,12OAKS Serve Me A Double,IND/PEAK Paddle Smashers,Kristen P Ramsey,Wendy Pannell,Kimberly Macenko,Shannon Stewart,12,15
+18637,6,2026-03-26,cary,spring2026,lowadvanced,18,women,12OAKS Serve Me A Double,IND/PEAK Paddle Smashers,Christa Resavy,Lisa Nomanson,Daniela Antonova Prodanova,Lisa Davidson,11,15
+18637,7,2026-03-26,cary,spring2026,lowadvanced,18,women,12OAKS Serve Me A Double,IND/PEAK Paddle Smashers,Sherry Stolfo,Heather Kane,Kimberly Macenko,Shannon Stewart,15,8
+18637,8,2026-03-26,cary,spring2026,lowadvanced,18,women,12OAKS Serve Me A Double,IND/PEAK Paddle Smashers,Kristen P Ramsey,Wendy Pannell,Daniela Antonova Prodanova,Lisa Davidson,12,15
+18637,9,2026-03-26,cary,spring2026,lowadvanced,18,women,12OAKS Serve Me A Double,IND/PEAK Paddle Smashers,Christa Resavy,Lisa Nomanson,Erin Clary,Dione Stuart,15,13
+18639,1,2026-03-29,cary,spring2026,lowadvanced,18,women,IND/PEAK Paddle Smashers,IND/PEAK The Real Dill,Daniela Antonova Prodanova,Lisa Davidson,Aulia Tandradinata,Stephanie Charlino,15,13
+18639,2,2026-03-29,cary,spring2026,lowadvanced,18,women,IND/PEAK Paddle Smashers,IND/PEAK The Real Dill,Dione Stuart,Erin Clary,Marie Saylor,Melissa Cetola,9,15
+18639,3,2026-03-29,cary,spring2026,lowadvanced,18,women,IND/PEAK Paddle Smashers,IND/PEAK The Real Dill,Emily Shira,Shannon Stewart,Nicole Santos,Molly VanDyne,13,15
+18639,4,2026-03-29,cary,spring2026,lowadvanced,18,women,IND/PEAK Paddle Smashers,IND/PEAK The Real Dill,Daniela Antonova Prodanova,Lisa Davidson,Marie Saylor,Melissa Cetola,11,15
+18639,5,2026-03-29,cary,spring2026,lowadvanced,18,women,IND/PEAK Paddle Smashers,IND/PEAK The Real Dill,Dione Stuart,Erin Clary,Nicole Santos,Molly VanDyne,10,15
+18639,6,2026-03-29,cary,spring2026,lowadvanced,18,women,IND/PEAK Paddle Smashers,IND/PEAK The Real Dill,Emily Shira,Shannon Stewart,Aulia Tandradinata,Stephanie Charlino,11,15
+18639,7,2026-03-29,cary,spring2026,lowadvanced,18,women,IND/PEAK Paddle Smashers,IND/PEAK The Real Dill,Daniela Antonova Prodanova,Lisa Davidson,Nicole Santos,Molly VanDyne,15,7
+18639,8,2026-03-29,cary,spring2026,lowadvanced,18,women,IND/PEAK Paddle Smashers,IND/PEAK The Real Dill,Dione Stuart,Erin Clary,Aulia Tandradinata,Stephanie Charlino,15,4
+18639,9,2026-03-29,cary,spring2026,lowadvanced,18,women,IND/PEAK Paddle Smashers,IND/PEAK The Real Dill,Emily Shira,Shannon Stewart,Marie Saylor,Melissa Cetola,5,15
+18642,1,2026-03-29,cary,spring2026,lowadvanced,18,women,TOC Drop It Like it's Hot (Flashes),12OAKS Serve Me A Double,Anouk Dehandtschutter,Rhonda Benkiel,Wendy Pannell,AnneMarie Conklin,15,8
+18642,2,2026-03-29,cary,spring2026,lowadvanced,18,women,TOC Drop It Like it's Hot (Flashes),12OAKS Serve Me A Double,Kate Morse Falkiner,Shubha Sachdev,Amy Smith,Lisa Nomanson,15,7
+18642,3,2026-03-29,cary,spring2026,lowadvanced,18,women,TOC Drop It Like it's Hot (Flashes),12OAKS Serve Me A Double,Michelle Reyes,Rebecca Drabenstott,Carrie Allen,Kristen P Ramsey,15,17
+18642,4,2026-03-29,cary,spring2026,lowadvanced,18,women,TOC Drop It Like it's Hot (Flashes),12OAKS Serve Me A Double,Anouk Dehandtschutter,Rhonda Benkiel,Amy Smith,Lisa Nomanson,15,0
+18642,5,2026-03-29,cary,spring2026,lowadvanced,18,women,TOC Drop It Like it's Hot (Flashes),12OAKS Serve Me A Double,Kate Morse Falkiner,Shubha Sachdev,Carrie Allen,Kristen P Ramsey,15,4
+18642,6,2026-03-29,cary,spring2026,lowadvanced,18,women,TOC Drop It Like it's Hot (Flashes),12OAKS Serve Me A Double,Michelle Reyes,Rebecca Drabenstott,Wendy Pannell,AnneMarie Conklin,15,13
+18642,7,2026-03-29,cary,spring2026,lowadvanced,18,women,TOC Drop It Like it's Hot (Flashes),12OAKS Serve Me A Double,Anouk Dehandtschutter,Rhonda Benkiel,Carrie Allen,Kristen P Ramsey,15,2
+18642,8,2026-03-29,cary,spring2026,lowadvanced,18,women,TOC Drop It Like it's Hot (Flashes),12OAKS Serve Me A Double,Kate Morse Falkiner,Shubha Sachdev,Wendy Pannell,AnneMarie Conklin,15,3
+18642,9,2026-03-29,cary,spring2026,lowadvanced,18,women,TOC Drop It Like it's Hot (Flashes),12OAKS Serve Me A Double,Michelle Reyes,Rebecca Drabenstott,Amy Smith,Lisa Nomanson,14,16
+18667,1,2026-04-12,cary,spring2026,lowadvanced,18,women,IND/PEAK Paddle Smashers,TOC Drop It Like it's Hot (Flashes),Lisa Davidson,Erin Clary,Shubha Sachdev,Kelda Bailey,15,12
+18667,2,2026-04-12,cary,spring2026,lowadvanced,18,women,IND/PEAK Paddle Smashers,TOC Drop It Like it's Hot (Flashes),Daniela Antonova Prodanova,Kimberly Macenko,Rhonda Benkiel,Michelle Reyes,11,15
+18667,3,2026-04-12,cary,spring2026,lowadvanced,18,women,IND/PEAK Paddle Smashers,TOC Drop It Like it's Hot (Flashes),Caitlin Rogers,Callie Ellison,Anouk Dehandtschutter,Cathy Culton,14,16
+18667,4,2026-04-12,cary,spring2026,lowadvanced,18,women,IND/PEAK Paddle Smashers,TOC Drop It Like it's Hot (Flashes),Lisa Davidson,Erin Clary,Rhonda Benkiel,Michelle Reyes,15,7
+18667,5,2026-04-12,cary,spring2026,lowadvanced,18,women,IND/PEAK Paddle Smashers,TOC Drop It Like it's Hot (Flashes),Daniela Antonova Prodanova,Kimberly Macenko,Anouk Dehandtschutter,Cathy Culton,13,15
+18667,6,2026-04-12,cary,spring2026,lowadvanced,18,women,IND/PEAK Paddle Smashers,TOC Drop It Like it's Hot (Flashes),Caitlin Rogers,Callie Ellison,Shubha Sachdev,Kelda Bailey,15,10
+18667,7,2026-04-12,cary,spring2026,lowadvanced,18,women,IND/PEAK Paddle Smashers,TOC Drop It Like it's Hot (Flashes),Lisa Davidson,Erin Clary,Anouk Dehandtschutter,Cathy Culton,15,13
+18667,8,2026-04-12,cary,spring2026,lowadvanced,18,women,IND/PEAK Paddle Smashers,TOC Drop It Like it's Hot (Flashes),Daniela Antonova Prodanova,Kimberly Macenko,Shubha Sachdev,Kelda Bailey,15,13
+18667,9,2026-04-12,cary,spring2026,lowadvanced,18,women,IND/PEAK Paddle Smashers,TOC Drop It Like it's Hot (Flashes),Caitlin Rogers,Callie Ellison,Rhonda Benkiel,Michelle Reyes,15,9
+18688,1,2026-04-16,cary,spring2026,lowadvanced,18,women,12OAKS Serve Me A Double,IND/PEAK The Real Dill,Amy Smith,Heather Helen Dashnau,Aulia Tandradinata,Stephanie Charlino,11,15
+18688,2,2026-04-16,cary,spring2026,lowadvanced,18,women,12OAKS Serve Me A Double,IND/PEAK The Real Dill,DEFAULT,DEFAULT,Eva Yip,Sarika Hardas Mehta,0,15
+18688,3,2026-04-16,cary,spring2026,lowadvanced,18,women,12OAKS Serve Me A Double,IND/PEAK The Real Dill,Heather Kane,AnneMarie Conklin,Cari Soleo,Dori Mathews,13,15
+18688,4,2026-04-16,cary,spring2026,lowadvanced,18,women,12OAKS Serve Me A Double,IND/PEAK The Real Dill,Amy Smith,Heather Helen Dashnau,Eva Yip,Sarika Hardas Mehta,6,15
+18688,5,2026-04-16,cary,spring2026,lowadvanced,18,women,12OAKS Serve Me A Double,IND/PEAK The Real Dill,DEFAULT,DEFAULT,Cari Soleo,Dori Mathews,0,15
+18688,6,2026-04-16,cary,spring2026,lowadvanced,18,women,12OAKS Serve Me A Double,IND/PEAK The Real Dill,Heather Kane,AnneMarie Conklin,Aulia Tandradinata,Stephanie Charlino,15,7
+18688,7,2026-04-16,cary,spring2026,lowadvanced,18,women,12OAKS Serve Me A Double,IND/PEAK The Real Dill,Amy Smith,Heather Helen Dashnau,Cari Soleo,Dori Mathews,5,15
+18688,8,2026-04-16,cary,spring2026,lowadvanced,18,women,12OAKS Serve Me A Double,IND/PEAK The Real Dill,DEFAULT,DEFAULT,Aulia Tandradinata,Stephanie Charlino,0,15
+18688,9,2026-04-16,cary,spring2026,lowadvanced,18,women,12OAKS Serve Me A Double,IND/PEAK The Real Dill,Heather Kane,AnneMarie Conklin,Eva Yip,Sarika Hardas Mehta,14,16
+18692,1,2026-04-19,cary,spring2026,lowadvanced,18,women,TOC Drop It Like it's Hot (Flashes),IND/PEAK The Real Dill,Cathy Culton,Anouk Dehandtschutter,Nicole Santos,Molly VanDyne,15,13
+18692,2,2026-04-19,cary,spring2026,lowadvanced,18,women,TOC Drop It Like it's Hot (Flashes),IND/PEAK The Real Dill,Michelle Reyes,Cherie D Berger,Marie Saylor,Sarika Hardas Mehta,9,15
+18692,3,2026-04-19,cary,spring2026,lowadvanced,18,women,TOC Drop It Like it's Hot (Flashes),IND/PEAK The Real Dill,Rhonda Benkiel,Shubha Sachdev,Cari Soleo,Melissa Cetola,5,15
+18692,4,2026-04-19,cary,spring2026,lowadvanced,18,women,TOC Drop It Like it's Hot (Flashes),IND/PEAK The Real Dill,Cathy Culton,Anouk Dehandtschutter,Marie Saylor,Sarika Hardas Mehta,15,2
+18692,5,2026-04-19,cary,spring2026,lowadvanced,18,women,TOC Drop It Like it's Hot (Flashes),IND/PEAK The Real Dill,Michelle Reyes,Cherie D Berger,Cari Soleo,Melissa Cetola,10,15
+18692,6,2026-04-19,cary,spring2026,lowadvanced,18,women,TOC Drop It Like it's Hot (Flashes),IND/PEAK The Real Dill,Rhonda Benkiel,Shubha Sachdev,Nicole Santos,Molly VanDyne,15,9
+18692,7,2026-04-19,cary,spring2026,lowadvanced,18,women,TOC Drop It Like it's Hot (Flashes),IND/PEAK The Real Dill,Cathy Culton,Anouk Dehandtschutter,Cari Soleo,Melissa Cetola,9,15
+18692,8,2026-04-19,cary,spring2026,lowadvanced,18,women,TOC Drop It Like it's Hot (Flashes),IND/PEAK The Real Dill,Michelle Reyes,Cherie D Berger,Nicole Santos,Molly VanDyne,6,15
+18692,9,2026-04-19,cary,spring2026,lowadvanced,18,women,TOC Drop It Like it's Hot (Flashes),IND/PEAK The Real Dill,Rhonda Benkiel,Shubha Sachdev,Marie Saylor,Sarika Hardas Mehta,13,15
+18737,1,2026-04-30,cary,spring2026,lowadvanced,18,women,12OAKS Serve Me A Double,TOC Drop It Like it's Hot (Flashes),Nikki Orie,Amy Smith,Kelda Bailey,Stacy Zotter,1,15
+18737,2,2026-04-30,cary,spring2026,lowadvanced,18,women,12OAKS Serve Me A Double,TOC Drop It Like it's Hot (Flashes),Kristen P Ramsey,Heather Helen Dashnau,Michelle Reyes,Cathy Culton,9,15
+18737,3,2026-04-30,cary,spring2026,lowadvanced,18,women,12OAKS Serve Me A Double,TOC Drop It Like it's Hot (Flashes),Christa Resavy,Sherry Stolfo,Pamela DeLoatch,Rebecca Drabenstott,15,8
+18737,4,2026-04-30,cary,spring2026,lowadvanced,18,women,12OAKS Serve Me A Double,TOC Drop It Like it's Hot (Flashes),Nikki Orie,Amy Smith,Michelle Reyes,Cathy Culton,7,15
+18737,5,2026-04-30,cary,spring2026,lowadvanced,18,women,12OAKS Serve Me A Double,TOC Drop It Like it's Hot (Flashes),Kristen P Ramsey,Heather Helen Dashnau,Pamela DeLoatch,Rebecca Drabenstott,15,8
+18737,6,2026-04-30,cary,spring2026,lowadvanced,18,women,12OAKS Serve Me A Double,TOC Drop It Like it's Hot (Flashes),Christa Resavy,Sherry Stolfo,Kelda Bailey,Stacy Zotter,13,15
+18737,7,2026-04-30,cary,spring2026,lowadvanced,18,women,12OAKS Serve Me A Double,TOC Drop It Like it's Hot (Flashes),Nikki Orie,Amy Smith,Pamela DeLoatch,Rebecca Drabenstott,15,13
+18737,8,2026-04-30,cary,spring2026,lowadvanced,18,women,12OAKS Serve Me A Double,TOC Drop It Like it's Hot (Flashes),Kristen P Ramsey,Heather Helen Dashnau,Kelda Bailey,Stacy Zotter,13,15
+18737,9,2026-04-30,cary,spring2026,lowadvanced,18,women,12OAKS Serve Me A Double,TOC Drop It Like it's Hot (Flashes),Christa Resavy,Sherry Stolfo,Michelle Reyes,Cathy Culton,12,15
+18739,1,2026-05-03,cary,spring2026,lowadvanced,18,women,IND/PEAK The Real Dill,12OAKS Serve Me A Double,Cari Soleo,Melissa Cetola,DEFAULT,DEFAULT,15,0
+18739,2,2026-05-03,cary,spring2026,lowadvanced,18,women,IND/PEAK The Real Dill,12OAKS Serve Me A Double,Molly VanDyne,Sarika Hardas Mehta,DEFAULT,DEFAULT,15,0
+18739,3,2026-05-03,cary,spring2026,lowadvanced,18,women,IND/PEAK The Real Dill,12OAKS Serve Me A Double,Marie Saylor,Dori Mathews,DEFAULT,DEFAULT,15,0
+18739,4,2026-05-03,cary,spring2026,lowadvanced,18,women,IND/PEAK The Real Dill,12OAKS Serve Me A Double,Cari Soleo,Melissa Cetola,DEFAULT,DEFAULT,15,0
+18739,5,2026-05-03,cary,spring2026,lowadvanced,18,women,IND/PEAK The Real Dill,12OAKS Serve Me A Double,Molly VanDyne,Sarika Hardas Mehta,DEFAULT,DEFAULT,15,0
+18739,6,2026-05-03,cary,spring2026,lowadvanced,18,women,IND/PEAK The Real Dill,12OAKS Serve Me A Double,Marie Saylor,Dori Mathews,DEFAULT,DEFAULT,15,0
+18739,7,2026-05-03,cary,spring2026,lowadvanced,18,women,IND/PEAK The Real Dill,12OAKS Serve Me A Double,Cari Soleo,Melissa Cetola,DEFAULT,DEFAULT,15,0
+18739,8,2026-05-03,cary,spring2026,lowadvanced,18,women,IND/PEAK The Real Dill,12OAKS Serve Me A Double,Molly VanDyne,Sarika Hardas Mehta,DEFAULT,DEFAULT,15,0
+18739,9,2026-05-03,cary,spring2026,lowadvanced,18,women,IND/PEAK The Real Dill,12OAKS Serve Me A Double,Marie Saylor,Dori Mathews,DEFAULT,DEFAULT,15,0
+18744,1,2026-05-03,cary,spring2026,lowadvanced,18,women,TOC Drop It Like it's Hot (Flashes),IND/PEAK Paddle Smashers,Stacy Zotter,Pamela DeLoatch,Kimberly Macenko,Shannon Stewart,13,15
+18744,2,2026-05-03,cary,spring2026,lowadvanced,18,women,TOC Drop It Like it's Hot (Flashes),IND/PEAK Paddle Smashers,Kate Morse Falkiner,Shubha Sachdev,Dione Stuart,Emily Shira,15,11
+18744,3,2026-05-03,cary,spring2026,lowadvanced,18,women,TOC Drop It Like it's Hot (Flashes),IND/PEAK Paddle Smashers,Michelle Reyes,Kelda Bailey,Erin Clary,Lisa Davidson,6,15
+18744,4,2026-05-03,cary,spring2026,lowadvanced,18,women,TOC Drop It Like it's Hot (Flashes),IND/PEAK Paddle Smashers,Stacy Zotter,Pamela DeLoatch,Dione Stuart,Emily Shira,1,15
+18744,5,2026-05-03,cary,spring2026,lowadvanced,18,women,TOC Drop It Like it's Hot (Flashes),IND/PEAK Paddle Smashers,Kate Morse Falkiner,Shubha Sachdev,Erin Clary,Lisa Davidson,13,15
+18744,6,2026-05-03,cary,spring2026,lowadvanced,18,women,TOC Drop It Like it's Hot (Flashes),IND/PEAK Paddle Smashers,Michelle Reyes,Kelda Bailey,Kimberly Macenko,Shannon Stewart,15,7
+18744,7,2026-05-03,cary,spring2026,lowadvanced,18,women,TOC Drop It Like it's Hot (Flashes),IND/PEAK Paddle Smashers,Stacy Zotter,Pamela DeLoatch,Erin Clary,Lisa Davidson,9,15
+18744,8,2026-05-03,cary,spring2026,lowadvanced,18,women,TOC Drop It Like it's Hot (Flashes),IND/PEAK Paddle Smashers,Kate Morse Falkiner,Shubha Sachdev,Kimberly Macenko,Shannon Stewart,8,15
+18744,9,2026-05-03,cary,spring2026,lowadvanced,18,women,TOC Drop It Like it's Hot (Flashes),IND/PEAK Paddle Smashers,Michelle Reyes,Kelda Bailey,Dione Stuart,Emily Shira,9,15
+18767,1,2026-05-10,cary,spring2026,lowadvanced,18,women,IND/PEAK The Real Dill,TOC Drop It Like it's Hot (Flashes),Cari Soleo,Melissa Cetola,Rhonda Benkiel,Cathy Culton,15,12
+18767,2,2026-05-10,cary,spring2026,lowadvanced,18,women,IND/PEAK The Real Dill,TOC Drop It Like it's Hot (Flashes),Aulia Tandradinata,Stephanie Charlino,Shubha Sachdev,Rebecca Drabenstott,8,15
+18767,3,2026-05-10,cary,spring2026,lowadvanced,18,women,IND/PEAK The Real Dill,TOC Drop It Like it's Hot (Flashes),Eva Yip,Nicole Santos,Pamela DeLoatch,Cherie D Berger,15,7
+18767,4,2026-05-10,cary,spring2026,lowadvanced,18,women,IND/PEAK The Real Dill,TOC Drop It Like it's Hot (Flashes),Cari Soleo,Melissa Cetola,Shubha Sachdev,Rebecca Drabenstott,15,3
+18767,5,2026-05-10,cary,spring2026,lowadvanced,18,women,IND/PEAK The Real Dill,TOC Drop It Like it's Hot (Flashes),Aulia Tandradinata,Stephanie Charlino,Pamela DeLoatch,Cherie D Berger,15,5
+18767,6,2026-05-10,cary,spring2026,lowadvanced,18,women,IND/PEAK The Real Dill,TOC Drop It Like it's Hot (Flashes),Eva Yip,Nicole Santos,Rhonda Benkiel,Cathy Culton,10,15
+18767,7,2026-05-10,cary,spring2026,lowadvanced,18,women,IND/PEAK The Real Dill,TOC Drop It Like it's Hot (Flashes),Cari Soleo,Melissa Cetola,Pamela DeLoatch,Cherie D Berger,15,3
+18767,8,2026-05-10,cary,spring2026,lowadvanced,18,women,IND/PEAK The Real Dill,TOC Drop It Like it's Hot (Flashes),Aulia Tandradinata,Stephanie Charlino,Rhonda Benkiel,Cathy Culton,12,15
+18767,9,2026-05-10,cary,spring2026,lowadvanced,18,women,IND/PEAK The Real Dill,TOC Drop It Like it's Hot (Flashes),Eva Yip,Nicole Santos,Shubha Sachdev,Rebecca Drabenstott,15,6
+18787,1,2026-05-14,cary,spring2026,lowadvanced,18,women,12OAKS Serve Me A Double,IND/PEAK Paddle Smashers,Sherry Stolfo,Christa Resavy,Daniela Antonova Prodanova,Lisa Davidson,3,15
+18787,2,2026-05-14,cary,spring2026,lowadvanced,18,women,12OAKS Serve Me A Double,IND/PEAK Paddle Smashers,Heather Kane,Nikki Orie,Kimberly Macenko,Shannon Stewart,15,10
+18787,3,2026-05-14,cary,spring2026,lowadvanced,18,women,12OAKS Serve Me A Double,IND/PEAK Paddle Smashers,Heather Helen Dashnau,Wendy Pannell,Caitlin Rogers,Callie Ellison,7,15
+18787,4,2026-05-14,cary,spring2026,lowadvanced,18,women,12OAKS Serve Me A Double,IND/PEAK Paddle Smashers,Sherry Stolfo,Christa Resavy,Kimberly Macenko,Shannon Stewart,15,8
+18787,5,2026-05-14,cary,spring2026,lowadvanced,18,women,12OAKS Serve Me A Double,IND/PEAK Paddle Smashers,Heather Kane,Nikki Orie,Caitlin Rogers,Callie Ellison,6,15
+18787,6,2026-05-14,cary,spring2026,lowadvanced,18,women,12OAKS Serve Me A Double,IND/PEAK Paddle Smashers,Heather Helen Dashnau,Wendy Pannell,Daniela Antonova Prodanova,Lisa Davidson,7,15
+18787,7,2026-05-14,cary,spring2026,lowadvanced,18,women,12OAKS Serve Me A Double,IND/PEAK Paddle Smashers,Sherry Stolfo,Christa Resavy,Caitlin Rogers,Callie Ellison,11,15
+18787,8,2026-05-14,cary,spring2026,lowadvanced,18,women,12OAKS Serve Me A Double,IND/PEAK Paddle Smashers,Heather Kane,Nikki Orie,Daniela Antonova Prodanova,Lisa Davidson,8,15
+18787,9,2026-05-14,cary,spring2026,lowadvanced,18,women,12OAKS Serve Me A Double,IND/PEAK Paddle Smashers,Heather Helen Dashnau,Wendy Pannell,Kimberly Macenko,Shannon Stewart,8,15
+18789,1,2026-05-17,cary,spring2026,lowadvanced,18,women,IND/PEAK Paddle Smashers,IND/PEAK The Real Dill,Caitlin Rogers,Emily Shira,Nicole Santos,Eva Yip,15,1
+18789,2,2026-05-17,cary,spring2026,lowadvanced,18,women,IND/PEAK Paddle Smashers,IND/PEAK The Real Dill,Dione Stuart,Erin Clary,Cari Soleo,Marie Saylor,7,15
+18789,3,2026-05-17,cary,spring2026,lowadvanced,18,women,IND/PEAK Paddle Smashers,IND/PEAK The Real Dill,Callie Ellison,Daniela Antonova Prodanova,Dori Mathews,Stephanie Charlino,13,15
+18789,4,2026-05-17,cary,spring2026,lowadvanced,18,women,IND/PEAK Paddle Smashers,IND/PEAK The Real Dill,Caitlin Rogers,Emily Shira,Cari Soleo,Marie Saylor,10,15
+18789,5,2026-05-17,cary,spring2026,lowadvanced,18,women,IND/PEAK Paddle Smashers,IND/PEAK The Real Dill,Dione Stuart,Erin Clary,Dori Mathews,Stephanie Charlino,7,15
+18789,6,2026-05-17,cary,spring2026,lowadvanced,18,women,IND/PEAK Paddle Smashers,IND/PEAK The Real Dill,Callie Ellison,Daniela Antonova Prodanova,Nicole Santos,Eva Yip,11,15
+18789,7,2026-05-17,cary,spring2026,lowadvanced,18,women,IND/PEAK Paddle Smashers,IND/PEAK The Real Dill,Caitlin Rogers,Emily Shira,Dori Mathews,Stephanie Charlino,12,15
+18789,8,2026-05-17,cary,spring2026,lowadvanced,18,women,IND/PEAK Paddle Smashers,IND/PEAK The Real Dill,Dione Stuart,Erin Clary,Nicole Santos,Eva Yip,15,9
+18789,9,2026-05-17,cary,spring2026,lowadvanced,18,women,IND/PEAK Paddle Smashers,IND/PEAK The Real Dill,Callie Ellison,Daniela Antonova Prodanova,Cari Soleo,Marie Saylor,12,15
+18793,1,2026-05-17,cary,spring2026,lowadvanced,18,women,TOC Drop It Like it's Hot (Flashes),12OAKS Serve Me A Double,Rhonda Benkiel,Stacy Zotter,Lisa Nomanson,Nikki Orie,15,3
+18793,2,2026-05-17,cary,spring2026,lowadvanced,18,women,TOC Drop It Like it's Hot (Flashes),12OAKS Serve Me A Double,Cherie D Berger,Rebecca Drabenstott,Kristen P Ramsey,Heather Helen Dashnau,10,15
+18793,3,2026-05-17,cary,spring2026,lowadvanced,18,women,TOC Drop It Like it's Hot (Flashes),12OAKS Serve Me A Double,Kate Morse Falkiner,Pamela DeLoatch,Christa Resavy,Sherry Stolfo,6,15
+18793,4,2026-05-17,cary,spring2026,lowadvanced,18,women,TOC Drop It Like it's Hot (Flashes),12OAKS Serve Me A Double,Rhonda Benkiel,Stacy Zotter,Kristen P Ramsey,Heather Helen Dashnau,14,16
+18793,5,2026-05-17,cary,spring2026,lowadvanced,18,women,TOC Drop It Like it's Hot (Flashes),12OAKS Serve Me A Double,Cherie D Berger,Rebecca Drabenstott,Christa Resavy,Sherry Stolfo,9,15
+18793,6,2026-05-17,cary,spring2026,lowadvanced,18,women,TOC Drop It Like it's Hot (Flashes),12OAKS Serve Me A Double,Kate Morse Falkiner,Pamela DeLoatch,Lisa Nomanson,Nikki Orie,5,15
+18793,7,2026-05-17,cary,spring2026,lowadvanced,18,women,TOC Drop It Like it's Hot (Flashes),12OAKS Serve Me A Double,Rhonda Benkiel,Stacy Zotter,Christa Resavy,Sherry Stolfo,10,15
+18793,8,2026-05-17,cary,spring2026,lowadvanced,18,women,TOC Drop It Like it's Hot (Flashes),12OAKS Serve Me A Double,Cherie D Berger,Rebecca Drabenstott,Lisa Nomanson,Nikki Orie,14,16
+18793,9,2026-05-17,cary,spring2026,lowadvanced,18,women,TOC Drop It Like it's Hot (Flashes),12OAKS Serve Me A Double,Kate Morse Falkiner,Pamela DeLoatch,Kristen P Ramsey,Heather Helen Dashnau,15,13
+18821,1,2026-05-28,cary,spring2026,lowadvanced,18,women,12OAKS Serve Me A Double,IND/PEAK Paddle Smashers,Lisa Nomanson,Christa Resavy,Caitlin Rogers,Callie Ellison,11,15
+18821,2,2026-05-28,cary,spring2026,lowadvanced,18,women,12OAKS Serve Me A Double,IND/PEAK Paddle Smashers,Sherry Stolfo,Heather Kane,Daniela Antonova Prodanova,Shannon Stewart,15,12
+18821,3,2026-05-28,cary,spring2026,lowadvanced,18,women,12OAKS Serve Me A Double,IND/PEAK Paddle Smashers,Nikki Orie,Heather Helen Dashnau,Emily Shira,Kimberly Macenko,16,14
+18821,4,2026-05-28,cary,spring2026,lowadvanced,18,women,12OAKS Serve Me A Double,IND/PEAK Paddle Smashers,Lisa Nomanson,Christa Resavy,Daniela Antonova Prodanova,Shannon Stewart,15,12
+18821,5,2026-05-28,cary,spring2026,lowadvanced,18,women,12OAKS Serve Me A Double,IND/PEAK Paddle Smashers,Sherry Stolfo,Heather Kane,Emily Shira,Kimberly Macenko,15,11
+18821,6,2026-05-28,cary,spring2026,lowadvanced,18,women,12OAKS Serve Me A Double,IND/PEAK Paddle Smashers,Nikki Orie,Heather Helen Dashnau,Caitlin Rogers,Callie Ellison,12,15
+18821,7,2026-05-28,cary,spring2026,lowadvanced,18,women,12OAKS Serve Me A Double,IND/PEAK Paddle Smashers,Lisa Nomanson,Christa Resavy,Emily Shira,Kimberly Macenko,17,15
+18821,8,2026-05-28,cary,spring2026,lowadvanced,18,women,12OAKS Serve Me A Double,IND/PEAK Paddle Smashers,Sherry Stolfo,Heather Kane,Caitlin Rogers,Callie Ellison,10,15
+18821,9,2026-05-28,cary,spring2026,lowadvanced,18,women,12OAKS Serve Me A Double,IND/PEAK Paddle Smashers,Nikki Orie,Heather Helen Dashnau,Daniela Antonova Prodanova,Shannon Stewart,11,15
+18823,1,2026-05-31,cary,spring2026,lowadvanced,18,women,IND/PEAK Paddle Smashers,IND/PEAK The Real Dill,Dione Stuart,Erin Clary,Marie Saylor,Aulia Tandradinata,14,16
+18823,2,2026-05-31,cary,spring2026,lowadvanced,18,women,IND/PEAK Paddle Smashers,IND/PEAK The Real Dill,Caitlin Rogers,Emily Shira,Stephanie Charlino,Cari Soleo,15,4
+18823,3,2026-05-31,cary,spring2026,lowadvanced,18,women,IND/PEAK Paddle Smashers,IND/PEAK The Real Dill,Daniela Antonova Prodanova,Lisa Davidson,Sarika Hardas Mehta,Molly VanDyne,15,7
+18823,4,2026-05-31,cary,spring2026,lowadvanced,18,women,IND/PEAK Paddle Smashers,IND/PEAK The Real Dill,Dione Stuart,Erin Clary,Stephanie Charlino,Cari Soleo,6,15
+18823,5,2026-05-31,cary,spring2026,lowadvanced,18,women,IND/PEAK Paddle Smashers,IND/PEAK The Real Dill,Caitlin Rogers,Emily Shira,Sarika Hardas Mehta,Molly VanDyne,15,12
+18823,6,2026-05-31,cary,spring2026,lowadvanced,18,women,IND/PEAK Paddle Smashers,IND/PEAK The Real Dill,Daniela Antonova Prodanova,Lisa Davidson,Marie Saylor,Aulia Tandradinata,15,11
+18823,7,2026-05-31,cary,spring2026,lowadvanced,18,women,IND/PEAK Paddle Smashers,IND/PEAK The Real Dill,Dione Stuart,Erin Clary,Sarika Hardas Mehta,Molly VanDyne,10,15
+18823,8,2026-05-31,cary,spring2026,lowadvanced,18,women,IND/PEAK Paddle Smashers,IND/PEAK The Real Dill,Caitlin Rogers,Emily Shira,Marie Saylor,Aulia Tandradinata,15,8
+18823,9,2026-05-31,cary,spring2026,lowadvanced,18,women,IND/PEAK Paddle Smashers,IND/PEAK The Real Dill,Daniela Antonova Prodanova,Lisa Davidson,Stephanie Charlino,Cari Soleo,7,15
+18842,1,2026-06-07,cary,spring2026,lowadvanced,18,women,IND/PEAK The Real Dill,IND/PEAK Paddle Smashers,Cari Soleo,Melissa Cetola,Callie Ellison,Dione Stuart,6,15
+18842,2,2026-06-07,cary,spring2026,lowadvanced,18,women,IND/PEAK The Real Dill,IND/PEAK Paddle Smashers,Sarika Hardas Mehta,Marie Saylor,Caitlin Rogers,Erin Clary,9,15
+18842,3,2026-06-07,cary,spring2026,lowadvanced,18,women,IND/PEAK The Real Dill,IND/PEAK Paddle Smashers,Dori Mathews,Stephanie Charlino,Daniela Antonova Prodanova,Lisa Davidson,10,15
+18842,4,2026-06-07,cary,spring2026,lowadvanced,18,women,IND/PEAK The Real Dill,IND/PEAK Paddle Smashers,Cari Soleo,Melissa Cetola,Caitlin Rogers,Erin Clary,15,12
+18842,5,2026-06-07,cary,spring2026,lowadvanced,18,women,IND/PEAK The Real Dill,IND/PEAK Paddle Smashers,Sarika Hardas Mehta,Marie Saylor,Daniela Antonova Prodanova,Lisa Davidson,15,9
+18842,6,2026-06-07,cary,spring2026,lowadvanced,18,women,IND/PEAK The Real Dill,IND/PEAK Paddle Smashers,Dori Mathews,Stephanie Charlino,Callie Ellison,Dione Stuart,10,15
+18842,7,2026-06-07,cary,spring2026,lowadvanced,18,women,IND/PEAK The Real Dill,IND/PEAK Paddle Smashers,Cari Soleo,Melissa Cetola,Daniela Antonova Prodanova,Lisa Davidson,15,9
+18842,8,2026-06-07,cary,spring2026,lowadvanced,18,women,IND/PEAK The Real Dill,IND/PEAK Paddle Smashers,Sarika Hardas Mehta,Marie Saylor,Callie Ellison,Dione Stuart,15,11
+18842,9,2026-06-07,cary,spring2026,lowadvanced,18,women,IND/PEAK The Real Dill,IND/PEAK Paddle Smashers,Dori Mathews,Stephanie Charlino,Caitlin Rogers,Erin Clary,8,15

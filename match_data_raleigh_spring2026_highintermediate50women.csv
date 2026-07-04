@@ -1,190 +1,190 @@
-match_id,game_id,match_date,team1_name,team2_name,partner1,partner2,opponent1,opponent2,team1_points,team2_points
-18349,1,2026-03-19,HASEN Dink Responsibly 50+ (PM),7OAKS Dill With It (AM/PM),Candice V Diehl,Sharon F Barham,Ada Gonzalez,Leigh Magee,16,14
-18349,2,2026-03-19,HASEN Dink Responsibly 50+ (PM),7OAKS Dill With It (AM/PM),Diane Werner,Debra Skiko,Amy A Lindsey,Shelly A Schiff,15,7
-18349,3,2026-03-19,HASEN Dink Responsibly 50+ (PM),7OAKS Dill With It (AM/PM),Betsy Perkinson,Susan Flanagan,Dolores Beck Quesenberry,Dana Chapman,4,15
-18349,4,2026-03-19,HASEN Dink Responsibly 50+ (PM),7OAKS Dill With It (AM/PM),Candice V Diehl,Sharon F Barham,Amy A Lindsey,Shelly A Schiff,16,14
-18349,5,2026-03-19,HASEN Dink Responsibly 50+ (PM),7OAKS Dill With It (AM/PM),Diane Werner,Debra Skiko,Dolores Beck Quesenberry,Dana Chapman,17,15
-18349,6,2026-03-19,HASEN Dink Responsibly 50+ (PM),7OAKS Dill With It (AM/PM),Betsy Perkinson,Susan Flanagan,Ada Gonzalez,Leigh Magee,9,15
-18349,7,2026-03-19,HASEN Dink Responsibly 50+ (PM),7OAKS Dill With It (AM/PM),Candice V Diehl,Sharon F Barham,Dolores Beck Quesenberry,Dana Chapman,12,15
-18349,8,2026-03-19,HASEN Dink Responsibly 50+ (PM),7OAKS Dill With It (AM/PM),Diane Werner,Debra Skiko,Ada Gonzalez,Leigh Magee,15,6
-18349,9,2026-03-19,HASEN Dink Responsibly 50+ (PM),7OAKS Dill With It (AM/PM),Betsy Perkinson,Susan Flanagan,Amy A Lindsey,Shelly A Schiff,15,5
-18350,1,2026-03-19,WPCC Spinsters (PM),PIN Pinpoint Posse (PM),Teesa McKinley,Susan Laurie Shaw,Pattie Lopez,Pamela smith,15,8
-18350,2,2026-03-19,WPCC Spinsters (PM),PIN Pinpoint Posse (PM),Janet Wilson Mitch,Melissa S Green,Sheila M Lavey,Sarah J Jennings,15,9
-18350,3,2026-03-19,WPCC Spinsters (PM),PIN Pinpoint Posse (PM),Sylvie Daigle,Leigh Kimball,Talise Young,Patty L Owens,12,15
-18350,4,2026-03-19,WPCC Spinsters (PM),PIN Pinpoint Posse (PM),Teesa McKinley,Susan Laurie Shaw,Sheila M Lavey,Sarah J Jennings,15,3
-18350,5,2026-03-19,WPCC Spinsters (PM),PIN Pinpoint Posse (PM),Janet Wilson Mitch,Melissa S Green,Talise Young,Patty L Owens,2,15
-18350,6,2026-03-19,WPCC Spinsters (PM),PIN Pinpoint Posse (PM),Sylvie Daigle,Leigh Kimball,Pattie Lopez,Pamela smith,15,5
-18350,7,2026-03-19,WPCC Spinsters (PM),PIN Pinpoint Posse (PM),Teesa McKinley,Susan Laurie Shaw,Talise Young,Patty L Owens,15,12
-18350,8,2026-03-19,WPCC Spinsters (PM),PIN Pinpoint Posse (PM),Janet Wilson Mitch,Melissa S Green,Pattie Lopez,Pamela smith,4,15
-18350,9,2026-03-19,WPCC Spinsters (PM),PIN Pinpoint Posse (PM),Sylvie Daigle,Leigh Kimball,Sheila M Lavey,Sarah J Jennings,15,7
-18375,1,2026-03-26,7OAKS Wildcards (AM/PM),PIN Pinpoint Posse (PM),Alix Winfield Ballantyne,Ann McDermott-Jorge,Pamela smith,Sarah J Jennings,11,15
-18375,2,2026-03-26,7OAKS Wildcards (AM/PM),PIN Pinpoint Posse (PM),Cindy Feryo,Deb Baltz,Pattie Lopez,Talise Young,15,10
-18375,3,2026-03-26,7OAKS Wildcards (AM/PM),PIN Pinpoint Posse (PM),Suzette P Brown,Laurie H Kramer,Diane Chapman,Debbie Harper,15,7
-18375,4,2026-03-26,7OAKS Wildcards (AM/PM),PIN Pinpoint Posse (PM),Alix Winfield Ballantyne,Ann McDermott-Jorge,Pattie Lopez,Talise Young,10,15
-18375,5,2026-03-26,7OAKS Wildcards (AM/PM),PIN Pinpoint Posse (PM),Cindy Feryo,Deb Baltz,Diane Chapman,Debbie Harper,15,5
-18375,6,2026-03-26,7OAKS Wildcards (AM/PM),PIN Pinpoint Posse (PM),Suzette P Brown,Laurie H Kramer,Pamela smith,Sarah J Jennings,15,11
-18375,7,2026-03-26,7OAKS Wildcards (AM/PM),PIN Pinpoint Posse (PM),Alix Winfield Ballantyne,Ann McDermott-Jorge,Diane Chapman,Debbie Harper,15,5
-18375,8,2026-03-26,7OAKS Wildcards (AM/PM),PIN Pinpoint Posse (PM),Cindy Feryo,Deb Baltz,Pamela smith,Sarah J Jennings,15,10
-18375,9,2026-03-26,7OAKS Wildcards (AM/PM),PIN Pinpoint Posse (PM),Suzette P Brown,Laurie H Kramer,Pattie Lopez,Talise Young,15,11
-18376,1,2026-03-26,HASEN Dink Responsibly 50+ (PM),WPCC Spinsters (PM),Jennifer Lynn Bouck,Samantha Starr,Janet Wilson Mitch,Wendy Brooker Burns,15,5
-18376,2,2026-03-26,HASEN Dink Responsibly 50+ (PM),WPCC Spinsters (PM),Diane Werner,Cybele Martin Brockmann,Nancy Page,Janice D Lewis,15,1
-18376,3,2026-03-26,HASEN Dink Responsibly 50+ (PM),WPCC Spinsters (PM),Laurie Randall,Regina Heroux,Lori Parkman,Andrea Ellen McCartney,19,17
-18376,4,2026-03-26,HASEN Dink Responsibly 50+ (PM),WPCC Spinsters (PM),Jennifer Lynn Bouck,Samantha Starr,Nancy Page,Janice D Lewis,8,15
-18376,5,2026-03-26,HASEN Dink Responsibly 50+ (PM),WPCC Spinsters (PM),Diane Werner,Cybele Martin Brockmann,Lori Parkman,Andrea Ellen McCartney,15,4
-18376,6,2026-03-26,HASEN Dink Responsibly 50+ (PM),WPCC Spinsters (PM),Laurie Randall,Regina Heroux,Janet Wilson Mitch,Wendy Brooker Burns,15,1
-18376,7,2026-03-26,HASEN Dink Responsibly 50+ (PM),WPCC Spinsters (PM),Jennifer Lynn Bouck,Samantha Starr,Lori Parkman,Andrea Ellen McCartney,15,5
-18376,8,2026-03-26,HASEN Dink Responsibly 50+ (PM),WPCC Spinsters (PM),Diane Werner,Cybele Martin Brockmann,Janet Wilson Mitch,Wendy Brooker Burns,15,2
-18376,9,2026-03-26,HASEN Dink Responsibly 50+ (PM),WPCC Spinsters (PM),Laurie Randall,Regina Heroux,Nancy Page,Janice D Lewis,15,10
-18405,1,2026-04-09,7OAKS Wildcards (AM/PM),WPCC Spinsters (PM),Donna Cuomo,Sherry Lynn Goodson,Sonya Rhiver,Nancy Page,15,10
-18405,2,2026-04-09,7OAKS Wildcards (AM/PM),WPCC Spinsters (PM),Bethany Upton Squires,Kathy Casadonte,Susan Laurie Shaw,Teesa McKinley,7,15
-18405,3,2026-04-09,7OAKS Wildcards (AM/PM),WPCC Spinsters (PM),Alix Winfield Ballantyne,Ann McDermott-Jorge,Cathy Werder,Wendy Brooker Burns,15,9
-18405,4,2026-04-09,7OAKS Wildcards (AM/PM),WPCC Spinsters (PM),Donna Cuomo,Sherry Lynn Goodson,Susan Laurie Shaw,Teesa McKinley,6,15
-18405,5,2026-04-09,7OAKS Wildcards (AM/PM),WPCC Spinsters (PM),Bethany Upton Squires,Kathy Casadonte,Cathy Werder,Wendy Brooker Burns,15,7
-18405,6,2026-04-09,7OAKS Wildcards (AM/PM),WPCC Spinsters (PM),Alix Winfield Ballantyne,Ann McDermott-Jorge,Sonya Rhiver,Nancy Page,15,5
-18405,7,2026-04-09,7OAKS Wildcards (AM/PM),WPCC Spinsters (PM),Donna Cuomo,Sherry Lynn Goodson,Cathy Werder,Wendy Brooker Burns,16,14
-18405,8,2026-04-09,7OAKS Wildcards (AM/PM),WPCC Spinsters (PM),Bethany Upton Squires,Kathy Casadonte,Sonya Rhiver,Nancy Page,15,12
-18405,9,2026-04-09,7OAKS Wildcards (AM/PM),WPCC Spinsters (PM),Alix Winfield Ballantyne,Ann McDermott-Jorge,Susan Laurie Shaw,Teesa McKinley,15,12
-18406,1,2026-04-09,PIN Pinpoint Posse (PM),7OAKS Dill With It (AM/PM),Sheila M Lavey,Debbie Harper,Leigh Magee,Molly Bradsher Briggs,0,15
-18406,2,2026-04-09,PIN Pinpoint Posse (PM),7OAKS Dill With It (AM/PM),Jan Cowperthwaite,Diane Chapman,Amy A Lindsey,Ada Gonzalez,15,12
-18406,3,2026-04-09,PIN Pinpoint Posse (PM),7OAKS Dill With It (AM/PM),Pamela smith,Patty L Owens,Olga DeGroff,Danielle Stringer,15,13
-18406,4,2026-04-09,PIN Pinpoint Posse (PM),7OAKS Dill With It (AM/PM),Sheila M Lavey,Debbie Harper,Amy A Lindsey,Ada Gonzalez,4,15
-18406,5,2026-04-09,PIN Pinpoint Posse (PM),7OAKS Dill With It (AM/PM),Jan Cowperthwaite,Diane Chapman,Olga DeGroff,Danielle Stringer,15,17
-18406,6,2026-04-09,PIN Pinpoint Posse (PM),7OAKS Dill With It (AM/PM),Pamela smith,Patty L Owens,Leigh Magee,Molly Bradsher Briggs,5,15
-18406,7,2026-04-09,PIN Pinpoint Posse (PM),7OAKS Dill With It (AM/PM),Sheila M Lavey,Debbie Harper,Olga DeGroff,Danielle Stringer,1,15
-18406,8,2026-04-09,PIN Pinpoint Posse (PM),7OAKS Dill With It (AM/PM),Jan Cowperthwaite,Diane Chapman,Leigh Magee,Molly Bradsher Briggs,11,15
-18406,9,2026-04-09,PIN Pinpoint Posse (PM),7OAKS Dill With It (AM/PM),Pamela smith,Patty L Owens,Amy A Lindsey,Ada Gonzalez,11,15
-18431,1,2026-04-16,7OAKS Wildcards (AM/PM),HASEN Dink Responsibly 50+ (PM),Sherry Lynn Goodson,Donna Cuomo,Mary Jo Nugent,Debra Skiko,11,15
-18431,2,2026-04-16,7OAKS Wildcards (AM/PM),HASEN Dink Responsibly 50+ (PM),Kathy Casadonte,Lynne Copeland Allen,Candice V Diehl,Sharon F Barham,3,15
-18431,3,2026-04-16,7OAKS Wildcards (AM/PM),HASEN Dink Responsibly 50+ (PM),Laurie H Kramer,Suzette P Brown,Laurie Randall,Diane Werner,14,16
-18431,4,2026-04-16,7OAKS Wildcards (AM/PM),HASEN Dink Responsibly 50+ (PM),Sherry Lynn Goodson,Donna Cuomo,Candice V Diehl,Sharon F Barham,16,14
-18431,5,2026-04-16,7OAKS Wildcards (AM/PM),HASEN Dink Responsibly 50+ (PM),Kathy Casadonte,Lynne Copeland Allen,Laurie Randall,Diane Werner,15,12
-18431,6,2026-04-16,7OAKS Wildcards (AM/PM),HASEN Dink Responsibly 50+ (PM),Laurie H Kramer,Suzette P Brown,Mary Jo Nugent,Debra Skiko,14,16
-18431,7,2026-04-16,7OAKS Wildcards (AM/PM),HASEN Dink Responsibly 50+ (PM),Sherry Lynn Goodson,Donna Cuomo,Laurie Randall,Diane Werner,5,15
-18431,8,2026-04-16,7OAKS Wildcards (AM/PM),HASEN Dink Responsibly 50+ (PM),Kathy Casadonte,Lynne Copeland Allen,Mary Jo Nugent,Debra Skiko,12,15
-18431,9,2026-04-16,7OAKS Wildcards (AM/PM),HASEN Dink Responsibly 50+ (PM),Laurie H Kramer,Suzette P Brown,Candice V Diehl,Sharon F Barham,12,15
-18432,1,2026-04-16,WPCC Spinsters (PM),7OAKS Dill With It (AM/PM),Teesa McKinley,Susan Laurie Shaw,Molly Bradsher Briggs,Danielle Stringer,15,9
-18432,2,2026-04-16,WPCC Spinsters (PM),7OAKS Dill With It (AM/PM),Nancy Page,Kate Pirrung,Ada Gonzalez,Dana Chapman,13,15
-18432,3,2026-04-16,WPCC Spinsters (PM),7OAKS Dill With It (AM/PM),Sonya Rhiver,Melissa S Green,Leigh Magee,Dolores Beck Quesenberry,15,12
-18432,4,2026-04-16,WPCC Spinsters (PM),7OAKS Dill With It (AM/PM),Teesa McKinley,Susan Laurie Shaw,Ada Gonzalez,Dana Chapman,15,13
-18432,5,2026-04-16,WPCC Spinsters (PM),7OAKS Dill With It (AM/PM),Nancy Page,Kate Pirrung,Leigh Magee,Dolores Beck Quesenberry,15,7
-18432,6,2026-04-16,WPCC Spinsters (PM),7OAKS Dill With It (AM/PM),Sonya Rhiver,Melissa S Green,Molly Bradsher Briggs,Danielle Stringer,2,15
-18432,7,2026-04-16,WPCC Spinsters (PM),7OAKS Dill With It (AM/PM),Teesa McKinley,Susan Laurie Shaw,Leigh Magee,Dolores Beck Quesenberry,17,15
-18432,8,2026-04-16,WPCC Spinsters (PM),7OAKS Dill With It (AM/PM),Nancy Page,Kate Pirrung,Molly Bradsher Briggs,Danielle Stringer,6,15
-18432,9,2026-04-16,WPCC Spinsters (PM),7OAKS Dill With It (AM/PM),Sonya Rhiver,Melissa S Green,Ada Gonzalez,Dana Chapman,4,15
-18457,1,2026-04-23,7OAKS Dill With It (AM/PM),7OAKS Wildcards (AM/PM),Ada Gonzalez,Olga DeGroff,Tanya Sloan,Cindy Feryo,7,15
-18457,2,2026-04-23,7OAKS Dill With It (AM/PM),7OAKS Wildcards (AM/PM),Dolores Beck Quesenberry,Dana Chapman,Donna Cuomo,Alix Winfield Ballantyne,15,9
-18457,3,2026-04-23,7OAKS Dill With It (AM/PM),7OAKS Wildcards (AM/PM),Shelly A Schiff,Laura Dwyer,Eleanor Helms,Micha P Gittelman,15,11
-18457,4,2026-04-23,7OAKS Dill With It (AM/PM),7OAKS Wildcards (AM/PM),Ada Gonzalez,Olga DeGroff,Donna Cuomo,Alix Winfield Ballantyne,11,15
-18457,5,2026-04-23,7OAKS Dill With It (AM/PM),7OAKS Wildcards (AM/PM),Dolores Beck Quesenberry,Dana Chapman,Eleanor Helms,Micha P Gittelman,15,8
-18457,6,2026-04-23,7OAKS Dill With It (AM/PM),7OAKS Wildcards (AM/PM),Shelly A Schiff,Laura Dwyer,Tanya Sloan,Cindy Feryo,3,15
-18457,7,2026-04-23,7OAKS Dill With It (AM/PM),7OAKS Wildcards (AM/PM),Ada Gonzalez,Olga DeGroff,Eleanor Helms,Micha P Gittelman,15,4
-18457,8,2026-04-23,7OAKS Dill With It (AM/PM),7OAKS Wildcards (AM/PM),Dolores Beck Quesenberry,Dana Chapman,Tanya Sloan,Cindy Feryo,15,8
-18457,9,2026-04-23,7OAKS Dill With It (AM/PM),7OAKS Wildcards (AM/PM),Shelly A Schiff,Laura Dwyer,Donna Cuomo,Alix Winfield Ballantyne,7,15
-18458,1,2026-04-23,PIN Pinpoint Posse (PM),HASEN Dink Responsibly 50+ (PM),Patty L Owens,Talise Young,Regina Heroux,Laurie Randall,15,12
-18458,2,2026-04-23,PIN Pinpoint Posse (PM),HASEN Dink Responsibly 50+ (PM),Pamela smith,Sarah J Jennings,Debra Skiko,Jennifer Lynn Bouck,15,13
-18458,3,2026-04-23,PIN Pinpoint Posse (PM),HASEN Dink Responsibly 50+ (PM),Sheila M Lavey,Debbie Harper,Mary Jo Nugent,Cybele Martin Brockmann,5,15
-18458,4,2026-04-23,PIN Pinpoint Posse (PM),HASEN Dink Responsibly 50+ (PM),Patty L Owens,Talise Young,Debra Skiko,Jennifer Lynn Bouck,0,15
-18458,5,2026-04-23,PIN Pinpoint Posse (PM),HASEN Dink Responsibly 50+ (PM),Pamela smith,Sarah J Jennings,Mary Jo Nugent,Cybele Martin Brockmann,9,15
-18458,6,2026-04-23,PIN Pinpoint Posse (PM),HASEN Dink Responsibly 50+ (PM),Sheila M Lavey,Debbie Harper,Regina Heroux,Laurie Randall,1,15
-18458,7,2026-04-23,PIN Pinpoint Posse (PM),HASEN Dink Responsibly 50+ (PM),Patty L Owens,Talise Young,Mary Jo Nugent,Cybele Martin Brockmann,8,15
-18458,8,2026-04-23,PIN Pinpoint Posse (PM),HASEN Dink Responsibly 50+ (PM),Pamela smith,Sarah J Jennings,Regina Heroux,Laurie Randall,1,15
-18458,9,2026-04-23,PIN Pinpoint Posse (PM),HASEN Dink Responsibly 50+ (PM),Sheila M Lavey,Debbie Harper,Debra Skiko,Jennifer Lynn Bouck,9,15
-18484,1,2026-04-30,7OAKS Dill With It (AM/PM),HASEN Dink Responsibly 50+ (PM),Leigh Magee,Molly Bradsher Briggs,Diane Werner,Debra Skiko,15,10
-18484,2,2026-04-30,7OAKS Dill With It (AM/PM),HASEN Dink Responsibly 50+ (PM),Amy A Lindsey,Dolores Beck Quesenberry,Cybele Martin Brockmann,Mary Jo Nugent,16,14
-18484,3,2026-04-30,7OAKS Dill With It (AM/PM),HASEN Dink Responsibly 50+ (PM),Ada Gonzalez,Pamela Sue Rigsby,Regina Heroux,Laurie Randall,15,13
-18484,4,2026-04-30,7OAKS Dill With It (AM/PM),HASEN Dink Responsibly 50+ (PM),Leigh Magee,Molly Bradsher Briggs,Cybele Martin Brockmann,Mary Jo Nugent,15,10
-18484,5,2026-04-30,7OAKS Dill With It (AM/PM),HASEN Dink Responsibly 50+ (PM),Amy A Lindsey,Dolores Beck Quesenberry,Regina Heroux,Laurie Randall,15,11
-18484,6,2026-04-30,7OAKS Dill With It (AM/PM),HASEN Dink Responsibly 50+ (PM),Ada Gonzalez,Pamela Sue Rigsby,Diane Werner,Debra Skiko,7,15
-18484,7,2026-04-30,7OAKS Dill With It (AM/PM),HASEN Dink Responsibly 50+ (PM),Leigh Magee,Molly Bradsher Briggs,Regina Heroux,Laurie Randall,12,15
-18484,8,2026-04-30,7OAKS Dill With It (AM/PM),HASEN Dink Responsibly 50+ (PM),Amy A Lindsey,Dolores Beck Quesenberry,Diane Werner,Debra Skiko,13,15
-18484,9,2026-04-30,7OAKS Dill With It (AM/PM),HASEN Dink Responsibly 50+ (PM),Ada Gonzalez,Pamela Sue Rigsby,Cybele Martin Brockmann,Mary Jo Nugent,15,12
-18485,1,2026-04-30,PIN Pinpoint Posse (PM),WPCC Spinsters (PM),Diane Chapman,Jan Cowperthwaite,Kate Pirrung,Lori Parkman,15,7
-18485,2,2026-04-30,PIN Pinpoint Posse (PM),WPCC Spinsters (PM),Pattie Lopez,Pamela smith,Sonya Rhiver,Janice D Lewis,15,8
-18485,3,2026-04-30,PIN Pinpoint Posse (PM),WPCC Spinsters (PM),Sheila M Lavey,Debbie Harper,Teesa McKinley,Susan Laurie Shaw,7,15
-18485,4,2026-04-30,PIN Pinpoint Posse (PM),WPCC Spinsters (PM),Diane Chapman,Jan Cowperthwaite,Sonya Rhiver,Janice D Lewis,15,2
-18485,5,2026-04-30,PIN Pinpoint Posse (PM),WPCC Spinsters (PM),Pattie Lopez,Pamela smith,Teesa McKinley,Susan Laurie Shaw,6,15
-18485,6,2026-04-30,PIN Pinpoint Posse (PM),WPCC Spinsters (PM),Sheila M Lavey,Debbie Harper,Kate Pirrung,Lori Parkman,8,15
-18485,7,2026-04-30,PIN Pinpoint Posse (PM),WPCC Spinsters (PM),Diane Chapman,Jan Cowperthwaite,Teesa McKinley,Susan Laurie Shaw,15,11
-18485,8,2026-04-30,PIN Pinpoint Posse (PM),WPCC Spinsters (PM),Pattie Lopez,Pamela smith,Kate Pirrung,Lori Parkman,13,15
-18485,9,2026-04-30,PIN Pinpoint Posse (PM),WPCC Spinsters (PM),Sheila M Lavey,Debbie Harper,Sonya Rhiver,Janice D Lewis,9,15
-18510,1,2026-05-07,PIN Pinpoint Posse (PM),7OAKS Wildcards (AM/PM),Pamela smith,Sarah J Jennings,Micha P Gittelman,Donna Cuomo,15,6
-18510,2,2026-05-07,PIN Pinpoint Posse (PM),7OAKS Wildcards (AM/PM),Pattie Lopez,Patty L Owens,Eleanor Helms,Laurie H Kramer,15,11
-18510,3,2026-05-07,PIN Pinpoint Posse (PM),7OAKS Wildcards (AM/PM),Debbie Harper,Talise Young,Alix Winfield Ballantyne,Bethany Upton Squires,11,15
-18510,4,2026-05-07,PIN Pinpoint Posse (PM),7OAKS Wildcards (AM/PM),Pamela smith,Sarah J Jennings,Eleanor Helms,Laurie H Kramer,11,15
-18510,5,2026-05-07,PIN Pinpoint Posse (PM),7OAKS Wildcards (AM/PM),Pattie Lopez,Patty L Owens,Alix Winfield Ballantyne,Bethany Upton Squires,15,9
-18510,6,2026-05-07,PIN Pinpoint Posse (PM),7OAKS Wildcards (AM/PM),Debbie Harper,Talise Young,Micha P Gittelman,Donna Cuomo,8,15
-18510,7,2026-05-07,PIN Pinpoint Posse (PM),7OAKS Wildcards (AM/PM),Pamela smith,Sarah J Jennings,Alix Winfield Ballantyne,Bethany Upton Squires,10,15
-18510,8,2026-05-07,PIN Pinpoint Posse (PM),7OAKS Wildcards (AM/PM),Pattie Lopez,Patty L Owens,Micha P Gittelman,Donna Cuomo,6,15
-18510,9,2026-05-07,PIN Pinpoint Posse (PM),7OAKS Wildcards (AM/PM),Debbie Harper,Talise Young,Eleanor Helms,Laurie H Kramer,6,15
-18511,1,2026-05-07,WPCC Spinsters (PM),HASEN Dink Responsibly 50+ (PM),Lori Parkman,Susan Laurie Shaw,Samantha Starr,Betsy Perkinson,10,15
-18511,2,2026-05-07,WPCC Spinsters (PM),HASEN Dink Responsibly 50+ (PM),Cathy Werder,Lori Larrabee,Susan Flanagan,Diane Werner,6,15
-18511,3,2026-05-07,WPCC Spinsters (PM),HASEN Dink Responsibly 50+ (PM),Kate Pirrung,Leigh Kimball,Sharon F Barham,Candice V Diehl,8,15
-18511,4,2026-05-07,WPCC Spinsters (PM),HASEN Dink Responsibly 50+ (PM),Lori Parkman,Susan Laurie Shaw,Susan Flanagan,Diane Werner,1,15
-18511,5,2026-05-07,WPCC Spinsters (PM),HASEN Dink Responsibly 50+ (PM),Cathy Werder,Lori Larrabee,Sharon F Barham,Candice V Diehl,1,15
-18511,6,2026-05-07,WPCC Spinsters (PM),HASEN Dink Responsibly 50+ (PM),Kate Pirrung,Leigh Kimball,Samantha Starr,Betsy Perkinson,6,15
-18511,7,2026-05-07,WPCC Spinsters (PM),HASEN Dink Responsibly 50+ (PM),Lori Parkman,Susan Laurie Shaw,Sharon F Barham,Candice V Diehl,5,15
-18511,8,2026-05-07,WPCC Spinsters (PM),HASEN Dink Responsibly 50+ (PM),Cathy Werder,Lori Larrabee,Samantha Starr,Betsy Perkinson,10,15
-18511,9,2026-05-07,WPCC Spinsters (PM),HASEN Dink Responsibly 50+ (PM),Kate Pirrung,Leigh Kimball,Susan Flanagan,Diane Werner,15,6
-18532,1,2026-05-14,7OAKS Dill With It (AM/PM),PIN Pinpoint Posse (PM),Molly Bradsher Briggs,Dana Chapman,Pattie Lopez,Diane Chapman,15,0
-18532,2,2026-05-14,7OAKS Dill With It (AM/PM),PIN Pinpoint Posse (PM),Olga DeGroff,Danielle Stringer,Patty L Owens,Debbie Harper,15,8
-18532,3,2026-05-14,7OAKS Dill With It (AM/PM),PIN Pinpoint Posse (PM),Shelly A Schiff,Ada Gonzalez,DEFAULT,DEFAULT,15,0
-18532,4,2026-05-14,7OAKS Dill With It (AM/PM),PIN Pinpoint Posse (PM),Molly Bradsher Briggs,Dana Chapman,Patty L Owens,Debbie Harper,15,4
-18532,5,2026-05-14,7OAKS Dill With It (AM/PM),PIN Pinpoint Posse (PM),Olga DeGroff,Danielle Stringer,DEFAULT,DEFAULT,15,0
-18532,6,2026-05-14,7OAKS Dill With It (AM/PM),PIN Pinpoint Posse (PM),Shelly A Schiff,Ada Gonzalez,Pattie Lopez,Diane Chapman,15,5
-18532,7,2026-05-14,7OAKS Dill With It (AM/PM),PIN Pinpoint Posse (PM),Molly Bradsher Briggs,Dana Chapman,DEFAULT,DEFAULT,15,0
-18532,8,2026-05-14,7OAKS Dill With It (AM/PM),PIN Pinpoint Posse (PM),Olga DeGroff,Danielle Stringer,Pattie Lopez,Diane Chapman,15,13
-18532,9,2026-05-14,7OAKS Dill With It (AM/PM),PIN Pinpoint Posse (PM),Shelly A Schiff,Ada Gonzalez,Patty L Owens,Debbie Harper,15,5
-18533,1,2026-05-14,WPCC Spinsters (PM),7OAKS Wildcards (AM/PM),Lori Larrabee,Sonya Rhiver,Micha P Gittelman,Tanya Sloan,5,15
-18533,2,2026-05-14,WPCC Spinsters (PM),7OAKS Wildcards (AM/PM),Janice D Lewis,Melissa S Green,Sherry Lynn Goodson,Suzette P Brown,3,15
-18533,3,2026-05-14,WPCC Spinsters (PM),7OAKS Wildcards (AM/PM),Leigh Kimball,Kate Pirrung,Lynne Copeland Allen,Kathy Casadonte,16,14
-18533,4,2026-05-14,WPCC Spinsters (PM),7OAKS Wildcards (AM/PM),Lori Larrabee,Sonya Rhiver,Sherry Lynn Goodson,Suzette P Brown,15,13
-18533,5,2026-05-14,WPCC Spinsters (PM),7OAKS Wildcards (AM/PM),Janice D Lewis,Melissa S Green,Lynne Copeland Allen,Kathy Casadonte,9,15
-18533,6,2026-05-14,WPCC Spinsters (PM),7OAKS Wildcards (AM/PM),Leigh Kimball,Kate Pirrung,Micha P Gittelman,Tanya Sloan,10,15
-18533,7,2026-05-14,WPCC Spinsters (PM),7OAKS Wildcards (AM/PM),Lori Larrabee,Sonya Rhiver,Lynne Copeland Allen,Kathy Casadonte,10,15
-18533,8,2026-05-14,WPCC Spinsters (PM),7OAKS Wildcards (AM/PM),Janice D Lewis,Melissa S Green,Micha P Gittelman,Tanya Sloan,3,15
-18533,9,2026-05-14,WPCC Spinsters (PM),7OAKS Wildcards (AM/PM),Leigh Kimball,Kate Pirrung,Sherry Lynn Goodson,Suzette P Brown,15,9
-18557,1,2026-05-21,7OAKS Dill With It (AM/PM),WPCC Spinsters (PM),Leigh Magee,Olga DeGroff,Andrea Ellen McCartney,Kate Pirrung,15,6
-18557,2,2026-05-21,7OAKS Dill With It (AM/PM),WPCC Spinsters (PM),Dolores Beck Quesenberry,Ada Gonzalez,Janet Wilson Mitch,Lori Larrabee,15,5
-18557,3,2026-05-21,7OAKS Dill With It (AM/PM),WPCC Spinsters (PM),Pamela Sue Rigsby,Laura Dwyer,Teesa McKinley,Cathy Werder,15,6
-18557,4,2026-05-21,7OAKS Dill With It (AM/PM),WPCC Spinsters (PM),Leigh Magee,Olga DeGroff,Janet Wilson Mitch,Lori Larrabee,15,0
-18557,5,2026-05-21,7OAKS Dill With It (AM/PM),WPCC Spinsters (PM),Dolores Beck Quesenberry,Ada Gonzalez,Teesa McKinley,Cathy Werder,15,5
-18557,6,2026-05-21,7OAKS Dill With It (AM/PM),WPCC Spinsters (PM),Pamela Sue Rigsby,Laura Dwyer,Andrea Ellen McCartney,Kate Pirrung,12,15
-18557,7,2026-05-21,7OAKS Dill With It (AM/PM),WPCC Spinsters (PM),Leigh Magee,Olga DeGroff,Teesa McKinley,Cathy Werder,15,4
-18557,8,2026-05-21,7OAKS Dill With It (AM/PM),WPCC Spinsters (PM),Dolores Beck Quesenberry,Ada Gonzalez,Andrea Ellen McCartney,Kate Pirrung,15,7
-18557,9,2026-05-21,7OAKS Dill With It (AM/PM),WPCC Spinsters (PM),Pamela Sue Rigsby,Laura Dwyer,Janet Wilson Mitch,Lori Larrabee,15,3
-18558,1,2026-05-21,HASEN Dink Responsibly 50+ (PM),7OAKS Wildcards (AM/PM),Jennifer Lynn Bouck,Samantha Starr,Micha P Gittelman,Donna Cuomo,11,15
-18558,2,2026-05-21,HASEN Dink Responsibly 50+ (PM),7OAKS Wildcards (AM/PM),Regina Heroux,Susan Flanagan,Laurie H Kramer,Suzette P Brown,15,1
-18558,3,2026-05-21,HASEN Dink Responsibly 50+ (PM),7OAKS Wildcards (AM/PM),Debra Skiko,Laurie Randall,Alix Winfield Ballantyne,Kathy Casadonte,15,13
-18558,4,2026-05-21,HASEN Dink Responsibly 50+ (PM),7OAKS Wildcards (AM/PM),Jennifer Lynn Bouck,Samantha Starr,Laurie H Kramer,Suzette P Brown,15,7
-18558,5,2026-05-21,HASEN Dink Responsibly 50+ (PM),7OAKS Wildcards (AM/PM),Regina Heroux,Susan Flanagan,Alix Winfield Ballantyne,Kathy Casadonte,7,15
-18558,6,2026-05-21,HASEN Dink Responsibly 50+ (PM),7OAKS Wildcards (AM/PM),Debra Skiko,Laurie Randall,Micha P Gittelman,Donna Cuomo,15,9
-18558,7,2026-05-21,HASEN Dink Responsibly 50+ (PM),7OAKS Wildcards (AM/PM),Jennifer Lynn Bouck,Samantha Starr,Alix Winfield Ballantyne,Kathy Casadonte,17,15
-18558,8,2026-05-21,HASEN Dink Responsibly 50+ (PM),7OAKS Wildcards (AM/PM),Regina Heroux,Susan Flanagan,Micha P Gittelman,Donna Cuomo,15,0
-18558,9,2026-05-21,HASEN Dink Responsibly 50+ (PM),7OAKS Wildcards (AM/PM),Debra Skiko,Laurie Randall,Laurie H Kramer,Suzette P Brown,15,4
-18571,1,2026-05-28,7OAKS Wildcards (AM/PM),7OAKS Dill With It (AM/PM),Ann McDermott-Jorge,Eleanor Helms,Leigh Magee,Olga DeGroff,8,15
-18571,2,2026-05-28,7OAKS Wildcards (AM/PM),7OAKS Dill With It (AM/PM),Sherry Lynn Goodson,Kathy Casadonte,Ada Gonzalez,Dana Chapman,2,15
-18571,3,2026-05-28,7OAKS Wildcards (AM/PM),7OAKS Dill With It (AM/PM),Tanya Sloan,Cindy Feryo,DEFAULT,DEFAULT,15,0
-18571,4,2026-05-28,7OAKS Wildcards (AM/PM),7OAKS Dill With It (AM/PM),Ann McDermott-Jorge,Eleanor Helms,Ada Gonzalez,Dana Chapman,4,15
-18571,5,2026-05-28,7OAKS Wildcards (AM/PM),7OAKS Dill With It (AM/PM),Sherry Lynn Goodson,Kathy Casadonte,DEFAULT,DEFAULT,15,0
-18571,6,2026-05-28,7OAKS Wildcards (AM/PM),7OAKS Dill With It (AM/PM),Tanya Sloan,Cindy Feryo,Leigh Magee,Olga DeGroff,15,7
-18571,7,2026-05-28,7OAKS Wildcards (AM/PM),7OAKS Dill With It (AM/PM),Ann McDermott-Jorge,Eleanor Helms,DEFAULT,DEFAULT,15,0
-18571,8,2026-05-28,7OAKS Wildcards (AM/PM),7OAKS Dill With It (AM/PM),Sherry Lynn Goodson,Kathy Casadonte,Leigh Magee,Olga DeGroff,1,15
-18571,9,2026-05-28,7OAKS Wildcards (AM/PM),7OAKS Dill With It (AM/PM),Tanya Sloan,Cindy Feryo,Ada Gonzalez,Dana Chapman,15,8
-18572,1,2026-05-28,HASEN Dink Responsibly 50+ (PM),PIN Pinpoint Posse (PM),Jennifer Lynn Bouck,Debra Skiko,Pattie Lopez,Patty L Owens,15,8
-18572,2,2026-05-28,HASEN Dink Responsibly 50+ (PM),PIN Pinpoint Posse (PM),Candice V Diehl,Sharon F Barham,Diane Chapman,Debbie Harper,15,2
-18572,3,2026-05-28,HASEN Dink Responsibly 50+ (PM),PIN Pinpoint Posse (PM),Samantha Starr,Mary Jo Nugent,DEFAULT,DEFAULT,15,0
-18572,4,2026-05-28,HASEN Dink Responsibly 50+ (PM),PIN Pinpoint Posse (PM),Jennifer Lynn Bouck,Debra Skiko,Diane Chapman,Debbie Harper,15,5
-18572,5,2026-05-28,HASEN Dink Responsibly 50+ (PM),PIN Pinpoint Posse (PM),Candice V Diehl,Sharon F Barham,DEFAULT,DEFAULT,15,0
-18572,6,2026-05-28,HASEN Dink Responsibly 50+ (PM),PIN Pinpoint Posse (PM),Samantha Starr,Mary Jo Nugent,Pattie Lopez,Patty L Owens,15,9
-18572,7,2026-05-28,HASEN Dink Responsibly 50+ (PM),PIN Pinpoint Posse (PM),Jennifer Lynn Bouck,Debra Skiko,DEFAULT,DEFAULT,15,0
-18572,8,2026-05-28,HASEN Dink Responsibly 50+ (PM),PIN Pinpoint Posse (PM),Candice V Diehl,Sharon F Barham,Pattie Lopez,Patty L Owens,15,4
-18572,9,2026-05-28,HASEN Dink Responsibly 50+ (PM),PIN Pinpoint Posse (PM),Samantha Starr,Mary Jo Nugent,Diane Chapman,Debbie Harper,15,6
-18584,1,2026-06-06,HASEN Dink Responsibly 50+ (PM),7OAKS Dill With It (AM/PM),Diane Werner,Cybele Martin Brockmann,Olga DeGroff,Molly Bradsher Briggs,7,15
-18584,2,2026-06-06,HASEN Dink Responsibly 50+ (PM),7OAKS Dill With It (AM/PM),Betsy Perkinson,Debra Skiko,Amy A Lindsey,Dana Chapman,10,15
-18584,3,2026-06-06,HASEN Dink Responsibly 50+ (PM),7OAKS Dill With It (AM/PM),Regina Heroux,Laurie Randall,Leigh Magee,Shelly A Schiff,10,15
-18584,4,2026-06-06,HASEN Dink Responsibly 50+ (PM),7OAKS Dill With It (AM/PM),Diane Werner,Cybele Martin Brockmann,Amy A Lindsey,Dana Chapman,15,8
-18584,5,2026-06-06,HASEN Dink Responsibly 50+ (PM),7OAKS Dill With It (AM/PM),Betsy Perkinson,Debra Skiko,Leigh Magee,Shelly A Schiff,9,15
-18584,6,2026-06-06,HASEN Dink Responsibly 50+ (PM),7OAKS Dill With It (AM/PM),Regina Heroux,Laurie Randall,Olga DeGroff,Molly Bradsher Briggs,2,15
-18584,7,2026-06-06,HASEN Dink Responsibly 50+ (PM),7OAKS Dill With It (AM/PM),Diane Werner,Cybele Martin Brockmann,Leigh Magee,Shelly A Schiff,15,5
-18584,8,2026-06-06,HASEN Dink Responsibly 50+ (PM),7OAKS Dill With It (AM/PM),Betsy Perkinson,Debra Skiko,Olga DeGroff,Molly Bradsher Briggs,10,15
-18584,9,2026-06-06,HASEN Dink Responsibly 50+ (PM),7OAKS Dill With It (AM/PM),Regina Heroux,Laurie Randall,Amy A Lindsey,Dana Chapman,12,15
+match_id,game_id,match_date,league,season,skill_level,age,gender,team1_name,team2_name,partner1,partner2,opponent1,opponent2,team1_points,team2_points
+18349,1,2026-03-19,raleigh,spring2026,highintermediate,50,women,HASEN Dink Responsibly 50+ (PM),7OAKS Dill With It (AM/PM),Candice V Diehl,Sharon F Barham,Ada Gonzalez,Leigh Magee,16,14
+18349,2,2026-03-19,raleigh,spring2026,highintermediate,50,women,HASEN Dink Responsibly 50+ (PM),7OAKS Dill With It (AM/PM),Diane Werner,Debra Skiko,Amy A Lindsey,Shelly A Schiff,15,7
+18349,3,2026-03-19,raleigh,spring2026,highintermediate,50,women,HASEN Dink Responsibly 50+ (PM),7OAKS Dill With It (AM/PM),Betsy Perkinson,Susan Flanagan,Dolores Beck Quesenberry,Dana Chapman,4,15
+18349,4,2026-03-19,raleigh,spring2026,highintermediate,50,women,HASEN Dink Responsibly 50+ (PM),7OAKS Dill With It (AM/PM),Candice V Diehl,Sharon F Barham,Amy A Lindsey,Shelly A Schiff,16,14
+18349,5,2026-03-19,raleigh,spring2026,highintermediate,50,women,HASEN Dink Responsibly 50+ (PM),7OAKS Dill With It (AM/PM),Diane Werner,Debra Skiko,Dolores Beck Quesenberry,Dana Chapman,17,15
+18349,6,2026-03-19,raleigh,spring2026,highintermediate,50,women,HASEN Dink Responsibly 50+ (PM),7OAKS Dill With It (AM/PM),Betsy Perkinson,Susan Flanagan,Ada Gonzalez,Leigh Magee,9,15
+18349,7,2026-03-19,raleigh,spring2026,highintermediate,50,women,HASEN Dink Responsibly 50+ (PM),7OAKS Dill With It (AM/PM),Candice V Diehl,Sharon F Barham,Dolores Beck Quesenberry,Dana Chapman,12,15
+18349,8,2026-03-19,raleigh,spring2026,highintermediate,50,women,HASEN Dink Responsibly 50+ (PM),7OAKS Dill With It (AM/PM),Diane Werner,Debra Skiko,Ada Gonzalez,Leigh Magee,15,6
+18349,9,2026-03-19,raleigh,spring2026,highintermediate,50,women,HASEN Dink Responsibly 50+ (PM),7OAKS Dill With It (AM/PM),Betsy Perkinson,Susan Flanagan,Amy A Lindsey,Shelly A Schiff,15,5
+18350,1,2026-03-19,raleigh,spring2026,highintermediate,50,women,WPCC Spinsters (PM),PIN Pinpoint Posse (PM),Teesa McKinley,Susan Laurie Shaw,Pattie Lopez,Pamela smith,15,8
+18350,2,2026-03-19,raleigh,spring2026,highintermediate,50,women,WPCC Spinsters (PM),PIN Pinpoint Posse (PM),Janet Wilson Mitch,Melissa S Green,Sheila M Lavey,Sarah J Jennings,15,9
+18350,3,2026-03-19,raleigh,spring2026,highintermediate,50,women,WPCC Spinsters (PM),PIN Pinpoint Posse (PM),Sylvie Daigle,Leigh Kimball,Talise Young,Patty L Owens,12,15
+18350,4,2026-03-19,raleigh,spring2026,highintermediate,50,women,WPCC Spinsters (PM),PIN Pinpoint Posse (PM),Teesa McKinley,Susan Laurie Shaw,Sheila M Lavey,Sarah J Jennings,15,3
+18350,5,2026-03-19,raleigh,spring2026,highintermediate,50,women,WPCC Spinsters (PM),PIN Pinpoint Posse (PM),Janet Wilson Mitch,Melissa S Green,Talise Young,Patty L Owens,2,15
+18350,6,2026-03-19,raleigh,spring2026,highintermediate,50,women,WPCC Spinsters (PM),PIN Pinpoint Posse (PM),Sylvie Daigle,Leigh Kimball,Pattie Lopez,Pamela smith,15,5
+18350,7,2026-03-19,raleigh,spring2026,highintermediate,50,women,WPCC Spinsters (PM),PIN Pinpoint Posse (PM),Teesa McKinley,Susan Laurie Shaw,Talise Young,Patty L Owens,15,12
+18350,8,2026-03-19,raleigh,spring2026,highintermediate,50,women,WPCC Spinsters (PM),PIN Pinpoint Posse (PM),Janet Wilson Mitch,Melissa S Green,Pattie Lopez,Pamela smith,4,15
+18350,9,2026-03-19,raleigh,spring2026,highintermediate,50,women,WPCC Spinsters (PM),PIN Pinpoint Posse (PM),Sylvie Daigle,Leigh Kimball,Sheila M Lavey,Sarah J Jennings,15,7
+18375,1,2026-03-26,raleigh,spring2026,highintermediate,50,women,7OAKS Wildcards (AM/PM),PIN Pinpoint Posse (PM),Alix Winfield Ballantyne,Ann McDermott-Jorge,Pamela smith,Sarah J Jennings,11,15
+18375,2,2026-03-26,raleigh,spring2026,highintermediate,50,women,7OAKS Wildcards (AM/PM),PIN Pinpoint Posse (PM),Cindy Feryo,Deb Baltz,Pattie Lopez,Talise Young,15,10
+18375,3,2026-03-26,raleigh,spring2026,highintermediate,50,women,7OAKS Wildcards (AM/PM),PIN Pinpoint Posse (PM),Suzette P Brown,Laurie H Kramer,Diane Chapman,Debbie Harper,15,7
+18375,4,2026-03-26,raleigh,spring2026,highintermediate,50,women,7OAKS Wildcards (AM/PM),PIN Pinpoint Posse (PM),Alix Winfield Ballantyne,Ann McDermott-Jorge,Pattie Lopez,Talise Young,10,15
+18375,5,2026-03-26,raleigh,spring2026,highintermediate,50,women,7OAKS Wildcards (AM/PM),PIN Pinpoint Posse (PM),Cindy Feryo,Deb Baltz,Diane Chapman,Debbie Harper,15,5
+18375,6,2026-03-26,raleigh,spring2026,highintermediate,50,women,7OAKS Wildcards (AM/PM),PIN Pinpoint Posse (PM),Suzette P Brown,Laurie H Kramer,Pamela smith,Sarah J Jennings,15,11
+18375,7,2026-03-26,raleigh,spring2026,highintermediate,50,women,7OAKS Wildcards (AM/PM),PIN Pinpoint Posse (PM),Alix Winfield Ballantyne,Ann McDermott-Jorge,Diane Chapman,Debbie Harper,15,5
+18375,8,2026-03-26,raleigh,spring2026,highintermediate,50,women,7OAKS Wildcards (AM/PM),PIN Pinpoint Posse (PM),Cindy Feryo,Deb Baltz,Pamela smith,Sarah J Jennings,15,10
+18375,9,2026-03-26,raleigh,spring2026,highintermediate,50,women,7OAKS Wildcards (AM/PM),PIN Pinpoint Posse (PM),Suzette P Brown,Laurie H Kramer,Pattie Lopez,Talise Young,15,11
+18376,1,2026-03-26,raleigh,spring2026,highintermediate,50,women,HASEN Dink Responsibly 50+ (PM),WPCC Spinsters (PM),Jennifer Lynn Bouck,Samantha Starr,Janet Wilson Mitch,Wendy Brooker Burns,15,5
+18376,2,2026-03-26,raleigh,spring2026,highintermediate,50,women,HASEN Dink Responsibly 50+ (PM),WPCC Spinsters (PM),Diane Werner,Cybele Martin Brockmann,Nancy Page,Janice D Lewis,15,1
+18376,3,2026-03-26,raleigh,spring2026,highintermediate,50,women,HASEN Dink Responsibly 50+ (PM),WPCC Spinsters (PM),Laurie Randall,Regina Heroux,Lori Parkman,Andrea Ellen McCartney,19,17
+18376,4,2026-03-26,raleigh,spring2026,highintermediate,50,women,HASEN Dink Responsibly 50+ (PM),WPCC Spinsters (PM),Jennifer Lynn Bouck,Samantha Starr,Nancy Page,Janice D Lewis,8,15
+18376,5,2026-03-26,raleigh,spring2026,highintermediate,50,women,HASEN Dink Responsibly 50+ (PM),WPCC Spinsters (PM),Diane Werner,Cybele Martin Brockmann,Lori Parkman,Andrea Ellen McCartney,15,4
+18376,6,2026-03-26,raleigh,spring2026,highintermediate,50,women,HASEN Dink Responsibly 50+ (PM),WPCC Spinsters (PM),Laurie Randall,Regina Heroux,Janet Wilson Mitch,Wendy Brooker Burns,15,1
+18376,7,2026-03-26,raleigh,spring2026,highintermediate,50,women,HASEN Dink Responsibly 50+ (PM),WPCC Spinsters (PM),Jennifer Lynn Bouck,Samantha Starr,Lori Parkman,Andrea Ellen McCartney,15,5
+18376,8,2026-03-26,raleigh,spring2026,highintermediate,50,women,HASEN Dink Responsibly 50+ (PM),WPCC Spinsters (PM),Diane Werner,Cybele Martin Brockmann,Janet Wilson Mitch,Wendy Brooker Burns,15,2
+18376,9,2026-03-26,raleigh,spring2026,highintermediate,50,women,HASEN Dink Responsibly 50+ (PM),WPCC Spinsters (PM),Laurie Randall,Regina Heroux,Nancy Page,Janice D Lewis,15,10
+18405,1,2026-04-09,raleigh,spring2026,highintermediate,50,women,7OAKS Wildcards (AM/PM),WPCC Spinsters (PM),Donna Cuomo,Sherry Lynn Goodson,Sonya Rhiver,Nancy Page,15,10
+18405,2,2026-04-09,raleigh,spring2026,highintermediate,50,women,7OAKS Wildcards (AM/PM),WPCC Spinsters (PM),Bethany Upton Squires,Kathy Casadonte,Susan Laurie Shaw,Teesa McKinley,7,15
+18405,3,2026-04-09,raleigh,spring2026,highintermediate,50,women,7OAKS Wildcards (AM/PM),WPCC Spinsters (PM),Alix Winfield Ballantyne,Ann McDermott-Jorge,Cathy Werder,Wendy Brooker Burns,15,9
+18405,4,2026-04-09,raleigh,spring2026,highintermediate,50,women,7OAKS Wildcards (AM/PM),WPCC Spinsters (PM),Donna Cuomo,Sherry Lynn Goodson,Susan Laurie Shaw,Teesa McKinley,6,15
+18405,5,2026-04-09,raleigh,spring2026,highintermediate,50,women,7OAKS Wildcards (AM/PM),WPCC Spinsters (PM),Bethany Upton Squires,Kathy Casadonte,Cathy Werder,Wendy Brooker Burns,15,7
+18405,6,2026-04-09,raleigh,spring2026,highintermediate,50,women,7OAKS Wildcards (AM/PM),WPCC Spinsters (PM),Alix Winfield Ballantyne,Ann McDermott-Jorge,Sonya Rhiver,Nancy Page,15,5
+18405,7,2026-04-09,raleigh,spring2026,highintermediate,50,women,7OAKS Wildcards (AM/PM),WPCC Spinsters (PM),Donna Cuomo,Sherry Lynn Goodson,Cathy Werder,Wendy Brooker Burns,16,14
+18405,8,2026-04-09,raleigh,spring2026,highintermediate,50,women,7OAKS Wildcards (AM/PM),WPCC Spinsters (PM),Bethany Upton Squires,Kathy Casadonte,Sonya Rhiver,Nancy Page,15,12
+18405,9,2026-04-09,raleigh,spring2026,highintermediate,50,women,7OAKS Wildcards (AM/PM),WPCC Spinsters (PM),Alix Winfield Ballantyne,Ann McDermott-Jorge,Susan Laurie Shaw,Teesa McKinley,15,12
+18406,1,2026-04-09,raleigh,spring2026,highintermediate,50,women,PIN Pinpoint Posse (PM),7OAKS Dill With It (AM/PM),Sheila M Lavey,Debbie Harper,Leigh Magee,Molly Bradsher Briggs,0,15
+18406,2,2026-04-09,raleigh,spring2026,highintermediate,50,women,PIN Pinpoint Posse (PM),7OAKS Dill With It (AM/PM),Jan Cowperthwaite,Diane Chapman,Amy A Lindsey,Ada Gonzalez,15,12
+18406,3,2026-04-09,raleigh,spring2026,highintermediate,50,women,PIN Pinpoint Posse (PM),7OAKS Dill With It (AM/PM),Pamela smith,Patty L Owens,Olga DeGroff,Danielle Stringer,15,13
+18406,4,2026-04-09,raleigh,spring2026,highintermediate,50,women,PIN Pinpoint Posse (PM),7OAKS Dill With It (AM/PM),Sheila M Lavey,Debbie Harper,Amy A Lindsey,Ada Gonzalez,4,15
+18406,5,2026-04-09,raleigh,spring2026,highintermediate,50,women,PIN Pinpoint Posse (PM),7OAKS Dill With It (AM/PM),Jan Cowperthwaite,Diane Chapman,Olga DeGroff,Danielle Stringer,15,17
+18406,6,2026-04-09,raleigh,spring2026,highintermediate,50,women,PIN Pinpoint Posse (PM),7OAKS Dill With It (AM/PM),Pamela smith,Patty L Owens,Leigh Magee,Molly Bradsher Briggs,5,15
+18406,7,2026-04-09,raleigh,spring2026,highintermediate,50,women,PIN Pinpoint Posse (PM),7OAKS Dill With It (AM/PM),Sheila M Lavey,Debbie Harper,Olga DeGroff,Danielle Stringer,1,15
+18406,8,2026-04-09,raleigh,spring2026,highintermediate,50,women,PIN Pinpoint Posse (PM),7OAKS Dill With It (AM/PM),Jan Cowperthwaite,Diane Chapman,Leigh Magee,Molly Bradsher Briggs,11,15
+18406,9,2026-04-09,raleigh,spring2026,highintermediate,50,women,PIN Pinpoint Posse (PM),7OAKS Dill With It (AM/PM),Pamela smith,Patty L Owens,Amy A Lindsey,Ada Gonzalez,11,15
+18431,1,2026-04-16,raleigh,spring2026,highintermediate,50,women,7OAKS Wildcards (AM/PM),HASEN Dink Responsibly 50+ (PM),Sherry Lynn Goodson,Donna Cuomo,Mary Jo Nugent,Debra Skiko,11,15
+18431,2,2026-04-16,raleigh,spring2026,highintermediate,50,women,7OAKS Wildcards (AM/PM),HASEN Dink Responsibly 50+ (PM),Kathy Casadonte,Lynne Copeland Allen,Candice V Diehl,Sharon F Barham,3,15
+18431,3,2026-04-16,raleigh,spring2026,highintermediate,50,women,7OAKS Wildcards (AM/PM),HASEN Dink Responsibly 50+ (PM),Laurie H Kramer,Suzette P Brown,Laurie Randall,Diane Werner,14,16
+18431,4,2026-04-16,raleigh,spring2026,highintermediate,50,women,7OAKS Wildcards (AM/PM),HASEN Dink Responsibly 50+ (PM),Sherry Lynn Goodson,Donna Cuomo,Candice V Diehl,Sharon F Barham,16,14
+18431,5,2026-04-16,raleigh,spring2026,highintermediate,50,women,7OAKS Wildcards (AM/PM),HASEN Dink Responsibly 50+ (PM),Kathy Casadonte,Lynne Copeland Allen,Laurie Randall,Diane Werner,15,12
+18431,6,2026-04-16,raleigh,spring2026,highintermediate,50,women,7OAKS Wildcards (AM/PM),HASEN Dink Responsibly 50+ (PM),Laurie H Kramer,Suzette P Brown,Mary Jo Nugent,Debra Skiko,14,16
+18431,7,2026-04-16,raleigh,spring2026,highintermediate,50,women,7OAKS Wildcards (AM/PM),HASEN Dink Responsibly 50+ (PM),Sherry Lynn Goodson,Donna Cuomo,Laurie Randall,Diane Werner,5,15
+18431,8,2026-04-16,raleigh,spring2026,highintermediate,50,women,7OAKS Wildcards (AM/PM),HASEN Dink Responsibly 50+ (PM),Kathy Casadonte,Lynne Copeland Allen,Mary Jo Nugent,Debra Skiko,12,15
+18431,9,2026-04-16,raleigh,spring2026,highintermediate,50,women,7OAKS Wildcards (AM/PM),HASEN Dink Responsibly 50+ (PM),Laurie H Kramer,Suzette P Brown,Candice V Diehl,Sharon F Barham,12,15
+18432,1,2026-04-16,raleigh,spring2026,highintermediate,50,women,WPCC Spinsters (PM),7OAKS Dill With It (AM/PM),Teesa McKinley,Susan Laurie Shaw,Molly Bradsher Briggs,Danielle Stringer,15,9
+18432,2,2026-04-16,raleigh,spring2026,highintermediate,50,women,WPCC Spinsters (PM),7OAKS Dill With It (AM/PM),Nancy Page,Kate Pirrung,Ada Gonzalez,Dana Chapman,13,15
+18432,3,2026-04-16,raleigh,spring2026,highintermediate,50,women,WPCC Spinsters (PM),7OAKS Dill With It (AM/PM),Sonya Rhiver,Melissa S Green,Leigh Magee,Dolores Beck Quesenberry,15,12
+18432,4,2026-04-16,raleigh,spring2026,highintermediate,50,women,WPCC Spinsters (PM),7OAKS Dill With It (AM/PM),Teesa McKinley,Susan Laurie Shaw,Ada Gonzalez,Dana Chapman,15,13
+18432,5,2026-04-16,raleigh,spring2026,highintermediate,50,women,WPCC Spinsters (PM),7OAKS Dill With It (AM/PM),Nancy Page,Kate Pirrung,Leigh Magee,Dolores Beck Quesenberry,15,7
+18432,6,2026-04-16,raleigh,spring2026,highintermediate,50,women,WPCC Spinsters (PM),7OAKS Dill With It (AM/PM),Sonya Rhiver,Melissa S Green,Molly Bradsher Briggs,Danielle Stringer,2,15
+18432,7,2026-04-16,raleigh,spring2026,highintermediate,50,women,WPCC Spinsters (PM),7OAKS Dill With It (AM/PM),Teesa McKinley,Susan Laurie Shaw,Leigh Magee,Dolores Beck Quesenberry,17,15
+18432,8,2026-04-16,raleigh,spring2026,highintermediate,50,women,WPCC Spinsters (PM),7OAKS Dill With It (AM/PM),Nancy Page,Kate Pirrung,Molly Bradsher Briggs,Danielle Stringer,6,15
+18432,9,2026-04-16,raleigh,spring2026,highintermediate,50,women,WPCC Spinsters (PM),7OAKS Dill With It (AM/PM),Sonya Rhiver,Melissa S Green,Ada Gonzalez,Dana Chapman,4,15
+18457,1,2026-04-23,raleigh,spring2026,highintermediate,50,women,7OAKS Dill With It (AM/PM),7OAKS Wildcards (AM/PM),Ada Gonzalez,Olga DeGroff,Tanya Sloan,Cindy Feryo,7,15
+18457,2,2026-04-23,raleigh,spring2026,highintermediate,50,women,7OAKS Dill With It (AM/PM),7OAKS Wildcards (AM/PM),Dolores Beck Quesenberry,Dana Chapman,Donna Cuomo,Alix Winfield Ballantyne,15,9
+18457,3,2026-04-23,raleigh,spring2026,highintermediate,50,women,7OAKS Dill With It (AM/PM),7OAKS Wildcards (AM/PM),Shelly A Schiff,Laura Dwyer,Eleanor Helms,Micha P Gittelman,15,11
+18457,4,2026-04-23,raleigh,spring2026,highintermediate,50,women,7OAKS Dill With It (AM/PM),7OAKS Wildcards (AM/PM),Ada Gonzalez,Olga DeGroff,Donna Cuomo,Alix Winfield Ballantyne,11,15
+18457,5,2026-04-23,raleigh,spring2026,highintermediate,50,women,7OAKS Dill With It (AM/PM),7OAKS Wildcards (AM/PM),Dolores Beck Quesenberry,Dana Chapman,Eleanor Helms,Micha P Gittelman,15,8
+18457,6,2026-04-23,raleigh,spring2026,highintermediate,50,women,7OAKS Dill With It (AM/PM),7OAKS Wildcards (AM/PM),Shelly A Schiff,Laura Dwyer,Tanya Sloan,Cindy Feryo,3,15
+18457,7,2026-04-23,raleigh,spring2026,highintermediate,50,women,7OAKS Dill With It (AM/PM),7OAKS Wildcards (AM/PM),Ada Gonzalez,Olga DeGroff,Eleanor Helms,Micha P Gittelman,15,4
+18457,8,2026-04-23,raleigh,spring2026,highintermediate,50,women,7OAKS Dill With It (AM/PM),7OAKS Wildcards (AM/PM),Dolores Beck Quesenberry,Dana Chapman,Tanya Sloan,Cindy Feryo,15,8
+18457,9,2026-04-23,raleigh,spring2026,highintermediate,50,women,7OAKS Dill With It (AM/PM),7OAKS Wildcards (AM/PM),Shelly A Schiff,Laura Dwyer,Donna Cuomo,Alix Winfield Ballantyne,7,15
+18458,1,2026-04-23,raleigh,spring2026,highintermediate,50,women,PIN Pinpoint Posse (PM),HASEN Dink Responsibly 50+ (PM),Patty L Owens,Talise Young,Regina Heroux,Laurie Randall,15,12
+18458,2,2026-04-23,raleigh,spring2026,highintermediate,50,women,PIN Pinpoint Posse (PM),HASEN Dink Responsibly 50+ (PM),Pamela smith,Sarah J Jennings,Debra Skiko,Jennifer Lynn Bouck,15,13
+18458,3,2026-04-23,raleigh,spring2026,highintermediate,50,women,PIN Pinpoint Posse (PM),HASEN Dink Responsibly 50+ (PM),Sheila M Lavey,Debbie Harper,Mary Jo Nugent,Cybele Martin Brockmann,5,15
+18458,4,2026-04-23,raleigh,spring2026,highintermediate,50,women,PIN Pinpoint Posse (PM),HASEN Dink Responsibly 50+ (PM),Patty L Owens,Talise Young,Debra Skiko,Jennifer Lynn Bouck,0,15
+18458,5,2026-04-23,raleigh,spring2026,highintermediate,50,women,PIN Pinpoint Posse (PM),HASEN Dink Responsibly 50+ (PM),Pamela smith,Sarah J Jennings,Mary Jo Nugent,Cybele Martin Brockmann,9,15
+18458,6,2026-04-23,raleigh,spring2026,highintermediate,50,women,PIN Pinpoint Posse (PM),HASEN Dink Responsibly 50+ (PM),Sheila M Lavey,Debbie Harper,Regina Heroux,Laurie Randall,1,15
+18458,7,2026-04-23,raleigh,spring2026,highintermediate,50,women,PIN Pinpoint Posse (PM),HASEN Dink Responsibly 50+ (PM),Patty L Owens,Talise Young,Mary Jo Nugent,Cybele Martin Brockmann,8,15
+18458,8,2026-04-23,raleigh,spring2026,highintermediate,50,women,PIN Pinpoint Posse (PM),HASEN Dink Responsibly 50+ (PM),Pamela smith,Sarah J Jennings,Regina Heroux,Laurie Randall,1,15
+18458,9,2026-04-23,raleigh,spring2026,highintermediate,50,women,PIN Pinpoint Posse (PM),HASEN Dink Responsibly 50+ (PM),Sheila M Lavey,Debbie Harper,Debra Skiko,Jennifer Lynn Bouck,9,15
+18484,1,2026-04-30,raleigh,spring2026,highintermediate,50,women,7OAKS Dill With It (AM/PM),HASEN Dink Responsibly 50+ (PM),Leigh Magee,Molly Bradsher Briggs,Diane Werner,Debra Skiko,15,10
+18484,2,2026-04-30,raleigh,spring2026,highintermediate,50,women,7OAKS Dill With It (AM/PM),HASEN Dink Responsibly 50+ (PM),Amy A Lindsey,Dolores Beck Quesenberry,Cybele Martin Brockmann,Mary Jo Nugent,16,14
+18484,3,2026-04-30,raleigh,spring2026,highintermediate,50,women,7OAKS Dill With It (AM/PM),HASEN Dink Responsibly 50+ (PM),Ada Gonzalez,Pamela Sue Rigsby,Regina Heroux,Laurie Randall,15,13
+18484,4,2026-04-30,raleigh,spring2026,highintermediate,50,women,7OAKS Dill With It (AM/PM),HASEN Dink Responsibly 50+ (PM),Leigh Magee,Molly Bradsher Briggs,Cybele Martin Brockmann,Mary Jo Nugent,15,10
+18484,5,2026-04-30,raleigh,spring2026,highintermediate,50,women,7OAKS Dill With It (AM/PM),HASEN Dink Responsibly 50+ (PM),Amy A Lindsey,Dolores Beck Quesenberry,Regina Heroux,Laurie Randall,15,11
+18484,6,2026-04-30,raleigh,spring2026,highintermediate,50,women,7OAKS Dill With It (AM/PM),HASEN Dink Responsibly 50+ (PM),Ada Gonzalez,Pamela Sue Rigsby,Diane Werner,Debra Skiko,7,15
+18484,7,2026-04-30,raleigh,spring2026,highintermediate,50,women,7OAKS Dill With It (AM/PM),HASEN Dink Responsibly 50+ (PM),Leigh Magee,Molly Bradsher Briggs,Regina Heroux,Laurie Randall,12,15
+18484,8,2026-04-30,raleigh,spring2026,highintermediate,50,women,7OAKS Dill With It (AM/PM),HASEN Dink Responsibly 50+ (PM),Amy A Lindsey,Dolores Beck Quesenberry,Diane Werner,Debra Skiko,13,15
+18484,9,2026-04-30,raleigh,spring2026,highintermediate,50,women,7OAKS Dill With It (AM/PM),HASEN Dink Responsibly 50+ (PM),Ada Gonzalez,Pamela Sue Rigsby,Cybele Martin Brockmann,Mary Jo Nugent,15,12
+18485,1,2026-04-30,raleigh,spring2026,highintermediate,50,women,PIN Pinpoint Posse (PM),WPCC Spinsters (PM),Diane Chapman,Jan Cowperthwaite,Kate Pirrung,Lori Parkman,15,7
+18485,2,2026-04-30,raleigh,spring2026,highintermediate,50,women,PIN Pinpoint Posse (PM),WPCC Spinsters (PM),Pattie Lopez,Pamela smith,Sonya Rhiver,Janice D Lewis,15,8
+18485,3,2026-04-30,raleigh,spring2026,highintermediate,50,women,PIN Pinpoint Posse (PM),WPCC Spinsters (PM),Sheila M Lavey,Debbie Harper,Teesa McKinley,Susan Laurie Shaw,7,15
+18485,4,2026-04-30,raleigh,spring2026,highintermediate,50,women,PIN Pinpoint Posse (PM),WPCC Spinsters (PM),Diane Chapman,Jan Cowperthwaite,Sonya Rhiver,Janice D Lewis,15,2
+18485,5,2026-04-30,raleigh,spring2026,highintermediate,50,women,PIN Pinpoint Posse (PM),WPCC Spinsters (PM),Pattie Lopez,Pamela smith,Teesa McKinley,Susan Laurie Shaw,6,15
+18485,6,2026-04-30,raleigh,spring2026,highintermediate,50,women,PIN Pinpoint Posse (PM),WPCC Spinsters (PM),Sheila M Lavey,Debbie Harper,Kate Pirrung,Lori Parkman,8,15
+18485,7,2026-04-30,raleigh,spring2026,highintermediate,50,women,PIN Pinpoint Posse (PM),WPCC Spinsters (PM),Diane Chapman,Jan Cowperthwaite,Teesa McKinley,Susan Laurie Shaw,15,11
+18485,8,2026-04-30,raleigh,spring2026,highintermediate,50,women,PIN Pinpoint Posse (PM),WPCC Spinsters (PM),Pattie Lopez,Pamela smith,Kate Pirrung,Lori Parkman,13,15
+18485,9,2026-04-30,raleigh,spring2026,highintermediate,50,women,PIN Pinpoint Posse (PM),WPCC Spinsters (PM),Sheila M Lavey,Debbie Harper,Sonya Rhiver,Janice D Lewis,9,15
+18510,1,2026-05-07,raleigh,spring2026,highintermediate,50,women,PIN Pinpoint Posse (PM),7OAKS Wildcards (AM/PM),Pamela smith,Sarah J Jennings,Micha P Gittelman,Donna Cuomo,15,6
+18510,2,2026-05-07,raleigh,spring2026,highintermediate,50,women,PIN Pinpoint Posse (PM),7OAKS Wildcards (AM/PM),Pattie Lopez,Patty L Owens,Eleanor Helms,Laurie H Kramer,15,11
+18510,3,2026-05-07,raleigh,spring2026,highintermediate,50,women,PIN Pinpoint Posse (PM),7OAKS Wildcards (AM/PM),Debbie Harper,Talise Young,Alix Winfield Ballantyne,Bethany Upton Squires,11,15
+18510,4,2026-05-07,raleigh,spring2026,highintermediate,50,women,PIN Pinpoint Posse (PM),7OAKS Wildcards (AM/PM),Pamela smith,Sarah J Jennings,Eleanor Helms,Laurie H Kramer,11,15
+18510,5,2026-05-07,raleigh,spring2026,highintermediate,50,women,PIN Pinpoint Posse (PM),7OAKS Wildcards (AM/PM),Pattie Lopez,Patty L Owens,Alix Winfield Ballantyne,Bethany Upton Squires,15,9
+18510,6,2026-05-07,raleigh,spring2026,highintermediate,50,women,PIN Pinpoint Posse (PM),7OAKS Wildcards (AM/PM),Debbie Harper,Talise Young,Micha P Gittelman,Donna Cuomo,8,15
+18510,7,2026-05-07,raleigh,spring2026,highintermediate,50,women,PIN Pinpoint Posse (PM),7OAKS Wildcards (AM/PM),Pamela smith,Sarah J Jennings,Alix Winfield Ballantyne,Bethany Upton Squires,10,15
+18510,8,2026-05-07,raleigh,spring2026,highintermediate,50,women,PIN Pinpoint Posse (PM),7OAKS Wildcards (AM/PM),Pattie Lopez,Patty L Owens,Micha P Gittelman,Donna Cuomo,6,15
+18510,9,2026-05-07,raleigh,spring2026,highintermediate,50,women,PIN Pinpoint Posse (PM),7OAKS Wildcards (AM/PM),Debbie Harper,Talise Young,Eleanor Helms,Laurie H Kramer,6,15
+18511,1,2026-05-07,raleigh,spring2026,highintermediate,50,women,WPCC Spinsters (PM),HASEN Dink Responsibly 50+ (PM),Lori Parkman,Susan Laurie Shaw,Samantha Starr,Betsy Perkinson,10,15
+18511,2,2026-05-07,raleigh,spring2026,highintermediate,50,women,WPCC Spinsters (PM),HASEN Dink Responsibly 50+ (PM),Cathy Werder,Lori Larrabee,Susan Flanagan,Diane Werner,6,15
+18511,3,2026-05-07,raleigh,spring2026,highintermediate,50,women,WPCC Spinsters (PM),HASEN Dink Responsibly 50+ (PM),Kate Pirrung,Leigh Kimball,Sharon F Barham,Candice V Diehl,8,15
+18511,4,2026-05-07,raleigh,spring2026,highintermediate,50,women,WPCC Spinsters (PM),HASEN Dink Responsibly 50+ (PM),Lori Parkman,Susan Laurie Shaw,Susan Flanagan,Diane Werner,1,15
+18511,5,2026-05-07,raleigh,spring2026,highintermediate,50,women,WPCC Spinsters (PM),HASEN Dink Responsibly 50+ (PM),Cathy Werder,Lori Larrabee,Sharon F Barham,Candice V Diehl,1,15
+18511,6,2026-05-07,raleigh,spring2026,highintermediate,50,women,WPCC Spinsters (PM),HASEN Dink Responsibly 50+ (PM),Kate Pirrung,Leigh Kimball,Samantha Starr,Betsy Perkinson,6,15
+18511,7,2026-05-07,raleigh,spring2026,highintermediate,50,women,WPCC Spinsters (PM),HASEN Dink Responsibly 50+ (PM),Lori Parkman,Susan Laurie Shaw,Sharon F Barham,Candice V Diehl,5,15
+18511,8,2026-05-07,raleigh,spring2026,highintermediate,50,women,WPCC Spinsters (PM),HASEN Dink Responsibly 50+ (PM),Cathy Werder,Lori Larrabee,Samantha Starr,Betsy Perkinson,10,15
+18511,9,2026-05-07,raleigh,spring2026,highintermediate,50,women,WPCC Spinsters (PM),HASEN Dink Responsibly 50+ (PM),Kate Pirrung,Leigh Kimball,Susan Flanagan,Diane Werner,15,6
+18532,1,2026-05-14,raleigh,spring2026,highintermediate,50,women,7OAKS Dill With It (AM/PM),PIN Pinpoint Posse (PM),Molly Bradsher Briggs,Dana Chapman,Pattie Lopez,Diane Chapman,15,0
+18532,2,2026-05-14,raleigh,spring2026,highintermediate,50,women,7OAKS Dill With It (AM/PM),PIN Pinpoint Posse (PM),Olga DeGroff,Danielle Stringer,Patty L Owens,Debbie Harper,15,8
+18532,3,2026-05-14,raleigh,spring2026,highintermediate,50,women,7OAKS Dill With It (AM/PM),PIN Pinpoint Posse (PM),Shelly A Schiff,Ada Gonzalez,DEFAULT,DEFAULT,15,0
+18532,4,2026-05-14,raleigh,spring2026,highintermediate,50,women,7OAKS Dill With It (AM/PM),PIN Pinpoint Posse (PM),Molly Bradsher Briggs,Dana Chapman,Patty L Owens,Debbie Harper,15,4
+18532,5,2026-05-14,raleigh,spring2026,highintermediate,50,women,7OAKS Dill With It (AM/PM),PIN Pinpoint Posse (PM),Olga DeGroff,Danielle Stringer,DEFAULT,DEFAULT,15,0
+18532,6,2026-05-14,raleigh,spring2026,highintermediate,50,women,7OAKS Dill With It (AM/PM),PIN Pinpoint Posse (PM),Shelly A Schiff,Ada Gonzalez,Pattie Lopez,Diane Chapman,15,5
+18532,7,2026-05-14,raleigh,spring2026,highintermediate,50,women,7OAKS Dill With It (AM/PM),PIN Pinpoint Posse (PM),Molly Bradsher Briggs,Dana Chapman,DEFAULT,DEFAULT,15,0
+18532,8,2026-05-14,raleigh,spring2026,highintermediate,50,women,7OAKS Dill With It (AM/PM),PIN Pinpoint Posse (PM),Olga DeGroff,Danielle Stringer,Pattie Lopez,Diane Chapman,15,13
+18532,9,2026-05-14,raleigh,spring2026,highintermediate,50,women,7OAKS Dill With It (AM/PM),PIN Pinpoint Posse (PM),Shelly A Schiff,Ada Gonzalez,Patty L Owens,Debbie Harper,15,5
+18533,1,2026-05-14,raleigh,spring2026,highintermediate,50,women,WPCC Spinsters (PM),7OAKS Wildcards (AM/PM),Lori Larrabee,Sonya Rhiver,Micha P Gittelman,Tanya Sloan,5,15
+18533,2,2026-05-14,raleigh,spring2026,highintermediate,50,women,WPCC Spinsters (PM),7OAKS Wildcards (AM/PM),Janice D Lewis,Melissa S Green,Sherry Lynn Goodson,Suzette P Brown,3,15
+18533,3,2026-05-14,raleigh,spring2026,highintermediate,50,women,WPCC Spinsters (PM),7OAKS Wildcards (AM/PM),Leigh Kimball,Kate Pirrung,Lynne Copeland Allen,Kathy Casadonte,16,14
+18533,4,2026-05-14,raleigh,spring2026,highintermediate,50,women,WPCC Spinsters (PM),7OAKS Wildcards (AM/PM),Lori Larrabee,Sonya Rhiver,Sherry Lynn Goodson,Suzette P Brown,15,13
+18533,5,2026-05-14,raleigh,spring2026,highintermediate,50,women,WPCC Spinsters (PM),7OAKS Wildcards (AM/PM),Janice D Lewis,Melissa S Green,Lynne Copeland Allen,Kathy Casadonte,9,15
+18533,6,2026-05-14,raleigh,spring2026,highintermediate,50,women,WPCC Spinsters (PM),7OAKS Wildcards (AM/PM),Leigh Kimball,Kate Pirrung,Micha P Gittelman,Tanya Sloan,10,15
+18533,7,2026-05-14,raleigh,spring2026,highintermediate,50,women,WPCC Spinsters (PM),7OAKS Wildcards (AM/PM),Lori Larrabee,Sonya Rhiver,Lynne Copeland Allen,Kathy Casadonte,10,15
+18533,8,2026-05-14,raleigh,spring2026,highintermediate,50,women,WPCC Spinsters (PM),7OAKS Wildcards (AM/PM),Janice D Lewis,Melissa S Green,Micha P Gittelman,Tanya Sloan,3,15
+18533,9,2026-05-14,raleigh,spring2026,highintermediate,50,women,WPCC Spinsters (PM),7OAKS Wildcards (AM/PM),Leigh Kimball,Kate Pirrung,Sherry Lynn Goodson,Suzette P Brown,15,9
+18557,1,2026-05-21,raleigh,spring2026,highintermediate,50,women,7OAKS Dill With It (AM/PM),WPCC Spinsters (PM),Leigh Magee,Olga DeGroff,Andrea Ellen McCartney,Kate Pirrung,15,6
+18557,2,2026-05-21,raleigh,spring2026,highintermediate,50,women,7OAKS Dill With It (AM/PM),WPCC Spinsters (PM),Dolores Beck Quesenberry,Ada Gonzalez,Janet Wilson Mitch,Lori Larrabee,15,5
+18557,3,2026-05-21,raleigh,spring2026,highintermediate,50,women,7OAKS Dill With It (AM/PM),WPCC Spinsters (PM),Pamela Sue Rigsby,Laura Dwyer,Teesa McKinley,Cathy Werder,15,6
+18557,4,2026-05-21,raleigh,spring2026,highintermediate,50,women,7OAKS Dill With It (AM/PM),WPCC Spinsters (PM),Leigh Magee,Olga DeGroff,Janet Wilson Mitch,Lori Larrabee,15,0
+18557,5,2026-05-21,raleigh,spring2026,highintermediate,50,women,7OAKS Dill With It (AM/PM),WPCC Spinsters (PM),Dolores Beck Quesenberry,Ada Gonzalez,Teesa McKinley,Cathy Werder,15,5
+18557,6,2026-05-21,raleigh,spring2026,highintermediate,50,women,7OAKS Dill With It (AM/PM),WPCC Spinsters (PM),Pamela Sue Rigsby,Laura Dwyer,Andrea Ellen McCartney,Kate Pirrung,12,15
+18557,7,2026-05-21,raleigh,spring2026,highintermediate,50,women,7OAKS Dill With It (AM/PM),WPCC Spinsters (PM),Leigh Magee,Olga DeGroff,Teesa McKinley,Cathy Werder,15,4
+18557,8,2026-05-21,raleigh,spring2026,highintermediate,50,women,7OAKS Dill With It (AM/PM),WPCC Spinsters (PM),Dolores Beck Quesenberry,Ada Gonzalez,Andrea Ellen McCartney,Kate Pirrung,15,7
+18557,9,2026-05-21,raleigh,spring2026,highintermediate,50,women,7OAKS Dill With It (AM/PM),WPCC Spinsters (PM),Pamela Sue Rigsby,Laura Dwyer,Janet Wilson Mitch,Lori Larrabee,15,3
+18558,1,2026-05-21,raleigh,spring2026,highintermediate,50,women,HASEN Dink Responsibly 50+ (PM),7OAKS Wildcards (AM/PM),Jennifer Lynn Bouck,Samantha Starr,Micha P Gittelman,Donna Cuomo,11,15
+18558,2,2026-05-21,raleigh,spring2026,highintermediate,50,women,HASEN Dink Responsibly 50+ (PM),7OAKS Wildcards (AM/PM),Regina Heroux,Susan Flanagan,Laurie H Kramer,Suzette P Brown,15,1
+18558,3,2026-05-21,raleigh,spring2026,highintermediate,50,women,HASEN Dink Responsibly 50+ (PM),7OAKS Wildcards (AM/PM),Debra Skiko,Laurie Randall,Alix Winfield Ballantyne,Kathy Casadonte,15,13
+18558,4,2026-05-21,raleigh,spring2026,highintermediate,50,women,HASEN Dink Responsibly 50+ (PM),7OAKS Wildcards (AM/PM),Jennifer Lynn Bouck,Samantha Starr,Laurie H Kramer,Suzette P Brown,15,7
+18558,5,2026-05-21,raleigh,spring2026,highintermediate,50,women,HASEN Dink Responsibly 50+ (PM),7OAKS Wildcards (AM/PM),Regina Heroux,Susan Flanagan,Alix Winfield Ballantyne,Kathy Casadonte,7,15
+18558,6,2026-05-21,raleigh,spring2026,highintermediate,50,women,HASEN Dink Responsibly 50+ (PM),7OAKS Wildcards (AM/PM),Debra Skiko,Laurie Randall,Micha P Gittelman,Donna Cuomo,15,9
+18558,7,2026-05-21,raleigh,spring2026,highintermediate,50,women,HASEN Dink Responsibly 50+ (PM),7OAKS Wildcards (AM/PM),Jennifer Lynn Bouck,Samantha Starr,Alix Winfield Ballantyne,Kathy Casadonte,17,15
+18558,8,2026-05-21,raleigh,spring2026,highintermediate,50,women,HASEN Dink Responsibly 50+ (PM),7OAKS Wildcards (AM/PM),Regina Heroux,Susan Flanagan,Micha P Gittelman,Donna Cuomo,15,0
+18558,9,2026-05-21,raleigh,spring2026,highintermediate,50,women,HASEN Dink Responsibly 50+ (PM),7OAKS Wildcards (AM/PM),Debra Skiko,Laurie Randall,Laurie H Kramer,Suzette P Brown,15,4
+18571,1,2026-05-28,raleigh,spring2026,highintermediate,50,women,7OAKS Wildcards (AM/PM),7OAKS Dill With It (AM/PM),Ann McDermott-Jorge,Eleanor Helms,Leigh Magee,Olga DeGroff,8,15
+18571,2,2026-05-28,raleigh,spring2026,highintermediate,50,women,7OAKS Wildcards (AM/PM),7OAKS Dill With It (AM/PM),Sherry Lynn Goodson,Kathy Casadonte,Ada Gonzalez,Dana Chapman,2,15
+18571,3,2026-05-28,raleigh,spring2026,highintermediate,50,women,7OAKS Wildcards (AM/PM),7OAKS Dill With It (AM/PM),Tanya Sloan,Cindy Feryo,DEFAULT,DEFAULT,15,0
+18571,4,2026-05-28,raleigh,spring2026,highintermediate,50,women,7OAKS Wildcards (AM/PM),7OAKS Dill With It (AM/PM),Ann McDermott-Jorge,Eleanor Helms,Ada Gonzalez,Dana Chapman,4,15
+18571,5,2026-05-28,raleigh,spring2026,highintermediate,50,women,7OAKS Wildcards (AM/PM),7OAKS Dill With It (AM/PM),Sherry Lynn Goodson,Kathy Casadonte,DEFAULT,DEFAULT,15,0
+18571,6,2026-05-28,raleigh,spring2026,highintermediate,50,women,7OAKS Wildcards (AM/PM),7OAKS Dill With It (AM/PM),Tanya Sloan,Cindy Feryo,Leigh Magee,Olga DeGroff,15,7
+18571,7,2026-05-28,raleigh,spring2026,highintermediate,50,women,7OAKS Wildcards (AM/PM),7OAKS Dill With It (AM/PM),Ann McDermott-Jorge,Eleanor Helms,DEFAULT,DEFAULT,15,0
+18571,8,2026-05-28,raleigh,spring2026,highintermediate,50,women,7OAKS Wildcards (AM/PM),7OAKS Dill With It (AM/PM),Sherry Lynn Goodson,Kathy Casadonte,Leigh Magee,Olga DeGroff,1,15
+18571,9,2026-05-28,raleigh,spring2026,highintermediate,50,women,7OAKS Wildcards (AM/PM),7OAKS Dill With It (AM/PM),Tanya Sloan,Cindy Feryo,Ada Gonzalez,Dana Chapman,15,8
+18572,1,2026-05-28,raleigh,spring2026,highintermediate,50,women,HASEN Dink Responsibly 50+ (PM),PIN Pinpoint Posse (PM),Jennifer Lynn Bouck,Debra Skiko,Pattie Lopez,Patty L Owens,15,8
+18572,2,2026-05-28,raleigh,spring2026,highintermediate,50,women,HASEN Dink Responsibly 50+ (PM),PIN Pinpoint Posse (PM),Candice V Diehl,Sharon F Barham,Diane Chapman,Debbie Harper,15,2
+18572,3,2026-05-28,raleigh,spring2026,highintermediate,50,women,HASEN Dink Responsibly 50+ (PM),PIN Pinpoint Posse (PM),Samantha Starr,Mary Jo Nugent,DEFAULT,DEFAULT,15,0
+18572,4,2026-05-28,raleigh,spring2026,highintermediate,50,women,HASEN Dink Responsibly 50+ (PM),PIN Pinpoint Posse (PM),Jennifer Lynn Bouck,Debra Skiko,Diane Chapman,Debbie Harper,15,5
+18572,5,2026-05-28,raleigh,spring2026,highintermediate,50,women,HASEN Dink Responsibly 50+ (PM),PIN Pinpoint Posse (PM),Candice V Diehl,Sharon F Barham,DEFAULT,DEFAULT,15,0
+18572,6,2026-05-28,raleigh,spring2026,highintermediate,50,women,HASEN Dink Responsibly 50+ (PM),PIN Pinpoint Posse (PM),Samantha Starr,Mary Jo Nugent,Pattie Lopez,Patty L Owens,15,9
+18572,7,2026-05-28,raleigh,spring2026,highintermediate,50,women,HASEN Dink Responsibly 50+ (PM),PIN Pinpoint Posse (PM),Jennifer Lynn Bouck,Debra Skiko,DEFAULT,DEFAULT,15,0
+18572,8,2026-05-28,raleigh,spring2026,highintermediate,50,women,HASEN Dink Responsibly 50+ (PM),PIN Pinpoint Posse (PM),Candice V Diehl,Sharon F Barham,Pattie Lopez,Patty L Owens,15,4
+18572,9,2026-05-28,raleigh,spring2026,highintermediate,50,women,HASEN Dink Responsibly 50+ (PM),PIN Pinpoint Posse (PM),Samantha Starr,Mary Jo Nugent,Diane Chapman,Debbie Harper,15,6
+18584,1,2026-06-06,raleigh,spring2026,highintermediate,50,women,HASEN Dink Responsibly 50+ (PM),7OAKS Dill With It (AM/PM),Diane Werner,Cybele Martin Brockmann,Olga DeGroff,Molly Bradsher Briggs,7,15
+18584,2,2026-06-06,raleigh,spring2026,highintermediate,50,women,HASEN Dink Responsibly 50+ (PM),7OAKS Dill With It (AM/PM),Betsy Perkinson,Debra Skiko,Amy A Lindsey,Dana Chapman,10,15
+18584,3,2026-06-06,raleigh,spring2026,highintermediate,50,women,HASEN Dink Responsibly 50+ (PM),7OAKS Dill With It (AM/PM),Regina Heroux,Laurie Randall,Leigh Magee,Shelly A Schiff,10,15
+18584,4,2026-06-06,raleigh,spring2026,highintermediate,50,women,HASEN Dink Responsibly 50+ (PM),7OAKS Dill With It (AM/PM),Diane Werner,Cybele Martin Brockmann,Amy A Lindsey,Dana Chapman,15,8
+18584,5,2026-06-06,raleigh,spring2026,highintermediate,50,women,HASEN Dink Responsibly 50+ (PM),7OAKS Dill With It (AM/PM),Betsy Perkinson,Debra Skiko,Leigh Magee,Shelly A Schiff,9,15
+18584,6,2026-06-06,raleigh,spring2026,highintermediate,50,women,HASEN Dink Responsibly 50+ (PM),7OAKS Dill With It (AM/PM),Regina Heroux,Laurie Randall,Olga DeGroff,Molly Bradsher Briggs,2,15
+18584,7,2026-06-06,raleigh,spring2026,highintermediate,50,women,HASEN Dink Responsibly 50+ (PM),7OAKS Dill With It (AM/PM),Diane Werner,Cybele Martin Brockmann,Leigh Magee,Shelly A Schiff,15,5
+18584,8,2026-06-06,raleigh,spring2026,highintermediate,50,women,HASEN Dink Responsibly 50+ (PM),7OAKS Dill With It (AM/PM),Betsy Perkinson,Debra Skiko,Olga DeGroff,Molly Bradsher Briggs,10,15
+18584,9,2026-06-06,raleigh,spring2026,highintermediate,50,women,HASEN Dink Responsibly 50+ (PM),7OAKS Dill With It (AM/PM),Regina Heroux,Laurie Randall,Amy A Lindsey,Dana Chapman,12,15

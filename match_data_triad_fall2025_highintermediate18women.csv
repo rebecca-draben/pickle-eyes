@@ -1,280 +1,280 @@
-match_id,game_id,match_date,team1_name,team2_name,partner1,partner2,opponent1,opponent2,team1_points,team2_points
-17247,1,2025-08-21,STAR Starmount Picklers,PINE Big Dills,Angie Payseur,Jill Marie Fisher,Jenny Weston,Lisa Ann Rancer,11,15
-17247,2,2025-08-21,STAR Starmount Picklers,PINE Big Dills,Annetta Bartle,Krista Pressley,Jamie Peterson,Linda Stefanick,13,15
-17247,3,2025-08-21,STAR Starmount Picklers,PINE Big Dills,Joanna R Delman,Cindy Hawkes,Janelle Krueger,Amy Teoh,7,15
-17247,4,2025-08-21,STAR Starmount Picklers,PINE Big Dills,Angie Payseur,Jill Marie Fisher,Jamie Peterson,Linda Stefanick,15,17
-17247,5,2025-08-21,STAR Starmount Picklers,PINE Big Dills,Annetta Bartle,Krista Pressley,Janelle Krueger,Amy Teoh,7,15
-17247,6,2025-08-21,STAR Starmount Picklers,PINE Big Dills,Joanna R Delman,Cindy Hawkes,Jenny Weston,Lisa Ann Rancer,9,15
-17247,7,2025-08-21,STAR Starmount Picklers,PINE Big Dills,Angie Payseur,Jill Marie Fisher,Janelle Krueger,Amy Teoh,15,8
-17247,8,2025-08-21,STAR Starmount Picklers,PINE Big Dills,Annetta Bartle,Krista Pressley,Jenny Weston,Lisa Ann Rancer,6,15
-17247,9,2025-08-21,STAR Starmount Picklers,PINE Big Dills,Joanna R Delman,Cindy Hawkes,Jamie Peterson,Linda Stefanick,7,15
-17248,1,2025-08-21,LJ Pickle Smashers,BUR The Dink Side,Sharen Thompson,Amy Stehlin,Donna DeRoo,Nikole Daigle,5,15
-17248,2,2025-08-21,LJ Pickle Smashers,BUR The Dink Side,Cary Scully,Sheri Cram,Sandy Elizabeth Meister,Anja Hoyt,12,15
-17248,3,2025-08-21,LJ Pickle Smashers,BUR The Dink Side,Kim Murray,Bee Baker,Kennedy Norris,Adele Fulcher,15,17
-17248,4,2025-08-21,LJ Pickle Smashers,BUR The Dink Side,Sharen Thompson,Amy Stehlin,Sandy Elizabeth Meister,Anja Hoyt,12,15
-17248,5,2025-08-21,LJ Pickle Smashers,BUR The Dink Side,Cary Scully,Sheri Cram,Kennedy Norris,Adele Fulcher,10,15
-17248,6,2025-08-21,LJ Pickle Smashers,BUR The Dink Side,Kim Murray,Bee Baker,Donna DeRoo,Nikole Daigle,15,5
-17248,7,2025-08-21,LJ Pickle Smashers,BUR The Dink Side,Sharen Thompson,Amy Stehlin,Kennedy Norris,Adele Fulcher,15,17
-17248,8,2025-08-21,LJ Pickle Smashers,BUR The Dink Side,Cary Scully,Sheri Cram,Donna DeRoo,Nikole Daigle,15,17
-17248,9,2025-08-21,LJ Pickle Smashers,BUR The Dink Side,Kim Murray,Bee Baker,Sandy Elizabeth Meister,Anja Hoyt,14,16
-17249,1,2025-08-21,BUR Picklebacks,LJ Designated Dinkers,Susan C Call,Christi Cain,Blair Barnett,Dixie Culver,11,15
-17249,2,2025-08-21,BUR Picklebacks,LJ Designated Dinkers,Jency Wells,Sienna Leigh Achterberg,Leanne Rosenbower,Lora Wentz,3,15
-17249,3,2025-08-21,BUR Picklebacks,LJ Designated Dinkers,Piper Lehlbach,Carrie Coe,Diane Majestic,Karen Robinson,15,7
-17249,4,2025-08-21,BUR Picklebacks,LJ Designated Dinkers,Susan C Call,Christi Cain,Leanne Rosenbower,Lora Wentz,13,15
-17249,5,2025-08-21,BUR Picklebacks,LJ Designated Dinkers,Jency Wells,Sienna Leigh Achterberg,Diane Majestic,Karen Robinson,12,15
-17249,6,2025-08-21,BUR Picklebacks,LJ Designated Dinkers,Piper Lehlbach,Carrie Coe,Blair Barnett,Dixie Culver,9,15
-17249,7,2025-08-21,BUR Picklebacks,LJ Designated Dinkers,Susan C Call,Christi Cain,Diane Majestic,Karen Robinson,13,15
-17249,8,2025-08-21,BUR Picklebacks,LJ Designated Dinkers,Jency Wells,Sienna Leigh Achterberg,Blair Barnett,Dixie Culver,0,15
-17249,9,2025-08-21,BUR Picklebacks,LJ Designated Dinkers,Piper Lehlbach,Carrie Coe,Leanne Rosenbower,Lora Wentz,6,15
-17250,1,2025-08-21,HPCC Big Dink Energy,LAWN Dink Responsibly,Sara Strassell,Sarah Howell,Ariana Vicari,Kristy Kohl,15,7
-17250,2,2025-08-21,HPCC Big Dink Energy,LAWN Dink Responsibly,Lee Nunn,Katie Rowell,Jennifer Nichols,Kate Shimansky,15,2
-17250,3,2025-08-21,HPCC Big Dink Energy,LAWN Dink Responsibly,Stephanie Ross,Christine Schermerhorn,Ashleigh Miller,Katherine Paige Givan,15,1
-17250,4,2025-08-21,HPCC Big Dink Energy,LAWN Dink Responsibly,Sara Strassell,Sarah Howell,Jennifer Nichols,Kate Shimansky,15,2
-17250,5,2025-08-21,HPCC Big Dink Energy,LAWN Dink Responsibly,Lee Nunn,Katie Rowell,Ashleigh Miller,Katherine Paige Givan,15,0
-17250,6,2025-08-21,HPCC Big Dink Energy,LAWN Dink Responsibly,Stephanie Ross,Christine Schermerhorn,Ariana Vicari,Kristy Kohl,15,11
-17250,7,2025-08-21,HPCC Big Dink Energy,LAWN Dink Responsibly,Sara Strassell,Sarah Howell,Ashleigh Miller,Katherine Paige Givan,15,0
-17250,8,2025-08-21,HPCC Big Dink Energy,LAWN Dink Responsibly,Lee Nunn,Katie Rowell,Ariana Vicari,Kristy Kohl,15,6
-17250,9,2025-08-21,HPCC Big Dink Energy,LAWN Dink Responsibly,Stephanie Ross,Christine Schermerhorn,Jennifer Nichols,Kate Shimansky,15,3
-17277,1,2025-09-04,LJ Designated Dinkers,STAR Starmount Picklers,Blair Barnett,Dixie Culver,Annetta Bartle,Caroline Bartle,15,4
-17277,2,2025-09-04,LJ Designated Dinkers,STAR Starmount Picklers,Carolyn Smith,Karen Robinson,Angie Payseur,Jill Marie Fisher,15,12
-17277,3,2025-09-04,LJ Designated Dinkers,STAR Starmount Picklers,Cynthia Livengood,Leanne Rosenbower,Cindy Hawkes,Emily Wilson,15,11
-17277,4,2025-09-04,LJ Designated Dinkers,STAR Starmount Picklers,Blair Barnett,Dixie Culver,Angie Payseur,Jill Marie Fisher,15,11
-17277,5,2025-09-04,LJ Designated Dinkers,STAR Starmount Picklers,Carolyn Smith,Karen Robinson,Cindy Hawkes,Emily Wilson,15,12
-17277,6,2025-09-04,LJ Designated Dinkers,STAR Starmount Picklers,Cynthia Livengood,Leanne Rosenbower,Annetta Bartle,Caroline Bartle,16,14
-17277,7,2025-09-04,LJ Designated Dinkers,STAR Starmount Picklers,Blair Barnett,Dixie Culver,Cindy Hawkes,Emily Wilson,15,5
-17277,8,2025-09-04,LJ Designated Dinkers,STAR Starmount Picklers,Carolyn Smith,Karen Robinson,Annetta Bartle,Caroline Bartle,10,15
-17277,9,2025-09-04,LJ Designated Dinkers,STAR Starmount Picklers,Cynthia Livengood,Leanne Rosenbower,Angie Payseur,Jill Marie Fisher,15,4
-17278,1,2025-09-04,BUR The Dink Side,PINE Big Dills,Rachel Mills,Denise Carter,Carly Davis,Jenny Weston,13,15
-17278,2,2025-09-04,BUR The Dink Side,PINE Big Dills,Donna DeRoo,Anja Hoyt,Amy Teoh,Janelle Krueger,15,8
-17278,3,2025-09-04,BUR The Dink Side,PINE Big Dills,Kennedy Norris,Adele Fulcher,Lori Harrington,Jamie Peterson,15,8
-17278,4,2025-09-04,BUR The Dink Side,PINE Big Dills,Rachel Mills,Denise Carter,Amy Teoh,Janelle Krueger,15,4
-17278,5,2025-09-04,BUR The Dink Side,PINE Big Dills,Donna DeRoo,Anja Hoyt,Lori Harrington,Jamie Peterson,8,15
-17278,6,2025-09-04,BUR The Dink Side,PINE Big Dills,Kennedy Norris,Adele Fulcher,Carly Davis,Jenny Weston,15,13
-17278,7,2025-09-04,BUR The Dink Side,PINE Big Dills,Rachel Mills,Denise Carter,Lori Harrington,Jamie Peterson,15,10
-17278,8,2025-09-04,BUR The Dink Side,PINE Big Dills,Donna DeRoo,Anja Hoyt,Carly Davis,Jenny Weston,4,15
-17278,9,2025-09-04,BUR The Dink Side,PINE Big Dills,Kennedy Norris,Adele Fulcher,Amy Teoh,Janelle Krueger,15,0
-17279,1,2025-09-04,HPCC Big Dink Energy,LJ Pickle Smashers,Katie Rowell,Sara Strassell,Sheri Chamberlin,Amy Stehlin,15,2
-17279,2,2025-09-04,HPCC Big Dink Energy,LJ Pickle Smashers,Alyce Warden,Amy Robinson,Sheri Cram,Cary Scully,15,5
-17279,3,2025-09-04,HPCC Big Dink Energy,LJ Pickle Smashers,Sarah Howell,Stephanie Ross,Anette Schmidt,Karen D Smith,15,2
-17279,4,2025-09-04,HPCC Big Dink Energy,LJ Pickle Smashers,Katie Rowell,Sara Strassell,Sheri Cram,Cary Scully,15,4
-17279,5,2025-09-04,HPCC Big Dink Energy,LJ Pickle Smashers,Alyce Warden,Amy Robinson,Anette Schmidt,Karen D Smith,15,5
-17279,6,2025-09-04,HPCC Big Dink Energy,LJ Pickle Smashers,Sarah Howell,Stephanie Ross,Sheri Chamberlin,Amy Stehlin,15,2
-17279,7,2025-09-04,HPCC Big Dink Energy,LJ Pickle Smashers,Katie Rowell,Sara Strassell,Anette Schmidt,Karen D Smith,15,5
-17279,8,2025-09-04,HPCC Big Dink Energy,LJ Pickle Smashers,Alyce Warden,Amy Robinson,Sheri Chamberlin,Amy Stehlin,11,15
-17279,9,2025-09-04,HPCC Big Dink Energy,LJ Pickle Smashers,Sarah Howell,Stephanie Ross,Sheri Cram,Cary Scully,15,5
-17280,1,2025-09-10,LAWN Dink Responsibly,BUR Picklebacks,Kristy Kohl,Ariana Vicari,Susan C Call,Jency Wells,15,5
-17280,2,2025-09-10,LAWN Dink Responsibly,BUR Picklebacks,Jennifer Nichols,Katherine Paige Givan,Jane Gluf,Rhyssa Earley,12,15
-17280,3,2025-09-10,LAWN Dink Responsibly,BUR Picklebacks,Kate Shimansky,Angel A Simpson,Christi Cain,Cindi Caudle Watts,3,15
-17280,4,2025-09-10,LAWN Dink Responsibly,BUR Picklebacks,Kristy Kohl,Ariana Vicari,Jane Gluf,Rhyssa Earley,15,4
-17280,5,2025-09-10,LAWN Dink Responsibly,BUR Picklebacks,Jennifer Nichols,Katherine Paige Givan,Christi Cain,Cindi Caudle Watts,13,15
-17280,6,2025-09-10,LAWN Dink Responsibly,BUR Picklebacks,Kate Shimansky,Angel A Simpson,Susan C Call,Jency Wells,15,13
-17280,7,2025-09-10,LAWN Dink Responsibly,BUR Picklebacks,Kristy Kohl,Ariana Vicari,Christi Cain,Cindi Caudle Watts,15,9
-17280,8,2025-09-10,LAWN Dink Responsibly,BUR Picklebacks,Jennifer Nichols,Katherine Paige Givan,Susan C Call,Jency Wells,15,10
-17280,9,2025-09-10,LAWN Dink Responsibly,BUR Picklebacks,Kate Shimansky,Angel A Simpson,Jane Gluf,Rhyssa Earley,6,15
-17303,1,2025-09-11,STAR Starmount Picklers,HPCC Big Dink Energy,Jill Marie Fisher,Federica Antolini,Sarah Howell,Katie Rowell,4,15
-17303,2,2025-09-11,STAR Starmount Picklers,HPCC Big Dink Energy,Angie Payseur,Krista Pressley,Sara Strassell,Kissie Stroup,0,15
-17303,3,2025-09-11,STAR Starmount Picklers,HPCC Big Dink Energy,Caylin Prillaman,Kimberly Halsey,Christine Schermerhorn,Stephanie Ross,15,11
-17303,4,2025-09-11,STAR Starmount Picklers,HPCC Big Dink Energy,Jill Marie Fisher,Federica Antolini,Sara Strassell,Kissie Stroup,7,15
-17303,5,2025-09-11,STAR Starmount Picklers,HPCC Big Dink Energy,Angie Payseur,Krista Pressley,Christine Schermerhorn,Stephanie Ross,1,15
-17303,6,2025-09-11,STAR Starmount Picklers,HPCC Big Dink Energy,Caylin Prillaman,Kimberly Halsey,Sarah Howell,Katie Rowell,2,15
-17303,7,2025-09-11,STAR Starmount Picklers,HPCC Big Dink Energy,Jill Marie Fisher,Federica Antolini,Christine Schermerhorn,Stephanie Ross,7,15
-17303,8,2025-09-11,STAR Starmount Picklers,HPCC Big Dink Energy,Angie Payseur,Krista Pressley,Sarah Howell,Katie Rowell,6,15
-17303,9,2025-09-11,STAR Starmount Picklers,HPCC Big Dink Energy,Caylin Prillaman,Kimberly Halsey,Sara Strassell,Kissie Stroup,5,15
-17304,1,2025-09-11,LJ Designated Dinkers,LAWN Dink Responsibly,Cynthia Livengood,Leanne Rosenbower,Kristy Kohl,Ariana Vicari,12,15
-17304,2,2025-09-11,LJ Designated Dinkers,LAWN Dink Responsibly,Carolyn Smith,Catherine Bell Flannery,Jennifer Nichols,Katherine Paige Givan,15,12
-17304,3,2025-09-11,LJ Designated Dinkers,LAWN Dink Responsibly,Kelly Smith,Andrea Shafer,Kate Shimansky,Angel A Simpson,10,15
-17304,4,2025-09-11,LJ Designated Dinkers,LAWN Dink Responsibly,Cynthia Livengood,Leanne Rosenbower,Jennifer Nichols,Katherine Paige Givan,15,3
-17304,5,2025-09-11,LJ Designated Dinkers,LAWN Dink Responsibly,Carolyn Smith,Catherine Bell Flannery,Kate Shimansky,Angel A Simpson,15,5
-17304,6,2025-09-11,LJ Designated Dinkers,LAWN Dink Responsibly,Kelly Smith,Andrea Shafer,Kristy Kohl,Ariana Vicari,7,15
-17304,7,2025-09-11,LJ Designated Dinkers,LAWN Dink Responsibly,Cynthia Livengood,Leanne Rosenbower,Kate Shimansky,Angel A Simpson,15,3
-17304,8,2025-09-11,LJ Designated Dinkers,LAWN Dink Responsibly,Carolyn Smith,Catherine Bell Flannery,Kristy Kohl,Ariana Vicari,15,5
-17304,9,2025-09-11,LJ Designated Dinkers,LAWN Dink Responsibly,Kelly Smith,Andrea Shafer,Jennifer Nichols,Katherine Paige Givan,15,11
-17305,1,2025-09-11,BUR Picklebacks,BUR The Dink Side,Piper Lehlbach,Carrie Coe,Kelly Hassell,Jackie Morelli,15,17
-17305,2,2025-09-11,BUR Picklebacks,BUR The Dink Side,Allyson Larson,Sienna Leigh Achterberg,Kennedy Norris,Adele Fulcher,3,15
-17305,3,2025-09-11,BUR Picklebacks,BUR The Dink Side,Jane Gluf,Christi Cain,Rachel Mills,Denise Carter,6,15
-17305,4,2025-09-11,BUR Picklebacks,BUR The Dink Side,Piper Lehlbach,Carrie Coe,Kennedy Norris,Adele Fulcher,10,15
-17305,5,2025-09-11,BUR Picklebacks,BUR The Dink Side,Allyson Larson,Sienna Leigh Achterberg,Rachel Mills,Denise Carter,9,15
-17305,6,2025-09-11,BUR Picklebacks,BUR The Dink Side,Jane Gluf,Christi Cain,Kelly Hassell,Jackie Morelli,6,15
-17305,7,2025-09-11,BUR Picklebacks,BUR The Dink Side,Piper Lehlbach,Carrie Coe,Rachel Mills,Denise Carter,9,15
-17305,8,2025-09-11,BUR Picklebacks,BUR The Dink Side,Allyson Larson,Sienna Leigh Achterberg,Kelly Hassell,Jackie Morelli,17,15
-17305,9,2025-09-11,BUR Picklebacks,BUR The Dink Side,Jane Gluf,Christi Cain,Kennedy Norris,Adele Fulcher,7,15
-17306,1,2025-09-11,PINE Big Dills,LJ Pickle Smashers,Linda Stefanick,Lisa Ann Rancer,Anette Schmidt,Amy Stehlin,9,15
-17306,2,2025-09-11,PINE Big Dills,LJ Pickle Smashers,Carly Davis,Jenny Weston,Cary Scully,Sheri Cram,15,5
-17306,3,2025-09-11,PINE Big Dills,LJ Pickle Smashers,Amy Teoh,Janelle Krueger,Sharen Thompson,Kim Murray,15,13
-17306,4,2025-09-11,PINE Big Dills,LJ Pickle Smashers,Linda Stefanick,Lisa Ann Rancer,Cary Scully,Sheri Cram,10,15
-17306,5,2025-09-11,PINE Big Dills,LJ Pickle Smashers,Carly Davis,Jenny Weston,Sharen Thompson,Kim Murray,15,7
-17306,6,2025-09-11,PINE Big Dills,LJ Pickle Smashers,Amy Teoh,Janelle Krueger,Anette Schmidt,Amy Stehlin,5,15
-17306,7,2025-09-11,PINE Big Dills,LJ Pickle Smashers,Linda Stefanick,Lisa Ann Rancer,Sharen Thompson,Kim Murray,15,10
-17306,8,2025-09-11,PINE Big Dills,LJ Pickle Smashers,Carly Davis,Jenny Weston,Anette Schmidt,Amy Stehlin,15,8
-17306,9,2025-09-11,PINE Big Dills,LJ Pickle Smashers,Amy Teoh,Janelle Krueger,Cary Scully,Sheri Cram,13,15
-17329,1,2025-09-18,LJ Pickle Smashers,BUR Picklebacks,Skyler Bass,Bee Baker,Cathy Peden,Cindi Caudle Watts,15,8
-17329,2,2025-09-18,LJ Pickle Smashers,BUR Picklebacks,Cary Scully,Sheri Cram,Allyson Larson,Christi Cain,3,15
-17329,3,2025-09-18,LJ Pickle Smashers,BUR Picklebacks,Amy Stehlin,Christina Douglas,Jency Wells,Jane Gluf,15,11
-17329,4,2025-09-18,LJ Pickle Smashers,BUR Picklebacks,Skyler Bass,Bee Baker,Allyson Larson,Christi Cain,15,11
-17329,5,2025-09-18,LJ Pickle Smashers,BUR Picklebacks,Cary Scully,Sheri Cram,Jency Wells,Jane Gluf,15,11
-17329,6,2025-09-18,LJ Pickle Smashers,BUR Picklebacks,Amy Stehlin,Christina Douglas,Cathy Peden,Cindi Caudle Watts,12,15
-17329,7,2025-09-18,LJ Pickle Smashers,BUR Picklebacks,Skyler Bass,Bee Baker,Jency Wells,Jane Gluf,17,15
-17329,8,2025-09-18,LJ Pickle Smashers,BUR Picklebacks,Cary Scully,Sheri Cram,Cathy Peden,Cindi Caudle Watts,13,15
-17329,9,2025-09-18,LJ Pickle Smashers,BUR Picklebacks,Amy Stehlin,Christina Douglas,Allyson Larson,Christi Cain,7,15
-17330,1,2025-09-18,BUR The Dink Side,STAR Starmount Picklers,Donna DeRoo,Kelly Hassell,Joanna R Delman,Federica Antolini,10,15
-17330,2,2025-09-18,BUR The Dink Side,STAR Starmount Picklers,Jackie Morelli,Nikole Daigle,Caylin Prillaman,Krista Pressley,15,1
-17330,3,2025-09-18,BUR The Dink Side,STAR Starmount Picklers,Anja Hoyt,Sandy Elizabeth Meister,Annetta Bartle,Caroline Bartle,15,4
-17330,4,2025-09-18,BUR The Dink Side,STAR Starmount Picklers,Donna DeRoo,Kelly Hassell,Caylin Prillaman,Krista Pressley,15,11
-17330,5,2025-09-18,BUR The Dink Side,STAR Starmount Picklers,Jackie Morelli,Nikole Daigle,Annetta Bartle,Caroline Bartle,15,7
-17330,6,2025-09-18,BUR The Dink Side,STAR Starmount Picklers,Anja Hoyt,Sandy Elizabeth Meister,Joanna R Delman,Federica Antolini,10,15
-17330,7,2025-09-18,BUR The Dink Side,STAR Starmount Picklers,Donna DeRoo,Kelly Hassell,Annetta Bartle,Caroline Bartle,11,15
-17330,8,2025-09-18,BUR The Dink Side,STAR Starmount Picklers,Jackie Morelli,Nikole Daigle,Joanna R Delman,Federica Antolini,8,15
-17330,9,2025-09-18,BUR The Dink Side,STAR Starmount Picklers,Anja Hoyt,Sandy Elizabeth Meister,Caylin Prillaman,Krista Pressley,15,12
-17331,1,2025-09-18,HPCC Big Dink Energy,LJ Designated Dinkers,Katie Rowell,Sarah Howell,Lora Wentz,Lynette Paley,15,7
-17331,2,2025-09-18,HPCC Big Dink Energy,LJ Designated Dinkers,Amy Robinson,Kissie Stroup,Dixie Culver,Karen Robinson,15,10
-17331,3,2025-09-18,HPCC Big Dink Energy,LJ Designated Dinkers,Juliet A Booe,MooMoo Councill,Andrea Shafer,Kelly Smith,15,5
-17331,4,2025-09-18,HPCC Big Dink Energy,LJ Designated Dinkers,Katie Rowell,Sarah Howell,Dixie Culver,Karen Robinson,15,1
-17331,5,2025-09-18,HPCC Big Dink Energy,LJ Designated Dinkers,Amy Robinson,Kissie Stroup,Andrea Shafer,Kelly Smith,15,9
-17331,6,2025-09-18,HPCC Big Dink Energy,LJ Designated Dinkers,Juliet A Booe,MooMoo Councill,Lora Wentz,Lynette Paley,6,15
-17331,7,2025-09-18,HPCC Big Dink Energy,LJ Designated Dinkers,Katie Rowell,Sarah Howell,Andrea Shafer,Kelly Smith,15,0
-17331,8,2025-09-18,HPCC Big Dink Energy,LJ Designated Dinkers,Amy Robinson,Kissie Stroup,Lora Wentz,Lynette Paley,15,9
-17331,9,2025-09-18,HPCC Big Dink Energy,LJ Designated Dinkers,Juliet A Booe,MooMoo Councill,Dixie Culver,Karen Robinson,8,15
-17332,1,2025-09-18,LAWN Dink Responsibly,PINE Big Dills,Kristy Kohl,Ashleigh Miller,Lisa Ann Rancer,Jamie Peterson,10,15
-17332,2,2025-09-18,LAWN Dink Responsibly,PINE Big Dills,Jennifer Nichols,Katherine Paige Givan,Carly Davis,Jenny Weston,14,16
-17332,3,2025-09-18,LAWN Dink Responsibly,PINE Big Dills,Kate Shimansky,Angel A Simpson,Amy Teoh,Janelle Krueger,15,12
-17332,4,2025-09-18,LAWN Dink Responsibly,PINE Big Dills,Kristy Kohl,Ashleigh Miller,Carly Davis,Jenny Weston,1,15
-17332,5,2025-09-18,LAWN Dink Responsibly,PINE Big Dills,Jennifer Nichols,Katherine Paige Givan,Amy Teoh,Janelle Krueger,6,15
-17332,6,2025-09-18,LAWN Dink Responsibly,PINE Big Dills,Kate Shimansky,Angel A Simpson,Lisa Ann Rancer,Jamie Peterson,6,15
-17332,7,2025-09-18,LAWN Dink Responsibly,PINE Big Dills,Kristy Kohl,Ashleigh Miller,Amy Teoh,Janelle Krueger,8,15
-17332,8,2025-09-18,LAWN Dink Responsibly,PINE Big Dills,Jennifer Nichols,Katherine Paige Givan,Lisa Ann Rancer,Jamie Peterson,14,16
-17332,9,2025-09-18,LAWN Dink Responsibly,PINE Big Dills,Kate Shimansky,Angel A Simpson,Carly Davis,Jenny Weston,4,15
-17354,1,2025-09-25,LJ Pickle Smashers,STAR Starmount Picklers,Sheri Chamberlin,Anette Schmidt,Federica Antolini,Kimberly Halsey,8,15
-17354,2,2025-09-25,LJ Pickle Smashers,STAR Starmount Picklers,Bee Baker,Carla Robinson,Jill Marie Fisher,Caroline Bartle,5,15
-17354,3,2025-09-25,LJ Pickle Smashers,STAR Starmount Picklers,Amy Stehlin,Penny Graves,Angie Payseur,Caylin Prillaman,15,5
-17354,4,2025-09-25,LJ Pickle Smashers,STAR Starmount Picklers,Sheri Chamberlin,Anette Schmidt,Jill Marie Fisher,Caroline Bartle,11,15
-17354,5,2025-09-25,LJ Pickle Smashers,STAR Starmount Picklers,Bee Baker,Carla Robinson,Angie Payseur,Caylin Prillaman,8,15
-17354,6,2025-09-25,LJ Pickle Smashers,STAR Starmount Picklers,Amy Stehlin,Penny Graves,Federica Antolini,Kimberly Halsey,4,15
-17354,7,2025-09-25,LJ Pickle Smashers,STAR Starmount Picklers,Sheri Chamberlin,Anette Schmidt,Angie Payseur,Caylin Prillaman,15,12
-17354,8,2025-09-25,LJ Pickle Smashers,STAR Starmount Picklers,Bee Baker,Carla Robinson,Federica Antolini,Kimberly Halsey,13,15
-17354,9,2025-09-25,LJ Pickle Smashers,STAR Starmount Picklers,Amy Stehlin,Penny Graves,Jill Marie Fisher,Caroline Bartle,2,15
-17355,1,2025-09-25,BUR Picklebacks,HPCC Big Dink Energy,Piper Lehlbach,Carrie Coe,Sarah Howell,Kissie Stroup,6,15
-17355,2,2025-09-25,BUR Picklebacks,HPCC Big Dink Energy,Jency Wells,Jane Gluf,Amy Robinson,Juliet A Booe,2,15
-17355,3,2025-09-25,BUR Picklebacks,HPCC Big Dink Energy,Allyson Larson,Christi Cain,Alyce Warden,Christine Schermerhorn,16,14
-17355,4,2025-09-25,BUR Picklebacks,HPCC Big Dink Energy,Piper Lehlbach,Carrie Coe,Amy Robinson,Juliet A Booe,13,15
-17355,5,2025-09-25,BUR Picklebacks,HPCC Big Dink Energy,Jency Wells,Jane Gluf,Alyce Warden,Christine Schermerhorn,7,15
-17355,6,2025-09-25,BUR Picklebacks,HPCC Big Dink Energy,Allyson Larson,Christi Cain,Sarah Howell,Kissie Stroup,4,15
-17355,7,2025-09-25,BUR Picklebacks,HPCC Big Dink Energy,Piper Lehlbach,Carrie Coe,Alyce Warden,Christine Schermerhorn,8,15
-17355,8,2025-09-25,BUR Picklebacks,HPCC Big Dink Energy,Jency Wells,Jane Gluf,Sarah Howell,Kissie Stroup,5,15
-17355,9,2025-09-25,BUR Picklebacks,HPCC Big Dink Energy,Allyson Larson,Christi Cain,Amy Robinson,Juliet A Booe,15,8
-17356,1,2025-09-25,PINE Big Dills,LJ Designated Dinkers,Lisa Ann Rancer,Jamie Peterson,Dixie Culver,Blair Barnett,0,15
-17356,2,2025-09-25,PINE Big Dills,LJ Designated Dinkers,Carly Davis,Jenny Weston,Cynthia Livengood,Lynette Paley,15,8
-17356,3,2025-09-25,PINE Big Dills,LJ Designated Dinkers,Amy Teoh,Janelle Krueger,Carolyn Smith,Catherine Bell Flannery,15,10
-17356,4,2025-09-25,PINE Big Dills,LJ Designated Dinkers,Lisa Ann Rancer,Jamie Peterson,Cynthia Livengood,Lynette Paley,15,13
-17356,5,2025-09-25,PINE Big Dills,LJ Designated Dinkers,Carly Davis,Jenny Weston,Carolyn Smith,Catherine Bell Flannery,15,6
-17356,6,2025-09-25,PINE Big Dills,LJ Designated Dinkers,Amy Teoh,Janelle Krueger,Dixie Culver,Blair Barnett,6,15
-17356,7,2025-09-25,PINE Big Dills,LJ Designated Dinkers,Lisa Ann Rancer,Jamie Peterson,Carolyn Smith,Catherine Bell Flannery,15,3
-17356,8,2025-09-25,PINE Big Dills,LJ Designated Dinkers,Carly Davis,Jenny Weston,Dixie Culver,Blair Barnett,12,15
-17356,9,2025-09-25,PINE Big Dills,LJ Designated Dinkers,Amy Teoh,Janelle Krueger,Cynthia Livengood,Lynette Paley,7,15
-17357,1,2025-09-25,LAWN Dink Responsibly,BUR The Dink Side,Kristy Kohl,Ariana Vicari,Jackie Morelli,Nikole Daigle,6,15
-17357,2,2025-09-25,LAWN Dink Responsibly,BUR The Dink Side,Jennifer Nichols,Ashleigh Miller,Adele Fulcher,Donna DeRoo,8,15
-17357,3,2025-09-25,LAWN Dink Responsibly,BUR The Dink Side,Kate Shimansky,Angel A Simpson,Rachel Mills,Denise Carter,6,15
-17357,4,2025-09-25,LAWN Dink Responsibly,BUR The Dink Side,Kristy Kohl,Ariana Vicari,Adele Fulcher,Donna DeRoo,13,15
-17357,5,2025-09-25,LAWN Dink Responsibly,BUR The Dink Side,Jennifer Nichols,Ashleigh Miller,Rachel Mills,Denise Carter,6,15
-17357,6,2025-09-25,LAWN Dink Responsibly,BUR The Dink Side,Kate Shimansky,Angel A Simpson,Jackie Morelli,Nikole Daigle,6,15
-17357,7,2025-09-25,LAWN Dink Responsibly,BUR The Dink Side,Kristy Kohl,Ariana Vicari,Rachel Mills,Denise Carter,10,15
-17357,8,2025-09-25,LAWN Dink Responsibly,BUR The Dink Side,Jennifer Nichols,Ashleigh Miller,Jackie Morelli,Nikole Daigle,6,15
-17357,9,2025-09-25,LAWN Dink Responsibly,BUR The Dink Side,Kate Shimansky,Angel A Simpson,Adele Fulcher,Donna DeRoo,11,15
-17380,1,2025-09-30,STAR Starmount Picklers,LAWN Dink Responsibly,Krista Pressley,Jill Marie Fisher,Kristy Kohl,Ariana Vicari,14,16
-17380,2,2025-09-30,STAR Starmount Picklers,LAWN Dink Responsibly,Reeves Rhoten,Emily Wilson,Jennifer Nichols,Ashleigh Miller,15,4
-17380,3,2025-09-30,STAR Starmount Picklers,LAWN Dink Responsibly,Kimberly Halsey,Caylin Prillaman,Kate Shimansky,Angel A Simpson,15,7
-17380,4,2025-09-30,STAR Starmount Picklers,LAWN Dink Responsibly,Krista Pressley,Jill Marie Fisher,Jennifer Nichols,Ashleigh Miller,15,6
-17380,5,2025-09-30,STAR Starmount Picklers,LAWN Dink Responsibly,Reeves Rhoten,Emily Wilson,Kate Shimansky,Angel A Simpson,10,15
-17380,6,2025-09-30,STAR Starmount Picklers,LAWN Dink Responsibly,Kimberly Halsey,Caylin Prillaman,Kristy Kohl,Ariana Vicari,12,15
-17380,7,2025-09-30,STAR Starmount Picklers,LAWN Dink Responsibly,Krista Pressley,Jill Marie Fisher,Kate Shimansky,Angel A Simpson,15,9
-17380,8,2025-09-30,STAR Starmount Picklers,LAWN Dink Responsibly,Reeves Rhoten,Emily Wilson,Kristy Kohl,Ariana Vicari,2,15
-17380,9,2025-09-30,STAR Starmount Picklers,LAWN Dink Responsibly,Kimberly Halsey,Caylin Prillaman,Jennifer Nichols,Ashleigh Miller,10,15
-17381,1,2025-10-02,LJ Designated Dinkers,LJ Pickle Smashers,Dixie Culver,Blair Barnett,Skyler Bass,Bee Baker,15,17
-17381,2,2025-10-02,LJ Designated Dinkers,LJ Pickle Smashers,Andrea Shafer,Lynette Paley,Cary Scully,Sheri Cram,15,9
-17381,3,2025-10-02,LJ Designated Dinkers,LJ Pickle Smashers,Tonya Lomas,Catherine Bell Flannery,Amy Stehlin,Anette Schmidt,4,15
-17381,4,2025-10-02,LJ Designated Dinkers,LJ Pickle Smashers,Dixie Culver,Blair Barnett,Cary Scully,Sheri Cram,15,5
-17381,5,2025-10-02,LJ Designated Dinkers,LJ Pickle Smashers,Andrea Shafer,Lynette Paley,Amy Stehlin,Anette Schmidt,9,15
-17381,6,2025-10-02,LJ Designated Dinkers,LJ Pickle Smashers,Tonya Lomas,Catherine Bell Flannery,Skyler Bass,Bee Baker,6,15
-17381,7,2025-10-02,LJ Designated Dinkers,LJ Pickle Smashers,Dixie Culver,Blair Barnett,Amy Stehlin,Anette Schmidt,16,14
-17381,8,2025-10-02,LJ Designated Dinkers,LJ Pickle Smashers,Andrea Shafer,Lynette Paley,Skyler Bass,Bee Baker,1,15
-17381,9,2025-10-02,LJ Designated Dinkers,LJ Pickle Smashers,Tonya Lomas,Catherine Bell Flannery,Cary Scully,Sheri Cram,15,8
-17382,1,2025-10-02,BUR The Dink Side,HPCC Big Dink Energy,Kelly Hassell,Kennedy Norris,Sarah Howell,Katie Rowell,6,15
-17382,2,2025-10-02,BUR The Dink Side,HPCC Big Dink Energy,Donna DeRoo,Anja Hoyt,Sara Strassell,Kissie Stroup,3,15
-17382,3,2025-10-02,BUR The Dink Side,HPCC Big Dink Energy,Denise Carter,Rachel Mills,Juliet A Booe,Christine Schermerhorn,12,15
-17382,4,2025-10-02,BUR The Dink Side,HPCC Big Dink Energy,Kelly Hassell,Kennedy Norris,Sara Strassell,Kissie Stroup,5,15
-17382,5,2025-10-02,BUR The Dink Side,HPCC Big Dink Energy,Donna DeRoo,Anja Hoyt,Juliet A Booe,Christine Schermerhorn,4,15
-17382,6,2025-10-02,BUR The Dink Side,HPCC Big Dink Energy,Denise Carter,Rachel Mills,Sarah Howell,Katie Rowell,8,15
-17382,7,2025-10-02,BUR The Dink Side,HPCC Big Dink Energy,Kelly Hassell,Kennedy Norris,Juliet A Booe,Christine Schermerhorn,15,12
-17382,8,2025-10-02,BUR The Dink Side,HPCC Big Dink Energy,Donna DeRoo,Anja Hoyt,Sarah Howell,Katie Rowell,1,15
-17382,9,2025-10-02,BUR The Dink Side,HPCC Big Dink Energy,Denise Carter,Rachel Mills,Sara Strassell,Kissie Stroup,4,15
-17383,1,2025-10-02,PINE Big Dills,BUR Picklebacks,Linda Stefanick,Jamie Peterson,Cindi Caudle Watts,Cathy Peden,15,9
-17383,2,2025-10-02,PINE Big Dills,BUR Picklebacks,Carly Davis,Jenny Weston,Jane Gluf,Jency Wells,15,5
-17383,3,2025-10-02,PINE Big Dills,BUR Picklebacks,Janelle Krueger,Lisa Ann Rancer,Susan C Call,Christi Cain,7,15
-17383,4,2025-10-02,PINE Big Dills,BUR Picklebacks,Linda Stefanick,Jamie Peterson,Jane Gluf,Jency Wells,15,3
-17383,5,2025-10-02,PINE Big Dills,BUR Picklebacks,Carly Davis,Jenny Weston,Susan C Call,Christi Cain,15,11
-17383,6,2025-10-02,PINE Big Dills,BUR Picklebacks,Janelle Krueger,Lisa Ann Rancer,Cindi Caudle Watts,Cathy Peden,13,15
-17383,7,2025-10-02,PINE Big Dills,BUR Picklebacks,Linda Stefanick,Jamie Peterson,Susan C Call,Christi Cain,9,15
-17383,8,2025-10-02,PINE Big Dills,BUR Picklebacks,Carly Davis,Jenny Weston,Cindi Caudle Watts,Cathy Peden,15,5
-17383,9,2025-10-02,PINE Big Dills,BUR Picklebacks,Janelle Krueger,Lisa Ann Rancer,Jane Gluf,Jency Wells,7,15
-17408,1,2025-10-09,STAR Starmount Picklers,BUR Picklebacks,Cindy Hawkes,Jill Marie Fisher,Piper Lehlbach,Carrie Coe,15,8
-17408,2,2025-10-09,STAR Starmount Picklers,BUR Picklebacks,Angie Payseur,Annetta Bartle,Cindi Caudle Watts,Allyson Larson,15,11
-17408,3,2025-10-09,STAR Starmount Picklers,BUR Picklebacks,Kimberly Halsey,Emily Wilson,Susan C Call,Christi Cain,6,15
-17408,4,2025-10-09,STAR Starmount Picklers,BUR Picklebacks,Cindy Hawkes,Jill Marie Fisher,Cindi Caudle Watts,Allyson Larson,5,15
-17408,5,2025-10-09,STAR Starmount Picklers,BUR Picklebacks,Angie Payseur,Annetta Bartle,Susan C Call,Christi Cain,8,15
-17408,6,2025-10-09,STAR Starmount Picklers,BUR Picklebacks,Kimberly Halsey,Emily Wilson,Piper Lehlbach,Carrie Coe,7,15
-17408,7,2025-10-09,STAR Starmount Picklers,BUR Picklebacks,Cindy Hawkes,Jill Marie Fisher,Susan C Call,Christi Cain,15,12
-17408,8,2025-10-09,STAR Starmount Picklers,BUR Picklebacks,Angie Payseur,Annetta Bartle,Piper Lehlbach,Carrie Coe,15,10
-17408,9,2025-10-09,STAR Starmount Picklers,BUR Picklebacks,Kimberly Halsey,Emily Wilson,Cindi Caudle Watts,Allyson Larson,15,9
-17409,1,2025-10-09,LJ Designated Dinkers,BUR The Dink Side,Blair Barnett,Dixie Culver,Denise Carter,Rachel Mills,15,3
-17409,2,2025-10-09,LJ Designated Dinkers,BUR The Dink Side,Carolyn Smith,Kelly Smith,Kelly Hassell,Kennedy Norris,3,15
-17409,3,2025-10-09,LJ Designated Dinkers,BUR The Dink Side,Cynthia Livengood,Leanne Rosenbower,Jackie Morelli,Nikole Daigle,13,15
-17409,4,2025-10-09,LJ Designated Dinkers,BUR The Dink Side,Blair Barnett,Dixie Culver,Kelly Hassell,Kennedy Norris,13,15
-17409,5,2025-10-09,LJ Designated Dinkers,BUR The Dink Side,Carolyn Smith,Kelly Smith,Jackie Morelli,Nikole Daigle,3,15
-17409,6,2025-10-09,LJ Designated Dinkers,BUR The Dink Side,Cynthia Livengood,Leanne Rosenbower,Denise Carter,Rachel Mills,15,10
-17409,7,2025-10-09,LJ Designated Dinkers,BUR The Dink Side,Blair Barnett,Dixie Culver,Jackie Morelli,Nikole Daigle,15,7
-17409,8,2025-10-09,LJ Designated Dinkers,BUR The Dink Side,Carolyn Smith,Kelly Smith,Denise Carter,Rachel Mills,2,15
-17409,9,2025-10-09,LJ Designated Dinkers,BUR The Dink Side,Cynthia Livengood,Leanne Rosenbower,Kelly Hassell,Kennedy Norris,13,15
-17410,1,2025-10-09,PINE Big Dills,HPCC Big Dink Energy,Lisa Ann Rancer,Jamie Peterson,Sara Strassell,Sarah Howell,3,15
-17410,2,2025-10-09,PINE Big Dills,HPCC Big Dink Energy,Carly Davis,Jenny Weston,Stephanie Ross,Lee Nunn,11,15
-17410,3,2025-10-09,PINE Big Dills,HPCC Big Dink Energy,Amy Teoh,Lori Harrington,Kellie Holbrook,Alyce Warden,15,9
-17410,4,2025-10-09,PINE Big Dills,HPCC Big Dink Energy,Lisa Ann Rancer,Jamie Peterson,Stephanie Ross,Lee Nunn,4,15
-17410,5,2025-10-09,PINE Big Dills,HPCC Big Dink Energy,Carly Davis,Jenny Weston,Kellie Holbrook,Alyce Warden,15,11
-17410,6,2025-10-09,PINE Big Dills,HPCC Big Dink Energy,Amy Teoh,Lori Harrington,Sara Strassell,Sarah Howell,6,15
-17410,7,2025-10-09,PINE Big Dills,HPCC Big Dink Energy,Lisa Ann Rancer,Jamie Peterson,Kellie Holbrook,Alyce Warden,15,10
-17410,8,2025-10-09,PINE Big Dills,HPCC Big Dink Energy,Carly Davis,Jenny Weston,Sara Strassell,Sarah Howell,7,15
-17410,9,2025-10-09,PINE Big Dills,HPCC Big Dink Energy,Amy Teoh,Lori Harrington,Stephanie Ross,Lee Nunn,3,15
-17411,1,2025-10-09,LAWN Dink Responsibly,LJ Pickle Smashers,Kristy Kohl,Ariana Vicari,Cary Scully,Bee Baker,16,14
-17411,2,2025-10-09,LAWN Dink Responsibly,LJ Pickle Smashers,Jennifer Nichols,Katherine Paige Givan,Anette Schmidt,Patti Hartman,10,15
-17411,3,2025-10-09,LAWN Dink Responsibly,LJ Pickle Smashers,Angel A Simpson,Ashleigh Miller,Amy Stehlin,Carla Robinson,14,16
-17411,4,2025-10-09,LAWN Dink Responsibly,LJ Pickle Smashers,Kristy Kohl,Ariana Vicari,Anette Schmidt,Patti Hartman,13,15
-17411,5,2025-10-09,LAWN Dink Responsibly,LJ Pickle Smashers,Jennifer Nichols,Katherine Paige Givan,Amy Stehlin,Carla Robinson,3,15
-17411,6,2025-10-09,LAWN Dink Responsibly,LJ Pickle Smashers,Angel A Simpson,Ashleigh Miller,Cary Scully,Bee Baker,15,11
-17411,7,2025-10-09,LAWN Dink Responsibly,LJ Pickle Smashers,Kristy Kohl,Ariana Vicari,Amy Stehlin,Carla Robinson,16,14
-17411,8,2025-10-09,LAWN Dink Responsibly,LJ Pickle Smashers,Jennifer Nichols,Katherine Paige Givan,Cary Scully,Bee Baker,4,15
-17411,9,2025-10-09,LAWN Dink Responsibly,LJ Pickle Smashers,Angel A Simpson,Ashleigh Miller,Anette Schmidt,Patti Hartman,9,15
-17452,1,2025-10-23,HPCC Big Dink Energy,LJ Pickle Smashers,Katie Rowell,Sarah Howell,Bee Baker,Skyler Bass,15,7
-17452,2,2025-10-23,HPCC Big Dink Energy,LJ Pickle Smashers,Amy Robinson,Juliet A Booe,Amy Stehlin,Anette Schmidt,15,10
-17452,3,2025-10-23,HPCC Big Dink Energy,LJ Pickle Smashers,Kissie Stroup,Stephanie Ross,Cary Scully,Sharen Thompson,15,2
-17452,4,2025-10-23,HPCC Big Dink Energy,LJ Pickle Smashers,Katie Rowell,Sarah Howell,Amy Stehlin,Anette Schmidt,15,9
-17452,5,2025-10-23,HPCC Big Dink Energy,LJ Pickle Smashers,Amy Robinson,Juliet A Booe,Cary Scully,Sharen Thompson,15,6
-17452,6,2025-10-23,HPCC Big Dink Energy,LJ Pickle Smashers,Kissie Stroup,Stephanie Ross,Bee Baker,Skyler Bass,15,6
-17452,7,2025-10-23,HPCC Big Dink Energy,LJ Pickle Smashers,Katie Rowell,Sarah Howell,Cary Scully,Sharen Thompson,15,1
-17452,8,2025-10-23,HPCC Big Dink Energy,LJ Pickle Smashers,Amy Robinson,Juliet A Booe,Bee Baker,Skyler Bass,15,13
-17452,9,2025-10-23,HPCC Big Dink Energy,LJ Pickle Smashers,Kissie Stroup,Stephanie Ross,Amy Stehlin,Anette Schmidt,15,10
-17453,1,2025-10-23,BUR The Dink Side,PINE Big Dills,Denise Carter,Kelly Hassell,Lisa Ann Rancer,Linda Stefanick,15,8
-17453,2,2025-10-23,BUR The Dink Side,PINE Big Dills,Adele Fulcher,Kennedy Norris,Carly Davis,Jenny Weston,15,11
-17453,3,2025-10-23,BUR The Dink Side,PINE Big Dills,Jackie Morelli,Nikole Daigle,Amy Teoh,Janelle Krueger,15,5
-17453,4,2025-10-23,BUR The Dink Side,PINE Big Dills,Denise Carter,Kelly Hassell,Carly Davis,Jenny Weston,13,15
-17453,5,2025-10-23,BUR The Dink Side,PINE Big Dills,Adele Fulcher,Kennedy Norris,Amy Teoh,Janelle Krueger,15,12
-17453,6,2025-10-23,BUR The Dink Side,PINE Big Dills,Jackie Morelli,Nikole Daigle,Lisa Ann Rancer,Linda Stefanick,15,5
-17453,7,2025-10-23,BUR The Dink Side,PINE Big Dills,Denise Carter,Kelly Hassell,Amy Teoh,Janelle Krueger,15,7
-17453,8,2025-10-23,BUR The Dink Side,PINE Big Dills,Adele Fulcher,Kennedy Norris,Lisa Ann Rancer,Linda Stefanick,14,16
-17453,9,2025-10-23,BUR The Dink Side,PINE Big Dills,Jackie Morelli,Nikole Daigle,Carly Davis,Jenny Weston,15,13
-17467,1,2025-11-01,HPCC Big Dink Energy,BUR The Dink Side,Sarah Howell,Katie Rowell,Jackie Morelli,Nikole Daigle,15,6
-17467,2,2025-11-01,HPCC Big Dink Energy,BUR The Dink Side,Sara Strassell,Kissie Stroup,Kennedy Norris,Adele Fulcher,15,3
-17467,3,2025-11-01,HPCC Big Dink Energy,BUR The Dink Side,Lee Nunn,Amy Robinson,Anja Hoyt,Sandy Elizabeth Meister,15,13
-17467,4,2025-11-01,HPCC Big Dink Energy,BUR The Dink Side,Sarah Howell,Katie Rowell,Kennedy Norris,Adele Fulcher,15,4
-17467,5,2025-11-01,HPCC Big Dink Energy,BUR The Dink Side,Sara Strassell,Kissie Stroup,Anja Hoyt,Sandy Elizabeth Meister,15,5
-17467,6,2025-11-01,HPCC Big Dink Energy,BUR The Dink Side,Lee Nunn,Amy Robinson,Jackie Morelli,Nikole Daigle,15,7
-17467,7,2025-11-01,HPCC Big Dink Energy,BUR The Dink Side,Sarah Howell,Katie Rowell,Anja Hoyt,Sandy Elizabeth Meister,15,2
-17467,8,2025-11-01,HPCC Big Dink Energy,BUR The Dink Side,Sara Strassell,Kissie Stroup,Jackie Morelli,Nikole Daigle,15,4
-17467,9,2025-11-01,HPCC Big Dink Energy,BUR The Dink Side,Lee Nunn,Amy Robinson,Kennedy Norris,Adele Fulcher,14,16
+match_id,game_id,match_date,league,season,skill_level,age,gender,team1_name,team2_name,partner1,partner2,opponent1,opponent2,team1_points,team2_points
+17247,1,2025-08-21,triad,fall2025,highintermediate,18,women,STAR Starmount Picklers,PINE Big Dills,Angie Payseur,Jill Marie Fisher,Jenny Weston,Lisa Ann Rancer,11,15
+17247,2,2025-08-21,triad,fall2025,highintermediate,18,women,STAR Starmount Picklers,PINE Big Dills,Annetta Bartle,Krista Pressley,Jamie Peterson,Linda Stefanick,13,15
+17247,3,2025-08-21,triad,fall2025,highintermediate,18,women,STAR Starmount Picklers,PINE Big Dills,Joanna R Delman,Cindy Hawkes,Janelle Krueger,Amy Teoh,7,15
+17247,4,2025-08-21,triad,fall2025,highintermediate,18,women,STAR Starmount Picklers,PINE Big Dills,Angie Payseur,Jill Marie Fisher,Jamie Peterson,Linda Stefanick,15,17
+17247,5,2025-08-21,triad,fall2025,highintermediate,18,women,STAR Starmount Picklers,PINE Big Dills,Annetta Bartle,Krista Pressley,Janelle Krueger,Amy Teoh,7,15
+17247,6,2025-08-21,triad,fall2025,highintermediate,18,women,STAR Starmount Picklers,PINE Big Dills,Joanna R Delman,Cindy Hawkes,Jenny Weston,Lisa Ann Rancer,9,15
+17247,7,2025-08-21,triad,fall2025,highintermediate,18,women,STAR Starmount Picklers,PINE Big Dills,Angie Payseur,Jill Marie Fisher,Janelle Krueger,Amy Teoh,15,8
+17247,8,2025-08-21,triad,fall2025,highintermediate,18,women,STAR Starmount Picklers,PINE Big Dills,Annetta Bartle,Krista Pressley,Jenny Weston,Lisa Ann Rancer,6,15
+17247,9,2025-08-21,triad,fall2025,highintermediate,18,women,STAR Starmount Picklers,PINE Big Dills,Joanna R Delman,Cindy Hawkes,Jamie Peterson,Linda Stefanick,7,15
+17248,1,2025-08-21,triad,fall2025,highintermediate,18,women,LJ Pickle Smashers,BUR The Dink Side,Sharen Thompson,Amy Stehlin,Donna DeRoo,Nikole Daigle,5,15
+17248,2,2025-08-21,triad,fall2025,highintermediate,18,women,LJ Pickle Smashers,BUR The Dink Side,Cary Scully,Sheri Cram,Sandy Elizabeth Meister,Anja Hoyt,12,15
+17248,3,2025-08-21,triad,fall2025,highintermediate,18,women,LJ Pickle Smashers,BUR The Dink Side,Kim Murray,Bee Baker,Kennedy Norris,Adele Fulcher,15,17
+17248,4,2025-08-21,triad,fall2025,highintermediate,18,women,LJ Pickle Smashers,BUR The Dink Side,Sharen Thompson,Amy Stehlin,Sandy Elizabeth Meister,Anja Hoyt,12,15
+17248,5,2025-08-21,triad,fall2025,highintermediate,18,women,LJ Pickle Smashers,BUR The Dink Side,Cary Scully,Sheri Cram,Kennedy Norris,Adele Fulcher,10,15
+17248,6,2025-08-21,triad,fall2025,highintermediate,18,women,LJ Pickle Smashers,BUR The Dink Side,Kim Murray,Bee Baker,Donna DeRoo,Nikole Daigle,15,5
+17248,7,2025-08-21,triad,fall2025,highintermediate,18,women,LJ Pickle Smashers,BUR The Dink Side,Sharen Thompson,Amy Stehlin,Kennedy Norris,Adele Fulcher,15,17
+17248,8,2025-08-21,triad,fall2025,highintermediate,18,women,LJ Pickle Smashers,BUR The Dink Side,Cary Scully,Sheri Cram,Donna DeRoo,Nikole Daigle,15,17
+17248,9,2025-08-21,triad,fall2025,highintermediate,18,women,LJ Pickle Smashers,BUR The Dink Side,Kim Murray,Bee Baker,Sandy Elizabeth Meister,Anja Hoyt,14,16
+17249,1,2025-08-21,triad,fall2025,highintermediate,18,women,BUR Picklebacks,LJ Designated Dinkers,Susan C Call,Christi Cain,Blair Barnett,Dixie Culver,11,15
+17249,2,2025-08-21,triad,fall2025,highintermediate,18,women,BUR Picklebacks,LJ Designated Dinkers,Jency Wells,Sienna Leigh Achterberg,Leanne Rosenbower,Lora Wentz,3,15
+17249,3,2025-08-21,triad,fall2025,highintermediate,18,women,BUR Picklebacks,LJ Designated Dinkers,Piper Lehlbach,Carrie Coe,Diane Majestic,Karen Robinson,15,7
+17249,4,2025-08-21,triad,fall2025,highintermediate,18,women,BUR Picklebacks,LJ Designated Dinkers,Susan C Call,Christi Cain,Leanne Rosenbower,Lora Wentz,13,15
+17249,5,2025-08-21,triad,fall2025,highintermediate,18,women,BUR Picklebacks,LJ Designated Dinkers,Jency Wells,Sienna Leigh Achterberg,Diane Majestic,Karen Robinson,12,15
+17249,6,2025-08-21,triad,fall2025,highintermediate,18,women,BUR Picklebacks,LJ Designated Dinkers,Piper Lehlbach,Carrie Coe,Blair Barnett,Dixie Culver,9,15
+17249,7,2025-08-21,triad,fall2025,highintermediate,18,women,BUR Picklebacks,LJ Designated Dinkers,Susan C Call,Christi Cain,Diane Majestic,Karen Robinson,13,15
+17249,8,2025-08-21,triad,fall2025,highintermediate,18,women,BUR Picklebacks,LJ Designated Dinkers,Jency Wells,Sienna Leigh Achterberg,Blair Barnett,Dixie Culver,0,15
+17249,9,2025-08-21,triad,fall2025,highintermediate,18,women,BUR Picklebacks,LJ Designated Dinkers,Piper Lehlbach,Carrie Coe,Leanne Rosenbower,Lora Wentz,6,15
+17250,1,2025-08-21,triad,fall2025,highintermediate,18,women,HPCC Big Dink Energy,LAWN Dink Responsibly,Sara Strassell,Sarah Howell,Ariana Vicari,Kristy Kohl,15,7
+17250,2,2025-08-21,triad,fall2025,highintermediate,18,women,HPCC Big Dink Energy,LAWN Dink Responsibly,Lee Nunn,Katie Rowell,Jennifer Nichols,Kate Shimansky,15,2
+17250,3,2025-08-21,triad,fall2025,highintermediate,18,women,HPCC Big Dink Energy,LAWN Dink Responsibly,Stephanie Ross,Christine Schermerhorn,Ashleigh Miller,Katherine Paige Givan,15,1
+17250,4,2025-08-21,triad,fall2025,highintermediate,18,women,HPCC Big Dink Energy,LAWN Dink Responsibly,Sara Strassell,Sarah Howell,Jennifer Nichols,Kate Shimansky,15,2
+17250,5,2025-08-21,triad,fall2025,highintermediate,18,women,HPCC Big Dink Energy,LAWN Dink Responsibly,Lee Nunn,Katie Rowell,Ashleigh Miller,Katherine Paige Givan,15,0
+17250,6,2025-08-21,triad,fall2025,highintermediate,18,women,HPCC Big Dink Energy,LAWN Dink Responsibly,Stephanie Ross,Christine Schermerhorn,Ariana Vicari,Kristy Kohl,15,11
+17250,7,2025-08-21,triad,fall2025,highintermediate,18,women,HPCC Big Dink Energy,LAWN Dink Responsibly,Sara Strassell,Sarah Howell,Ashleigh Miller,Katherine Paige Givan,15,0
+17250,8,2025-08-21,triad,fall2025,highintermediate,18,women,HPCC Big Dink Energy,LAWN Dink Responsibly,Lee Nunn,Katie Rowell,Ariana Vicari,Kristy Kohl,15,6
+17250,9,2025-08-21,triad,fall2025,highintermediate,18,women,HPCC Big Dink Energy,LAWN Dink Responsibly,Stephanie Ross,Christine Schermerhorn,Jennifer Nichols,Kate Shimansky,15,3
+17277,1,2025-09-04,triad,fall2025,highintermediate,18,women,LJ Designated Dinkers,STAR Starmount Picklers,Blair Barnett,Dixie Culver,Annetta Bartle,Caroline Bartle,15,4
+17277,2,2025-09-04,triad,fall2025,highintermediate,18,women,LJ Designated Dinkers,STAR Starmount Picklers,Carolyn Smith,Karen Robinson,Angie Payseur,Jill Marie Fisher,15,12
+17277,3,2025-09-04,triad,fall2025,highintermediate,18,women,LJ Designated Dinkers,STAR Starmount Picklers,Cynthia Livengood,Leanne Rosenbower,Cindy Hawkes,Emily Wilson,15,11
+17277,4,2025-09-04,triad,fall2025,highintermediate,18,women,LJ Designated Dinkers,STAR Starmount Picklers,Blair Barnett,Dixie Culver,Angie Payseur,Jill Marie Fisher,15,11
+17277,5,2025-09-04,triad,fall2025,highintermediate,18,women,LJ Designated Dinkers,STAR Starmount Picklers,Carolyn Smith,Karen Robinson,Cindy Hawkes,Emily Wilson,15,12
+17277,6,2025-09-04,triad,fall2025,highintermediate,18,women,LJ Designated Dinkers,STAR Starmount Picklers,Cynthia Livengood,Leanne Rosenbower,Annetta Bartle,Caroline Bartle,16,14
+17277,7,2025-09-04,triad,fall2025,highintermediate,18,women,LJ Designated Dinkers,STAR Starmount Picklers,Blair Barnett,Dixie Culver,Cindy Hawkes,Emily Wilson,15,5
+17277,8,2025-09-04,triad,fall2025,highintermediate,18,women,LJ Designated Dinkers,STAR Starmount Picklers,Carolyn Smith,Karen Robinson,Annetta Bartle,Caroline Bartle,10,15
+17277,9,2025-09-04,triad,fall2025,highintermediate,18,women,LJ Designated Dinkers,STAR Starmount Picklers,Cynthia Livengood,Leanne Rosenbower,Angie Payseur,Jill Marie Fisher,15,4
+17278,1,2025-09-04,triad,fall2025,highintermediate,18,women,BUR The Dink Side,PINE Big Dills,Rachel Mills,Denise Carter,Carly Davis,Jenny Weston,13,15
+17278,2,2025-09-04,triad,fall2025,highintermediate,18,women,BUR The Dink Side,PINE Big Dills,Donna DeRoo,Anja Hoyt,Amy Teoh,Janelle Krueger,15,8
+17278,3,2025-09-04,triad,fall2025,highintermediate,18,women,BUR The Dink Side,PINE Big Dills,Kennedy Norris,Adele Fulcher,Lori Harrington,Jamie Peterson,15,8
+17278,4,2025-09-04,triad,fall2025,highintermediate,18,women,BUR The Dink Side,PINE Big Dills,Rachel Mills,Denise Carter,Amy Teoh,Janelle Krueger,15,4
+17278,5,2025-09-04,triad,fall2025,highintermediate,18,women,BUR The Dink Side,PINE Big Dills,Donna DeRoo,Anja Hoyt,Lori Harrington,Jamie Peterson,8,15
+17278,6,2025-09-04,triad,fall2025,highintermediate,18,women,BUR The Dink Side,PINE Big Dills,Kennedy Norris,Adele Fulcher,Carly Davis,Jenny Weston,15,13
+17278,7,2025-09-04,triad,fall2025,highintermediate,18,women,BUR The Dink Side,PINE Big Dills,Rachel Mills,Denise Carter,Lori Harrington,Jamie Peterson,15,10
+17278,8,2025-09-04,triad,fall2025,highintermediate,18,women,BUR The Dink Side,PINE Big Dills,Donna DeRoo,Anja Hoyt,Carly Davis,Jenny Weston,4,15
+17278,9,2025-09-04,triad,fall2025,highintermediate,18,women,BUR The Dink Side,PINE Big Dills,Kennedy Norris,Adele Fulcher,Amy Teoh,Janelle Krueger,15,0
+17279,1,2025-09-04,triad,fall2025,highintermediate,18,women,HPCC Big Dink Energy,LJ Pickle Smashers,Katie Rowell,Sara Strassell,Sheri Chamberlin,Amy Stehlin,15,2
+17279,2,2025-09-04,triad,fall2025,highintermediate,18,women,HPCC Big Dink Energy,LJ Pickle Smashers,Alyce Warden,Amy Robinson,Sheri Cram,Cary Scully,15,5
+17279,3,2025-09-04,triad,fall2025,highintermediate,18,women,HPCC Big Dink Energy,LJ Pickle Smashers,Sarah Howell,Stephanie Ross,Anette Schmidt,Karen D Smith,15,2
+17279,4,2025-09-04,triad,fall2025,highintermediate,18,women,HPCC Big Dink Energy,LJ Pickle Smashers,Katie Rowell,Sara Strassell,Sheri Cram,Cary Scully,15,4
+17279,5,2025-09-04,triad,fall2025,highintermediate,18,women,HPCC Big Dink Energy,LJ Pickle Smashers,Alyce Warden,Amy Robinson,Anette Schmidt,Karen D Smith,15,5
+17279,6,2025-09-04,triad,fall2025,highintermediate,18,women,HPCC Big Dink Energy,LJ Pickle Smashers,Sarah Howell,Stephanie Ross,Sheri Chamberlin,Amy Stehlin,15,2
+17279,7,2025-09-04,triad,fall2025,highintermediate,18,women,HPCC Big Dink Energy,LJ Pickle Smashers,Katie Rowell,Sara Strassell,Anette Schmidt,Karen D Smith,15,5
+17279,8,2025-09-04,triad,fall2025,highintermediate,18,women,HPCC Big Dink Energy,LJ Pickle Smashers,Alyce Warden,Amy Robinson,Sheri Chamberlin,Amy Stehlin,11,15
+17279,9,2025-09-04,triad,fall2025,highintermediate,18,women,HPCC Big Dink Energy,LJ Pickle Smashers,Sarah Howell,Stephanie Ross,Sheri Cram,Cary Scully,15,5
+17280,1,2025-09-10,triad,fall2025,highintermediate,18,women,LAWN Dink Responsibly,BUR Picklebacks,Kristy Kohl,Ariana Vicari,Susan C Call,Jency Wells,15,5
+17280,2,2025-09-10,triad,fall2025,highintermediate,18,women,LAWN Dink Responsibly,BUR Picklebacks,Jennifer Nichols,Katherine Paige Givan,Jane Gluf,Rhyssa Earley,12,15
+17280,3,2025-09-10,triad,fall2025,highintermediate,18,women,LAWN Dink Responsibly,BUR Picklebacks,Kate Shimansky,Angel A Simpson,Christi Cain,Cindi Caudle Watts,3,15
+17280,4,2025-09-10,triad,fall2025,highintermediate,18,women,LAWN Dink Responsibly,BUR Picklebacks,Kristy Kohl,Ariana Vicari,Jane Gluf,Rhyssa Earley,15,4
+17280,5,2025-09-10,triad,fall2025,highintermediate,18,women,LAWN Dink Responsibly,BUR Picklebacks,Jennifer Nichols,Katherine Paige Givan,Christi Cain,Cindi Caudle Watts,13,15
+17280,6,2025-09-10,triad,fall2025,highintermediate,18,women,LAWN Dink Responsibly,BUR Picklebacks,Kate Shimansky,Angel A Simpson,Susan C Call,Jency Wells,15,13
+17280,7,2025-09-10,triad,fall2025,highintermediate,18,women,LAWN Dink Responsibly,BUR Picklebacks,Kristy Kohl,Ariana Vicari,Christi Cain,Cindi Caudle Watts,15,9
+17280,8,2025-09-10,triad,fall2025,highintermediate,18,women,LAWN Dink Responsibly,BUR Picklebacks,Jennifer Nichols,Katherine Paige Givan,Susan C Call,Jency Wells,15,10
+17280,9,2025-09-10,triad,fall2025,highintermediate,18,women,LAWN Dink Responsibly,BUR Picklebacks,Kate Shimansky,Angel A Simpson,Jane Gluf,Rhyssa Earley,6,15
+17303,1,2025-09-11,triad,fall2025,highintermediate,18,women,STAR Starmount Picklers,HPCC Big Dink Energy,Jill Marie Fisher,Federica Antolini,Sarah Howell,Katie Rowell,4,15
+17303,2,2025-09-11,triad,fall2025,highintermediate,18,women,STAR Starmount Picklers,HPCC Big Dink Energy,Angie Payseur,Krista Pressley,Sara Strassell,Kissie Stroup,0,15
+17303,3,2025-09-11,triad,fall2025,highintermediate,18,women,STAR Starmount Picklers,HPCC Big Dink Energy,Caylin Prillaman,Kimberly Halsey,Christine Schermerhorn,Stephanie Ross,15,11
+17303,4,2025-09-11,triad,fall2025,highintermediate,18,women,STAR Starmount Picklers,HPCC Big Dink Energy,Jill Marie Fisher,Federica Antolini,Sara Strassell,Kissie Stroup,7,15
+17303,5,2025-09-11,triad,fall2025,highintermediate,18,women,STAR Starmount Picklers,HPCC Big Dink Energy,Angie Payseur,Krista Pressley,Christine Schermerhorn,Stephanie Ross,1,15
+17303,6,2025-09-11,triad,fall2025,highintermediate,18,women,STAR Starmount Picklers,HPCC Big Dink Energy,Caylin Prillaman,Kimberly Halsey,Sarah Howell,Katie Rowell,2,15
+17303,7,2025-09-11,triad,fall2025,highintermediate,18,women,STAR Starmount Picklers,HPCC Big Dink Energy,Jill Marie Fisher,Federica Antolini,Christine Schermerhorn,Stephanie Ross,7,15
+17303,8,2025-09-11,triad,fall2025,highintermediate,18,women,STAR Starmount Picklers,HPCC Big Dink Energy,Angie Payseur,Krista Pressley,Sarah Howell,Katie Rowell,6,15
+17303,9,2025-09-11,triad,fall2025,highintermediate,18,women,STAR Starmount Picklers,HPCC Big Dink Energy,Caylin Prillaman,Kimberly Halsey,Sara Strassell,Kissie Stroup,5,15
+17304,1,2025-09-11,triad,fall2025,highintermediate,18,women,LJ Designated Dinkers,LAWN Dink Responsibly,Cynthia Livengood,Leanne Rosenbower,Kristy Kohl,Ariana Vicari,12,15
+17304,2,2025-09-11,triad,fall2025,highintermediate,18,women,LJ Designated Dinkers,LAWN Dink Responsibly,Carolyn Smith,Catherine Bell Flannery,Jennifer Nichols,Katherine Paige Givan,15,12
+17304,3,2025-09-11,triad,fall2025,highintermediate,18,women,LJ Designated Dinkers,LAWN Dink Responsibly,Kelly Smith,Andrea Shafer,Kate Shimansky,Angel A Simpson,10,15
+17304,4,2025-09-11,triad,fall2025,highintermediate,18,women,LJ Designated Dinkers,LAWN Dink Responsibly,Cynthia Livengood,Leanne Rosenbower,Jennifer Nichols,Katherine Paige Givan,15,3
+17304,5,2025-09-11,triad,fall2025,highintermediate,18,women,LJ Designated Dinkers,LAWN Dink Responsibly,Carolyn Smith,Catherine Bell Flannery,Kate Shimansky,Angel A Simpson,15,5
+17304,6,2025-09-11,triad,fall2025,highintermediate,18,women,LJ Designated Dinkers,LAWN Dink Responsibly,Kelly Smith,Andrea Shafer,Kristy Kohl,Ariana Vicari,7,15
+17304,7,2025-09-11,triad,fall2025,highintermediate,18,women,LJ Designated Dinkers,LAWN Dink Responsibly,Cynthia Livengood,Leanne Rosenbower,Kate Shimansky,Angel A Simpson,15,3
+17304,8,2025-09-11,triad,fall2025,highintermediate,18,women,LJ Designated Dinkers,LAWN Dink Responsibly,Carolyn Smith,Catherine Bell Flannery,Kristy Kohl,Ariana Vicari,15,5
+17304,9,2025-09-11,triad,fall2025,highintermediate,18,women,LJ Designated Dinkers,LAWN Dink Responsibly,Kelly Smith,Andrea Shafer,Jennifer Nichols,Katherine Paige Givan,15,11
+17305,1,2025-09-11,triad,fall2025,highintermediate,18,women,BUR Picklebacks,BUR The Dink Side,Piper Lehlbach,Carrie Coe,Kelly Hassell,Jackie Morelli,15,17
+17305,2,2025-09-11,triad,fall2025,highintermediate,18,women,BUR Picklebacks,BUR The Dink Side,Allyson Larson,Sienna Leigh Achterberg,Kennedy Norris,Adele Fulcher,3,15
+17305,3,2025-09-11,triad,fall2025,highintermediate,18,women,BUR Picklebacks,BUR The Dink Side,Jane Gluf,Christi Cain,Rachel Mills,Denise Carter,6,15
+17305,4,2025-09-11,triad,fall2025,highintermediate,18,women,BUR Picklebacks,BUR The Dink Side,Piper Lehlbach,Carrie Coe,Kennedy Norris,Adele Fulcher,10,15
+17305,5,2025-09-11,triad,fall2025,highintermediate,18,women,BUR Picklebacks,BUR The Dink Side,Allyson Larson,Sienna Leigh Achterberg,Rachel Mills,Denise Carter,9,15
+17305,6,2025-09-11,triad,fall2025,highintermediate,18,women,BUR Picklebacks,BUR The Dink Side,Jane Gluf,Christi Cain,Kelly Hassell,Jackie Morelli,6,15
+17305,7,2025-09-11,triad,fall2025,highintermediate,18,women,BUR Picklebacks,BUR The Dink Side,Piper Lehlbach,Carrie Coe,Rachel Mills,Denise Carter,9,15
+17305,8,2025-09-11,triad,fall2025,highintermediate,18,women,BUR Picklebacks,BUR The Dink Side,Allyson Larson,Sienna Leigh Achterberg,Kelly Hassell,Jackie Morelli,17,15
+17305,9,2025-09-11,triad,fall2025,highintermediate,18,women,BUR Picklebacks,BUR The Dink Side,Jane Gluf,Christi Cain,Kennedy Norris,Adele Fulcher,7,15
+17306,1,2025-09-11,triad,fall2025,highintermediate,18,women,PINE Big Dills,LJ Pickle Smashers,Linda Stefanick,Lisa Ann Rancer,Anette Schmidt,Amy Stehlin,9,15
+17306,2,2025-09-11,triad,fall2025,highintermediate,18,women,PINE Big Dills,LJ Pickle Smashers,Carly Davis,Jenny Weston,Cary Scully,Sheri Cram,15,5
+17306,3,2025-09-11,triad,fall2025,highintermediate,18,women,PINE Big Dills,LJ Pickle Smashers,Amy Teoh,Janelle Krueger,Sharen Thompson,Kim Murray,15,13
+17306,4,2025-09-11,triad,fall2025,highintermediate,18,women,PINE Big Dills,LJ Pickle Smashers,Linda Stefanick,Lisa Ann Rancer,Cary Scully,Sheri Cram,10,15
+17306,5,2025-09-11,triad,fall2025,highintermediate,18,women,PINE Big Dills,LJ Pickle Smashers,Carly Davis,Jenny Weston,Sharen Thompson,Kim Murray,15,7
+17306,6,2025-09-11,triad,fall2025,highintermediate,18,women,PINE Big Dills,LJ Pickle Smashers,Amy Teoh,Janelle Krueger,Anette Schmidt,Amy Stehlin,5,15
+17306,7,2025-09-11,triad,fall2025,highintermediate,18,women,PINE Big Dills,LJ Pickle Smashers,Linda Stefanick,Lisa Ann Rancer,Sharen Thompson,Kim Murray,15,10
+17306,8,2025-09-11,triad,fall2025,highintermediate,18,women,PINE Big Dills,LJ Pickle Smashers,Carly Davis,Jenny Weston,Anette Schmidt,Amy Stehlin,15,8
+17306,9,2025-09-11,triad,fall2025,highintermediate,18,women,PINE Big Dills,LJ Pickle Smashers,Amy Teoh,Janelle Krueger,Cary Scully,Sheri Cram,13,15
+17329,1,2025-09-18,triad,fall2025,highintermediate,18,women,LJ Pickle Smashers,BUR Picklebacks,Skyler Bass,Bee Baker,Cathy Peden,Cindi Caudle Watts,15,8
+17329,2,2025-09-18,triad,fall2025,highintermediate,18,women,LJ Pickle Smashers,BUR Picklebacks,Cary Scully,Sheri Cram,Allyson Larson,Christi Cain,3,15
+17329,3,2025-09-18,triad,fall2025,highintermediate,18,women,LJ Pickle Smashers,BUR Picklebacks,Amy Stehlin,Christina Douglas,Jency Wells,Jane Gluf,15,11
+17329,4,2025-09-18,triad,fall2025,highintermediate,18,women,LJ Pickle Smashers,BUR Picklebacks,Skyler Bass,Bee Baker,Allyson Larson,Christi Cain,15,11
+17329,5,2025-09-18,triad,fall2025,highintermediate,18,women,LJ Pickle Smashers,BUR Picklebacks,Cary Scully,Sheri Cram,Jency Wells,Jane Gluf,15,11
+17329,6,2025-09-18,triad,fall2025,highintermediate,18,women,LJ Pickle Smashers,BUR Picklebacks,Amy Stehlin,Christina Douglas,Cathy Peden,Cindi Caudle Watts,12,15
+17329,7,2025-09-18,triad,fall2025,highintermediate,18,women,LJ Pickle Smashers,BUR Picklebacks,Skyler Bass,Bee Baker,Jency Wells,Jane Gluf,17,15
+17329,8,2025-09-18,triad,fall2025,highintermediate,18,women,LJ Pickle Smashers,BUR Picklebacks,Cary Scully,Sheri Cram,Cathy Peden,Cindi Caudle Watts,13,15
+17329,9,2025-09-18,triad,fall2025,highintermediate,18,women,LJ Pickle Smashers,BUR Picklebacks,Amy Stehlin,Christina Douglas,Allyson Larson,Christi Cain,7,15
+17330,1,2025-09-18,triad,fall2025,highintermediate,18,women,BUR The Dink Side,STAR Starmount Picklers,Donna DeRoo,Kelly Hassell,Joanna R Delman,Federica Antolini,10,15
+17330,2,2025-09-18,triad,fall2025,highintermediate,18,women,BUR The Dink Side,STAR Starmount Picklers,Jackie Morelli,Nikole Daigle,Caylin Prillaman,Krista Pressley,15,1
+17330,3,2025-09-18,triad,fall2025,highintermediate,18,women,BUR The Dink Side,STAR Starmount Picklers,Anja Hoyt,Sandy Elizabeth Meister,Annetta Bartle,Caroline Bartle,15,4
+17330,4,2025-09-18,triad,fall2025,highintermediate,18,women,BUR The Dink Side,STAR Starmount Picklers,Donna DeRoo,Kelly Hassell,Caylin Prillaman,Krista Pressley,15,11
+17330,5,2025-09-18,triad,fall2025,highintermediate,18,women,BUR The Dink Side,STAR Starmount Picklers,Jackie Morelli,Nikole Daigle,Annetta Bartle,Caroline Bartle,15,7
+17330,6,2025-09-18,triad,fall2025,highintermediate,18,women,BUR The Dink Side,STAR Starmount Picklers,Anja Hoyt,Sandy Elizabeth Meister,Joanna R Delman,Federica Antolini,10,15
+17330,7,2025-09-18,triad,fall2025,highintermediate,18,women,BUR The Dink Side,STAR Starmount Picklers,Donna DeRoo,Kelly Hassell,Annetta Bartle,Caroline Bartle,11,15
+17330,8,2025-09-18,triad,fall2025,highintermediate,18,women,BUR The Dink Side,STAR Starmount Picklers,Jackie Morelli,Nikole Daigle,Joanna R Delman,Federica Antolini,8,15
+17330,9,2025-09-18,triad,fall2025,highintermediate,18,women,BUR The Dink Side,STAR Starmount Picklers,Anja Hoyt,Sandy Elizabeth Meister,Caylin Prillaman,Krista Pressley,15,12
+17331,1,2025-09-18,triad,fall2025,highintermediate,18,women,HPCC Big Dink Energy,LJ Designated Dinkers,Katie Rowell,Sarah Howell,Lora Wentz,Lynette Paley,15,7
+17331,2,2025-09-18,triad,fall2025,highintermediate,18,women,HPCC Big Dink Energy,LJ Designated Dinkers,Amy Robinson,Kissie Stroup,Dixie Culver,Karen Robinson,15,10
+17331,3,2025-09-18,triad,fall2025,highintermediate,18,women,HPCC Big Dink Energy,LJ Designated Dinkers,Juliet A Booe,MooMoo Councill,Andrea Shafer,Kelly Smith,15,5
+17331,4,2025-09-18,triad,fall2025,highintermediate,18,women,HPCC Big Dink Energy,LJ Designated Dinkers,Katie Rowell,Sarah Howell,Dixie Culver,Karen Robinson,15,1
+17331,5,2025-09-18,triad,fall2025,highintermediate,18,women,HPCC Big Dink Energy,LJ Designated Dinkers,Amy Robinson,Kissie Stroup,Andrea Shafer,Kelly Smith,15,9
+17331,6,2025-09-18,triad,fall2025,highintermediate,18,women,HPCC Big Dink Energy,LJ Designated Dinkers,Juliet A Booe,MooMoo Councill,Lora Wentz,Lynette Paley,6,15
+17331,7,2025-09-18,triad,fall2025,highintermediate,18,women,HPCC Big Dink Energy,LJ Designated Dinkers,Katie Rowell,Sarah Howell,Andrea Shafer,Kelly Smith,15,0
+17331,8,2025-09-18,triad,fall2025,highintermediate,18,women,HPCC Big Dink Energy,LJ Designated Dinkers,Amy Robinson,Kissie Stroup,Lora Wentz,Lynette Paley,15,9
+17331,9,2025-09-18,triad,fall2025,highintermediate,18,women,HPCC Big Dink Energy,LJ Designated Dinkers,Juliet A Booe,MooMoo Councill,Dixie Culver,Karen Robinson,8,15
+17332,1,2025-09-18,triad,fall2025,highintermediate,18,women,LAWN Dink Responsibly,PINE Big Dills,Kristy Kohl,Ashleigh Miller,Lisa Ann Rancer,Jamie Peterson,10,15
+17332,2,2025-09-18,triad,fall2025,highintermediate,18,women,LAWN Dink Responsibly,PINE Big Dills,Jennifer Nichols,Katherine Paige Givan,Carly Davis,Jenny Weston,14,16
+17332,3,2025-09-18,triad,fall2025,highintermediate,18,women,LAWN Dink Responsibly,PINE Big Dills,Kate Shimansky,Angel A Simpson,Amy Teoh,Janelle Krueger,15,12
+17332,4,2025-09-18,triad,fall2025,highintermediate,18,women,LAWN Dink Responsibly,PINE Big Dills,Kristy Kohl,Ashleigh Miller,Carly Davis,Jenny Weston,1,15
+17332,5,2025-09-18,triad,fall2025,highintermediate,18,women,LAWN Dink Responsibly,PINE Big Dills,Jennifer Nichols,Katherine Paige Givan,Amy Teoh,Janelle Krueger,6,15
+17332,6,2025-09-18,triad,fall2025,highintermediate,18,women,LAWN Dink Responsibly,PINE Big Dills,Kate Shimansky,Angel A Simpson,Lisa Ann Rancer,Jamie Peterson,6,15
+17332,7,2025-09-18,triad,fall2025,highintermediate,18,women,LAWN Dink Responsibly,PINE Big Dills,Kristy Kohl,Ashleigh Miller,Amy Teoh,Janelle Krueger,8,15
+17332,8,2025-09-18,triad,fall2025,highintermediate,18,women,LAWN Dink Responsibly,PINE Big Dills,Jennifer Nichols,Katherine Paige Givan,Lisa Ann Rancer,Jamie Peterson,14,16
+17332,9,2025-09-18,triad,fall2025,highintermediate,18,women,LAWN Dink Responsibly,PINE Big Dills,Kate Shimansky,Angel A Simpson,Carly Davis,Jenny Weston,4,15
+17354,1,2025-09-25,triad,fall2025,highintermediate,18,women,LJ Pickle Smashers,STAR Starmount Picklers,Sheri Chamberlin,Anette Schmidt,Federica Antolini,Kimberly Halsey,8,15
+17354,2,2025-09-25,triad,fall2025,highintermediate,18,women,LJ Pickle Smashers,STAR Starmount Picklers,Bee Baker,Carla Robinson,Jill Marie Fisher,Caroline Bartle,5,15
+17354,3,2025-09-25,triad,fall2025,highintermediate,18,women,LJ Pickle Smashers,STAR Starmount Picklers,Amy Stehlin,Penny Graves,Angie Payseur,Caylin Prillaman,15,5
+17354,4,2025-09-25,triad,fall2025,highintermediate,18,women,LJ Pickle Smashers,STAR Starmount Picklers,Sheri Chamberlin,Anette Schmidt,Jill Marie Fisher,Caroline Bartle,11,15
+17354,5,2025-09-25,triad,fall2025,highintermediate,18,women,LJ Pickle Smashers,STAR Starmount Picklers,Bee Baker,Carla Robinson,Angie Payseur,Caylin Prillaman,8,15
+17354,6,2025-09-25,triad,fall2025,highintermediate,18,women,LJ Pickle Smashers,STAR Starmount Picklers,Amy Stehlin,Penny Graves,Federica Antolini,Kimberly Halsey,4,15
+17354,7,2025-09-25,triad,fall2025,highintermediate,18,women,LJ Pickle Smashers,STAR Starmount Picklers,Sheri Chamberlin,Anette Schmidt,Angie Payseur,Caylin Prillaman,15,12
+17354,8,2025-09-25,triad,fall2025,highintermediate,18,women,LJ Pickle Smashers,STAR Starmount Picklers,Bee Baker,Carla Robinson,Federica Antolini,Kimberly Halsey,13,15
+17354,9,2025-09-25,triad,fall2025,highintermediate,18,women,LJ Pickle Smashers,STAR Starmount Picklers,Amy Stehlin,Penny Graves,Jill Marie Fisher,Caroline Bartle,2,15
+17355,1,2025-09-25,triad,fall2025,highintermediate,18,women,BUR Picklebacks,HPCC Big Dink Energy,Piper Lehlbach,Carrie Coe,Sarah Howell,Kissie Stroup,6,15
+17355,2,2025-09-25,triad,fall2025,highintermediate,18,women,BUR Picklebacks,HPCC Big Dink Energy,Jency Wells,Jane Gluf,Amy Robinson,Juliet A Booe,2,15
+17355,3,2025-09-25,triad,fall2025,highintermediate,18,women,BUR Picklebacks,HPCC Big Dink Energy,Allyson Larson,Christi Cain,Alyce Warden,Christine Schermerhorn,16,14
+17355,4,2025-09-25,triad,fall2025,highintermediate,18,women,BUR Picklebacks,HPCC Big Dink Energy,Piper Lehlbach,Carrie Coe,Amy Robinson,Juliet A Booe,13,15
+17355,5,2025-09-25,triad,fall2025,highintermediate,18,women,BUR Picklebacks,HPCC Big Dink Energy,Jency Wells,Jane Gluf,Alyce Warden,Christine Schermerhorn,7,15
+17355,6,2025-09-25,triad,fall2025,highintermediate,18,women,BUR Picklebacks,HPCC Big Dink Energy,Allyson Larson,Christi Cain,Sarah Howell,Kissie Stroup,4,15
+17355,7,2025-09-25,triad,fall2025,highintermediate,18,women,BUR Picklebacks,HPCC Big Dink Energy,Piper Lehlbach,Carrie Coe,Alyce Warden,Christine Schermerhorn,8,15
+17355,8,2025-09-25,triad,fall2025,highintermediate,18,women,BUR Picklebacks,HPCC Big Dink Energy,Jency Wells,Jane Gluf,Sarah Howell,Kissie Stroup,5,15
+17355,9,2025-09-25,triad,fall2025,highintermediate,18,women,BUR Picklebacks,HPCC Big Dink Energy,Allyson Larson,Christi Cain,Amy Robinson,Juliet A Booe,15,8
+17356,1,2025-09-25,triad,fall2025,highintermediate,18,women,PINE Big Dills,LJ Designated Dinkers,Lisa Ann Rancer,Jamie Peterson,Dixie Culver,Blair Barnett,0,15
+17356,2,2025-09-25,triad,fall2025,highintermediate,18,women,PINE Big Dills,LJ Designated Dinkers,Carly Davis,Jenny Weston,Cynthia Livengood,Lynette Paley,15,8
+17356,3,2025-09-25,triad,fall2025,highintermediate,18,women,PINE Big Dills,LJ Designated Dinkers,Amy Teoh,Janelle Krueger,Carolyn Smith,Catherine Bell Flannery,15,10
+17356,4,2025-09-25,triad,fall2025,highintermediate,18,women,PINE Big Dills,LJ Designated Dinkers,Lisa Ann Rancer,Jamie Peterson,Cynthia Livengood,Lynette Paley,15,13
+17356,5,2025-09-25,triad,fall2025,highintermediate,18,women,PINE Big Dills,LJ Designated Dinkers,Carly Davis,Jenny Weston,Carolyn Smith,Catherine Bell Flannery,15,6
+17356,6,2025-09-25,triad,fall2025,highintermediate,18,women,PINE Big Dills,LJ Designated Dinkers,Amy Teoh,Janelle Krueger,Dixie Culver,Blair Barnett,6,15
+17356,7,2025-09-25,triad,fall2025,highintermediate,18,women,PINE Big Dills,LJ Designated Dinkers,Lisa Ann Rancer,Jamie Peterson,Carolyn Smith,Catherine Bell Flannery,15,3
+17356,8,2025-09-25,triad,fall2025,highintermediate,18,women,PINE Big Dills,LJ Designated Dinkers,Carly Davis,Jenny Weston,Dixie Culver,Blair Barnett,12,15
+17356,9,2025-09-25,triad,fall2025,highintermediate,18,women,PINE Big Dills,LJ Designated Dinkers,Amy Teoh,Janelle Krueger,Cynthia Livengood,Lynette Paley,7,15
+17357,1,2025-09-25,triad,fall2025,highintermediate,18,women,LAWN Dink Responsibly,BUR The Dink Side,Kristy Kohl,Ariana Vicari,Jackie Morelli,Nikole Daigle,6,15
+17357,2,2025-09-25,triad,fall2025,highintermediate,18,women,LAWN Dink Responsibly,BUR The Dink Side,Jennifer Nichols,Ashleigh Miller,Adele Fulcher,Donna DeRoo,8,15
+17357,3,2025-09-25,triad,fall2025,highintermediate,18,women,LAWN Dink Responsibly,BUR The Dink Side,Kate Shimansky,Angel A Simpson,Rachel Mills,Denise Carter,6,15
+17357,4,2025-09-25,triad,fall2025,highintermediate,18,women,LAWN Dink Responsibly,BUR The Dink Side,Kristy Kohl,Ariana Vicari,Adele Fulcher,Donna DeRoo,13,15
+17357,5,2025-09-25,triad,fall2025,highintermediate,18,women,LAWN Dink Responsibly,BUR The Dink Side,Jennifer Nichols,Ashleigh Miller,Rachel Mills,Denise Carter,6,15
+17357,6,2025-09-25,triad,fall2025,highintermediate,18,women,LAWN Dink Responsibly,BUR The Dink Side,Kate Shimansky,Angel A Simpson,Jackie Morelli,Nikole Daigle,6,15
+17357,7,2025-09-25,triad,fall2025,highintermediate,18,women,LAWN Dink Responsibly,BUR The Dink Side,Kristy Kohl,Ariana Vicari,Rachel Mills,Denise Carter,10,15
+17357,8,2025-09-25,triad,fall2025,highintermediate,18,women,LAWN Dink Responsibly,BUR The Dink Side,Jennifer Nichols,Ashleigh Miller,Jackie Morelli,Nikole Daigle,6,15
+17357,9,2025-09-25,triad,fall2025,highintermediate,18,women,LAWN Dink Responsibly,BUR The Dink Side,Kate Shimansky,Angel A Simpson,Adele Fulcher,Donna DeRoo,11,15
+17380,1,2025-09-30,triad,fall2025,highintermediate,18,women,STAR Starmount Picklers,LAWN Dink Responsibly,Krista Pressley,Jill Marie Fisher,Kristy Kohl,Ariana Vicari,14,16
+17380,2,2025-09-30,triad,fall2025,highintermediate,18,women,STAR Starmount Picklers,LAWN Dink Responsibly,Reeves Rhoten,Emily Wilson,Jennifer Nichols,Ashleigh Miller,15,4
+17380,3,2025-09-30,triad,fall2025,highintermediate,18,women,STAR Starmount Picklers,LAWN Dink Responsibly,Kimberly Halsey,Caylin Prillaman,Kate Shimansky,Angel A Simpson,15,7
+17380,4,2025-09-30,triad,fall2025,highintermediate,18,women,STAR Starmount Picklers,LAWN Dink Responsibly,Krista Pressley,Jill Marie Fisher,Jennifer Nichols,Ashleigh Miller,15,6
+17380,5,2025-09-30,triad,fall2025,highintermediate,18,women,STAR Starmount Picklers,LAWN Dink Responsibly,Reeves Rhoten,Emily Wilson,Kate Shimansky,Angel A Simpson,10,15
+17380,6,2025-09-30,triad,fall2025,highintermediate,18,women,STAR Starmount Picklers,LAWN Dink Responsibly,Kimberly Halsey,Caylin Prillaman,Kristy Kohl,Ariana Vicari,12,15
+17380,7,2025-09-30,triad,fall2025,highintermediate,18,women,STAR Starmount Picklers,LAWN Dink Responsibly,Krista Pressley,Jill Marie Fisher,Kate Shimansky,Angel A Simpson,15,9
+17380,8,2025-09-30,triad,fall2025,highintermediate,18,women,STAR Starmount Picklers,LAWN Dink Responsibly,Reeves Rhoten,Emily Wilson,Kristy Kohl,Ariana Vicari,2,15
+17380,9,2025-09-30,triad,fall2025,highintermediate,18,women,STAR Starmount Picklers,LAWN Dink Responsibly,Kimberly Halsey,Caylin Prillaman,Jennifer Nichols,Ashleigh Miller,10,15
+17381,1,2025-10-02,triad,fall2025,highintermediate,18,women,LJ Designated Dinkers,LJ Pickle Smashers,Dixie Culver,Blair Barnett,Skyler Bass,Bee Baker,15,17
+17381,2,2025-10-02,triad,fall2025,highintermediate,18,women,LJ Designated Dinkers,LJ Pickle Smashers,Andrea Shafer,Lynette Paley,Cary Scully,Sheri Cram,15,9
+17381,3,2025-10-02,triad,fall2025,highintermediate,18,women,LJ Designated Dinkers,LJ Pickle Smashers,Tonya Lomas,Catherine Bell Flannery,Amy Stehlin,Anette Schmidt,4,15
+17381,4,2025-10-02,triad,fall2025,highintermediate,18,women,LJ Designated Dinkers,LJ Pickle Smashers,Dixie Culver,Blair Barnett,Cary Scully,Sheri Cram,15,5
+17381,5,2025-10-02,triad,fall2025,highintermediate,18,women,LJ Designated Dinkers,LJ Pickle Smashers,Andrea Shafer,Lynette Paley,Amy Stehlin,Anette Schmidt,9,15
+17381,6,2025-10-02,triad,fall2025,highintermediate,18,women,LJ Designated Dinkers,LJ Pickle Smashers,Tonya Lomas,Catherine Bell Flannery,Skyler Bass,Bee Baker,6,15
+17381,7,2025-10-02,triad,fall2025,highintermediate,18,women,LJ Designated Dinkers,LJ Pickle Smashers,Dixie Culver,Blair Barnett,Amy Stehlin,Anette Schmidt,16,14
+17381,8,2025-10-02,triad,fall2025,highintermediate,18,women,LJ Designated Dinkers,LJ Pickle Smashers,Andrea Shafer,Lynette Paley,Skyler Bass,Bee Baker,1,15
+17381,9,2025-10-02,triad,fall2025,highintermediate,18,women,LJ Designated Dinkers,LJ Pickle Smashers,Tonya Lomas,Catherine Bell Flannery,Cary Scully,Sheri Cram,15,8
+17382,1,2025-10-02,triad,fall2025,highintermediate,18,women,BUR The Dink Side,HPCC Big Dink Energy,Kelly Hassell,Kennedy Norris,Sarah Howell,Katie Rowell,6,15
+17382,2,2025-10-02,triad,fall2025,highintermediate,18,women,BUR The Dink Side,HPCC Big Dink Energy,Donna DeRoo,Anja Hoyt,Sara Strassell,Kissie Stroup,3,15
+17382,3,2025-10-02,triad,fall2025,highintermediate,18,women,BUR The Dink Side,HPCC Big Dink Energy,Denise Carter,Rachel Mills,Juliet A Booe,Christine Schermerhorn,12,15
+17382,4,2025-10-02,triad,fall2025,highintermediate,18,women,BUR The Dink Side,HPCC Big Dink Energy,Kelly Hassell,Kennedy Norris,Sara Strassell,Kissie Stroup,5,15
+17382,5,2025-10-02,triad,fall2025,highintermediate,18,women,BUR The Dink Side,HPCC Big Dink Energy,Donna DeRoo,Anja Hoyt,Juliet A Booe,Christine Schermerhorn,4,15
+17382,6,2025-10-02,triad,fall2025,highintermediate,18,women,BUR The Dink Side,HPCC Big Dink Energy,Denise Carter,Rachel Mills,Sarah Howell,Katie Rowell,8,15
+17382,7,2025-10-02,triad,fall2025,highintermediate,18,women,BUR The Dink Side,HPCC Big Dink Energy,Kelly Hassell,Kennedy Norris,Juliet A Booe,Christine Schermerhorn,15,12
+17382,8,2025-10-02,triad,fall2025,highintermediate,18,women,BUR The Dink Side,HPCC Big Dink Energy,Donna DeRoo,Anja Hoyt,Sarah Howell,Katie Rowell,1,15
+17382,9,2025-10-02,triad,fall2025,highintermediate,18,women,BUR The Dink Side,HPCC Big Dink Energy,Denise Carter,Rachel Mills,Sara Strassell,Kissie Stroup,4,15
+17383,1,2025-10-02,triad,fall2025,highintermediate,18,women,PINE Big Dills,BUR Picklebacks,Linda Stefanick,Jamie Peterson,Cindi Caudle Watts,Cathy Peden,15,9
+17383,2,2025-10-02,triad,fall2025,highintermediate,18,women,PINE Big Dills,BUR Picklebacks,Carly Davis,Jenny Weston,Jane Gluf,Jency Wells,15,5
+17383,3,2025-10-02,triad,fall2025,highintermediate,18,women,PINE Big Dills,BUR Picklebacks,Janelle Krueger,Lisa Ann Rancer,Susan C Call,Christi Cain,7,15
+17383,4,2025-10-02,triad,fall2025,highintermediate,18,women,PINE Big Dills,BUR Picklebacks,Linda Stefanick,Jamie Peterson,Jane Gluf,Jency Wells,15,3
+17383,5,2025-10-02,triad,fall2025,highintermediate,18,women,PINE Big Dills,BUR Picklebacks,Carly Davis,Jenny Weston,Susan C Call,Christi Cain,15,11
+17383,6,2025-10-02,triad,fall2025,highintermediate,18,women,PINE Big Dills,BUR Picklebacks,Janelle Krueger,Lisa Ann Rancer,Cindi Caudle Watts,Cathy Peden,13,15
+17383,7,2025-10-02,triad,fall2025,highintermediate,18,women,PINE Big Dills,BUR Picklebacks,Linda Stefanick,Jamie Peterson,Susan C Call,Christi Cain,9,15
+17383,8,2025-10-02,triad,fall2025,highintermediate,18,women,PINE Big Dills,BUR Picklebacks,Carly Davis,Jenny Weston,Cindi Caudle Watts,Cathy Peden,15,5
+17383,9,2025-10-02,triad,fall2025,highintermediate,18,women,PINE Big Dills,BUR Picklebacks,Janelle Krueger,Lisa Ann Rancer,Jane Gluf,Jency Wells,7,15
+17408,1,2025-10-09,triad,fall2025,highintermediate,18,women,STAR Starmount Picklers,BUR Picklebacks,Cindy Hawkes,Jill Marie Fisher,Piper Lehlbach,Carrie Coe,15,8
+17408,2,2025-10-09,triad,fall2025,highintermediate,18,women,STAR Starmount Picklers,BUR Picklebacks,Angie Payseur,Annetta Bartle,Cindi Caudle Watts,Allyson Larson,15,11
+17408,3,2025-10-09,triad,fall2025,highintermediate,18,women,STAR Starmount Picklers,BUR Picklebacks,Kimberly Halsey,Emily Wilson,Susan C Call,Christi Cain,6,15
+17408,4,2025-10-09,triad,fall2025,highintermediate,18,women,STAR Starmount Picklers,BUR Picklebacks,Cindy Hawkes,Jill Marie Fisher,Cindi Caudle Watts,Allyson Larson,5,15
+17408,5,2025-10-09,triad,fall2025,highintermediate,18,women,STAR Starmount Picklers,BUR Picklebacks,Angie Payseur,Annetta Bartle,Susan C Call,Christi Cain,8,15
+17408,6,2025-10-09,triad,fall2025,highintermediate,18,women,STAR Starmount Picklers,BUR Picklebacks,Kimberly Halsey,Emily Wilson,Piper Lehlbach,Carrie Coe,7,15
+17408,7,2025-10-09,triad,fall2025,highintermediate,18,women,STAR Starmount Picklers,BUR Picklebacks,Cindy Hawkes,Jill Marie Fisher,Susan C Call,Christi Cain,15,12
+17408,8,2025-10-09,triad,fall2025,highintermediate,18,women,STAR Starmount Picklers,BUR Picklebacks,Angie Payseur,Annetta Bartle,Piper Lehlbach,Carrie Coe,15,10
+17408,9,2025-10-09,triad,fall2025,highintermediate,18,women,STAR Starmount Picklers,BUR Picklebacks,Kimberly Halsey,Emily Wilson,Cindi Caudle Watts,Allyson Larson,15,9
+17409,1,2025-10-09,triad,fall2025,highintermediate,18,women,LJ Designated Dinkers,BUR The Dink Side,Blair Barnett,Dixie Culver,Denise Carter,Rachel Mills,15,3
+17409,2,2025-10-09,triad,fall2025,highintermediate,18,women,LJ Designated Dinkers,BUR The Dink Side,Carolyn Smith,Kelly Smith,Kelly Hassell,Kennedy Norris,3,15
+17409,3,2025-10-09,triad,fall2025,highintermediate,18,women,LJ Designated Dinkers,BUR The Dink Side,Cynthia Livengood,Leanne Rosenbower,Jackie Morelli,Nikole Daigle,13,15
+17409,4,2025-10-09,triad,fall2025,highintermediate,18,women,LJ Designated Dinkers,BUR The Dink Side,Blair Barnett,Dixie Culver,Kelly Hassell,Kennedy Norris,13,15
+17409,5,2025-10-09,triad,fall2025,highintermediate,18,women,LJ Designated Dinkers,BUR The Dink Side,Carolyn Smith,Kelly Smith,Jackie Morelli,Nikole Daigle,3,15
+17409,6,2025-10-09,triad,fall2025,highintermediate,18,women,LJ Designated Dinkers,BUR The Dink Side,Cynthia Livengood,Leanne Rosenbower,Denise Carter,Rachel Mills,15,10
+17409,7,2025-10-09,triad,fall2025,highintermediate,18,women,LJ Designated Dinkers,BUR The Dink Side,Blair Barnett,Dixie Culver,Jackie Morelli,Nikole Daigle,15,7
+17409,8,2025-10-09,triad,fall2025,highintermediate,18,women,LJ Designated Dinkers,BUR The Dink Side,Carolyn Smith,Kelly Smith,Denise Carter,Rachel Mills,2,15
+17409,9,2025-10-09,triad,fall2025,highintermediate,18,women,LJ Designated Dinkers,BUR The Dink Side,Cynthia Livengood,Leanne Rosenbower,Kelly Hassell,Kennedy Norris,13,15
+17410,1,2025-10-09,triad,fall2025,highintermediate,18,women,PINE Big Dills,HPCC Big Dink Energy,Lisa Ann Rancer,Jamie Peterson,Sara Strassell,Sarah Howell,3,15
+17410,2,2025-10-09,triad,fall2025,highintermediate,18,women,PINE Big Dills,HPCC Big Dink Energy,Carly Davis,Jenny Weston,Stephanie Ross,Lee Nunn,11,15
+17410,3,2025-10-09,triad,fall2025,highintermediate,18,women,PINE Big Dills,HPCC Big Dink Energy,Amy Teoh,Lori Harrington,Kellie Holbrook,Alyce Warden,15,9
+17410,4,2025-10-09,triad,fall2025,highintermediate,18,women,PINE Big Dills,HPCC Big Dink Energy,Lisa Ann Rancer,Jamie Peterson,Stephanie Ross,Lee Nunn,4,15
+17410,5,2025-10-09,triad,fall2025,highintermediate,18,women,PINE Big Dills,HPCC Big Dink Energy,Carly Davis,Jenny Weston,Kellie Holbrook,Alyce Warden,15,11
+17410,6,2025-10-09,triad,fall2025,highintermediate,18,women,PINE Big Dills,HPCC Big Dink Energy,Amy Teoh,Lori Harrington,Sara Strassell,Sarah Howell,6,15
+17410,7,2025-10-09,triad,fall2025,highintermediate,18,women,PINE Big Dills,HPCC Big Dink Energy,Lisa Ann Rancer,Jamie Peterson,Kellie Holbrook,Alyce Warden,15,10
+17410,8,2025-10-09,triad,fall2025,highintermediate,18,women,PINE Big Dills,HPCC Big Dink Energy,Carly Davis,Jenny Weston,Sara Strassell,Sarah Howell,7,15
+17410,9,2025-10-09,triad,fall2025,highintermediate,18,women,PINE Big Dills,HPCC Big Dink Energy,Amy Teoh,Lori Harrington,Stephanie Ross,Lee Nunn,3,15
+17411,1,2025-10-09,triad,fall2025,highintermediate,18,women,LAWN Dink Responsibly,LJ Pickle Smashers,Kristy Kohl,Ariana Vicari,Cary Scully,Bee Baker,16,14
+17411,2,2025-10-09,triad,fall2025,highintermediate,18,women,LAWN Dink Responsibly,LJ Pickle Smashers,Jennifer Nichols,Katherine Paige Givan,Anette Schmidt,Patti Hartman,10,15
+17411,3,2025-10-09,triad,fall2025,highintermediate,18,women,LAWN Dink Responsibly,LJ Pickle Smashers,Angel A Simpson,Ashleigh Miller,Amy Stehlin,Carla Robinson,14,16
+17411,4,2025-10-09,triad,fall2025,highintermediate,18,women,LAWN Dink Responsibly,LJ Pickle Smashers,Kristy Kohl,Ariana Vicari,Anette Schmidt,Patti Hartman,13,15
+17411,5,2025-10-09,triad,fall2025,highintermediate,18,women,LAWN Dink Responsibly,LJ Pickle Smashers,Jennifer Nichols,Katherine Paige Givan,Amy Stehlin,Carla Robinson,3,15
+17411,6,2025-10-09,triad,fall2025,highintermediate,18,women,LAWN Dink Responsibly,LJ Pickle Smashers,Angel A Simpson,Ashleigh Miller,Cary Scully,Bee Baker,15,11
+17411,7,2025-10-09,triad,fall2025,highintermediate,18,women,LAWN Dink Responsibly,LJ Pickle Smashers,Kristy Kohl,Ariana Vicari,Amy Stehlin,Carla Robinson,16,14
+17411,8,2025-10-09,triad,fall2025,highintermediate,18,women,LAWN Dink Responsibly,LJ Pickle Smashers,Jennifer Nichols,Katherine Paige Givan,Cary Scully,Bee Baker,4,15
+17411,9,2025-10-09,triad,fall2025,highintermediate,18,women,LAWN Dink Responsibly,LJ Pickle Smashers,Angel A Simpson,Ashleigh Miller,Anette Schmidt,Patti Hartman,9,15
+17452,1,2025-10-23,triad,fall2025,highintermediate,18,women,HPCC Big Dink Energy,LJ Pickle Smashers,Katie Rowell,Sarah Howell,Bee Baker,Skyler Bass,15,7
+17452,2,2025-10-23,triad,fall2025,highintermediate,18,women,HPCC Big Dink Energy,LJ Pickle Smashers,Amy Robinson,Juliet A Booe,Amy Stehlin,Anette Schmidt,15,10
+17452,3,2025-10-23,triad,fall2025,highintermediate,18,women,HPCC Big Dink Energy,LJ Pickle Smashers,Kissie Stroup,Stephanie Ross,Cary Scully,Sharen Thompson,15,2
+17452,4,2025-10-23,triad,fall2025,highintermediate,18,women,HPCC Big Dink Energy,LJ Pickle Smashers,Katie Rowell,Sarah Howell,Amy Stehlin,Anette Schmidt,15,9
+17452,5,2025-10-23,triad,fall2025,highintermediate,18,women,HPCC Big Dink Energy,LJ Pickle Smashers,Amy Robinson,Juliet A Booe,Cary Scully,Sharen Thompson,15,6
+17452,6,2025-10-23,triad,fall2025,highintermediate,18,women,HPCC Big Dink Energy,LJ Pickle Smashers,Kissie Stroup,Stephanie Ross,Bee Baker,Skyler Bass,15,6
+17452,7,2025-10-23,triad,fall2025,highintermediate,18,women,HPCC Big Dink Energy,LJ Pickle Smashers,Katie Rowell,Sarah Howell,Cary Scully,Sharen Thompson,15,1
+17452,8,2025-10-23,triad,fall2025,highintermediate,18,women,HPCC Big Dink Energy,LJ Pickle Smashers,Amy Robinson,Juliet A Booe,Bee Baker,Skyler Bass,15,13
+17452,9,2025-10-23,triad,fall2025,highintermediate,18,women,HPCC Big Dink Energy,LJ Pickle Smashers,Kissie Stroup,Stephanie Ross,Amy Stehlin,Anette Schmidt,15,10
+17453,1,2025-10-23,triad,fall2025,highintermediate,18,women,BUR The Dink Side,PINE Big Dills,Denise Carter,Kelly Hassell,Lisa Ann Rancer,Linda Stefanick,15,8
+17453,2,2025-10-23,triad,fall2025,highintermediate,18,women,BUR The Dink Side,PINE Big Dills,Adele Fulcher,Kennedy Norris,Carly Davis,Jenny Weston,15,11
+17453,3,2025-10-23,triad,fall2025,highintermediate,18,women,BUR The Dink Side,PINE Big Dills,Jackie Morelli,Nikole Daigle,Amy Teoh,Janelle Krueger,15,5
+17453,4,2025-10-23,triad,fall2025,highintermediate,18,women,BUR The Dink Side,PINE Big Dills,Denise Carter,Kelly Hassell,Carly Davis,Jenny Weston,13,15
+17453,5,2025-10-23,triad,fall2025,highintermediate,18,women,BUR The Dink Side,PINE Big Dills,Adele Fulcher,Kennedy Norris,Amy Teoh,Janelle Krueger,15,12
+17453,6,2025-10-23,triad,fall2025,highintermediate,18,women,BUR The Dink Side,PINE Big Dills,Jackie Morelli,Nikole Daigle,Lisa Ann Rancer,Linda Stefanick,15,5
+17453,7,2025-10-23,triad,fall2025,highintermediate,18,women,BUR The Dink Side,PINE Big Dills,Denise Carter,Kelly Hassell,Amy Teoh,Janelle Krueger,15,7
+17453,8,2025-10-23,triad,fall2025,highintermediate,18,women,BUR The Dink Side,PINE Big Dills,Adele Fulcher,Kennedy Norris,Lisa Ann Rancer,Linda Stefanick,14,16
+17453,9,2025-10-23,triad,fall2025,highintermediate,18,women,BUR The Dink Side,PINE Big Dills,Jackie Morelli,Nikole Daigle,Carly Davis,Jenny Weston,15,13
+17467,1,2025-11-01,triad,fall2025,highintermediate,18,women,HPCC Big Dink Energy,BUR The Dink Side,Sarah Howell,Katie Rowell,Jackie Morelli,Nikole Daigle,15,6
+17467,2,2025-11-01,triad,fall2025,highintermediate,18,women,HPCC Big Dink Energy,BUR The Dink Side,Sara Strassell,Kissie Stroup,Kennedy Norris,Adele Fulcher,15,3
+17467,3,2025-11-01,triad,fall2025,highintermediate,18,women,HPCC Big Dink Energy,BUR The Dink Side,Lee Nunn,Amy Robinson,Anja Hoyt,Sandy Elizabeth Meister,15,13
+17467,4,2025-11-01,triad,fall2025,highintermediate,18,women,HPCC Big Dink Energy,BUR The Dink Side,Sarah Howell,Katie Rowell,Kennedy Norris,Adele Fulcher,15,4
+17467,5,2025-11-01,triad,fall2025,highintermediate,18,women,HPCC Big Dink Energy,BUR The Dink Side,Sara Strassell,Kissie Stroup,Anja Hoyt,Sandy Elizabeth Meister,15,5
+17467,6,2025-11-01,triad,fall2025,highintermediate,18,women,HPCC Big Dink Energy,BUR The Dink Side,Lee Nunn,Amy Robinson,Jackie Morelli,Nikole Daigle,15,7
+17467,7,2025-11-01,triad,fall2025,highintermediate,18,women,HPCC Big Dink Energy,BUR The Dink Side,Sarah Howell,Katie Rowell,Anja Hoyt,Sandy Elizabeth Meister,15,2
+17467,8,2025-11-01,triad,fall2025,highintermediate,18,women,HPCC Big Dink Energy,BUR The Dink Side,Sara Strassell,Kissie Stroup,Jackie Morelli,Nikole Daigle,15,4
+17467,9,2025-11-01,triad,fall2025,highintermediate,18,women,HPCC Big Dink Energy,BUR The Dink Side,Lee Nunn,Amy Robinson,Kennedy Norris,Adele Fulcher,14,16

@@ -1,118 +1,118 @@
-match_id,game_id,match_date,team1_name,team2_name,partner1,partner2,opponent1,opponent2,team1_points,team2_points
-18846,1,2026-03-18,SEDGE Spin & Grin Gals West,SEDGE Dinkerbelles,Jean Cummings,Julie S Riggins,Elizabeth Meeks,Cathy M Bondick,15,6
-18846,2,2026-03-18,SEDGE Spin & Grin Gals West,SEDGE Dinkerbelles,Christine Schermerhorn,Carol D Vance,Ann Barkley,Chris Newcomer,19,17
-18846,3,2026-03-18,SEDGE Spin & Grin Gals West,SEDGE Dinkerbelles,Laura Cockerham,Cindi Caudle Watts,Natalie Faith Wallace,Kelly London James,15,13
-18846,4,2026-03-18,SEDGE Spin & Grin Gals West,SEDGE Dinkerbelles,Jean Cummings,Julie S Riggins,Ann Barkley,Chris Newcomer,15,12
-18846,5,2026-03-18,SEDGE Spin & Grin Gals West,SEDGE Dinkerbelles,Christine Schermerhorn,Carol D Vance,Natalie Faith Wallace,Kelly London James,15,12
-18846,6,2026-03-18,SEDGE Spin & Grin Gals West,SEDGE Dinkerbelles,Laura Cockerham,Cindi Caudle Watts,Elizabeth Meeks,Cathy M Bondick,12,15
-18846,7,2026-03-18,SEDGE Spin & Grin Gals West,SEDGE Dinkerbelles,Jean Cummings,Julie S Riggins,Natalie Faith Wallace,Kelly London James,15,12
-18846,8,2026-03-18,SEDGE Spin & Grin Gals West,SEDGE Dinkerbelles,Christine Schermerhorn,Carol D Vance,Elizabeth Meeks,Cathy M Bondick,15,12
-18846,9,2026-03-18,SEDGE Spin & Grin Gals West,SEDGE Dinkerbelles,Laura Cockerham,Cindi Caudle Watts,Ann Barkley,Chris Newcomer,14,16
-18850,1,2026-03-25,SEDGE Dinkerbelles,SEDGE DILLIGHTFULS26,Natalie Faith Wallace,Elizabeth Meeks,Laura Michael Spangler,Kim Goodson Toompas,14,16
-18850,2,2026-03-25,SEDGE Dinkerbelles,SEDGE DILLIGHTFULS26,Ann Barkley,Bettina Lackner,Leigh Bliss,Maria C Swedeen,15,2
-18850,3,2026-03-25,SEDGE Dinkerbelles,SEDGE DILLIGHTFULS26,Joni Thomason Rivas,Joanne Dong,Caren Barnes,Laurie Williams,1,15
-18850,4,2026-03-25,SEDGE Dinkerbelles,SEDGE DILLIGHTFULS26,Natalie Faith Wallace,Elizabeth Meeks,Leigh Bliss,Maria C Swedeen,15,6
-18850,5,2026-03-25,SEDGE Dinkerbelles,SEDGE DILLIGHTFULS26,Ann Barkley,Bettina Lackner,Caren Barnes,Laurie Williams,15,2
-18850,6,2026-03-25,SEDGE Dinkerbelles,SEDGE DILLIGHTFULS26,Joni Thomason Rivas,Joanne Dong,Laura Michael Spangler,Kim Goodson Toompas,1,15
-18850,7,2026-03-25,SEDGE Dinkerbelles,SEDGE DILLIGHTFULS26,Natalie Faith Wallace,Elizabeth Meeks,Caren Barnes,Laurie Williams,15,0
-18850,8,2026-03-25,SEDGE Dinkerbelles,SEDGE DILLIGHTFULS26,Ann Barkley,Bettina Lackner,Laura Michael Spangler,Kim Goodson Toompas,15,9
-18850,9,2026-03-25,SEDGE Dinkerbelles,SEDGE DILLIGHTFULS26,Joni Thomason Rivas,Joanne Dong,Leigh Bliss,Maria C Swedeen,15,13
-18854,1,2026-04-01,SEDGE DILLIGHTFULS26,SEDGE Spin & Grin Gals West,Laura Michael Spangler,Kim Goodson Toompas,Mindy K Hedrick,Janice Campagna,15,7
-18854,2,2026-04-01,SEDGE DILLIGHTFULS26,SEDGE Spin & Grin Gals West,Caren Barnes,Carol M Hibbett,Melanie Crowder,Marg Braile,13,15
-18854,3,2026-04-01,SEDGE DILLIGHTFULS26,SEDGE Spin & Grin Gals West,Vivian Smith,Kathy Tedder Hartung,Cindi Caudle Watts,Julie S Riggins,2,15
-18854,4,2026-04-01,SEDGE DILLIGHTFULS26,SEDGE Spin & Grin Gals West,Laura Michael Spangler,Kim Goodson Toompas,Melanie Crowder,Marg Braile,15,2
-18854,5,2026-04-01,SEDGE DILLIGHTFULS26,SEDGE Spin & Grin Gals West,Caren Barnes,Carol M Hibbett,Cindi Caudle Watts,Julie S Riggins,15,8
-18854,6,2026-04-01,SEDGE DILLIGHTFULS26,SEDGE Spin & Grin Gals West,Vivian Smith,Kathy Tedder Hartung,Mindy K Hedrick,Janice Campagna,3,15
-18854,7,2026-04-01,SEDGE DILLIGHTFULS26,SEDGE Spin & Grin Gals West,Laura Michael Spangler,Kim Goodson Toompas,Cindi Caudle Watts,Julie S Riggins,12,15
-18854,8,2026-04-01,SEDGE DILLIGHTFULS26,SEDGE Spin & Grin Gals West,Caren Barnes,Carol M Hibbett,Mindy K Hedrick,Janice Campagna,10,15
-18854,9,2026-04-01,SEDGE DILLIGHTFULS26,SEDGE Spin & Grin Gals West,Vivian Smith,Kathy Tedder Hartung,Melanie Crowder,Marg Braile,9,15
-18858,1,2026-04-08,SEDGE Dinkerbelles,SEDGE Spin & Grin Gals West,Elizabeth Meeks,Kelly London James,Christine Schermerhorn,Jean Cummings,15,7
-18858,2,2026-04-08,SEDGE Dinkerbelles,SEDGE Spin & Grin Gals West,Diane Rene Toohey,Natalie Faith Wallace,Carol D Vance,Laura Cockerham,15,7
-18858,3,2026-04-08,SEDGE Dinkerbelles,SEDGE Spin & Grin Gals West,Ann Barkley,Bettina Lackner,Janice Campagna,Mindy K Hedrick,15,8
-18858,4,2026-04-08,SEDGE Dinkerbelles,SEDGE Spin & Grin Gals West,Elizabeth Meeks,Kelly London James,Carol D Vance,Laura Cockerham,15,13
-18858,5,2026-04-08,SEDGE Dinkerbelles,SEDGE Spin & Grin Gals West,Diane Rene Toohey,Natalie Faith Wallace,Janice Campagna,Mindy K Hedrick,15,6
-18858,6,2026-04-08,SEDGE Dinkerbelles,SEDGE Spin & Grin Gals West,Ann Barkley,Bettina Lackner,Christine Schermerhorn,Jean Cummings,15,3
-18858,7,2026-04-08,SEDGE Dinkerbelles,SEDGE Spin & Grin Gals West,Elizabeth Meeks,Kelly London James,Janice Campagna,Mindy K Hedrick,9,15
-18858,8,2026-04-08,SEDGE Dinkerbelles,SEDGE Spin & Grin Gals West,Diane Rene Toohey,Natalie Faith Wallace,Christine Schermerhorn,Jean Cummings,15,11
-18858,9,2026-04-08,SEDGE Dinkerbelles,SEDGE Spin & Grin Gals West,Ann Barkley,Bettina Lackner,Carol D Vance,Laura Cockerham,15,6
-18875,1,2026-04-08,SEDGE DILLIGHTFULS26,SEDGE Spin & Grin Gals West,Maria C Swedeen,Leigh Bliss,Jean Cummings,Christine Schermerhorn,15,12
-18875,2,2026-04-08,SEDGE DILLIGHTFULS26,SEDGE Spin & Grin Gals West,Laura Michael Spangler,Jill Sear,Laura Cockerham,Cindy M Thomas,17,15
-18875,3,2026-04-08,SEDGE DILLIGHTFULS26,SEDGE Spin & Grin Gals West,Laurie Williams,Patti McCormick,Janice Campagna,Mindy K Hedrick,7,15
-18875,4,2026-04-08,SEDGE DILLIGHTFULS26,SEDGE Spin & Grin Gals West,Maria C Swedeen,Leigh Bliss,Laura Cockerham,Cindy M Thomas,18,16
-18875,5,2026-04-08,SEDGE DILLIGHTFULS26,SEDGE Spin & Grin Gals West,Laura Michael Spangler,Jill Sear,Janice Campagna,Mindy K Hedrick,15,11
-18875,6,2026-04-08,SEDGE DILLIGHTFULS26,SEDGE Spin & Grin Gals West,Laurie Williams,Patti McCormick,Jean Cummings,Christine Schermerhorn,6,15
-18875,7,2026-04-08,SEDGE DILLIGHTFULS26,SEDGE Spin & Grin Gals West,Maria C Swedeen,Leigh Bliss,Janice Campagna,Mindy K Hedrick,15,5
-18875,8,2026-04-08,SEDGE DILLIGHTFULS26,SEDGE Spin & Grin Gals West,Laura Michael Spangler,Jill Sear,Jean Cummings,Christine Schermerhorn,10,15
-18875,9,2026-04-08,SEDGE DILLIGHTFULS26,SEDGE Spin & Grin Gals West,Laurie Williams,Patti McCormick,Laura Cockerham,Cindy M Thomas,4,15
-18862,1,2026-04-15,SEDGE DILLIGHTFULS26,SEDGE Dinkerbelles,Laurie Williams,Patti McCormick,Natalie Faith Wallace,Diane Rene Toohey,7,15
-18862,2,2026-04-15,SEDGE DILLIGHTFULS26,SEDGE Dinkerbelles,Leigh Bliss,Carol M Hibbett,Bettina Lackner,Joni Thomason Rivas,15,9
-18862,3,2026-04-15,SEDGE DILLIGHTFULS26,SEDGE Dinkerbelles,Nannette Davis,Jill Sear,Ann Barkley,Chris Newcomer,6,15
-18862,4,2026-04-15,SEDGE DILLIGHTFULS26,SEDGE Dinkerbelles,Laurie Williams,Patti McCormick,Bettina Lackner,Joni Thomason Rivas,6,15
-18862,5,2026-04-15,SEDGE DILLIGHTFULS26,SEDGE Dinkerbelles,Leigh Bliss,Carol M Hibbett,Ann Barkley,Chris Newcomer,15,4
-18862,6,2026-04-15,SEDGE DILLIGHTFULS26,SEDGE Dinkerbelles,Nannette Davis,Jill Sear,Natalie Faith Wallace,Diane Rene Toohey,16,14
-18862,7,2026-04-15,SEDGE DILLIGHTFULS26,SEDGE Dinkerbelles,Laurie Williams,Patti McCormick,Ann Barkley,Chris Newcomer,13,15
-18862,8,2026-04-15,SEDGE DILLIGHTFULS26,SEDGE Dinkerbelles,Leigh Bliss,Carol M Hibbett,Natalie Faith Wallace,Diane Rene Toohey,5,15
-18862,9,2026-04-15,SEDGE DILLIGHTFULS26,SEDGE Dinkerbelles,Nannette Davis,Jill Sear,Bettina Lackner,Joni Thomason Rivas,10,15
-18863,1,2026-04-15,SEDGE Spin & Grin Gals West,SEDGE DILLIGHTFULS26,Gina Bennett,Cindy M Thomas,Laura Michael Spangler,Kim Goodson Toompas,8,15
-18863,2,2026-04-15,SEDGE Spin & Grin Gals West,SEDGE DILLIGHTFULS26,Mindy K Hedrick,Cindi Caudle Watts,Caren Barnes,Carol M Hibbett,15,13
-18863,3,2026-04-15,SEDGE Spin & Grin Gals West,SEDGE DILLIGHTFULS26,Paige C Wilkerson,Marg Braile,Vivian Smith,Kathy Tedder Hartung,15,11
-18863,4,2026-04-15,SEDGE Spin & Grin Gals West,SEDGE DILLIGHTFULS26,Gina Bennett,Cindy M Thomas,Caren Barnes,Carol M Hibbett,15,8
-18863,5,2026-04-15,SEDGE Spin & Grin Gals West,SEDGE DILLIGHTFULS26,Mindy K Hedrick,Cindi Caudle Watts,Vivian Smith,Kathy Tedder Hartung,10,15
-18863,6,2026-04-15,SEDGE Spin & Grin Gals West,SEDGE DILLIGHTFULS26,Paige C Wilkerson,Marg Braile,Laura Michael Spangler,Kim Goodson Toompas,4,15
-18863,7,2026-04-15,SEDGE Spin & Grin Gals West,SEDGE DILLIGHTFULS26,Gina Bennett,Cindy M Thomas,Vivian Smith,Kathy Tedder Hartung,15,9
-18863,8,2026-04-15,SEDGE Spin & Grin Gals West,SEDGE DILLIGHTFULS26,Mindy K Hedrick,Cindi Caudle Watts,Laura Michael Spangler,Kim Goodson Toompas,7,15
-18863,9,2026-04-15,SEDGE Spin & Grin Gals West,SEDGE DILLIGHTFULS26,Paige C Wilkerson,Marg Braile,Caren Barnes,Carol M Hibbett,4,15
-18867,1,2026-04-22,SEDGE Spin & Grin Gals West,SEDGE Dinkerbelles,Jean Cummings,Julie S Riggins,Elizabeth Meeks,Joanne Dong,13,15
-18867,2,2026-04-22,SEDGE Spin & Grin Gals West,SEDGE Dinkerbelles,Cindi Caudle Watts,Marg Braile,Ann Barkley,Bettina Lackner,5,15
-18867,3,2026-04-22,SEDGE Spin & Grin Gals West,SEDGE Dinkerbelles,Carol D Vance,Gina Bennett,Cathy M Bondick,Joni Thomason Rivas,15,8
-18867,4,2026-04-22,SEDGE Spin & Grin Gals West,SEDGE Dinkerbelles,Jean Cummings,Julie S Riggins,Ann Barkley,Bettina Lackner,10,15
-18867,5,2026-04-22,SEDGE Spin & Grin Gals West,SEDGE Dinkerbelles,Cindi Caudle Watts,Marg Braile,Cathy M Bondick,Joni Thomason Rivas,15,6
-18867,6,2026-04-22,SEDGE Spin & Grin Gals West,SEDGE Dinkerbelles,Carol D Vance,Gina Bennett,Elizabeth Meeks,Joanne Dong,2,15
-18867,7,2026-04-22,SEDGE Spin & Grin Gals West,SEDGE Dinkerbelles,Jean Cummings,Julie S Riggins,Cathy M Bondick,Joni Thomason Rivas,15,6
-18867,8,2026-04-22,SEDGE Spin & Grin Gals West,SEDGE Dinkerbelles,Cindi Caudle Watts,Marg Braile,Elizabeth Meeks,Joanne Dong,9,15
-18867,9,2026-04-22,SEDGE Spin & Grin Gals West,SEDGE Dinkerbelles,Carol D Vance,Gina Bennett,Ann Barkley,Bettina Lackner,4,15
-18871,1,2026-04-29,SEDGE Dinkerbelles,SEDGE DILLIGHTFULS26,Diane Rene Toohey,Jean Rezzo,Kim Goodson Toompas,Laura Michael Spangler,7,15
-18871,2,2026-04-29,SEDGE Dinkerbelles,SEDGE DILLIGHTFULS26,Elizabeth Meeks,Joanne Dong,Leigh Bliss,Maria C Swedeen,15,3
-18871,3,2026-04-29,SEDGE Dinkerbelles,SEDGE DILLIGHTFULS26,Bettina Lackner,Ann Barkley,Carol M Hibbett,Caren Barnes,15,8
-18871,4,2026-04-29,SEDGE Dinkerbelles,SEDGE DILLIGHTFULS26,Diane Rene Toohey,Jean Rezzo,Leigh Bliss,Maria C Swedeen,7,15
-18871,5,2026-04-29,SEDGE Dinkerbelles,SEDGE DILLIGHTFULS26,Elizabeth Meeks,Joanne Dong,Carol M Hibbett,Caren Barnes,13,15
-18871,6,2026-04-29,SEDGE Dinkerbelles,SEDGE DILLIGHTFULS26,Bettina Lackner,Ann Barkley,Kim Goodson Toompas,Laura Michael Spangler,15,11
-18871,7,2026-04-29,SEDGE Dinkerbelles,SEDGE DILLIGHTFULS26,Diane Rene Toohey,Jean Rezzo,Carol M Hibbett,Caren Barnes,11,15
-18871,8,2026-04-29,SEDGE Dinkerbelles,SEDGE DILLIGHTFULS26,Elizabeth Meeks,Joanne Dong,Kim Goodson Toompas,Laura Michael Spangler,13,15
-18871,9,2026-04-29,SEDGE Dinkerbelles,SEDGE DILLIGHTFULS26,Bettina Lackner,Ann Barkley,Leigh Bliss,Maria C Swedeen,15,1
-18876,1,2026-04-29,SEDGE Dinkerbelles,SEDGE Spin & Grin Gals West,Diane Rene Toohey,Natalie Faith Wallace,Christine Schermerhorn,Laura Cockerham,17,15
-18876,2,2026-04-29,SEDGE Dinkerbelles,SEDGE Spin & Grin Gals West,Ann Barkley,Bettina Lackner,Cindy M Thomas,Melanie Crowder,15,6
-18876,3,2026-04-29,SEDGE Dinkerbelles,SEDGE Spin & Grin Gals West,Cathy M Bondick,Elizabeth Meeks,Carol E Grochowski,Jean Cummings,13,15
-18876,4,2026-04-29,SEDGE Dinkerbelles,SEDGE Spin & Grin Gals West,Diane Rene Toohey,Natalie Faith Wallace,Cindy M Thomas,Melanie Crowder,5,15
-18876,5,2026-04-29,SEDGE Dinkerbelles,SEDGE Spin & Grin Gals West,Ann Barkley,Bettina Lackner,Carol E Grochowski,Jean Cummings,15,7
-18876,6,2026-04-29,SEDGE Dinkerbelles,SEDGE Spin & Grin Gals West,Cathy M Bondick,Elizabeth Meeks,Christine Schermerhorn,Laura Cockerham,4,15
-18876,7,2026-04-29,SEDGE Dinkerbelles,SEDGE Spin & Grin Gals West,Diane Rene Toohey,Natalie Faith Wallace,Carol E Grochowski,Jean Cummings,15,6
-18876,8,2026-04-29,SEDGE Dinkerbelles,SEDGE Spin & Grin Gals West,Ann Barkley,Bettina Lackner,Christine Schermerhorn,Laura Cockerham,15,9
-18876,9,2026-04-29,SEDGE Dinkerbelles,SEDGE Spin & Grin Gals West,Cathy M Bondick,Elizabeth Meeks,Cindy M Thomas,Melanie Crowder,7,15
-18880,1,2026-05-13,SEDGE DILLIGHTFULS26,SEDGE Dinkerbelles,Caren Barnes,Carol M Hibbett,Chris Newcomer,Ann Barkley,10,15
-18880,2,2026-05-13,SEDGE DILLIGHTFULS26,SEDGE Dinkerbelles,Jill Sear,Kathy Tedder Hartung,Joanne Dong,Jean Rezzo,11,15
-18880,3,2026-05-13,SEDGE DILLIGHTFULS26,SEDGE Dinkerbelles,Laurie Williams,Patti McCormick,DEFAULT,DEFAULT,15,0
-18880,4,2026-05-13,SEDGE DILLIGHTFULS26,SEDGE Dinkerbelles,Caren Barnes,Carol M Hibbett,Joanne Dong,Jean Rezzo,15,1
-18880,5,2026-05-13,SEDGE DILLIGHTFULS26,SEDGE Dinkerbelles,Jill Sear,Kathy Tedder Hartung,DEFAULT,DEFAULT,15,0
-18880,6,2026-05-13,SEDGE DILLIGHTFULS26,SEDGE Dinkerbelles,Laurie Williams,Patti McCormick,Chris Newcomer,Ann Barkley,3,15
-18880,7,2026-05-13,SEDGE DILLIGHTFULS26,SEDGE Dinkerbelles,Caren Barnes,Carol M Hibbett,DEFAULT,DEFAULT,15,0
-18880,8,2026-05-13,SEDGE DILLIGHTFULS26,SEDGE Dinkerbelles,Jill Sear,Kathy Tedder Hartung,Chris Newcomer,Ann Barkley,4,15
-18880,9,2026-05-13,SEDGE DILLIGHTFULS26,SEDGE Dinkerbelles,Laurie Williams,Patti McCormick,Joanne Dong,Jean Rezzo,15,6
-18884,1,2026-05-20,SEDGE Spin & Grin Gals West,SEDGE DILLIGHTFULS26,Gina Bennett,Christine Schermerhorn,Caren Barnes,Kim Goodson Toompas,10,15
-18884,2,2026-05-20,SEDGE Spin & Grin Gals West,SEDGE DILLIGHTFULS26,Melanie Crowder,Cindy M Thomas,Leigh Bliss,Jill Sear,15,6
-18884,3,2026-05-20,SEDGE Spin & Grin Gals West,SEDGE DILLIGHTFULS26,Julie S Riggins,Carol E Grochowski,Kathy Tedder Hartung,Vivian Smith,15,4
-18884,4,2026-05-20,SEDGE Spin & Grin Gals West,SEDGE DILLIGHTFULS26,Gina Bennett,Christine Schermerhorn,Leigh Bliss,Jill Sear,6,15
-18884,5,2026-05-20,SEDGE Spin & Grin Gals West,SEDGE DILLIGHTFULS26,Melanie Crowder,Cindy M Thomas,Kathy Tedder Hartung,Vivian Smith,15,7
-18884,6,2026-05-20,SEDGE Spin & Grin Gals West,SEDGE DILLIGHTFULS26,Julie S Riggins,Carol E Grochowski,Caren Barnes,Kim Goodson Toompas,15,12
-18884,7,2026-05-20,SEDGE Spin & Grin Gals West,SEDGE DILLIGHTFULS26,Gina Bennett,Christine Schermerhorn,Kathy Tedder Hartung,Vivian Smith,15,3
-18884,8,2026-05-20,SEDGE Spin & Grin Gals West,SEDGE DILLIGHTFULS26,Melanie Crowder,Cindy M Thomas,Caren Barnes,Kim Goodson Toompas,15,13
-18884,9,2026-05-20,SEDGE Spin & Grin Gals West,SEDGE DILLIGHTFULS26,Julie S Riggins,Carol E Grochowski,Leigh Bliss,Jill Sear,15,7
-18886,1,2026-05-30,SEDGE Dinkerbelles,SEDGE DILLIGHTFULS26,Natalie Faith Wallace,Diane Rene Toohey,Laura Michael Spangler,Kim Goodson Toompas,6,15
-18886,2,2026-05-30,SEDGE Dinkerbelles,SEDGE DILLIGHTFULS26,Chris Newcomer,Ann Barkley,Leigh Bliss,Laurie Williams,13,15
-18886,3,2026-05-30,SEDGE Dinkerbelles,SEDGE DILLIGHTFULS26,Kelly London James,Joanne Dong,Caren Barnes,Carol M Hibbett,2,15
-18886,4,2026-05-30,SEDGE Dinkerbelles,SEDGE DILLIGHTFULS26,Natalie Faith Wallace,Diane Rene Toohey,Leigh Bliss,Laurie Williams,15,9
-18886,5,2026-05-30,SEDGE Dinkerbelles,SEDGE DILLIGHTFULS26,Chris Newcomer,Ann Barkley,Caren Barnes,Carol M Hibbett,15,12
-18886,6,2026-05-30,SEDGE Dinkerbelles,SEDGE DILLIGHTFULS26,Kelly London James,Joanne Dong,Laura Michael Spangler,Kim Goodson Toompas,1,15
-18886,7,2026-05-30,SEDGE Dinkerbelles,SEDGE DILLIGHTFULS26,Natalie Faith Wallace,Diane Rene Toohey,Caren Barnes,Carol M Hibbett,15,17
-18886,8,2026-05-30,SEDGE Dinkerbelles,SEDGE DILLIGHTFULS26,Chris Newcomer,Ann Barkley,Laura Michael Spangler,Kim Goodson Toompas,13,15
-18886,9,2026-05-30,SEDGE Dinkerbelles,SEDGE DILLIGHTFULS26,Kelly London James,Joanne Dong,Leigh Bliss,Laurie Williams,6,15
+match_id,game_id,match_date,league,season,skill_level,age,gender,team1_name,team2_name,partner1,partner2,opponent1,opponent2,team1_points,team2_points
+18846,1,2026-03-18,winston,spring2026,highintermediate,50,women,SEDGE Spin & Grin Gals West,SEDGE Dinkerbelles,Jean Cummings,Julie S Riggins,Elizabeth Meeks,Cathy M Bondick,15,6
+18846,2,2026-03-18,winston,spring2026,highintermediate,50,women,SEDGE Spin & Grin Gals West,SEDGE Dinkerbelles,Christine Schermerhorn,Carol D Vance,Ann Barkley,Chris Newcomer,19,17
+18846,3,2026-03-18,winston,spring2026,highintermediate,50,women,SEDGE Spin & Grin Gals West,SEDGE Dinkerbelles,Laura Cockerham,Cindi Caudle Watts,Natalie Faith Wallace,Kelly London James,15,13
+18846,4,2026-03-18,winston,spring2026,highintermediate,50,women,SEDGE Spin & Grin Gals West,SEDGE Dinkerbelles,Jean Cummings,Julie S Riggins,Ann Barkley,Chris Newcomer,15,12
+18846,5,2026-03-18,winston,spring2026,highintermediate,50,women,SEDGE Spin & Grin Gals West,SEDGE Dinkerbelles,Christine Schermerhorn,Carol D Vance,Natalie Faith Wallace,Kelly London James,15,12
+18846,6,2026-03-18,winston,spring2026,highintermediate,50,women,SEDGE Spin & Grin Gals West,SEDGE Dinkerbelles,Laura Cockerham,Cindi Caudle Watts,Elizabeth Meeks,Cathy M Bondick,12,15
+18846,7,2026-03-18,winston,spring2026,highintermediate,50,women,SEDGE Spin & Grin Gals West,SEDGE Dinkerbelles,Jean Cummings,Julie S Riggins,Natalie Faith Wallace,Kelly London James,15,12
+18846,8,2026-03-18,winston,spring2026,highintermediate,50,women,SEDGE Spin & Grin Gals West,SEDGE Dinkerbelles,Christine Schermerhorn,Carol D Vance,Elizabeth Meeks,Cathy M Bondick,15,12
+18846,9,2026-03-18,winston,spring2026,highintermediate,50,women,SEDGE Spin & Grin Gals West,SEDGE Dinkerbelles,Laura Cockerham,Cindi Caudle Watts,Ann Barkley,Chris Newcomer,14,16
+18850,1,2026-03-25,winston,spring2026,highintermediate,50,women,SEDGE Dinkerbelles,SEDGE DILLIGHTFULS26,Natalie Faith Wallace,Elizabeth Meeks,Laura Michael Spangler,Kim Goodson Toompas,14,16
+18850,2,2026-03-25,winston,spring2026,highintermediate,50,women,SEDGE Dinkerbelles,SEDGE DILLIGHTFULS26,Ann Barkley,Bettina Lackner,Leigh Bliss,Maria C Swedeen,15,2
+18850,3,2026-03-25,winston,spring2026,highintermediate,50,women,SEDGE Dinkerbelles,SEDGE DILLIGHTFULS26,Joni Thomason Rivas,Joanne Dong,Caren Barnes,Laurie Williams,1,15
+18850,4,2026-03-25,winston,spring2026,highintermediate,50,women,SEDGE Dinkerbelles,SEDGE DILLIGHTFULS26,Natalie Faith Wallace,Elizabeth Meeks,Leigh Bliss,Maria C Swedeen,15,6
+18850,5,2026-03-25,winston,spring2026,highintermediate,50,women,SEDGE Dinkerbelles,SEDGE DILLIGHTFULS26,Ann Barkley,Bettina Lackner,Caren Barnes,Laurie Williams,15,2
+18850,6,2026-03-25,winston,spring2026,highintermediate,50,women,SEDGE Dinkerbelles,SEDGE DILLIGHTFULS26,Joni Thomason Rivas,Joanne Dong,Laura Michael Spangler,Kim Goodson Toompas,1,15
+18850,7,2026-03-25,winston,spring2026,highintermediate,50,women,SEDGE Dinkerbelles,SEDGE DILLIGHTFULS26,Natalie Faith Wallace,Elizabeth Meeks,Caren Barnes,Laurie Williams,15,0
+18850,8,2026-03-25,winston,spring2026,highintermediate,50,women,SEDGE Dinkerbelles,SEDGE DILLIGHTFULS26,Ann Barkley,Bettina Lackner,Laura Michael Spangler,Kim Goodson Toompas,15,9
+18850,9,2026-03-25,winston,spring2026,highintermediate,50,women,SEDGE Dinkerbelles,SEDGE DILLIGHTFULS26,Joni Thomason Rivas,Joanne Dong,Leigh Bliss,Maria C Swedeen,15,13
+18854,1,2026-04-01,winston,spring2026,highintermediate,50,women,SEDGE DILLIGHTFULS26,SEDGE Spin & Grin Gals West,Laura Michael Spangler,Kim Goodson Toompas,Mindy K Hedrick,Janice Campagna,15,7
+18854,2,2026-04-01,winston,spring2026,highintermediate,50,women,SEDGE DILLIGHTFULS26,SEDGE Spin & Grin Gals West,Caren Barnes,Carol M Hibbett,Melanie Crowder,Marg Braile,13,15
+18854,3,2026-04-01,winston,spring2026,highintermediate,50,women,SEDGE DILLIGHTFULS26,SEDGE Spin & Grin Gals West,Vivian Smith,Kathy Tedder Hartung,Cindi Caudle Watts,Julie S Riggins,2,15
+18854,4,2026-04-01,winston,spring2026,highintermediate,50,women,SEDGE DILLIGHTFULS26,SEDGE Spin & Grin Gals West,Laura Michael Spangler,Kim Goodson Toompas,Melanie Crowder,Marg Braile,15,2
+18854,5,2026-04-01,winston,spring2026,highintermediate,50,women,SEDGE DILLIGHTFULS26,SEDGE Spin & Grin Gals West,Caren Barnes,Carol M Hibbett,Cindi Caudle Watts,Julie S Riggins,15,8
+18854,6,2026-04-01,winston,spring2026,highintermediate,50,women,SEDGE DILLIGHTFULS26,SEDGE Spin & Grin Gals West,Vivian Smith,Kathy Tedder Hartung,Mindy K Hedrick,Janice Campagna,3,15
+18854,7,2026-04-01,winston,spring2026,highintermediate,50,women,SEDGE DILLIGHTFULS26,SEDGE Spin & Grin Gals West,Laura Michael Spangler,Kim Goodson Toompas,Cindi Caudle Watts,Julie S Riggins,12,15
+18854,8,2026-04-01,winston,spring2026,highintermediate,50,women,SEDGE DILLIGHTFULS26,SEDGE Spin & Grin Gals West,Caren Barnes,Carol M Hibbett,Mindy K Hedrick,Janice Campagna,10,15
+18854,9,2026-04-01,winston,spring2026,highintermediate,50,women,SEDGE DILLIGHTFULS26,SEDGE Spin & Grin Gals West,Vivian Smith,Kathy Tedder Hartung,Melanie Crowder,Marg Braile,9,15
+18858,1,2026-04-08,winston,spring2026,highintermediate,50,women,SEDGE Dinkerbelles,SEDGE Spin & Grin Gals West,Elizabeth Meeks,Kelly London James,Christine Schermerhorn,Jean Cummings,15,7
+18858,2,2026-04-08,winston,spring2026,highintermediate,50,women,SEDGE Dinkerbelles,SEDGE Spin & Grin Gals West,Diane Rene Toohey,Natalie Faith Wallace,Carol D Vance,Laura Cockerham,15,7
+18858,3,2026-04-08,winston,spring2026,highintermediate,50,women,SEDGE Dinkerbelles,SEDGE Spin & Grin Gals West,Ann Barkley,Bettina Lackner,Janice Campagna,Mindy K Hedrick,15,8
+18858,4,2026-04-08,winston,spring2026,highintermediate,50,women,SEDGE Dinkerbelles,SEDGE Spin & Grin Gals West,Elizabeth Meeks,Kelly London James,Carol D Vance,Laura Cockerham,15,13
+18858,5,2026-04-08,winston,spring2026,highintermediate,50,women,SEDGE Dinkerbelles,SEDGE Spin & Grin Gals West,Diane Rene Toohey,Natalie Faith Wallace,Janice Campagna,Mindy K Hedrick,15,6
+18858,6,2026-04-08,winston,spring2026,highintermediate,50,women,SEDGE Dinkerbelles,SEDGE Spin & Grin Gals West,Ann Barkley,Bettina Lackner,Christine Schermerhorn,Jean Cummings,15,3
+18858,7,2026-04-08,winston,spring2026,highintermediate,50,women,SEDGE Dinkerbelles,SEDGE Spin & Grin Gals West,Elizabeth Meeks,Kelly London James,Janice Campagna,Mindy K Hedrick,9,15
+18858,8,2026-04-08,winston,spring2026,highintermediate,50,women,SEDGE Dinkerbelles,SEDGE Spin & Grin Gals West,Diane Rene Toohey,Natalie Faith Wallace,Christine Schermerhorn,Jean Cummings,15,11
+18858,9,2026-04-08,winston,spring2026,highintermediate,50,women,SEDGE Dinkerbelles,SEDGE Spin & Grin Gals West,Ann Barkley,Bettina Lackner,Carol D Vance,Laura Cockerham,15,6
+18875,1,2026-04-08,winston,spring2026,highintermediate,50,women,SEDGE DILLIGHTFULS26,SEDGE Spin & Grin Gals West,Maria C Swedeen,Leigh Bliss,Jean Cummings,Christine Schermerhorn,15,12
+18875,2,2026-04-08,winston,spring2026,highintermediate,50,women,SEDGE DILLIGHTFULS26,SEDGE Spin & Grin Gals West,Laura Michael Spangler,Jill Sear,Laura Cockerham,Cindy M Thomas,17,15
+18875,3,2026-04-08,winston,spring2026,highintermediate,50,women,SEDGE DILLIGHTFULS26,SEDGE Spin & Grin Gals West,Laurie Williams,Patti McCormick,Janice Campagna,Mindy K Hedrick,7,15
+18875,4,2026-04-08,winston,spring2026,highintermediate,50,women,SEDGE DILLIGHTFULS26,SEDGE Spin & Grin Gals West,Maria C Swedeen,Leigh Bliss,Laura Cockerham,Cindy M Thomas,18,16
+18875,5,2026-04-08,winston,spring2026,highintermediate,50,women,SEDGE DILLIGHTFULS26,SEDGE Spin & Grin Gals West,Laura Michael Spangler,Jill Sear,Janice Campagna,Mindy K Hedrick,15,11
+18875,6,2026-04-08,winston,spring2026,highintermediate,50,women,SEDGE DILLIGHTFULS26,SEDGE Spin & Grin Gals West,Laurie Williams,Patti McCormick,Jean Cummings,Christine Schermerhorn,6,15
+18875,7,2026-04-08,winston,spring2026,highintermediate,50,women,SEDGE DILLIGHTFULS26,SEDGE Spin & Grin Gals West,Maria C Swedeen,Leigh Bliss,Janice Campagna,Mindy K Hedrick,15,5
+18875,8,2026-04-08,winston,spring2026,highintermediate,50,women,SEDGE DILLIGHTFULS26,SEDGE Spin & Grin Gals West,Laura Michael Spangler,Jill Sear,Jean Cummings,Christine Schermerhorn,10,15
+18875,9,2026-04-08,winston,spring2026,highintermediate,50,women,SEDGE DILLIGHTFULS26,SEDGE Spin & Grin Gals West,Laurie Williams,Patti McCormick,Laura Cockerham,Cindy M Thomas,4,15
+18862,1,2026-04-15,winston,spring2026,highintermediate,50,women,SEDGE DILLIGHTFULS26,SEDGE Dinkerbelles,Laurie Williams,Patti McCormick,Natalie Faith Wallace,Diane Rene Toohey,7,15
+18862,2,2026-04-15,winston,spring2026,highintermediate,50,women,SEDGE DILLIGHTFULS26,SEDGE Dinkerbelles,Leigh Bliss,Carol M Hibbett,Bettina Lackner,Joni Thomason Rivas,15,9
+18862,3,2026-04-15,winston,spring2026,highintermediate,50,women,SEDGE DILLIGHTFULS26,SEDGE Dinkerbelles,Nannette Davis,Jill Sear,Ann Barkley,Chris Newcomer,6,15
+18862,4,2026-04-15,winston,spring2026,highintermediate,50,women,SEDGE DILLIGHTFULS26,SEDGE Dinkerbelles,Laurie Williams,Patti McCormick,Bettina Lackner,Joni Thomason Rivas,6,15
+18862,5,2026-04-15,winston,spring2026,highintermediate,50,women,SEDGE DILLIGHTFULS26,SEDGE Dinkerbelles,Leigh Bliss,Carol M Hibbett,Ann Barkley,Chris Newcomer,15,4
+18862,6,2026-04-15,winston,spring2026,highintermediate,50,women,SEDGE DILLIGHTFULS26,SEDGE Dinkerbelles,Nannette Davis,Jill Sear,Natalie Faith Wallace,Diane Rene Toohey,16,14
+18862,7,2026-04-15,winston,spring2026,highintermediate,50,women,SEDGE DILLIGHTFULS26,SEDGE Dinkerbelles,Laurie Williams,Patti McCormick,Ann Barkley,Chris Newcomer,13,15
+18862,8,2026-04-15,winston,spring2026,highintermediate,50,women,SEDGE DILLIGHTFULS26,SEDGE Dinkerbelles,Leigh Bliss,Carol M Hibbett,Natalie Faith Wallace,Diane Rene Toohey,5,15
+18862,9,2026-04-15,winston,spring2026,highintermediate,50,women,SEDGE DILLIGHTFULS26,SEDGE Dinkerbelles,Nannette Davis,Jill Sear,Bettina Lackner,Joni Thomason Rivas,10,15
+18863,1,2026-04-15,winston,spring2026,highintermediate,50,women,SEDGE Spin & Grin Gals West,SEDGE DILLIGHTFULS26,Gina Bennett,Cindy M Thomas,Laura Michael Spangler,Kim Goodson Toompas,8,15
+18863,2,2026-04-15,winston,spring2026,highintermediate,50,women,SEDGE Spin & Grin Gals West,SEDGE DILLIGHTFULS26,Mindy K Hedrick,Cindi Caudle Watts,Caren Barnes,Carol M Hibbett,15,13
+18863,3,2026-04-15,winston,spring2026,highintermediate,50,women,SEDGE Spin & Grin Gals West,SEDGE DILLIGHTFULS26,Paige C Wilkerson,Marg Braile,Vivian Smith,Kathy Tedder Hartung,15,11
+18863,4,2026-04-15,winston,spring2026,highintermediate,50,women,SEDGE Spin & Grin Gals West,SEDGE DILLIGHTFULS26,Gina Bennett,Cindy M Thomas,Caren Barnes,Carol M Hibbett,15,8
+18863,5,2026-04-15,winston,spring2026,highintermediate,50,women,SEDGE Spin & Grin Gals West,SEDGE DILLIGHTFULS26,Mindy K Hedrick,Cindi Caudle Watts,Vivian Smith,Kathy Tedder Hartung,10,15
+18863,6,2026-04-15,winston,spring2026,highintermediate,50,women,SEDGE Spin & Grin Gals West,SEDGE DILLIGHTFULS26,Paige C Wilkerson,Marg Braile,Laura Michael Spangler,Kim Goodson Toompas,4,15
+18863,7,2026-04-15,winston,spring2026,highintermediate,50,women,SEDGE Spin & Grin Gals West,SEDGE DILLIGHTFULS26,Gina Bennett,Cindy M Thomas,Vivian Smith,Kathy Tedder Hartung,15,9
+18863,8,2026-04-15,winston,spring2026,highintermediate,50,women,SEDGE Spin & Grin Gals West,SEDGE DILLIGHTFULS26,Mindy K Hedrick,Cindi Caudle Watts,Laura Michael Spangler,Kim Goodson Toompas,7,15
+18863,9,2026-04-15,winston,spring2026,highintermediate,50,women,SEDGE Spin & Grin Gals West,SEDGE DILLIGHTFULS26,Paige C Wilkerson,Marg Braile,Caren Barnes,Carol M Hibbett,4,15
+18867,1,2026-04-22,winston,spring2026,highintermediate,50,women,SEDGE Spin & Grin Gals West,SEDGE Dinkerbelles,Jean Cummings,Julie S Riggins,Elizabeth Meeks,Joanne Dong,13,15
+18867,2,2026-04-22,winston,spring2026,highintermediate,50,women,SEDGE Spin & Grin Gals West,SEDGE Dinkerbelles,Cindi Caudle Watts,Marg Braile,Ann Barkley,Bettina Lackner,5,15
+18867,3,2026-04-22,winston,spring2026,highintermediate,50,women,SEDGE Spin & Grin Gals West,SEDGE Dinkerbelles,Carol D Vance,Gina Bennett,Cathy M Bondick,Joni Thomason Rivas,15,8
+18867,4,2026-04-22,winston,spring2026,highintermediate,50,women,SEDGE Spin & Grin Gals West,SEDGE Dinkerbelles,Jean Cummings,Julie S Riggins,Ann Barkley,Bettina Lackner,10,15
+18867,5,2026-04-22,winston,spring2026,highintermediate,50,women,SEDGE Spin & Grin Gals West,SEDGE Dinkerbelles,Cindi Caudle Watts,Marg Braile,Cathy M Bondick,Joni Thomason Rivas,15,6
+18867,6,2026-04-22,winston,spring2026,highintermediate,50,women,SEDGE Spin & Grin Gals West,SEDGE Dinkerbelles,Carol D Vance,Gina Bennett,Elizabeth Meeks,Joanne Dong,2,15
+18867,7,2026-04-22,winston,spring2026,highintermediate,50,women,SEDGE Spin & Grin Gals West,SEDGE Dinkerbelles,Jean Cummings,Julie S Riggins,Cathy M Bondick,Joni Thomason Rivas,15,6
+18867,8,2026-04-22,winston,spring2026,highintermediate,50,women,SEDGE Spin & Grin Gals West,SEDGE Dinkerbelles,Cindi Caudle Watts,Marg Braile,Elizabeth Meeks,Joanne Dong,9,15
+18867,9,2026-04-22,winston,spring2026,highintermediate,50,women,SEDGE Spin & Grin Gals West,SEDGE Dinkerbelles,Carol D Vance,Gina Bennett,Ann Barkley,Bettina Lackner,4,15
+18871,1,2026-04-29,winston,spring2026,highintermediate,50,women,SEDGE Dinkerbelles,SEDGE DILLIGHTFULS26,Diane Rene Toohey,Jean Rezzo,Kim Goodson Toompas,Laura Michael Spangler,7,15
+18871,2,2026-04-29,winston,spring2026,highintermediate,50,women,SEDGE Dinkerbelles,SEDGE DILLIGHTFULS26,Elizabeth Meeks,Joanne Dong,Leigh Bliss,Maria C Swedeen,15,3
+18871,3,2026-04-29,winston,spring2026,highintermediate,50,women,SEDGE Dinkerbelles,SEDGE DILLIGHTFULS26,Bettina Lackner,Ann Barkley,Carol M Hibbett,Caren Barnes,15,8
+18871,4,2026-04-29,winston,spring2026,highintermediate,50,women,SEDGE Dinkerbelles,SEDGE DILLIGHTFULS26,Diane Rene Toohey,Jean Rezzo,Leigh Bliss,Maria C Swedeen,7,15
+18871,5,2026-04-29,winston,spring2026,highintermediate,50,women,SEDGE Dinkerbelles,SEDGE DILLIGHTFULS26,Elizabeth Meeks,Joanne Dong,Carol M Hibbett,Caren Barnes,13,15
+18871,6,2026-04-29,winston,spring2026,highintermediate,50,women,SEDGE Dinkerbelles,SEDGE DILLIGHTFULS26,Bettina Lackner,Ann Barkley,Kim Goodson Toompas,Laura Michael Spangler,15,11
+18871,7,2026-04-29,winston,spring2026,highintermediate,50,women,SEDGE Dinkerbelles,SEDGE DILLIGHTFULS26,Diane Rene Toohey,Jean Rezzo,Carol M Hibbett,Caren Barnes,11,15
+18871,8,2026-04-29,winston,spring2026,highintermediate,50,women,SEDGE Dinkerbelles,SEDGE DILLIGHTFULS26,Elizabeth Meeks,Joanne Dong,Kim Goodson Toompas,Laura Michael Spangler,13,15
+18871,9,2026-04-29,winston,spring2026,highintermediate,50,women,SEDGE Dinkerbelles,SEDGE DILLIGHTFULS26,Bettina Lackner,Ann Barkley,Leigh Bliss,Maria C Swedeen,15,1
+18876,1,2026-04-29,winston,spring2026,highintermediate,50,women,SEDGE Dinkerbelles,SEDGE Spin & Grin Gals West,Diane Rene Toohey,Natalie Faith Wallace,Christine Schermerhorn,Laura Cockerham,17,15
+18876,2,2026-04-29,winston,spring2026,highintermediate,50,women,SEDGE Dinkerbelles,SEDGE Spin & Grin Gals West,Ann Barkley,Bettina Lackner,Cindy M Thomas,Melanie Crowder,15,6
+18876,3,2026-04-29,winston,spring2026,highintermediate,50,women,SEDGE Dinkerbelles,SEDGE Spin & Grin Gals West,Cathy M Bondick,Elizabeth Meeks,Carol E Grochowski,Jean Cummings,13,15
+18876,4,2026-04-29,winston,spring2026,highintermediate,50,women,SEDGE Dinkerbelles,SEDGE Spin & Grin Gals West,Diane Rene Toohey,Natalie Faith Wallace,Cindy M Thomas,Melanie Crowder,5,15
+18876,5,2026-04-29,winston,spring2026,highintermediate,50,women,SEDGE Dinkerbelles,SEDGE Spin & Grin Gals West,Ann Barkley,Bettina Lackner,Carol E Grochowski,Jean Cummings,15,7
+18876,6,2026-04-29,winston,spring2026,highintermediate,50,women,SEDGE Dinkerbelles,SEDGE Spin & Grin Gals West,Cathy M Bondick,Elizabeth Meeks,Christine Schermerhorn,Laura Cockerham,4,15
+18876,7,2026-04-29,winston,spring2026,highintermediate,50,women,SEDGE Dinkerbelles,SEDGE Spin & Grin Gals West,Diane Rene Toohey,Natalie Faith Wallace,Carol E Grochowski,Jean Cummings,15,6
+18876,8,2026-04-29,winston,spring2026,highintermediate,50,women,SEDGE Dinkerbelles,SEDGE Spin & Grin Gals West,Ann Barkley,Bettina Lackner,Christine Schermerhorn,Laura Cockerham,15,9
+18876,9,2026-04-29,winston,spring2026,highintermediate,50,women,SEDGE Dinkerbelles,SEDGE Spin & Grin Gals West,Cathy M Bondick,Elizabeth Meeks,Cindy M Thomas,Melanie Crowder,7,15
+18880,1,2026-05-13,winston,spring2026,highintermediate,50,women,SEDGE DILLIGHTFULS26,SEDGE Dinkerbelles,Caren Barnes,Carol M Hibbett,Chris Newcomer,Ann Barkley,10,15
+18880,2,2026-05-13,winston,spring2026,highintermediate,50,women,SEDGE DILLIGHTFULS26,SEDGE Dinkerbelles,Jill Sear,Kathy Tedder Hartung,Joanne Dong,Jean Rezzo,11,15
+18880,3,2026-05-13,winston,spring2026,highintermediate,50,women,SEDGE DILLIGHTFULS26,SEDGE Dinkerbelles,Laurie Williams,Patti McCormick,DEFAULT,DEFAULT,15,0
+18880,4,2026-05-13,winston,spring2026,highintermediate,50,women,SEDGE DILLIGHTFULS26,SEDGE Dinkerbelles,Caren Barnes,Carol M Hibbett,Joanne Dong,Jean Rezzo,15,1
+18880,5,2026-05-13,winston,spring2026,highintermediate,50,women,SEDGE DILLIGHTFULS26,SEDGE Dinkerbelles,Jill Sear,Kathy Tedder Hartung,DEFAULT,DEFAULT,15,0
+18880,6,2026-05-13,winston,spring2026,highintermediate,50,women,SEDGE DILLIGHTFULS26,SEDGE Dinkerbelles,Laurie Williams,Patti McCormick,Chris Newcomer,Ann Barkley,3,15
+18880,7,2026-05-13,winston,spring2026,highintermediate,50,women,SEDGE DILLIGHTFULS26,SEDGE Dinkerbelles,Caren Barnes,Carol M Hibbett,DEFAULT,DEFAULT,15,0
+18880,8,2026-05-13,winston,spring2026,highintermediate,50,women,SEDGE DILLIGHTFULS26,SEDGE Dinkerbelles,Jill Sear,Kathy Tedder Hartung,Chris Newcomer,Ann Barkley,4,15
+18880,9,2026-05-13,winston,spring2026,highintermediate,50,women,SEDGE DILLIGHTFULS26,SEDGE Dinkerbelles,Laurie Williams,Patti McCormick,Joanne Dong,Jean Rezzo,15,6
+18884,1,2026-05-20,winston,spring2026,highintermediate,50,women,SEDGE Spin & Grin Gals West,SEDGE DILLIGHTFULS26,Gina Bennett,Christine Schermerhorn,Caren Barnes,Kim Goodson Toompas,10,15
+18884,2,2026-05-20,winston,spring2026,highintermediate,50,women,SEDGE Spin & Grin Gals West,SEDGE DILLIGHTFULS26,Melanie Crowder,Cindy M Thomas,Leigh Bliss,Jill Sear,15,6
+18884,3,2026-05-20,winston,spring2026,highintermediate,50,women,SEDGE Spin & Grin Gals West,SEDGE DILLIGHTFULS26,Julie S Riggins,Carol E Grochowski,Kathy Tedder Hartung,Vivian Smith,15,4
+18884,4,2026-05-20,winston,spring2026,highintermediate,50,women,SEDGE Spin & Grin Gals West,SEDGE DILLIGHTFULS26,Gina Bennett,Christine Schermerhorn,Leigh Bliss,Jill Sear,6,15
+18884,5,2026-05-20,winston,spring2026,highintermediate,50,women,SEDGE Spin & Grin Gals West,SEDGE DILLIGHTFULS26,Melanie Crowder,Cindy M Thomas,Kathy Tedder Hartung,Vivian Smith,15,7
+18884,6,2026-05-20,winston,spring2026,highintermediate,50,women,SEDGE Spin & Grin Gals West,SEDGE DILLIGHTFULS26,Julie S Riggins,Carol E Grochowski,Caren Barnes,Kim Goodson Toompas,15,12
+18884,7,2026-05-20,winston,spring2026,highintermediate,50,women,SEDGE Spin & Grin Gals West,SEDGE DILLIGHTFULS26,Gina Bennett,Christine Schermerhorn,Kathy Tedder Hartung,Vivian Smith,15,3
+18884,8,2026-05-20,winston,spring2026,highintermediate,50,women,SEDGE Spin & Grin Gals West,SEDGE DILLIGHTFULS26,Melanie Crowder,Cindy M Thomas,Caren Barnes,Kim Goodson Toompas,15,13
+18884,9,2026-05-20,winston,spring2026,highintermediate,50,women,SEDGE Spin & Grin Gals West,SEDGE DILLIGHTFULS26,Julie S Riggins,Carol E Grochowski,Leigh Bliss,Jill Sear,15,7
+18886,1,2026-05-30,winston,spring2026,highintermediate,50,women,SEDGE Dinkerbelles,SEDGE DILLIGHTFULS26,Natalie Faith Wallace,Diane Rene Toohey,Laura Michael Spangler,Kim Goodson Toompas,6,15
+18886,2,2026-05-30,winston,spring2026,highintermediate,50,women,SEDGE Dinkerbelles,SEDGE DILLIGHTFULS26,Chris Newcomer,Ann Barkley,Leigh Bliss,Laurie Williams,13,15
+18886,3,2026-05-30,winston,spring2026,highintermediate,50,women,SEDGE Dinkerbelles,SEDGE DILLIGHTFULS26,Kelly London James,Joanne Dong,Caren Barnes,Carol M Hibbett,2,15
+18886,4,2026-05-30,winston,spring2026,highintermediate,50,women,SEDGE Dinkerbelles,SEDGE DILLIGHTFULS26,Natalie Faith Wallace,Diane Rene Toohey,Leigh Bliss,Laurie Williams,15,9
+18886,5,2026-05-30,winston,spring2026,highintermediate,50,women,SEDGE Dinkerbelles,SEDGE DILLIGHTFULS26,Chris Newcomer,Ann Barkley,Caren Barnes,Carol M Hibbett,15,12
+18886,6,2026-05-30,winston,spring2026,highintermediate,50,women,SEDGE Dinkerbelles,SEDGE DILLIGHTFULS26,Kelly London James,Joanne Dong,Laura Michael Spangler,Kim Goodson Toompas,1,15
+18886,7,2026-05-30,winston,spring2026,highintermediate,50,women,SEDGE Dinkerbelles,SEDGE DILLIGHTFULS26,Natalie Faith Wallace,Diane Rene Toohey,Caren Barnes,Carol M Hibbett,15,17
+18886,8,2026-05-30,winston,spring2026,highintermediate,50,women,SEDGE Dinkerbelles,SEDGE DILLIGHTFULS26,Chris Newcomer,Ann Barkley,Laura Michael Spangler,Kim Goodson Toompas,13,15
+18886,9,2026-05-30,winston,spring2026,highintermediate,50,women,SEDGE Dinkerbelles,SEDGE DILLIGHTFULS26,Kelly London James,Joanne Dong,Leigh Bliss,Laurie Williams,6,15
