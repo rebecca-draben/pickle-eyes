@@ -116,12 +116,43 @@ def parse_match(html):
                 "opponent1": o1,
                 "opponent2": o2,
                 "team1_points": team1_points,
-                "team2_points": team2_points
+                "team2_points": team2_points,
+                "league": "",
+                "season": "",
+                "skill_level": "",
+                "age": "",
+                "gender": ""
             })
             game_id += 1
     
     return games
 
+
+def parse_filename_metadata(filename):
+    base = os.path.splitext(os.path.basename(filename))[0]
+    parts = base.split("_")
+
+    league = parts[0] if len(parts) > 0 else "unknown"
+    season = parts[1] if len(parts) > 1 else "unknown"
+
+    raw = "_".join(parts[2:]) if len(parts) > 2 else "unknown"
+
+    skill_level = "unknown"
+    age = "unknown"
+    gender = "unknown"
+
+    # RULE: everything before number = skill, number = age, after number = gender
+    match = re.search(r"\d+", raw)
+
+    if match:
+        start, end = match.span()
+        skill_level = raw[:start].strip("_").strip()
+        age = raw[start:end].strip()
+        gender = raw[end:].strip("_").strip()
+    else:
+        skill_level = raw
+
+    return league, season, skill_level, age, gender
 
 
 def main():
@@ -140,6 +171,9 @@ def main():
     base_name = os.path.splitext(os.path.basename(input_file))[0]
     output_file = f"match_data_{base_name}.csv"
 
+    # Extract metadata from filename
+    league, season, skill_level, age, gender = parse_filename_metadata(input_file)
+
     # Read file content
     with open(input_file, "r", encoding="utf-8") as f:
         content = f.read()
@@ -151,6 +185,14 @@ def main():
         snippet = snippet.strip()
         if snippet:
             games = parse_match(snippet)
+
+            for g in games:
+                g["league"] = league
+                g["season"] = season
+                g["skill_level"] = skill_level
+                g["age"] = age
+                g["gender"] = gender
+
             all_games.extend(games)
 
     # 🔍 REPORTING SECTION STARTS HERE
@@ -171,7 +213,9 @@ def main():
 
     with open(output_file, "w", newline="", encoding="utf-8") as csvfile:
         fieldnames = [
-            "match_id", "game_id", "match_date", "team1_name", "team2_name",
+            "match_id", "game_id", "match_date",
+            "league", "season", "skill_level", "age", "gender",
+            "team1_name", "team2_name",
             "partner1", "partner2", "opponent1", "opponent2",
             "team1_points", "team2_points"
         ]
