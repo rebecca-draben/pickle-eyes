@@ -71,7 +71,7 @@ def parse_csv_for_ttt(csv_path):
 
 def compute_ttt_ratings(compositions, results, times, players):
     priors = {
-        p: Player(Gaussian(mu=25.0, sigma=8.333), beta=4.1667, gamma=0.03)
+        p: Player(Gaussian(mu=25.0, sigma=20), beta=4.1667, gamma=0.03)
         for p in players
     }
 
@@ -80,7 +80,7 @@ def compute_ttt_ratings(compositions, results, times, players):
         results=results,
         times=times,
         priors=priors,
-        sigma=8.333, # only used if not set for Player above
+        sigma=20, # only used if not set for Player above
         beta=4.1667, # only used if not set for Player above
         gamma=0.0 # only used if not set for Player above
     )
