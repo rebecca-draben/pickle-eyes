@@ -1,0 +1,172 @@
+match_id,game_id,match_date,league,season,skill_level,age,gender,team1_name,team2_name,partner1,partner2,opponent1,opponent2,team1_points,team2_points
+18592,1,2026-03-16,cary,spring2026,highintermediate,18,women,MD MCG 18+ High Int W,TOC Purple Reigns,Jennifer Reese,Macy Fisher,Cheryl Briley,Sandrine Tokoto,15,9
+18592,2,2026-03-16,cary,spring2026,highintermediate,18,women,MD MCG 18+ High Int W,TOC Purple Reigns,Christina Lynn Zadell,Katherine Hansen,Angela Slagill,Carrie Rice,15,4
+18592,3,2026-03-16,cary,spring2026,highintermediate,18,women,MD MCG 18+ High Int W,TOC Purple Reigns,Ann Leuth,Susan Bowser,Meghan VanGilder,Nancy Dear,15,2
+18592,4,2026-03-16,cary,spring2026,highintermediate,18,women,MD MCG 18+ High Int W,TOC Purple Reigns,Jennifer Reese,Macy Fisher,Angela Slagill,Carrie Rice,15,10
+18592,5,2026-03-16,cary,spring2026,highintermediate,18,women,MD MCG 18+ High Int W,TOC Purple Reigns,Christina Lynn Zadell,Katherine Hansen,Meghan VanGilder,Nancy Dear,15,3
+18592,6,2026-03-16,cary,spring2026,highintermediate,18,women,MD MCG 18+ High Int W,TOC Purple Reigns,Ann Leuth,Susan Bowser,Cheryl Briley,Sandrine Tokoto,7,15
+18592,7,2026-03-16,cary,spring2026,highintermediate,18,women,MD MCG 18+ High Int W,TOC Purple Reigns,Jennifer Reese,Macy Fisher,Meghan VanGilder,Nancy Dear,15,1
+18592,8,2026-03-16,cary,spring2026,highintermediate,18,women,MD MCG 18+ High Int W,TOC Purple Reigns,Christina Lynn Zadell,Katherine Hansen,Cheryl Briley,Sandrine Tokoto,9,15
+18592,9,2026-03-16,cary,spring2026,highintermediate,18,women,MD MCG 18+ High Int W,TOC Purple Reigns,Ann Leuth,Susan Bowser,Angela Slagill,Carrie Rice,9,15
+18594,1,2026-03-16,cary,spring2026,highintermediate,18,women,TOC She Bangs,PEAK Sneak Peak,Hunter Hall,Maika Arnold,Cheryl Y Whitney,Courtney Anderson,15,2
+18594,2,2026-03-16,cary,spring2026,highintermediate,18,women,TOC She Bangs,PEAK Sneak Peak,Chrissy Salinas,Kimberly Chung,Sandy Wayne,Thao LaVoie,15,6
+18594,3,2026-03-16,cary,spring2026,highintermediate,18,women,TOC She Bangs,PEAK Sneak Peak,Jacqueline Franks,Jinah Chon,Anita C Barker,Molly VanDyne,7,15
+18594,4,2026-03-16,cary,spring2026,highintermediate,18,women,TOC She Bangs,PEAK Sneak Peak,Hunter Hall,Maika Arnold,Sandy Wayne,Thao LaVoie,15,13
+18594,5,2026-03-16,cary,spring2026,highintermediate,18,women,TOC She Bangs,PEAK Sneak Peak,Chrissy Salinas,Kimberly Chung,Anita C Barker,Molly VanDyne,11,15
+18594,6,2026-03-16,cary,spring2026,highintermediate,18,women,TOC She Bangs,PEAK Sneak Peak,Jacqueline Franks,Jinah Chon,Cheryl Y Whitney,Courtney Anderson,15,2
+18594,7,2026-03-16,cary,spring2026,highintermediate,18,women,TOC She Bangs,PEAK Sneak Peak,Hunter Hall,Maika Arnold,Anita C Barker,Molly VanDyne,15,12
+18594,8,2026-03-16,cary,spring2026,highintermediate,18,women,TOC She Bangs,PEAK Sneak Peak,Chrissy Salinas,Kimberly Chung,Cheryl Y Whitney,Courtney Anderson,15,8
+18594,9,2026-03-16,cary,spring2026,highintermediate,18,women,TOC She Bangs,PEAK Sneak Peak,Jacqueline Franks,Jinah Chon,Sandy Wayne,Thao LaVoie,7,15
+18619,1,2026-03-23,cary,spring2026,highintermediate,18,women,PEAK Sneak Peak,TOC Purple Reigns,Anita C Barker,Courtney Anderson,Cheryl Briley,Sandrine Tokoto,10,15
+18619,2,2026-03-23,cary,spring2026,highintermediate,18,women,PEAK Sneak Peak,TOC Purple Reigns,Cheryl Y Whitney,Thao LaVoie,Angela Slagill,Victoria Shields,15,7
+18619,3,2026-03-23,cary,spring2026,highintermediate,18,women,PEAK Sneak Peak,TOC Purple Reigns,Sandy Wayne,Christine Liu,Carrie Rice,Meghan VanGilder,15,6
+18619,4,2026-03-23,cary,spring2026,highintermediate,18,women,PEAK Sneak Peak,TOC Purple Reigns,Anita C Barker,Courtney Anderson,Angela Slagill,Victoria Shields,15,4
+18619,5,2026-03-23,cary,spring2026,highintermediate,18,women,PEAK Sneak Peak,TOC Purple Reigns,Cheryl Y Whitney,Thao LaVoie,Carrie Rice,Meghan VanGilder,15,4
+18619,6,2026-03-23,cary,spring2026,highintermediate,18,women,PEAK Sneak Peak,TOC Purple Reigns,Sandy Wayne,Christine Liu,Cheryl Briley,Sandrine Tokoto,8,15
+18619,7,2026-03-23,cary,spring2026,highintermediate,18,women,PEAK Sneak Peak,TOC Purple Reigns,Anita C Barker,Courtney Anderson,Carrie Rice,Meghan VanGilder,15,10
+18619,8,2026-03-23,cary,spring2026,highintermediate,18,women,PEAK Sneak Peak,TOC Purple Reigns,Cheryl Y Whitney,Thao LaVoie,Cheryl Briley,Sandrine Tokoto,9,15
+18619,9,2026-03-23,cary,spring2026,highintermediate,18,women,PEAK Sneak Peak,TOC Purple Reigns,Sandy Wayne,Christine Liu,Angela Slagill,Victoria Shields,15,3
+18620,1,2026-03-23,cary,spring2026,highintermediate,18,women,TOC She Bangs,MD MCG 18+ High Int W,Chrissy Salinas,Maika Arnold,Christina Lynn Zadell,Katherine Hansen,14,16
+18620,2,2026-03-23,cary,spring2026,highintermediate,18,women,TOC She Bangs,MD MCG 18+ High Int W,Jacqueline Franks,Jinah Chon,Carol Scott Ashworth,Jody L Vinson,15,3
+18620,3,2026-03-23,cary,spring2026,highintermediate,18,women,TOC She Bangs,MD MCG 18+ High Int W,DEFAULT,DEFAULT,DEFAULT,DEFAULT,0,0
+18620,4,2026-03-23,cary,spring2026,highintermediate,18,women,TOC She Bangs,MD MCG 18+ High Int W,Chrissy Salinas,Maika Arnold,Carol Scott Ashworth,Jody L Vinson,15,10
+18620,5,2026-03-23,cary,spring2026,highintermediate,18,women,TOC She Bangs,MD MCG 18+ High Int W,Jacqueline Franks,Jinah Chon,DEFAULT,DEFAULT,15,0
+18620,6,2026-03-23,cary,spring2026,highintermediate,18,women,TOC She Bangs,MD MCG 18+ High Int W,DEFAULT,DEFAULT,Christina Lynn Zadell,Katherine Hansen,0,15
+18620,7,2026-03-23,cary,spring2026,highintermediate,18,women,TOC She Bangs,MD MCG 18+ High Int W,Chrissy Salinas,Maika Arnold,DEFAULT,DEFAULT,15,0
+18620,8,2026-03-23,cary,spring2026,highintermediate,18,women,TOC She Bangs,MD MCG 18+ High Int W,Jacqueline Franks,Jinah Chon,Christina Lynn Zadell,Katherine Hansen,15,5
+18620,9,2026-03-23,cary,spring2026,highintermediate,18,women,TOC She Bangs,MD MCG 18+ High Int W,DEFAULT,DEFAULT,Carol Scott Ashworth,Jody L Vinson,0,15
+18645,1,2026-04-06,cary,spring2026,highintermediate,18,women,PEAK Sneak Peak,MD MCG 18+ High Int W,Cheryl Y Whitney,Christine Liu,Macy Fisher,Jennifer Reese,7,15
+18645,2,2026-04-06,cary,spring2026,highintermediate,18,women,PEAK Sneak Peak,MD MCG 18+ High Int W,Courtney Anderson,Casey Federovitch,Jody L Vinson,Christina Lynn Zadell,15,6
+18645,3,2026-04-06,cary,spring2026,highintermediate,18,women,PEAK Sneak Peak,MD MCG 18+ High Int W,Molly VanDyne,Anita C Barker,DEFAULT,DEFAULT,15,0
+18645,4,2026-04-06,cary,spring2026,highintermediate,18,women,PEAK Sneak Peak,MD MCG 18+ High Int W,Cheryl Y Whitney,Christine Liu,Jody L Vinson,Christina Lynn Zadell,9,15
+18645,5,2026-04-06,cary,spring2026,highintermediate,18,women,PEAK Sneak Peak,MD MCG 18+ High Int W,Courtney Anderson,Casey Federovitch,DEFAULT,DEFAULT,15,0
+18645,6,2026-04-06,cary,spring2026,highintermediate,18,women,PEAK Sneak Peak,MD MCG 18+ High Int W,Molly VanDyne,Anita C Barker,Macy Fisher,Jennifer Reese,15,13
+18645,7,2026-04-06,cary,spring2026,highintermediate,18,women,PEAK Sneak Peak,MD MCG 18+ High Int W,Cheryl Y Whitney,Christine Liu,DEFAULT,DEFAULT,15,0
+18645,8,2026-04-06,cary,spring2026,highintermediate,18,women,PEAK Sneak Peak,MD MCG 18+ High Int W,Courtney Anderson,Casey Federovitch,Macy Fisher,Jennifer Reese,6,15
+18645,9,2026-04-06,cary,spring2026,highintermediate,18,women,PEAK Sneak Peak,MD MCG 18+ High Int W,Molly VanDyne,Anita C Barker,Jody L Vinson,Christina Lynn Zadell,15,8
+18646,1,2026-04-06,cary,spring2026,highintermediate,18,women,TOC Purple Reigns,TOC She Bangs,Sandrine Tokoto,Leiana Lane,Hunter Hall,Stephanie Fannie Chua,4,15
+18646,2,2026-04-06,cary,spring2026,highintermediate,18,women,TOC Purple Reigns,TOC She Bangs,Angela Slagill,Meghan VanGilder,Kimberly Chung,Jinah Chon,10,15
+18646,3,2026-04-06,cary,spring2026,highintermediate,18,women,TOC Purple Reigns,TOC She Bangs,DEFAULT,DEFAULT,Maika Arnold,Chrissy Salinas,0,15
+18646,4,2026-04-06,cary,spring2026,highintermediate,18,women,TOC Purple Reigns,TOC She Bangs,Sandrine Tokoto,Leiana Lane,Kimberly Chung,Jinah Chon,4,15
+18646,5,2026-04-06,cary,spring2026,highintermediate,18,women,TOC Purple Reigns,TOC She Bangs,Angela Slagill,Meghan VanGilder,Maika Arnold,Chrissy Salinas,7,15
+18646,6,2026-04-06,cary,spring2026,highintermediate,18,women,TOC Purple Reigns,TOC She Bangs,DEFAULT,DEFAULT,Hunter Hall,Stephanie Fannie Chua,0,15
+18646,7,2026-04-06,cary,spring2026,highintermediate,18,women,TOC Purple Reigns,TOC She Bangs,Sandrine Tokoto,Leiana Lane,Maika Arnold,Chrissy Salinas,2,15
+18646,8,2026-04-06,cary,spring2026,highintermediate,18,women,TOC Purple Reigns,TOC She Bangs,Angela Slagill,Meghan VanGilder,Hunter Hall,Stephanie Fannie Chua,2,15
+18646,9,2026-04-06,cary,spring2026,highintermediate,18,women,TOC Purple Reigns,TOC She Bangs,DEFAULT,DEFAULT,Kimberly Chung,Jinah Chon,0,15
+18670,1,2026-04-13,cary,spring2026,highintermediate,18,women,PEAK Sneak Peak,TOC She Bangs,Thao LaVoie,Molly VanDyne,Hunter Hall,Stephanie Fannie Chua,15,10
+18670,2,2026-04-13,cary,spring2026,highintermediate,18,women,PEAK Sneak Peak,TOC She Bangs,Anita C Barker,Courtney Anderson,Jacqueline Franks,Jinah Chon,17,15
+18670,3,2026-04-13,cary,spring2026,highintermediate,18,women,PEAK Sneak Peak,TOC She Bangs,Sandy Wayne,Christine Liu,Chrissy Salinas,Maika Arnold,6,15
+18670,4,2026-04-13,cary,spring2026,highintermediate,18,women,PEAK Sneak Peak,TOC She Bangs,Thao LaVoie,Molly VanDyne,Jacqueline Franks,Jinah Chon,15,5
+18670,5,2026-04-13,cary,spring2026,highintermediate,18,women,PEAK Sneak Peak,TOC She Bangs,Anita C Barker,Courtney Anderson,Chrissy Salinas,Maika Arnold,15,8
+18670,6,2026-04-13,cary,spring2026,highintermediate,18,women,PEAK Sneak Peak,TOC She Bangs,Sandy Wayne,Christine Liu,Hunter Hall,Stephanie Fannie Chua,4,15
+18670,7,2026-04-13,cary,spring2026,highintermediate,18,women,PEAK Sneak Peak,TOC She Bangs,Thao LaVoie,Molly VanDyne,Chrissy Salinas,Maika Arnold,15,6
+18670,8,2026-04-13,cary,spring2026,highintermediate,18,women,PEAK Sneak Peak,TOC She Bangs,Anita C Barker,Courtney Anderson,Hunter Hall,Stephanie Fannie Chua,4,15
+18670,9,2026-04-13,cary,spring2026,highintermediate,18,women,PEAK Sneak Peak,TOC She Bangs,Sandy Wayne,Christine Liu,Jacqueline Franks,Jinah Chon,9,15
+18671,1,2026-04-13,cary,spring2026,highintermediate,18,women,TOC Purple Reigns,MD MCG 18+ High Int W,Sandrine Tokoto,Victoria Shields,Marti Bowker,Katherine Hansen,9,15
+18671,2,2026-04-13,cary,spring2026,highintermediate,18,women,TOC Purple Reigns,MD MCG 18+ High Int W,Angela Slagill,Meghan VanGilder,Jody L Vinson,Ann Leuth,3,15
+18671,3,2026-04-13,cary,spring2026,highintermediate,18,women,TOC Purple Reigns,MD MCG 18+ High Int W,Carrie Rice,Leiana Lane,DEFAULT,DEFAULT,15,0
+18671,4,2026-04-13,cary,spring2026,highintermediate,18,women,TOC Purple Reigns,MD MCG 18+ High Int W,Sandrine Tokoto,Victoria Shields,Jody L Vinson,Ann Leuth,15,13
+18671,5,2026-04-13,cary,spring2026,highintermediate,18,women,TOC Purple Reigns,MD MCG 18+ High Int W,Angela Slagill,Meghan VanGilder,DEFAULT,DEFAULT,15,0
+18671,6,2026-04-13,cary,spring2026,highintermediate,18,women,TOC Purple Reigns,MD MCG 18+ High Int W,Carrie Rice,Leiana Lane,Marti Bowker,Katherine Hansen,2,15
+18671,7,2026-04-13,cary,spring2026,highintermediate,18,women,TOC Purple Reigns,MD MCG 18+ High Int W,Sandrine Tokoto,Victoria Shields,DEFAULT,DEFAULT,15,0
+18671,8,2026-04-13,cary,spring2026,highintermediate,18,women,TOC Purple Reigns,MD MCG 18+ High Int W,Angela Slagill,Meghan VanGilder,Marti Bowker,Katherine Hansen,15,11
+18671,9,2026-04-13,cary,spring2026,highintermediate,18,women,TOC Purple Reigns,MD MCG 18+ High Int W,Carrie Rice,Leiana Lane,Jody L Vinson,Ann Leuth,16,14
+18694,1,2026-04-20,cary,spring2026,highintermediate,18,women,MD MCG 18+ High Int W,TOC She Bangs,Macy Fisher,Katherine Hansen,Hunter Hall,Kimberly Chung,7,15
+18694,2,2026-04-20,cary,spring2026,highintermediate,18,women,MD MCG 18+ High Int W,TOC She Bangs,Christina Lynn Zadell,Marti Bowker,Chrissy Salinas,Stephanie Fannie Chua,10,15
+18694,3,2026-04-20,cary,spring2026,highintermediate,18,women,MD MCG 18+ High Int W,TOC She Bangs,Susan Bowser,Jody L Vinson,Jinah Chon,Maika Arnold,10,15
+18694,4,2026-04-20,cary,spring2026,highintermediate,18,women,MD MCG 18+ High Int W,TOC She Bangs,Macy Fisher,Katherine Hansen,Chrissy Salinas,Stephanie Fannie Chua,5,15
+18694,5,2026-04-20,cary,spring2026,highintermediate,18,women,MD MCG 18+ High Int W,TOC She Bangs,Christina Lynn Zadell,Marti Bowker,Jinah Chon,Maika Arnold,15,17
+18694,6,2026-04-20,cary,spring2026,highintermediate,18,women,MD MCG 18+ High Int W,TOC She Bangs,Susan Bowser,Jody L Vinson,Hunter Hall,Kimberly Chung,2,15
+18694,7,2026-04-20,cary,spring2026,highintermediate,18,women,MD MCG 18+ High Int W,TOC She Bangs,Macy Fisher,Katherine Hansen,Jinah Chon,Maika Arnold,6,15
+18694,8,2026-04-20,cary,spring2026,highintermediate,18,women,MD MCG 18+ High Int W,TOC She Bangs,Christina Lynn Zadell,Marti Bowker,Hunter Hall,Kimberly Chung,11,15
+18694,9,2026-04-20,cary,spring2026,highintermediate,18,women,MD MCG 18+ High Int W,TOC She Bangs,Susan Bowser,Jody L Vinson,Chrissy Salinas,Stephanie Fannie Chua,7,15
+18696,1,2026-04-20,cary,spring2026,highintermediate,18,women,TOC Purple Reigns,PEAK Sneak Peak,Carrie Rice,Cheryl Briley,Cheryl Y Whitney,Christine Liu,14,16
+18696,2,2026-04-20,cary,spring2026,highintermediate,18,women,TOC Purple Reigns,PEAK Sneak Peak,Angela Slagill,Meghan VanGilder,Anita C Barker,Sandy Wayne,13,15
+18696,3,2026-04-20,cary,spring2026,highintermediate,18,women,TOC Purple Reigns,PEAK Sneak Peak,Leiana Lane,Victoria Shields,Molly VanDyne,Thao LaVoie,2,15
+18696,4,2026-04-20,cary,spring2026,highintermediate,18,women,TOC Purple Reigns,PEAK Sneak Peak,Carrie Rice,Cheryl Briley,Anita C Barker,Sandy Wayne,15,11
+18696,5,2026-04-20,cary,spring2026,highintermediate,18,women,TOC Purple Reigns,PEAK Sneak Peak,Angela Slagill,Meghan VanGilder,Molly VanDyne,Thao LaVoie,2,15
+18696,6,2026-04-20,cary,spring2026,highintermediate,18,women,TOC Purple Reigns,PEAK Sneak Peak,Leiana Lane,Victoria Shields,Cheryl Y Whitney,Christine Liu,7,15
+18696,7,2026-04-20,cary,spring2026,highintermediate,18,women,TOC Purple Reigns,PEAK Sneak Peak,Carrie Rice,Cheryl Briley,Molly VanDyne,Thao LaVoie,7,15
+18696,8,2026-04-20,cary,spring2026,highintermediate,18,women,TOC Purple Reigns,PEAK Sneak Peak,Angela Slagill,Meghan VanGilder,Cheryl Y Whitney,Christine Liu,11,15
+18696,9,2026-04-20,cary,spring2026,highintermediate,18,women,TOC Purple Reigns,PEAK Sneak Peak,Leiana Lane,Victoria Shields,Anita C Barker,Sandy Wayne,4,15
+18717,1,2026-04-27,cary,spring2026,highintermediate,18,women,MD MCG 18+ High Int W,PEAK Sneak Peak,Katherine Hansen,Jennifer Reese,Casey Federovitch,Cheryl Y Whitney,15,10
+18717,2,2026-04-27,cary,spring2026,highintermediate,18,women,MD MCG 18+ High Int W,PEAK Sneak Peak,Christina Lynn Zadell,Marti Bowker,Sandy Wayne,Thao LaVoie,9,15
+18717,3,2026-04-27,cary,spring2026,highintermediate,18,women,MD MCG 18+ High Int W,PEAK Sneak Peak,Rachael Boland,Ann Leuth,Anita C Barker,Courtney Anderson,10,15
+18717,4,2026-04-27,cary,spring2026,highintermediate,18,women,MD MCG 18+ High Int W,PEAK Sneak Peak,Katherine Hansen,Jennifer Reese,Sandy Wayne,Thao LaVoie,15,5
+18717,5,2026-04-27,cary,spring2026,highintermediate,18,women,MD MCG 18+ High Int W,PEAK Sneak Peak,Christina Lynn Zadell,Marti Bowker,Anita C Barker,Courtney Anderson,15,9
+18717,6,2026-04-27,cary,spring2026,highintermediate,18,women,MD MCG 18+ High Int W,PEAK Sneak Peak,Rachael Boland,Ann Leuth,Casey Federovitch,Cheryl Y Whitney,11,15
+18717,7,2026-04-27,cary,spring2026,highintermediate,18,women,MD MCG 18+ High Int W,PEAK Sneak Peak,Katherine Hansen,Jennifer Reese,Anita C Barker,Courtney Anderson,15,8
+18717,8,2026-04-27,cary,spring2026,highintermediate,18,women,MD MCG 18+ High Int W,PEAK Sneak Peak,Christina Lynn Zadell,Marti Bowker,Casey Federovitch,Cheryl Y Whitney,15,10
+18717,9,2026-04-27,cary,spring2026,highintermediate,18,women,MD MCG 18+ High Int W,PEAK Sneak Peak,Rachael Boland,Ann Leuth,Sandy Wayne,Thao LaVoie,6,15
+18719,1,2026-04-27,cary,spring2026,highintermediate,18,women,TOC She Bangs,TOC Purple Reigns,Hunter Hall,Stephanie Fannie Chua,Sandrine Tokoto,Cheryl Briley,15,4
+18719,2,2026-04-27,cary,spring2026,highintermediate,18,women,TOC She Bangs,TOC Purple Reigns,Jacqueline Franks,Kimberly Chung,Angela Slagill,Meghan VanGilder,15,10
+18719,3,2026-04-27,cary,spring2026,highintermediate,18,women,TOC She Bangs,TOC Purple Reigns,Chrissy Salinas,Jinah Chon,Carrie Rice,Leiana Lane,15,1
+18719,4,2026-04-27,cary,spring2026,highintermediate,18,women,TOC She Bangs,TOC Purple Reigns,Hunter Hall,Stephanie Fannie Chua,Angela Slagill,Meghan VanGilder,15,2
+18719,5,2026-04-27,cary,spring2026,highintermediate,18,women,TOC She Bangs,TOC Purple Reigns,Jacqueline Franks,Kimberly Chung,Carrie Rice,Leiana Lane,15,12
+18719,6,2026-04-27,cary,spring2026,highintermediate,18,women,TOC She Bangs,TOC Purple Reigns,Chrissy Salinas,Jinah Chon,Sandrine Tokoto,Cheryl Briley,15,9
+18719,7,2026-04-27,cary,spring2026,highintermediate,18,women,TOC She Bangs,TOC Purple Reigns,Hunter Hall,Stephanie Fannie Chua,Carrie Rice,Leiana Lane,15,2
+18719,8,2026-04-27,cary,spring2026,highintermediate,18,women,TOC She Bangs,TOC Purple Reigns,Jacqueline Franks,Kimberly Chung,Sandrine Tokoto,Cheryl Briley,13,15
+18719,9,2026-04-27,cary,spring2026,highintermediate,18,women,TOC She Bangs,TOC Purple Reigns,Chrissy Salinas,Jinah Chon,Angela Slagill,Meghan VanGilder,15,6
+18745,1,2026-05-04,cary,spring2026,highintermediate,18,women,MD MCG 18+ High Int W,TOC Purple Reigns,Jennifer Reese,Katherine Hansen,Sandrine Tokoto,Cheryl Briley,13,15
+18745,2,2026-05-04,cary,spring2026,highintermediate,18,women,MD MCG 18+ High Int W,TOC Purple Reigns,Ann Leuth,Macy Fisher,Angela Slagill,Meghan VanGilder,15,10
+18745,3,2026-05-04,cary,spring2026,highintermediate,18,women,MD MCG 18+ High Int W,TOC Purple Reigns,Jody L Vinson,Susan Bowser,DEFAULT,DEFAULT,15,0
+18745,4,2026-05-04,cary,spring2026,highintermediate,18,women,MD MCG 18+ High Int W,TOC Purple Reigns,Jennifer Reese,Katherine Hansen,Angela Slagill,Meghan VanGilder,15,7
+18745,5,2026-05-04,cary,spring2026,highintermediate,18,women,MD MCG 18+ High Int W,TOC Purple Reigns,Ann Leuth,Macy Fisher,DEFAULT,DEFAULT,15,0
+18745,6,2026-05-04,cary,spring2026,highintermediate,18,women,MD MCG 18+ High Int W,TOC Purple Reigns,Jody L Vinson,Susan Bowser,Sandrine Tokoto,Cheryl Briley,15,8
+18745,7,2026-05-04,cary,spring2026,highintermediate,18,women,MD MCG 18+ High Int W,TOC Purple Reigns,Jennifer Reese,Katherine Hansen,DEFAULT,DEFAULT,15,0
+18745,8,2026-05-04,cary,spring2026,highintermediate,18,women,MD MCG 18+ High Int W,TOC Purple Reigns,Ann Leuth,Macy Fisher,Sandrine Tokoto,Cheryl Briley,15,10
+18745,9,2026-05-04,cary,spring2026,highintermediate,18,women,MD MCG 18+ High Int W,TOC Purple Reigns,Jody L Vinson,Susan Bowser,Angela Slagill,Meghan VanGilder,6,15
+18748,1,2026-05-04,cary,spring2026,highintermediate,18,women,TOC She Bangs,PEAK Sneak Peak,Chrissy Salinas,Jinah Chon,Casey Federovitch,Molly VanDyne,15,3
+18748,2,2026-05-04,cary,spring2026,highintermediate,18,women,TOC She Bangs,PEAK Sneak Peak,Jacqueline Franks,Maika Arnold,Cheryl Y Whitney,Christine Liu,15,11
+18748,3,2026-05-04,cary,spring2026,highintermediate,18,women,TOC She Bangs,PEAK Sneak Peak,Tylasia Oneal,Stephanie Fannie Chua,Anita C Barker,Sandy Wayne,15,13
+18748,4,2026-05-04,cary,spring2026,highintermediate,18,women,TOC She Bangs,PEAK Sneak Peak,Chrissy Salinas,Jinah Chon,Cheryl Y Whitney,Christine Liu,15,3
+18748,5,2026-05-04,cary,spring2026,highintermediate,18,women,TOC She Bangs,PEAK Sneak Peak,Jacqueline Franks,Maika Arnold,Anita C Barker,Sandy Wayne,15,8
+18748,6,2026-05-04,cary,spring2026,highintermediate,18,women,TOC She Bangs,PEAK Sneak Peak,Tylasia Oneal,Stephanie Fannie Chua,Casey Federovitch,Molly VanDyne,15,13
+18748,7,2026-05-04,cary,spring2026,highintermediate,18,women,TOC She Bangs,PEAK Sneak Peak,Chrissy Salinas,Jinah Chon,Anita C Barker,Sandy Wayne,15,11
+18748,8,2026-05-04,cary,spring2026,highintermediate,18,women,TOC She Bangs,PEAK Sneak Peak,Jacqueline Franks,Maika Arnold,Casey Federovitch,Molly VanDyne,10,15
+18748,9,2026-05-04,cary,spring2026,highintermediate,18,women,TOC She Bangs,PEAK Sneak Peak,Tylasia Oneal,Stephanie Fannie Chua,Cheryl Y Whitney,Christine Liu,6,15
+18769,1,2026-05-11,cary,spring2026,highintermediate,18,women,PEAK Sneak Peak,TOC Purple Reigns,Casey Federovitch,Sandy Wayne,Cheryl Briley,Sandrine Tokoto,15,11
+18769,2,2026-05-11,cary,spring2026,highintermediate,18,women,PEAK Sneak Peak,TOC Purple Reigns,Courtney Anderson,Anita C Barker,Meghan VanGilder,Angela Slagill,15,13
+18769,3,2026-05-11,cary,spring2026,highintermediate,18,women,PEAK Sneak Peak,TOC Purple Reigns,Thao LaVoie,Molly VanDyne,Victoria Shields,Leiana Lane,15,2
+18769,4,2026-05-11,cary,spring2026,highintermediate,18,women,PEAK Sneak Peak,TOC Purple Reigns,Casey Federovitch,Sandy Wayne,Meghan VanGilder,Angela Slagill,15,3
+18769,5,2026-05-11,cary,spring2026,highintermediate,18,women,PEAK Sneak Peak,TOC Purple Reigns,Courtney Anderson,Anita C Barker,Victoria Shields,Leiana Lane,15,4
+18769,6,2026-05-11,cary,spring2026,highintermediate,18,women,PEAK Sneak Peak,TOC Purple Reigns,Thao LaVoie,Molly VanDyne,Cheryl Briley,Sandrine Tokoto,15,6
+18769,7,2026-05-11,cary,spring2026,highintermediate,18,women,PEAK Sneak Peak,TOC Purple Reigns,Casey Federovitch,Sandy Wayne,Victoria Shields,Leiana Lane,15,6
+18769,8,2026-05-11,cary,spring2026,highintermediate,18,women,PEAK Sneak Peak,TOC Purple Reigns,Courtney Anderson,Anita C Barker,Cheryl Briley,Sandrine Tokoto,3,15
+18769,9,2026-05-11,cary,spring2026,highintermediate,18,women,PEAK Sneak Peak,TOC Purple Reigns,Thao LaVoie,Molly VanDyne,Meghan VanGilder,Angela Slagill,15,3
+18770,1,2026-05-11,cary,spring2026,highintermediate,18,women,TOC She Bangs,MD MCG 18+ High Int W,Chrissy Salinas,Hunter Hall,DEFAULT,DEFAULT,15,0
+18770,2,2026-05-11,cary,spring2026,highintermediate,18,women,TOC She Bangs,MD MCG 18+ High Int W,Jinah Chon,Kimberly Chung,DEFAULT,DEFAULT,15,0
+18770,3,2026-05-11,cary,spring2026,highintermediate,18,women,TOC She Bangs,MD MCG 18+ High Int W,Stephanie Fannie Chua,Tylasia Oneal,DEFAULT,DEFAULT,15,0
+18770,4,2026-05-11,cary,spring2026,highintermediate,18,women,TOC She Bangs,MD MCG 18+ High Int W,Chrissy Salinas,Hunter Hall,DEFAULT,DEFAULT,15,0
+18770,5,2026-05-11,cary,spring2026,highintermediate,18,women,TOC She Bangs,MD MCG 18+ High Int W,Jinah Chon,Kimberly Chung,DEFAULT,DEFAULT,15,0
+18770,6,2026-05-11,cary,spring2026,highintermediate,18,women,TOC She Bangs,MD MCG 18+ High Int W,Stephanie Fannie Chua,Tylasia Oneal,DEFAULT,DEFAULT,15,0
+18770,7,2026-05-11,cary,spring2026,highintermediate,18,women,TOC She Bangs,MD MCG 18+ High Int W,Chrissy Salinas,Hunter Hall,DEFAULT,DEFAULT,15,0
+18770,8,2026-05-11,cary,spring2026,highintermediate,18,women,TOC She Bangs,MD MCG 18+ High Int W,Jinah Chon,Kimberly Chung,DEFAULT,DEFAULT,15,0
+18770,9,2026-05-11,cary,spring2026,highintermediate,18,women,TOC She Bangs,MD MCG 18+ High Int W,Stephanie Fannie Chua,Tylasia Oneal,DEFAULT,DEFAULT,15,0
+18795,1,2026-05-18,cary,spring2026,highintermediate,18,women,PEAK Sneak Peak,MD MCG 18+ High Int W,Courtney Anderson,Anita C Barker,Marti Bowker,Christina Lynn Zadell,9,15
+18795,2,2026-05-18,cary,spring2026,highintermediate,18,women,PEAK Sneak Peak,MD MCG 18+ High Int W,Sandy Wayne,Christine Liu,Katherine Hansen,Rachael Boland,14,16
+18795,3,2026-05-18,cary,spring2026,highintermediate,18,women,PEAK Sneak Peak,MD MCG 18+ High Int W,Molly VanDyne,Thao LaVoie,Jody L Vinson,Susan Bowser,15,8
+18795,4,2026-05-18,cary,spring2026,highintermediate,18,women,PEAK Sneak Peak,MD MCG 18+ High Int W,Courtney Anderson,Anita C Barker,Katherine Hansen,Rachael Boland,15,2
+18795,5,2026-05-18,cary,spring2026,highintermediate,18,women,PEAK Sneak Peak,MD MCG 18+ High Int W,Sandy Wayne,Christine Liu,Jody L Vinson,Susan Bowser,15,1
+18795,6,2026-05-18,cary,spring2026,highintermediate,18,women,PEAK Sneak Peak,MD MCG 18+ High Int W,Molly VanDyne,Thao LaVoie,Marti Bowker,Christina Lynn Zadell,15,8
+18795,7,2026-05-18,cary,spring2026,highintermediate,18,women,PEAK Sneak Peak,MD MCG 18+ High Int W,Courtney Anderson,Anita C Barker,Jody L Vinson,Susan Bowser,15,5
+18795,8,2026-05-18,cary,spring2026,highintermediate,18,women,PEAK Sneak Peak,MD MCG 18+ High Int W,Sandy Wayne,Christine Liu,Marti Bowker,Christina Lynn Zadell,5,15
+18795,9,2026-05-18,cary,spring2026,highintermediate,18,women,PEAK Sneak Peak,MD MCG 18+ High Int W,Molly VanDyne,Thao LaVoie,Katherine Hansen,Rachael Boland,15,1
+18796,1,2026-05-18,cary,spring2026,highintermediate,18,women,TOC Purple Reigns,TOC She Bangs,Cheryl Briley,Sandrine Tokoto,Hunter Hall,Stephanie Fannie Chua,2,15
+18796,2,2026-05-18,cary,spring2026,highintermediate,18,women,TOC Purple Reigns,TOC She Bangs,Angela Slagill,Meghan VanGilder,Kimberly Chung,Tylasia Oneal,15,17
+18796,3,2026-05-18,cary,spring2026,highintermediate,18,women,TOC Purple Reigns,TOC She Bangs,Leiana Lane,Victoria Shields,Jacqueline Franks,Chrissy Salinas,4,15
+18796,4,2026-05-18,cary,spring2026,highintermediate,18,women,TOC Purple Reigns,TOC She Bangs,Cheryl Briley,Sandrine Tokoto,Kimberly Chung,Tylasia Oneal,15,5
+18796,5,2026-05-18,cary,spring2026,highintermediate,18,women,TOC Purple Reigns,TOC She Bangs,Angela Slagill,Meghan VanGilder,Jacqueline Franks,Chrissy Salinas,10,15
+18796,6,2026-05-18,cary,spring2026,highintermediate,18,women,TOC Purple Reigns,TOC She Bangs,Leiana Lane,Victoria Shields,Hunter Hall,Stephanie Fannie Chua,0,15
+18796,7,2026-05-18,cary,spring2026,highintermediate,18,women,TOC Purple Reigns,TOC She Bangs,Cheryl Briley,Sandrine Tokoto,Jacqueline Franks,Chrissy Salinas,4,15
+18796,8,2026-05-18,cary,spring2026,highintermediate,18,women,TOC Purple Reigns,TOC She Bangs,Angela Slagill,Meghan VanGilder,Hunter Hall,Stephanie Fannie Chua,4,15
+18796,9,2026-05-18,cary,spring2026,highintermediate,18,women,TOC Purple Reigns,TOC She Bangs,Leiana Lane,Victoria Shields,Kimberly Chung,Tylasia Oneal,3,15
+18832,1,2026-06-07,cary,spring2026,highintermediate,18,women,TOC She Bangs,PEAK Sneak Peak,Stephanie Fannie Chua,Jinah Chon,Casey Federovitch,Sandy Wayne,15,10
+18832,2,2026-06-07,cary,spring2026,highintermediate,18,women,TOC She Bangs,PEAK Sneak Peak,Maika Arnold,Chrissy Salinas,Anita C Barker,Courtney Anderson,15,1
+18832,3,2026-06-07,cary,spring2026,highintermediate,18,women,TOC She Bangs,PEAK Sneak Peak,Kimberly Chung,Jacqueline Franks,Molly VanDyne,Thao LaVoie,6,15
+18832,4,2026-06-07,cary,spring2026,highintermediate,18,women,TOC She Bangs,PEAK Sneak Peak,Stephanie Fannie Chua,Jinah Chon,Anita C Barker,Courtney Anderson,15,2
+18832,5,2026-06-07,cary,spring2026,highintermediate,18,women,TOC She Bangs,PEAK Sneak Peak,Maika Arnold,Chrissy Salinas,Molly VanDyne,Thao LaVoie,11,15
+18832,6,2026-06-07,cary,spring2026,highintermediate,18,women,TOC She Bangs,PEAK Sneak Peak,Kimberly Chung,Jacqueline Franks,Casey Federovitch,Sandy Wayne,7,15
+18832,7,2026-06-07,cary,spring2026,highintermediate,18,women,TOC She Bangs,PEAK Sneak Peak,Stephanie Fannie Chua,Jinah Chon,Molly VanDyne,Thao LaVoie,10,15
+18832,8,2026-06-07,cary,spring2026,highintermediate,18,women,TOC She Bangs,PEAK Sneak Peak,Maika Arnold,Chrissy Salinas,Casey Federovitch,Sandy Wayne,15,12
+18832,9,2026-06-07,cary,spring2026,highintermediate,18,women,TOC She Bangs,PEAK Sneak Peak,Kimberly Chung,Jacqueline Franks,Anita C Barker,Courtney Anderson,15,10
