@@ -94,10 +94,18 @@ def parse_match(html):
             team1_players = extract_players(cells[1])
             team2_players = extract_players(cells[2])
             
-            score_text = cells[3].text.strip()
+            # Split the score cell on line breaks: first line is the score,
+            # second line (if present) is the status (e.g. "Completed")
+            score_lines = [
+                line.strip()
+                for line in cells[3].get_text(separator="\n").split("\n")
+                if line.strip()
+            ]
+            score_text = score_lines[0] if score_lines else ""
+            status = score_lines[1] if len(score_lines) > 1 else ""
+
             if "-" in score_text:
-                score_part = score_text.split("\n")[0].strip()
-                team1_points, team2_points = [s.strip() for s in score_part.split("-")]
+                team1_points, team2_points = [s.strip() for s in score_text.split("-")]
                 team2_points = re.sub(r"\D", "", team2_points)  # keep digits only
             else:
                 team1_points = team2_points = ""
@@ -117,6 +125,7 @@ def parse_match(html):
                 "opponent2": o2,
                 "team1_points": team1_points,
                 "team2_points": team2_points,
+                "status": status,
                 "league": "",
                 "season": "",
                 "skill_level": "",
@@ -217,7 +226,7 @@ def main():
             "league", "season", "skill_level", "age", "gender",
             "team1_name", "team2_name",
             "partner1", "partner2", "opponent1", "opponent2",
-            "team1_points", "team2_points"
+            "team1_points", "team2_points", "status"
         ]
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
         writer.writeheader()
