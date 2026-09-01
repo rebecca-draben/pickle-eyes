@@ -1,172 +1,172 @@
-match_id,game_id,match_date,league,season,skill_level,age,gender,team1_name,team2_name,partner1,partner2,opponent1,opponent2,team1_points,team2_points
-17856,1,2026-03-18,triad,spring2026,advanced,18,women,LJ In a Pickle,PINE Pickle Peppers,Jami Heller,Channah Valkos,Kate Meiners,Juliana Craft,15,10
-17856,2,2026-03-18,triad,spring2026,advanced,18,women,LJ In a Pickle,PINE Pickle Peppers,Beth Mayer,Beth W Harris,Gabrielle Wreder,Denise Speight,10,15
-17856,3,2026-03-18,triad,spring2026,advanced,18,women,LJ In a Pickle,PINE Pickle Peppers,Nancy Jones,Wendy Robb,Nancy Benda-Pierce,Melissa Agner,1,15
-17856,4,2026-03-18,triad,spring2026,advanced,18,women,LJ In a Pickle,PINE Pickle Peppers,Jami Heller,Channah Valkos,Gabrielle Wreder,Denise Speight,15,12
-17856,5,2026-03-18,triad,spring2026,advanced,18,women,LJ In a Pickle,PINE Pickle Peppers,Beth Mayer,Beth W Harris,Nancy Benda-Pierce,Melissa Agner,3,15
-17856,6,2026-03-18,triad,spring2026,advanced,18,women,LJ In a Pickle,PINE Pickle Peppers,Nancy Jones,Wendy Robb,Kate Meiners,Juliana Craft,10,15
-17856,7,2026-03-18,triad,spring2026,advanced,18,women,LJ In a Pickle,PINE Pickle Peppers,Jami Heller,Channah Valkos,Nancy Benda-Pierce,Melissa Agner,11,15
-17856,8,2026-03-18,triad,spring2026,advanced,18,women,LJ In a Pickle,PINE Pickle Peppers,Beth Mayer,Beth W Harris,Kate Meiners,Juliana Craft,7,15
-17856,9,2026-03-18,triad,spring2026,advanced,18,women,LJ In a Pickle,PINE Pickle Peppers,Nancy Jones,Wendy Robb,Gabrielle Wreder,Denise Speight,9,15
-17857,1,2026-03-18,triad,spring2026,advanced,18,women,LAWN Lawndale LOL,HPCC Over Dinking It,Kelly Tysinger,Jameson Sellers,Lucy Schermerhorn,Christine Schermerhorn,15,9
-17857,2,2026-03-18,triad,spring2026,advanced,18,women,LAWN Lawndale LOL,HPCC Over Dinking It,Angiemil Perez Pena,Lori L Lundy,Katie Rowell,Sara Strassell,0,15
-17857,3,2026-03-18,triad,spring2026,advanced,18,women,LAWN Lawndale LOL,HPCC Over Dinking It,Michelle Gee,Lindsay Pieper,Wendy Austin,Amy Robinson,15,6
-17857,4,2026-03-18,triad,spring2026,advanced,18,women,LAWN Lawndale LOL,HPCC Over Dinking It,Kelly Tysinger,Jameson Sellers,Katie Rowell,Sara Strassell,15,8
-17857,5,2026-03-18,triad,spring2026,advanced,18,women,LAWN Lawndale LOL,HPCC Over Dinking It,Angiemil Perez Pena,Lori L Lundy,Wendy Austin,Amy Robinson,9,15
-17857,6,2026-03-18,triad,spring2026,advanced,18,women,LAWN Lawndale LOL,HPCC Over Dinking It,Michelle Gee,Lindsay Pieper,Lucy Schermerhorn,Christine Schermerhorn,15,10
-17857,7,2026-03-18,triad,spring2026,advanced,18,women,LAWN Lawndale LOL,HPCC Over Dinking It,Kelly Tysinger,Jameson Sellers,Wendy Austin,Amy Robinson,15,4
-17857,8,2026-03-18,triad,spring2026,advanced,18,women,LAWN Lawndale LOL,HPCC Over Dinking It,Angiemil Perez Pena,Lori L Lundy,Lucy Schermerhorn,Christine Schermerhorn,15,10
-17857,9,2026-03-18,triad,spring2026,advanced,18,women,LAWN Lawndale LOL,HPCC Over Dinking It,Michelle Gee,Lindsay Pieper,Katie Rowell,Sara Strassell,13,15
-17891,1,2026-03-25,triad,spring2026,advanced,18,women,HPCC Over Dinking It,PINE Pickle Peppers,Sarah Howell,Lucy Schermerhorn,Melissa Agner,Nancy Benda-Pierce,15,5
-17891,2,2026-03-25,triad,spring2026,advanced,18,women,HPCC Over Dinking It,PINE Pickle Peppers,Suellen McCrary,Lee Nunn,Kate Meiners,Denise Speight,15,11
-17891,3,2026-03-25,triad,spring2026,advanced,18,women,HPCC Over Dinking It,PINE Pickle Peppers,Katie Rowell,Stephanie Ross,Bety Miranda,Clare Cox Overbey,15,5
-17891,4,2026-03-25,triad,spring2026,advanced,18,women,HPCC Over Dinking It,PINE Pickle Peppers,Sarah Howell,Lucy Schermerhorn,Kate Meiners,Denise Speight,15,12
-17891,5,2026-03-25,triad,spring2026,advanced,18,women,HPCC Over Dinking It,PINE Pickle Peppers,Suellen McCrary,Lee Nunn,Bety Miranda,Clare Cox Overbey,6,15
-17891,6,2026-03-25,triad,spring2026,advanced,18,women,HPCC Over Dinking It,PINE Pickle Peppers,Katie Rowell,Stephanie Ross,Melissa Agner,Nancy Benda-Pierce,9,15
-17891,7,2026-03-25,triad,spring2026,advanced,18,women,HPCC Over Dinking It,PINE Pickle Peppers,Sarah Howell,Lucy Schermerhorn,Bety Miranda,Clare Cox Overbey,15,8
-17891,8,2026-03-25,triad,spring2026,advanced,18,women,HPCC Over Dinking It,PINE Pickle Peppers,Suellen McCrary,Lee Nunn,Melissa Agner,Nancy Benda-Pierce,3,15
-17891,9,2026-03-25,triad,spring2026,advanced,18,women,HPCC Over Dinking It,PINE Pickle Peppers,Katie Rowell,Stephanie Ross,Kate Meiners,Denise Speight,15,11
-17892,1,2026-03-25,triad,spring2026,advanced,18,women,LAWN Lawndale LOL,LJ In a Pickle,Kelly Tysinger,Jameson Sellers,Channah Valkos,Jami Heller,15,9
-17892,2,2026-03-25,triad,spring2026,advanced,18,women,LAWN Lawndale LOL,LJ In a Pickle,Michelle Gee,Lori L Lundy,Penny Trivette,Anne Givan,15,13
-17892,3,2026-03-25,triad,spring2026,advanced,18,women,LAWN Lawndale LOL,LJ In a Pickle,Amy Brewington,April Nonato,Leigh Ann Oldis,Meredith Davis,15,11
-17892,4,2026-03-25,triad,spring2026,advanced,18,women,LAWN Lawndale LOL,LJ In a Pickle,Kelly Tysinger,Jameson Sellers,Penny Trivette,Anne Givan,15,2
-17892,5,2026-03-25,triad,spring2026,advanced,18,women,LAWN Lawndale LOL,LJ In a Pickle,Michelle Gee,Lori L Lundy,Leigh Ann Oldis,Meredith Davis,13,15
-17892,6,2026-03-25,triad,spring2026,advanced,18,women,LAWN Lawndale LOL,LJ In a Pickle,Amy Brewington,April Nonato,Channah Valkos,Jami Heller,11,15
-17892,7,2026-03-25,triad,spring2026,advanced,18,women,LAWN Lawndale LOL,LJ In a Pickle,Kelly Tysinger,Jameson Sellers,Leigh Ann Oldis,Meredith Davis,13,15
-17892,8,2026-03-25,triad,spring2026,advanced,18,women,LAWN Lawndale LOL,LJ In a Pickle,Michelle Gee,Lori L Lundy,Channah Valkos,Jami Heller,11,15
-17892,9,2026-03-25,triad,spring2026,advanced,18,women,LAWN Lawndale LOL,LJ In a Pickle,Amy Brewington,April Nonato,Penny Trivette,Anne Givan,16,14
-17938,1,2026-04-08,triad,spring2026,advanced,18,women,LJ In a Pickle,HPCC Over Dinking It,Mandy Ratliff,Nancy Jones,Sara Strassell,Sarah Howell,11,15
-17938,2,2026-04-08,triad,spring2026,advanced,18,women,LJ In a Pickle,HPCC Over Dinking It,Meredith Davis,Carla Huffman,Wendy Austin,Stephanie Ross,15,11
-17938,3,2026-04-08,triad,spring2026,advanced,18,women,LJ In a Pickle,HPCC Over Dinking It,Jill Jones,Beth Mayer,Christine Schermerhorn,Kissie Stroup,15,13
-17938,4,2026-04-08,triad,spring2026,advanced,18,women,LJ In a Pickle,HPCC Over Dinking It,Mandy Ratliff,Nancy Jones,Wendy Austin,Stephanie Ross,15,9
-17938,5,2026-04-08,triad,spring2026,advanced,18,women,LJ In a Pickle,HPCC Over Dinking It,Meredith Davis,Carla Huffman,Christine Schermerhorn,Kissie Stroup,15,8
-17938,6,2026-04-08,triad,spring2026,advanced,18,women,LJ In a Pickle,HPCC Over Dinking It,Jill Jones,Beth Mayer,Sara Strassell,Sarah Howell,9,15
-17938,7,2026-04-08,triad,spring2026,advanced,18,women,LJ In a Pickle,HPCC Over Dinking It,Mandy Ratliff,Nancy Jones,Christine Schermerhorn,Kissie Stroup,15,6
-17938,8,2026-04-08,triad,spring2026,advanced,18,women,LJ In a Pickle,HPCC Over Dinking It,Meredith Davis,Carla Huffman,Sara Strassell,Sarah Howell,15,4
-17938,9,2026-04-08,triad,spring2026,advanced,18,women,LJ In a Pickle,HPCC Over Dinking It,Jill Jones,Beth Mayer,Wendy Austin,Stephanie Ross,11,15
-17939,1,2026-04-08,triad,spring2026,advanced,18,women,PINE Pickle Peppers,LAWN Lawndale LOL,Clare Cox Overbey,Tiffany Brown,Amy Brewington,Angiemil Perez Pena,15,6
-17939,2,2026-04-08,triad,spring2026,advanced,18,women,PINE Pickle Peppers,LAWN Lawndale LOL,Juliana Craft,Kate Meiners,Jameson Sellers,Kelly Tysinger,15,11
-17939,3,2026-04-08,triad,spring2026,advanced,18,women,PINE Pickle Peppers,LAWN Lawndale LOL,Melissa Agner,Nancy Benda-Pierce,Michelle Gee,Lindsay Pieper,15,7
-17939,4,2026-04-08,triad,spring2026,advanced,18,women,PINE Pickle Peppers,LAWN Lawndale LOL,Clare Cox Overbey,Tiffany Brown,Jameson Sellers,Kelly Tysinger,8,15
-17939,5,2026-04-08,triad,spring2026,advanced,18,women,PINE Pickle Peppers,LAWN Lawndale LOL,Juliana Craft,Kate Meiners,Michelle Gee,Lindsay Pieper,15,10
-17939,6,2026-04-08,triad,spring2026,advanced,18,women,PINE Pickle Peppers,LAWN Lawndale LOL,Melissa Agner,Nancy Benda-Pierce,Amy Brewington,Angiemil Perez Pena,15,6
-17939,7,2026-04-08,triad,spring2026,advanced,18,women,PINE Pickle Peppers,LAWN Lawndale LOL,Clare Cox Overbey,Tiffany Brown,Michelle Gee,Lindsay Pieper,15,11
-17939,8,2026-04-08,triad,spring2026,advanced,18,women,PINE Pickle Peppers,LAWN Lawndale LOL,Juliana Craft,Kate Meiners,Amy Brewington,Angiemil Perez Pena,15,5
-17939,9,2026-04-08,triad,spring2026,advanced,18,women,PINE Pickle Peppers,LAWN Lawndale LOL,Melissa Agner,Nancy Benda-Pierce,Jameson Sellers,Kelly Tysinger,15,10
-17977,1,2026-04-15,triad,spring2026,advanced,18,women,PINE Pickle Peppers,LJ In a Pickle,Nancy Benda-Pierce,Gabrielle Wreder,Jami Heller,Meredith Davis,14,16
-17977,2,2026-04-15,triad,spring2026,advanced,18,women,PINE Pickle Peppers,LJ In a Pickle,Melissa Agner,Tiffany Brown,Channah Valkos,Wendy Robb,15,8
-17977,3,2026-04-15,triad,spring2026,advanced,18,women,PINE Pickle Peppers,LJ In a Pickle,Juliana Craft,Bety Miranda,Mandy Ratliff,Lora Wentz,4,15
-17977,4,2026-04-15,triad,spring2026,advanced,18,women,PINE Pickle Peppers,LJ In a Pickle,Nancy Benda-Pierce,Gabrielle Wreder,Channah Valkos,Wendy Robb,15,8
-17977,5,2026-04-15,triad,spring2026,advanced,18,women,PINE Pickle Peppers,LJ In a Pickle,Melissa Agner,Tiffany Brown,Mandy Ratliff,Lora Wentz,11,15
-17977,6,2026-04-15,triad,spring2026,advanced,18,women,PINE Pickle Peppers,LJ In a Pickle,Juliana Craft,Bety Miranda,Jami Heller,Meredith Davis,11,15
-17977,7,2026-04-15,triad,spring2026,advanced,18,women,PINE Pickle Peppers,LJ In a Pickle,Nancy Benda-Pierce,Gabrielle Wreder,Mandy Ratliff,Lora Wentz,15,3
-17977,8,2026-04-15,triad,spring2026,advanced,18,women,PINE Pickle Peppers,LJ In a Pickle,Melissa Agner,Tiffany Brown,Jami Heller,Meredith Davis,9,15
-17977,9,2026-04-15,triad,spring2026,advanced,18,women,PINE Pickle Peppers,LJ In a Pickle,Juliana Craft,Bety Miranda,Channah Valkos,Wendy Robb,15,9
-17978,1,2026-04-15,triad,spring2026,advanced,18,women,HPCC Over Dinking It,LAWN Lawndale LOL,Lucy Schermerhorn,Sarah Howell,Michelle Gee,Lindsay Pieper,8,15
-17978,2,2026-04-15,triad,spring2026,advanced,18,women,HPCC Over Dinking It,LAWN Lawndale LOL,Lee Nunn,Wendy Austin,Kelly Tysinger,Jameson Sellers,15,9
-17978,3,2026-04-15,triad,spring2026,advanced,18,women,HPCC Over Dinking It,LAWN Lawndale LOL,Katie Rowell,Stephanie Ross,April Nonato,Amy Brewington,15,6
-17978,4,2026-04-15,triad,spring2026,advanced,18,women,HPCC Over Dinking It,LAWN Lawndale LOL,Lucy Schermerhorn,Sarah Howell,Kelly Tysinger,Jameson Sellers,8,15
-17978,5,2026-04-15,triad,spring2026,advanced,18,women,HPCC Over Dinking It,LAWN Lawndale LOL,Lee Nunn,Wendy Austin,April Nonato,Amy Brewington,6,15
-17978,6,2026-04-15,triad,spring2026,advanced,18,women,HPCC Over Dinking It,LAWN Lawndale LOL,Katie Rowell,Stephanie Ross,Michelle Gee,Lindsay Pieper,9,15
-17978,7,2026-04-15,triad,spring2026,advanced,18,women,HPCC Over Dinking It,LAWN Lawndale LOL,Lucy Schermerhorn,Sarah Howell,April Nonato,Amy Brewington,11,15
-17978,8,2026-04-15,triad,spring2026,advanced,18,women,HPCC Over Dinking It,LAWN Lawndale LOL,Lee Nunn,Wendy Austin,Michelle Gee,Lindsay Pieper,5,15
-17978,9,2026-04-15,triad,spring2026,advanced,18,women,HPCC Over Dinking It,LAWN Lawndale LOL,Katie Rowell,Stephanie Ross,Kelly Tysinger,Jameson Sellers,12,15
-18014,1,2026-04-22,triad,spring2026,advanced,18,women,LJ In a Pickle,LAWN Lawndale LOL,Jami Heller,Meredith Davis,Amy Brewington,April Nonato,15,1
-18014,2,2026-04-22,triad,spring2026,advanced,18,women,LJ In a Pickle,LAWN Lawndale LOL,Mandy Ratliff,Penny Trivette,Jameson Sellers,Kelly Tysinger,8,15
-18014,3,2026-04-22,triad,spring2026,advanced,18,women,LJ In a Pickle,LAWN Lawndale LOL,Beth Mayer,Beth W Harris,Lindsay Pieper,Lori L Lundy,10,15
-18014,4,2026-04-22,triad,spring2026,advanced,18,women,LJ In a Pickle,LAWN Lawndale LOL,Jami Heller,Meredith Davis,Jameson Sellers,Kelly Tysinger,15,9
-18014,5,2026-04-22,triad,spring2026,advanced,18,women,LJ In a Pickle,LAWN Lawndale LOL,Mandy Ratliff,Penny Trivette,Lindsay Pieper,Lori L Lundy,2,15
-18014,6,2026-04-22,triad,spring2026,advanced,18,women,LJ In a Pickle,LAWN Lawndale LOL,Beth Mayer,Beth W Harris,Amy Brewington,April Nonato,12,15
-18014,7,2026-04-22,triad,spring2026,advanced,18,women,LJ In a Pickle,LAWN Lawndale LOL,Jami Heller,Meredith Davis,Lindsay Pieper,Lori L Lundy,15,2
-18014,8,2026-04-22,triad,spring2026,advanced,18,women,LJ In a Pickle,LAWN Lawndale LOL,Mandy Ratliff,Penny Trivette,Amy Brewington,April Nonato,13,15
-18014,9,2026-04-22,triad,spring2026,advanced,18,women,LJ In a Pickle,LAWN Lawndale LOL,Beth Mayer,Beth W Harris,Jameson Sellers,Kelly Tysinger,5,15
-18015,1,2026-04-22,triad,spring2026,advanced,18,women,PINE Pickle Peppers,HPCC Over Dinking It,Clare Cox Overbey,Kate Meiners,Daneika Eaton,Katie Rowell,1,15
-18015,2,2026-04-22,triad,spring2026,advanced,18,women,PINE Pickle Peppers,HPCC Over Dinking It,Gabrielle Wreder,Denise Speight,Kissie Stroup,Lee Nunn,15,9
-18015,3,2026-04-22,triad,spring2026,advanced,18,women,PINE Pickle Peppers,HPCC Over Dinking It,Melissa Agner,Nancy Benda-Pierce,Stephanie Ross,Amy Robinson,15,5
-18015,4,2026-04-22,triad,spring2026,advanced,18,women,PINE Pickle Peppers,HPCC Over Dinking It,Clare Cox Overbey,Kate Meiners,Kissie Stroup,Lee Nunn,15,5
-18015,5,2026-04-22,triad,spring2026,advanced,18,women,PINE Pickle Peppers,HPCC Over Dinking It,Gabrielle Wreder,Denise Speight,Stephanie Ross,Amy Robinson,15,9
-18015,6,2026-04-22,triad,spring2026,advanced,18,women,PINE Pickle Peppers,HPCC Over Dinking It,Melissa Agner,Nancy Benda-Pierce,Daneika Eaton,Katie Rowell,15,9
-18015,7,2026-04-22,triad,spring2026,advanced,18,women,PINE Pickle Peppers,HPCC Over Dinking It,Clare Cox Overbey,Kate Meiners,Stephanie Ross,Amy Robinson,15,7
-18015,8,2026-04-22,triad,spring2026,advanced,18,women,PINE Pickle Peppers,HPCC Over Dinking It,Gabrielle Wreder,Denise Speight,Daneika Eaton,Katie Rowell,3,15
-18015,9,2026-04-22,triad,spring2026,advanced,18,women,PINE Pickle Peppers,HPCC Over Dinking It,Melissa Agner,Nancy Benda-Pierce,Kissie Stroup,Lee Nunn,15,11
-18050,1,2026-04-29,triad,spring2026,advanced,18,women,HPCC Over Dinking It,LJ In a Pickle,Sarah Howell,Katie Rowell,Jami Heller,Nancy Jones,14,16
-18050,2,2026-04-29,triad,spring2026,advanced,18,women,HPCC Over Dinking It,LJ In a Pickle,Kissie Stroup,Lucy Schermerhorn,Channah Valkos,Mandy Ratliff,13,15
-18050,3,2026-04-29,triad,spring2026,advanced,18,women,HPCC Over Dinking It,LJ In a Pickle,Christine Schermerhorn,Suellen McCrary,Leigh Ann Oldis,Carla Huffman,15,11
-18050,4,2026-04-29,triad,spring2026,advanced,18,women,HPCC Over Dinking It,LJ In a Pickle,Sarah Howell,Katie Rowell,Channah Valkos,Mandy Ratliff,15,3
-18050,5,2026-04-29,triad,spring2026,advanced,18,women,HPCC Over Dinking It,LJ In a Pickle,Kissie Stroup,Lucy Schermerhorn,Leigh Ann Oldis,Carla Huffman,15,5
-18050,6,2026-04-29,triad,spring2026,advanced,18,women,HPCC Over Dinking It,LJ In a Pickle,Christine Schermerhorn,Suellen McCrary,Jami Heller,Nancy Jones,7,15
-18050,7,2026-04-29,triad,spring2026,advanced,18,women,HPCC Over Dinking It,LJ In a Pickle,Sarah Howell,Katie Rowell,Leigh Ann Oldis,Carla Huffman,15,6
-18050,8,2026-04-29,triad,spring2026,advanced,18,women,HPCC Over Dinking It,LJ In a Pickle,Kissie Stroup,Lucy Schermerhorn,Jami Heller,Nancy Jones,16,14
-18050,9,2026-04-29,triad,spring2026,advanced,18,women,HPCC Over Dinking It,LJ In a Pickle,Christine Schermerhorn,Suellen McCrary,Channah Valkos,Mandy Ratliff,7,15
-18051,1,2026-04-29,triad,spring2026,advanced,18,women,LAWN Lawndale LOL,PINE Pickle Peppers,Amy Brewington,April Nonato,Gabrielle Wreder,Clare Cox Overbey,16,14
-18051,2,2026-04-29,triad,spring2026,advanced,18,women,LAWN Lawndale LOL,PINE Pickle Peppers,Kelly Tysinger,Jameson Sellers,Melissa Agner,Nancy Benda-Pierce,3,15
-18051,3,2026-04-29,triad,spring2026,advanced,18,women,LAWN Lawndale LOL,PINE Pickle Peppers,Michelle Gee,Lindsay Pieper,Denise Speight,Juliana Craft,5,15
-18051,4,2026-04-29,triad,spring2026,advanced,18,women,LAWN Lawndale LOL,PINE Pickle Peppers,Amy Brewington,April Nonato,Melissa Agner,Nancy Benda-Pierce,7,15
-18051,5,2026-04-29,triad,spring2026,advanced,18,women,LAWN Lawndale LOL,PINE Pickle Peppers,Kelly Tysinger,Jameson Sellers,Denise Speight,Juliana Craft,15,12
-18051,6,2026-04-29,triad,spring2026,advanced,18,women,LAWN Lawndale LOL,PINE Pickle Peppers,Michelle Gee,Lindsay Pieper,Gabrielle Wreder,Clare Cox Overbey,9,15
-18051,7,2026-04-29,triad,spring2026,advanced,18,women,LAWN Lawndale LOL,PINE Pickle Peppers,Amy Brewington,April Nonato,Denise Speight,Juliana Craft,8,15
-18051,8,2026-04-29,triad,spring2026,advanced,18,women,LAWN Lawndale LOL,PINE Pickle Peppers,Kelly Tysinger,Jameson Sellers,Gabrielle Wreder,Clare Cox Overbey,15,7
-18051,9,2026-04-29,triad,spring2026,advanced,18,women,LAWN Lawndale LOL,PINE Pickle Peppers,Michelle Gee,Lindsay Pieper,Melissa Agner,Nancy Benda-Pierce,6,15
-18086,1,2026-05-06,triad,spring2026,advanced,18,women,LJ In a Pickle,PINE Pickle Peppers,Anne Givan,Carla Huffman,Melissa Agner,Juliana Craft,4,15
-18086,2,2026-05-06,triad,spring2026,advanced,18,women,LJ In a Pickle,PINE Pickle Peppers,Beth Mayer,Jill Jones,Gabrielle Wreder,Bety Miranda,19,17
-18086,3,2026-05-06,triad,spring2026,advanced,18,women,LJ In a Pickle,PINE Pickle Peppers,Leigh Ann Oldis,Meredith Davis,DEFAULT,DEFAULT,15,0
-18086,4,2026-05-06,triad,spring2026,advanced,18,women,LJ In a Pickle,PINE Pickle Peppers,Anne Givan,Carla Huffman,Gabrielle Wreder,Bety Miranda,5,15
-18086,5,2026-05-06,triad,spring2026,advanced,18,women,LJ In a Pickle,PINE Pickle Peppers,Beth Mayer,Jill Jones,DEFAULT,DEFAULT,15,0
-18086,6,2026-05-06,triad,spring2026,advanced,18,women,LJ In a Pickle,PINE Pickle Peppers,Leigh Ann Oldis,Meredith Davis,Melissa Agner,Juliana Craft,8,15
-18086,7,2026-05-06,triad,spring2026,advanced,18,women,LJ In a Pickle,PINE Pickle Peppers,Anne Givan,Carla Huffman,DEFAULT,DEFAULT,15,0
-18086,8,2026-05-06,triad,spring2026,advanced,18,women,LJ In a Pickle,PINE Pickle Peppers,Beth Mayer,Jill Jones,Melissa Agner,Juliana Craft,2,15
-18086,9,2026-05-06,triad,spring2026,advanced,18,women,LJ In a Pickle,PINE Pickle Peppers,Leigh Ann Oldis,Meredith Davis,Gabrielle Wreder,Bety Miranda,7,15
-18087,1,2026-05-06,triad,spring2026,advanced,18,women,LAWN Lawndale LOL,HPCC Over Dinking It,Lindsay Pieper,Michelle Gee,Katie Rowell,Stephanie Ross,9,15
-18087,2,2026-05-06,triad,spring2026,advanced,18,women,LAWN Lawndale LOL,HPCC Over Dinking It,Lori L Lundy,Amy Brewington,Wendy Austin,Christine Schermerhorn,15,10
-18087,3,2026-05-06,triad,spring2026,advanced,18,women,LAWN Lawndale LOL,HPCC Over Dinking It,Jameson Sellers,Carinna Barr Batten,Amy Robinson,Kissie Stroup,15,2
-18087,4,2026-05-06,triad,spring2026,advanced,18,women,LAWN Lawndale LOL,HPCC Over Dinking It,Lindsay Pieper,Michelle Gee,Wendy Austin,Christine Schermerhorn,15,12
-18087,5,2026-05-06,triad,spring2026,advanced,18,women,LAWN Lawndale LOL,HPCC Over Dinking It,Lori L Lundy,Amy Brewington,Amy Robinson,Kissie Stroup,15,8
-18087,6,2026-05-06,triad,spring2026,advanced,18,women,LAWN Lawndale LOL,HPCC Over Dinking It,Jameson Sellers,Carinna Barr Batten,Katie Rowell,Stephanie Ross,7,15
-18087,7,2026-05-06,triad,spring2026,advanced,18,women,LAWN Lawndale LOL,HPCC Over Dinking It,Lindsay Pieper,Michelle Gee,Amy Robinson,Kissie Stroup,15,0
-18087,8,2026-05-06,triad,spring2026,advanced,18,women,LAWN Lawndale LOL,HPCC Over Dinking It,Lori L Lundy,Amy Brewington,Katie Rowell,Stephanie Ross,15,0
-18087,9,2026-05-06,triad,spring2026,advanced,18,women,LAWN Lawndale LOL,HPCC Over Dinking It,Jameson Sellers,Carinna Barr Batten,Wendy Austin,Christine Schermerhorn,15,0
-18117,1,2026-05-13,triad,spring2026,advanced,18,women,HPCC Over Dinking It,PINE Pickle Peppers,Daneika Eaton,Lucy Schermerhorn,Kate Meiners,Juliana Craft,15,8
-18117,2,2026-05-13,triad,spring2026,advanced,18,women,HPCC Over Dinking It,PINE Pickle Peppers,Kissie Stroup,Wendy Austin,Gabrielle Wreder,Denise Speight,14,16
-18117,3,2026-05-13,triad,spring2026,advanced,18,women,HPCC Over Dinking It,PINE Pickle Peppers,Katie Rowell,Stephanie Ross,Melissa Agner,Nancy Benda-Pierce,5,15
-18117,4,2026-05-13,triad,spring2026,advanced,18,women,HPCC Over Dinking It,PINE Pickle Peppers,Daneika Eaton,Lucy Schermerhorn,Gabrielle Wreder,Denise Speight,15,11
-18117,5,2026-05-13,triad,spring2026,advanced,18,women,HPCC Over Dinking It,PINE Pickle Peppers,Kissie Stroup,Wendy Austin,Melissa Agner,Nancy Benda-Pierce,8,15
-18117,6,2026-05-13,triad,spring2026,advanced,18,women,HPCC Over Dinking It,PINE Pickle Peppers,Katie Rowell,Stephanie Ross,Kate Meiners,Juliana Craft,3,15
-18117,7,2026-05-13,triad,spring2026,advanced,18,women,HPCC Over Dinking It,PINE Pickle Peppers,Daneika Eaton,Lucy Schermerhorn,Melissa Agner,Nancy Benda-Pierce,10,15
-18117,8,2026-05-13,triad,spring2026,advanced,18,women,HPCC Over Dinking It,PINE Pickle Peppers,Kissie Stroup,Wendy Austin,Kate Meiners,Juliana Craft,7,15
-18117,9,2026-05-13,triad,spring2026,advanced,18,women,HPCC Over Dinking It,PINE Pickle Peppers,Katie Rowell,Stephanie Ross,Gabrielle Wreder,Denise Speight,15,3
-18118,1,2026-05-13,triad,spring2026,advanced,18,women,LAWN Lawndale LOL,LJ In a Pickle,Michelle Gee,Lindsay Pieper,Nancy Jones,Karin Phalen,15,9
-18118,2,2026-05-13,triad,spring2026,advanced,18,women,LAWN Lawndale LOL,LJ In a Pickle,Amy Brewington,Lori L Lundy,Beth W Harris,Penny Trivette,12,15
-18118,3,2026-05-13,triad,spring2026,advanced,18,women,LAWN Lawndale LOL,LJ In a Pickle,April Nonato,Carinna Barr Batten,Wendy Robb,Jill Jones,15,1
-18118,4,2026-05-13,triad,spring2026,advanced,18,women,LAWN Lawndale LOL,LJ In a Pickle,Michelle Gee,Lindsay Pieper,Beth W Harris,Penny Trivette,15,7
-18118,5,2026-05-13,triad,spring2026,advanced,18,women,LAWN Lawndale LOL,LJ In a Pickle,Amy Brewington,Lori L Lundy,Wendy Robb,Jill Jones,12,15
-18118,6,2026-05-13,triad,spring2026,advanced,18,women,LAWN Lawndale LOL,LJ In a Pickle,April Nonato,Carinna Barr Batten,Nancy Jones,Karin Phalen,15,11
-18118,7,2026-05-13,triad,spring2026,advanced,18,women,LAWN Lawndale LOL,LJ In a Pickle,Michelle Gee,Lindsay Pieper,Wendy Robb,Jill Jones,15,7
-18118,8,2026-05-13,triad,spring2026,advanced,18,women,LAWN Lawndale LOL,LJ In a Pickle,Amy Brewington,Lori L Lundy,Nancy Jones,Karin Phalen,7,15
-18118,9,2026-05-13,triad,spring2026,advanced,18,women,LAWN Lawndale LOL,LJ In a Pickle,April Nonato,Carinna Barr Batten,Beth W Harris,Penny Trivette,15,7
-18153,1,2026-05-20,triad,spring2026,advanced,18,women,LJ In a Pickle,HPCC Over Dinking It,Leigh Ann Oldis,Beth W Harris,Lee Nunn,Wendy Austin,15,4
-18153,2,2026-05-20,triad,spring2026,advanced,18,women,LJ In a Pickle,HPCC Over Dinking It,Lora Wentz,Beth Mayer,Christine Schermerhorn,Suellen McCrary,15,5
-18153,3,2026-05-20,triad,spring2026,advanced,18,women,LJ In a Pickle,HPCC Over Dinking It,Meredith Davis,Wendy Robb,Stephanie Ross,Amy Robinson,14,16
-18153,4,2026-05-20,triad,spring2026,advanced,18,women,LJ In a Pickle,HPCC Over Dinking It,Leigh Ann Oldis,Beth W Harris,Christine Schermerhorn,Suellen McCrary,15,6
-18153,5,2026-05-20,triad,spring2026,advanced,18,women,LJ In a Pickle,HPCC Over Dinking It,Lora Wentz,Beth Mayer,Stephanie Ross,Amy Robinson,16,14
-18153,6,2026-05-20,triad,spring2026,advanced,18,women,LJ In a Pickle,HPCC Over Dinking It,Meredith Davis,Wendy Robb,Lee Nunn,Wendy Austin,15,7
-18153,7,2026-05-20,triad,spring2026,advanced,18,women,LJ In a Pickle,HPCC Over Dinking It,Leigh Ann Oldis,Beth W Harris,Stephanie Ross,Amy Robinson,15,9
-18153,8,2026-05-20,triad,spring2026,advanced,18,women,LJ In a Pickle,HPCC Over Dinking It,Lora Wentz,Beth Mayer,Lee Nunn,Wendy Austin,15,4
-18153,9,2026-05-20,triad,spring2026,advanced,18,women,LJ In a Pickle,HPCC Over Dinking It,Meredith Davis,Wendy Robb,Christine Schermerhorn,Suellen McCrary,15,6
-18154,1,2026-05-20,triad,spring2026,advanced,18,women,PINE Pickle Peppers,LAWN Lawndale LOL,Melissa Agner,Nancy Benda-Pierce,Jameson Sellers,Carinna Barr Batten,15,8
-18154,2,2026-05-20,triad,spring2026,advanced,18,women,PINE Pickle Peppers,LAWN Lawndale LOL,Clare Cox Overbey,Kate Meiners,Amy Brewington,April Nonato,15,12
-18154,3,2026-05-20,triad,spring2026,advanced,18,women,PINE Pickle Peppers,LAWN Lawndale LOL,DEFAULT,DEFAULT,Lori L Lundy,Lindsay Pieper,0,15
-18154,4,2026-05-20,triad,spring2026,advanced,18,women,PINE Pickle Peppers,LAWN Lawndale LOL,Melissa Agner,Nancy Benda-Pierce,Amy Brewington,April Nonato,13,15
-18154,5,2026-05-20,triad,spring2026,advanced,18,women,PINE Pickle Peppers,LAWN Lawndale LOL,Clare Cox Overbey,Kate Meiners,Lori L Lundy,Lindsay Pieper,16,14
-18154,6,2026-05-20,triad,spring2026,advanced,18,women,PINE Pickle Peppers,LAWN Lawndale LOL,DEFAULT,DEFAULT,Jameson Sellers,Carinna Barr Batten,0,15
-18154,7,2026-05-20,triad,spring2026,advanced,18,women,PINE Pickle Peppers,LAWN Lawndale LOL,Melissa Agner,Nancy Benda-Pierce,Lori L Lundy,Lindsay Pieper,15,6
-18154,8,2026-05-20,triad,spring2026,advanced,18,women,PINE Pickle Peppers,LAWN Lawndale LOL,Clare Cox Overbey,Kate Meiners,Jameson Sellers,Carinna Barr Batten,15,12
-18154,9,2026-05-20,triad,spring2026,advanced,18,women,PINE Pickle Peppers,LAWN Lawndale LOL,DEFAULT,DEFAULT,Amy Brewington,April Nonato,0,15
-18165,1,2026-05-30,triad,spring2026,advanced,18,women,PINE Pickle Peppers,LAWN Lawndale LOL,Clare Cox Overbey,Gabrielle Wreder,Amy Brewington,April Nonato,13,15
-18165,2,2026-05-30,triad,spring2026,advanced,18,women,PINE Pickle Peppers,LAWN Lawndale LOL,Kate Meiners,Juliana Craft,Michelle Gee,Lindsay Pieper,15,2
-18165,3,2026-05-30,triad,spring2026,advanced,18,women,PINE Pickle Peppers,LAWN Lawndale LOL,Melissa Agner,Nancy Benda-Pierce,Kelly Tysinger,Carinna Barr Batten,15,8
-18165,4,2026-05-30,triad,spring2026,advanced,18,women,PINE Pickle Peppers,LAWN Lawndale LOL,Clare Cox Overbey,Gabrielle Wreder,Michelle Gee,Lindsay Pieper,13,15
-18165,5,2026-05-30,triad,spring2026,advanced,18,women,PINE Pickle Peppers,LAWN Lawndale LOL,Kate Meiners,Juliana Craft,Kelly Tysinger,Carinna Barr Batten,15,13
-18165,6,2026-05-30,triad,spring2026,advanced,18,women,PINE Pickle Peppers,LAWN Lawndale LOL,Melissa Agner,Nancy Benda-Pierce,Amy Brewington,April Nonato,17,15
-18165,7,2026-05-30,triad,spring2026,advanced,18,women,PINE Pickle Peppers,LAWN Lawndale LOL,Clare Cox Overbey,Gabrielle Wreder,Kelly Tysinger,Carinna Barr Batten,15,9
-18165,8,2026-05-30,triad,spring2026,advanced,18,women,PINE Pickle Peppers,LAWN Lawndale LOL,Kate Meiners,Juliana Craft,Amy Brewington,April Nonato,15,13
-18165,9,2026-05-30,triad,spring2026,advanced,18,women,PINE Pickle Peppers,LAWN Lawndale LOL,Melissa Agner,Nancy Benda-Pierce,Michelle Gee,Lindsay Pieper,15,3
+match_id,game_id,match_date,league,season,skill_level,age,gender,team1_name,team2_name,partner1,partner2,opponent1,opponent2,team1_points,team2_points,status
+17856,1,2026-03-18,triad,spring2026,advanced,18,women,LJ In a Pickle,PINE Pickle Peppers,Jami Heller,Channah Valkos,Kate Meiners,Juliana Craft,15,10,Completed
+17856,2,2026-03-18,triad,spring2026,advanced,18,women,LJ In a Pickle,PINE Pickle Peppers,Beth Mayer,Beth W Harris,Gabrielle Wreder,Denise Speight,10,15,Completed
+17856,3,2026-03-18,triad,spring2026,advanced,18,women,LJ In a Pickle,PINE Pickle Peppers,Nancy Jones,Wendy Robb,Nancy Benda-Pierce,Melissa Agner,1,15,Completed
+17856,4,2026-03-18,triad,spring2026,advanced,18,women,LJ In a Pickle,PINE Pickle Peppers,Jami Heller,Channah Valkos,Gabrielle Wreder,Denise Speight,15,12,Completed
+17856,5,2026-03-18,triad,spring2026,advanced,18,women,LJ In a Pickle,PINE Pickle Peppers,Beth Mayer,Beth W Harris,Nancy Benda-Pierce,Melissa Agner,3,15,Completed
+17856,6,2026-03-18,triad,spring2026,advanced,18,women,LJ In a Pickle,PINE Pickle Peppers,Nancy Jones,Wendy Robb,Kate Meiners,Juliana Craft,10,15,Completed
+17856,7,2026-03-18,triad,spring2026,advanced,18,women,LJ In a Pickle,PINE Pickle Peppers,Jami Heller,Channah Valkos,Nancy Benda-Pierce,Melissa Agner,11,15,Completed
+17856,8,2026-03-18,triad,spring2026,advanced,18,women,LJ In a Pickle,PINE Pickle Peppers,Beth Mayer,Beth W Harris,Kate Meiners,Juliana Craft,7,15,Completed
+17856,9,2026-03-18,triad,spring2026,advanced,18,women,LJ In a Pickle,PINE Pickle Peppers,Nancy Jones,Wendy Robb,Gabrielle Wreder,Denise Speight,9,15,Completed
+17857,1,2026-03-18,triad,spring2026,advanced,18,women,LAWN Lawndale LOL,HPCC Over Dinking It,Kelly Tysinger,Jameson Sellers,Lucy Schermerhorn,Christine Schermerhorn,15,9,Completed
+17857,2,2026-03-18,triad,spring2026,advanced,18,women,LAWN Lawndale LOL,HPCC Over Dinking It,Angiemil Perez Pena,Lori L Lundy,Katie Rowell,Sara Strassell,0,15,Completed
+17857,3,2026-03-18,triad,spring2026,advanced,18,women,LAWN Lawndale LOL,HPCC Over Dinking It,Michelle Gee,Lindsay Pieper,Wendy Austin,Amy Robinson,15,6,Completed
+17857,4,2026-03-18,triad,spring2026,advanced,18,women,LAWN Lawndale LOL,HPCC Over Dinking It,Kelly Tysinger,Jameson Sellers,Katie Rowell,Sara Strassell,15,8,Completed
+17857,5,2026-03-18,triad,spring2026,advanced,18,women,LAWN Lawndale LOL,HPCC Over Dinking It,Angiemil Perez Pena,Lori L Lundy,Wendy Austin,Amy Robinson,9,15,Completed
+17857,6,2026-03-18,triad,spring2026,advanced,18,women,LAWN Lawndale LOL,HPCC Over Dinking It,Michelle Gee,Lindsay Pieper,Lucy Schermerhorn,Christine Schermerhorn,15,10,Completed
+17857,7,2026-03-18,triad,spring2026,advanced,18,women,LAWN Lawndale LOL,HPCC Over Dinking It,Kelly Tysinger,Jameson Sellers,Wendy Austin,Amy Robinson,15,4,Completed
+17857,8,2026-03-18,triad,spring2026,advanced,18,women,LAWN Lawndale LOL,HPCC Over Dinking It,Angiemil Perez Pena,Lori L Lundy,Lucy Schermerhorn,Christine Schermerhorn,15,10,Completed
+17857,9,2026-03-18,triad,spring2026,advanced,18,women,LAWN Lawndale LOL,HPCC Over Dinking It,Michelle Gee,Lindsay Pieper,Katie Rowell,Sara Strassell,13,15,Completed
+17891,1,2026-03-25,triad,spring2026,advanced,18,women,HPCC Over Dinking It,PINE Pickle Peppers,Sarah Howell,Lucy Schermerhorn,Melissa Agner,Nancy Benda-Pierce,15,5,Completed
+17891,2,2026-03-25,triad,spring2026,advanced,18,women,HPCC Over Dinking It,PINE Pickle Peppers,Suellen McCrary,Lee Nunn,Kate Meiners,Denise Speight,15,11,Completed
+17891,3,2026-03-25,triad,spring2026,advanced,18,women,HPCC Over Dinking It,PINE Pickle Peppers,Katie Rowell,Stephanie Ross,Bety Miranda,Clare Cox Overbey,15,5,Completed
+17891,4,2026-03-25,triad,spring2026,advanced,18,women,HPCC Over Dinking It,PINE Pickle Peppers,Sarah Howell,Lucy Schermerhorn,Kate Meiners,Denise Speight,15,12,Completed
+17891,5,2026-03-25,triad,spring2026,advanced,18,women,HPCC Over Dinking It,PINE Pickle Peppers,Suellen McCrary,Lee Nunn,Bety Miranda,Clare Cox Overbey,6,15,Completed
+17891,6,2026-03-25,triad,spring2026,advanced,18,women,HPCC Over Dinking It,PINE Pickle Peppers,Katie Rowell,Stephanie Ross,Melissa Agner,Nancy Benda-Pierce,9,15,Completed
+17891,7,2026-03-25,triad,spring2026,advanced,18,women,HPCC Over Dinking It,PINE Pickle Peppers,Sarah Howell,Lucy Schermerhorn,Bety Miranda,Clare Cox Overbey,15,8,Completed
+17891,8,2026-03-25,triad,spring2026,advanced,18,women,HPCC Over Dinking It,PINE Pickle Peppers,Suellen McCrary,Lee Nunn,Melissa Agner,Nancy Benda-Pierce,3,15,Completed
+17891,9,2026-03-25,triad,spring2026,advanced,18,women,HPCC Over Dinking It,PINE Pickle Peppers,Katie Rowell,Stephanie Ross,Kate Meiners,Denise Speight,15,11,Completed
+17892,1,2026-03-25,triad,spring2026,advanced,18,women,LAWN Lawndale LOL,LJ In a Pickle,Kelly Tysinger,Jameson Sellers,Channah Valkos,Jami Heller,15,9,Completed
+17892,2,2026-03-25,triad,spring2026,advanced,18,women,LAWN Lawndale LOL,LJ In a Pickle,Michelle Gee,Lori L Lundy,Penny Trivette,Anne Givan,15,13,Completed
+17892,3,2026-03-25,triad,spring2026,advanced,18,women,LAWN Lawndale LOL,LJ In a Pickle,Amy Brewington,April Nonato,Leigh Ann Oldis,Meredith Davis,15,11,Completed
+17892,4,2026-03-25,triad,spring2026,advanced,18,women,LAWN Lawndale LOL,LJ In a Pickle,Kelly Tysinger,Jameson Sellers,Penny Trivette,Anne Givan,15,2,Completed
+17892,5,2026-03-25,triad,spring2026,advanced,18,women,LAWN Lawndale LOL,LJ In a Pickle,Michelle Gee,Lori L Lundy,Leigh Ann Oldis,Meredith Davis,13,15,Completed
+17892,6,2026-03-25,triad,spring2026,advanced,18,women,LAWN Lawndale LOL,LJ In a Pickle,Amy Brewington,April Nonato,Channah Valkos,Jami Heller,11,15,Completed
+17892,7,2026-03-25,triad,spring2026,advanced,18,women,LAWN Lawndale LOL,LJ In a Pickle,Kelly Tysinger,Jameson Sellers,Leigh Ann Oldis,Meredith Davis,13,15,Completed
+17892,8,2026-03-25,triad,spring2026,advanced,18,women,LAWN Lawndale LOL,LJ In a Pickle,Michelle Gee,Lori L Lundy,Channah Valkos,Jami Heller,11,15,Completed
+17892,9,2026-03-25,triad,spring2026,advanced,18,women,LAWN Lawndale LOL,LJ In a Pickle,Amy Brewington,April Nonato,Penny Trivette,Anne Givan,16,14,Completed
+17938,1,2026-04-08,triad,spring2026,advanced,18,women,LJ In a Pickle,HPCC Over Dinking It,Mandy Ratliff,Nancy Jones,Sara Strassell,Sarah Howell,11,15,Completed
+17938,2,2026-04-08,triad,spring2026,advanced,18,women,LJ In a Pickle,HPCC Over Dinking It,Meredith Davis,Carla Huffman,Wendy Austin,Stephanie Ross,15,11,Completed
+17938,3,2026-04-08,triad,spring2026,advanced,18,women,LJ In a Pickle,HPCC Over Dinking It,Jill Jones,Beth Mayer,Christine Schermerhorn,Kissie Stroup,15,13,Completed
+17938,4,2026-04-08,triad,spring2026,advanced,18,women,LJ In a Pickle,HPCC Over Dinking It,Mandy Ratliff,Nancy Jones,Wendy Austin,Stephanie Ross,15,9,Completed
+17938,5,2026-04-08,triad,spring2026,advanced,18,women,LJ In a Pickle,HPCC Over Dinking It,Meredith Davis,Carla Huffman,Christine Schermerhorn,Kissie Stroup,15,8,Completed
+17938,6,2026-04-08,triad,spring2026,advanced,18,women,LJ In a Pickle,HPCC Over Dinking It,Jill Jones,Beth Mayer,Sara Strassell,Sarah Howell,9,15,Completed
+17938,7,2026-04-08,triad,spring2026,advanced,18,women,LJ In a Pickle,HPCC Over Dinking It,Mandy Ratliff,Nancy Jones,Christine Schermerhorn,Kissie Stroup,15,6,Completed
+17938,8,2026-04-08,triad,spring2026,advanced,18,women,LJ In a Pickle,HPCC Over Dinking It,Meredith Davis,Carla Huffman,Sara Strassell,Sarah Howell,15,4,Completed
+17938,9,2026-04-08,triad,spring2026,advanced,18,women,LJ In a Pickle,HPCC Over Dinking It,Jill Jones,Beth Mayer,Wendy Austin,Stephanie Ross,11,15,Completed
+17939,1,2026-04-08,triad,spring2026,advanced,18,women,PINE Pickle Peppers,LAWN Lawndale LOL,Clare Cox Overbey,Tiffany Brown,Amy Brewington,Angiemil Perez Pena,15,6,Completed
+17939,2,2026-04-08,triad,spring2026,advanced,18,women,PINE Pickle Peppers,LAWN Lawndale LOL,Juliana Craft,Kate Meiners,Jameson Sellers,Kelly Tysinger,15,11,Completed
+17939,3,2026-04-08,triad,spring2026,advanced,18,women,PINE Pickle Peppers,LAWN Lawndale LOL,Melissa Agner,Nancy Benda-Pierce,Michelle Gee,Lindsay Pieper,15,7,Completed
+17939,4,2026-04-08,triad,spring2026,advanced,18,women,PINE Pickle Peppers,LAWN Lawndale LOL,Clare Cox Overbey,Tiffany Brown,Jameson Sellers,Kelly Tysinger,8,15,Completed
+17939,5,2026-04-08,triad,spring2026,advanced,18,women,PINE Pickle Peppers,LAWN Lawndale LOL,Juliana Craft,Kate Meiners,Michelle Gee,Lindsay Pieper,15,10,Completed
+17939,6,2026-04-08,triad,spring2026,advanced,18,women,PINE Pickle Peppers,LAWN Lawndale LOL,Melissa Agner,Nancy Benda-Pierce,Amy Brewington,Angiemil Perez Pena,15,6,Completed
+17939,7,2026-04-08,triad,spring2026,advanced,18,women,PINE Pickle Peppers,LAWN Lawndale LOL,Clare Cox Overbey,Tiffany Brown,Michelle Gee,Lindsay Pieper,15,11,Completed
+17939,8,2026-04-08,triad,spring2026,advanced,18,women,PINE Pickle Peppers,LAWN Lawndale LOL,Juliana Craft,Kate Meiners,Amy Brewington,Angiemil Perez Pena,15,5,Completed
+17939,9,2026-04-08,triad,spring2026,advanced,18,women,PINE Pickle Peppers,LAWN Lawndale LOL,Melissa Agner,Nancy Benda-Pierce,Jameson Sellers,Kelly Tysinger,15,10,Completed
+17977,1,2026-04-15,triad,spring2026,advanced,18,women,PINE Pickle Peppers,LJ In a Pickle,Nancy Benda-Pierce,Gabrielle Wreder,Jami Heller,Meredith Davis,14,16,Completed
+17977,2,2026-04-15,triad,spring2026,advanced,18,women,PINE Pickle Peppers,LJ In a Pickle,Melissa Agner,Tiffany Brown,Channah Valkos,Wendy Robb,15,8,Completed
+17977,3,2026-04-15,triad,spring2026,advanced,18,women,PINE Pickle Peppers,LJ In a Pickle,Juliana Craft,Bety Miranda,Mandy Ratliff,Lora Wentz,4,15,Completed
+17977,4,2026-04-15,triad,spring2026,advanced,18,women,PINE Pickle Peppers,LJ In a Pickle,Nancy Benda-Pierce,Gabrielle Wreder,Channah Valkos,Wendy Robb,15,8,Completed
+17977,5,2026-04-15,triad,spring2026,advanced,18,women,PINE Pickle Peppers,LJ In a Pickle,Melissa Agner,Tiffany Brown,Mandy Ratliff,Lora Wentz,11,15,Completed
+17977,6,2026-04-15,triad,spring2026,advanced,18,women,PINE Pickle Peppers,LJ In a Pickle,Juliana Craft,Bety Miranda,Jami Heller,Meredith Davis,11,15,Completed
+17977,7,2026-04-15,triad,spring2026,advanced,18,women,PINE Pickle Peppers,LJ In a Pickle,Nancy Benda-Pierce,Gabrielle Wreder,Mandy Ratliff,Lora Wentz,15,3,Completed
+17977,8,2026-04-15,triad,spring2026,advanced,18,women,PINE Pickle Peppers,LJ In a Pickle,Melissa Agner,Tiffany Brown,Jami Heller,Meredith Davis,9,15,Completed
+17977,9,2026-04-15,triad,spring2026,advanced,18,women,PINE Pickle Peppers,LJ In a Pickle,Juliana Craft,Bety Miranda,Channah Valkos,Wendy Robb,15,9,Completed
+17978,1,2026-04-15,triad,spring2026,advanced,18,women,HPCC Over Dinking It,LAWN Lawndale LOL,Lucy Schermerhorn,Sarah Howell,Michelle Gee,Lindsay Pieper,8,15,Completed
+17978,2,2026-04-15,triad,spring2026,advanced,18,women,HPCC Over Dinking It,LAWN Lawndale LOL,Lee Nunn,Wendy Austin,Kelly Tysinger,Jameson Sellers,15,9,Completed
+17978,3,2026-04-15,triad,spring2026,advanced,18,women,HPCC Over Dinking It,LAWN Lawndale LOL,Katie Rowell,Stephanie Ross,April Nonato,Amy Brewington,15,6,Completed
+17978,4,2026-04-15,triad,spring2026,advanced,18,women,HPCC Over Dinking It,LAWN Lawndale LOL,Lucy Schermerhorn,Sarah Howell,Kelly Tysinger,Jameson Sellers,8,15,Completed
+17978,5,2026-04-15,triad,spring2026,advanced,18,women,HPCC Over Dinking It,LAWN Lawndale LOL,Lee Nunn,Wendy Austin,April Nonato,Amy Brewington,6,15,Completed
+17978,6,2026-04-15,triad,spring2026,advanced,18,women,HPCC Over Dinking It,LAWN Lawndale LOL,Katie Rowell,Stephanie Ross,Michelle Gee,Lindsay Pieper,9,15,Completed
+17978,7,2026-04-15,triad,spring2026,advanced,18,women,HPCC Over Dinking It,LAWN Lawndale LOL,Lucy Schermerhorn,Sarah Howell,April Nonato,Amy Brewington,11,15,Completed
+17978,8,2026-04-15,triad,spring2026,advanced,18,women,HPCC Over Dinking It,LAWN Lawndale LOL,Lee Nunn,Wendy Austin,Michelle Gee,Lindsay Pieper,5,15,Completed
+17978,9,2026-04-15,triad,spring2026,advanced,18,women,HPCC Over Dinking It,LAWN Lawndale LOL,Katie Rowell,Stephanie Ross,Kelly Tysinger,Jameson Sellers,12,15,Completed
+18014,1,2026-04-22,triad,spring2026,advanced,18,women,LJ In a Pickle,LAWN Lawndale LOL,Jami Heller,Meredith Davis,Amy Brewington,April Nonato,15,1,Completed
+18014,2,2026-04-22,triad,spring2026,advanced,18,women,LJ In a Pickle,LAWN Lawndale LOL,Mandy Ratliff,Penny Trivette,Jameson Sellers,Kelly Tysinger,8,15,Completed
+18014,3,2026-04-22,triad,spring2026,advanced,18,women,LJ In a Pickle,LAWN Lawndale LOL,Beth Mayer,Beth W Harris,Lindsay Pieper,Lori L Lundy,10,15,Completed
+18014,4,2026-04-22,triad,spring2026,advanced,18,women,LJ In a Pickle,LAWN Lawndale LOL,Jami Heller,Meredith Davis,Jameson Sellers,Kelly Tysinger,15,9,Completed
+18014,5,2026-04-22,triad,spring2026,advanced,18,women,LJ In a Pickle,LAWN Lawndale LOL,Mandy Ratliff,Penny Trivette,Lindsay Pieper,Lori L Lundy,2,15,Completed
+18014,6,2026-04-22,triad,spring2026,advanced,18,women,LJ In a Pickle,LAWN Lawndale LOL,Beth Mayer,Beth W Harris,Amy Brewington,April Nonato,12,15,Completed
+18014,7,2026-04-22,triad,spring2026,advanced,18,women,LJ In a Pickle,LAWN Lawndale LOL,Jami Heller,Meredith Davis,Lindsay Pieper,Lori L Lundy,15,2,Completed
+18014,8,2026-04-22,triad,spring2026,advanced,18,women,LJ In a Pickle,LAWN Lawndale LOL,Mandy Ratliff,Penny Trivette,Amy Brewington,April Nonato,13,15,Completed
+18014,9,2026-04-22,triad,spring2026,advanced,18,women,LJ In a Pickle,LAWN Lawndale LOL,Beth Mayer,Beth W Harris,Jameson Sellers,Kelly Tysinger,5,15,Completed
+18015,1,2026-04-22,triad,spring2026,advanced,18,women,PINE Pickle Peppers,HPCC Over Dinking It,Clare Cox Overbey,Kate Meiners,Daneika Eaton,Katie Rowell,1,15,Completed
+18015,2,2026-04-22,triad,spring2026,advanced,18,women,PINE Pickle Peppers,HPCC Over Dinking It,Gabrielle Wreder,Denise Speight,Kissie Stroup,Lee Nunn,15,9,Completed
+18015,3,2026-04-22,triad,spring2026,advanced,18,women,PINE Pickle Peppers,HPCC Over Dinking It,Melissa Agner,Nancy Benda-Pierce,Stephanie Ross,Amy Robinson,15,5,Completed
+18015,4,2026-04-22,triad,spring2026,advanced,18,women,PINE Pickle Peppers,HPCC Over Dinking It,Clare Cox Overbey,Kate Meiners,Kissie Stroup,Lee Nunn,15,5,Completed
+18015,5,2026-04-22,triad,spring2026,advanced,18,women,PINE Pickle Peppers,HPCC Over Dinking It,Gabrielle Wreder,Denise Speight,Stephanie Ross,Amy Robinson,15,9,Completed
+18015,6,2026-04-22,triad,spring2026,advanced,18,women,PINE Pickle Peppers,HPCC Over Dinking It,Melissa Agner,Nancy Benda-Pierce,Daneika Eaton,Katie Rowell,15,9,Completed
+18015,7,2026-04-22,triad,spring2026,advanced,18,women,PINE Pickle Peppers,HPCC Over Dinking It,Clare Cox Overbey,Kate Meiners,Stephanie Ross,Amy Robinson,15,7,Completed
+18015,8,2026-04-22,triad,spring2026,advanced,18,women,PINE Pickle Peppers,HPCC Over Dinking It,Gabrielle Wreder,Denise Speight,Daneika Eaton,Katie Rowell,3,15,Completed
+18015,9,2026-04-22,triad,spring2026,advanced,18,women,PINE Pickle Peppers,HPCC Over Dinking It,Melissa Agner,Nancy Benda-Pierce,Kissie Stroup,Lee Nunn,15,11,Completed
+18050,1,2026-04-29,triad,spring2026,advanced,18,women,HPCC Over Dinking It,LJ In a Pickle,Sarah Howell,Katie Rowell,Jami Heller,Nancy Jones,14,16,Completed
+18050,2,2026-04-29,triad,spring2026,advanced,18,women,HPCC Over Dinking It,LJ In a Pickle,Kissie Stroup,Lucy Schermerhorn,Channah Valkos,Mandy Ratliff,13,15,Completed
+18050,3,2026-04-29,triad,spring2026,advanced,18,women,HPCC Over Dinking It,LJ In a Pickle,Christine Schermerhorn,Suellen McCrary,Leigh Ann Oldis,Carla Huffman,15,11,Completed
+18050,4,2026-04-29,triad,spring2026,advanced,18,women,HPCC Over Dinking It,LJ In a Pickle,Sarah Howell,Katie Rowell,Channah Valkos,Mandy Ratliff,15,3,Completed
+18050,5,2026-04-29,triad,spring2026,advanced,18,women,HPCC Over Dinking It,LJ In a Pickle,Kissie Stroup,Lucy Schermerhorn,Leigh Ann Oldis,Carla Huffman,15,5,Completed
+18050,6,2026-04-29,triad,spring2026,advanced,18,women,HPCC Over Dinking It,LJ In a Pickle,Christine Schermerhorn,Suellen McCrary,Jami Heller,Nancy Jones,7,15,Completed
+18050,7,2026-04-29,triad,spring2026,advanced,18,women,HPCC Over Dinking It,LJ In a Pickle,Sarah Howell,Katie Rowell,Leigh Ann Oldis,Carla Huffman,15,6,Completed
+18050,8,2026-04-29,triad,spring2026,advanced,18,women,HPCC Over Dinking It,LJ In a Pickle,Kissie Stroup,Lucy Schermerhorn,Jami Heller,Nancy Jones,16,14,Completed
+18050,9,2026-04-29,triad,spring2026,advanced,18,women,HPCC Over Dinking It,LJ In a Pickle,Christine Schermerhorn,Suellen McCrary,Channah Valkos,Mandy Ratliff,7,15,Completed
+18051,1,2026-04-29,triad,spring2026,advanced,18,women,LAWN Lawndale LOL,PINE Pickle Peppers,Amy Brewington,April Nonato,Gabrielle Wreder,Clare Cox Overbey,16,14,Completed
+18051,2,2026-04-29,triad,spring2026,advanced,18,women,LAWN Lawndale LOL,PINE Pickle Peppers,Kelly Tysinger,Jameson Sellers,Melissa Agner,Nancy Benda-Pierce,3,15,Completed
+18051,3,2026-04-29,triad,spring2026,advanced,18,women,LAWN Lawndale LOL,PINE Pickle Peppers,Michelle Gee,Lindsay Pieper,Denise Speight,Juliana Craft,5,15,Completed
+18051,4,2026-04-29,triad,spring2026,advanced,18,women,LAWN Lawndale LOL,PINE Pickle Peppers,Amy Brewington,April Nonato,Melissa Agner,Nancy Benda-Pierce,7,15,Completed
+18051,5,2026-04-29,triad,spring2026,advanced,18,women,LAWN Lawndale LOL,PINE Pickle Peppers,Kelly Tysinger,Jameson Sellers,Denise Speight,Juliana Craft,15,12,Completed
+18051,6,2026-04-29,triad,spring2026,advanced,18,women,LAWN Lawndale LOL,PINE Pickle Peppers,Michelle Gee,Lindsay Pieper,Gabrielle Wreder,Clare Cox Overbey,9,15,Completed
+18051,7,2026-04-29,triad,spring2026,advanced,18,women,LAWN Lawndale LOL,PINE Pickle Peppers,Amy Brewington,April Nonato,Denise Speight,Juliana Craft,8,15,Completed
+18051,8,2026-04-29,triad,spring2026,advanced,18,women,LAWN Lawndale LOL,PINE Pickle Peppers,Kelly Tysinger,Jameson Sellers,Gabrielle Wreder,Clare Cox Overbey,15,7,Completed
+18051,9,2026-04-29,triad,spring2026,advanced,18,women,LAWN Lawndale LOL,PINE Pickle Peppers,Michelle Gee,Lindsay Pieper,Melissa Agner,Nancy Benda-Pierce,6,15,Completed
+18086,1,2026-05-06,triad,spring2026,advanced,18,women,LJ In a Pickle,PINE Pickle Peppers,Anne Givan,Carla Huffman,Melissa Agner,Juliana Craft,4,15,Completed
+18086,2,2026-05-06,triad,spring2026,advanced,18,women,LJ In a Pickle,PINE Pickle Peppers,Beth Mayer,Jill Jones,Gabrielle Wreder,Bety Miranda,19,17,Completed
+18086,3,2026-05-06,triad,spring2026,advanced,18,women,LJ In a Pickle,PINE Pickle Peppers,Leigh Ann Oldis,Meredith Davis,DEFAULT,DEFAULT,15,0,Default
+18086,4,2026-05-06,triad,spring2026,advanced,18,women,LJ In a Pickle,PINE Pickle Peppers,Anne Givan,Carla Huffman,Gabrielle Wreder,Bety Miranda,5,15,Completed
+18086,5,2026-05-06,triad,spring2026,advanced,18,women,LJ In a Pickle,PINE Pickle Peppers,Beth Mayer,Jill Jones,DEFAULT,DEFAULT,15,0,Default
+18086,6,2026-05-06,triad,spring2026,advanced,18,women,LJ In a Pickle,PINE Pickle Peppers,Leigh Ann Oldis,Meredith Davis,Melissa Agner,Juliana Craft,8,15,Completed
+18086,7,2026-05-06,triad,spring2026,advanced,18,women,LJ In a Pickle,PINE Pickle Peppers,Anne Givan,Carla Huffman,DEFAULT,DEFAULT,15,0,Default
+18086,8,2026-05-06,triad,spring2026,advanced,18,women,LJ In a Pickle,PINE Pickle Peppers,Beth Mayer,Jill Jones,Melissa Agner,Juliana Craft,2,15,Completed
+18086,9,2026-05-06,triad,spring2026,advanced,18,women,LJ In a Pickle,PINE Pickle Peppers,Leigh Ann Oldis,Meredith Davis,Gabrielle Wreder,Bety Miranda,7,15,Completed
+18087,1,2026-05-06,triad,spring2026,advanced,18,women,LAWN Lawndale LOL,HPCC Over Dinking It,Lindsay Pieper,Michelle Gee,Katie Rowell,Stephanie Ross,9,15,Completed
+18087,2,2026-05-06,triad,spring2026,advanced,18,women,LAWN Lawndale LOL,HPCC Over Dinking It,Lori L Lundy,Amy Brewington,Wendy Austin,Christine Schermerhorn,15,10,Completed
+18087,3,2026-05-06,triad,spring2026,advanced,18,women,LAWN Lawndale LOL,HPCC Over Dinking It,Jameson Sellers,Carinna Barr Batten,Amy Robinson,Kissie Stroup,15,2,Completed
+18087,4,2026-05-06,triad,spring2026,advanced,18,women,LAWN Lawndale LOL,HPCC Over Dinking It,Lindsay Pieper,Michelle Gee,Wendy Austin,Christine Schermerhorn,15,12,Completed
+18087,5,2026-05-06,triad,spring2026,advanced,18,women,LAWN Lawndale LOL,HPCC Over Dinking It,Lori L Lundy,Amy Brewington,Amy Robinson,Kissie Stroup,15,8,Completed
+18087,6,2026-05-06,triad,spring2026,advanced,18,women,LAWN Lawndale LOL,HPCC Over Dinking It,Jameson Sellers,Carinna Barr Batten,Katie Rowell,Stephanie Ross,7,15,Completed
+18087,7,2026-05-06,triad,spring2026,advanced,18,women,LAWN Lawndale LOL,HPCC Over Dinking It,Lindsay Pieper,Michelle Gee,Amy Robinson,Kissie Stroup,15,0,Default
+18087,8,2026-05-06,triad,spring2026,advanced,18,women,LAWN Lawndale LOL,HPCC Over Dinking It,Lori L Lundy,Amy Brewington,Katie Rowell,Stephanie Ross,15,0,Default
+18087,9,2026-05-06,triad,spring2026,advanced,18,women,LAWN Lawndale LOL,HPCC Over Dinking It,Jameson Sellers,Carinna Barr Batten,Wendy Austin,Christine Schermerhorn,15,0,Default
+18117,1,2026-05-13,triad,spring2026,advanced,18,women,HPCC Over Dinking It,PINE Pickle Peppers,Daneika Eaton,Lucy Schermerhorn,Kate Meiners,Juliana Craft,15,8,Completed
+18117,2,2026-05-13,triad,spring2026,advanced,18,women,HPCC Over Dinking It,PINE Pickle Peppers,Kissie Stroup,Wendy Austin,Gabrielle Wreder,Denise Speight,14,16,Completed
+18117,3,2026-05-13,triad,spring2026,advanced,18,women,HPCC Over Dinking It,PINE Pickle Peppers,Katie Rowell,Stephanie Ross,Melissa Agner,Nancy Benda-Pierce,5,15,Completed
+18117,4,2026-05-13,triad,spring2026,advanced,18,women,HPCC Over Dinking It,PINE Pickle Peppers,Daneika Eaton,Lucy Schermerhorn,Gabrielle Wreder,Denise Speight,15,11,Completed
+18117,5,2026-05-13,triad,spring2026,advanced,18,women,HPCC Over Dinking It,PINE Pickle Peppers,Kissie Stroup,Wendy Austin,Melissa Agner,Nancy Benda-Pierce,8,15,Completed
+18117,6,2026-05-13,triad,spring2026,advanced,18,women,HPCC Over Dinking It,PINE Pickle Peppers,Katie Rowell,Stephanie Ross,Kate Meiners,Juliana Craft,3,15,Completed
+18117,7,2026-05-13,triad,spring2026,advanced,18,women,HPCC Over Dinking It,PINE Pickle Peppers,Daneika Eaton,Lucy Schermerhorn,Melissa Agner,Nancy Benda-Pierce,10,15,Completed
+18117,8,2026-05-13,triad,spring2026,advanced,18,women,HPCC Over Dinking It,PINE Pickle Peppers,Kissie Stroup,Wendy Austin,Kate Meiners,Juliana Craft,7,15,Completed
+18117,9,2026-05-13,triad,spring2026,advanced,18,women,HPCC Over Dinking It,PINE Pickle Peppers,Katie Rowell,Stephanie Ross,Gabrielle Wreder,Denise Speight,15,3,Completed
+18118,1,2026-05-13,triad,spring2026,advanced,18,women,LAWN Lawndale LOL,LJ In a Pickle,Michelle Gee,Lindsay Pieper,Nancy Jones,Karin Phalen,15,9,Completed
+18118,2,2026-05-13,triad,spring2026,advanced,18,women,LAWN Lawndale LOL,LJ In a Pickle,Amy Brewington,Lori L Lundy,Beth W Harris,Penny Trivette,12,15,Completed
+18118,3,2026-05-13,triad,spring2026,advanced,18,women,LAWN Lawndale LOL,LJ In a Pickle,April Nonato,Carinna Barr Batten,Wendy Robb,Jill Jones,15,1,Completed
+18118,4,2026-05-13,triad,spring2026,advanced,18,women,LAWN Lawndale LOL,LJ In a Pickle,Michelle Gee,Lindsay Pieper,Beth W Harris,Penny Trivette,15,7,Completed
+18118,5,2026-05-13,triad,spring2026,advanced,18,women,LAWN Lawndale LOL,LJ In a Pickle,Amy Brewington,Lori L Lundy,Wendy Robb,Jill Jones,12,15,Completed
+18118,6,2026-05-13,triad,spring2026,advanced,18,women,LAWN Lawndale LOL,LJ In a Pickle,April Nonato,Carinna Barr Batten,Nancy Jones,Karin Phalen,15,11,Completed
+18118,7,2026-05-13,triad,spring2026,advanced,18,women,LAWN Lawndale LOL,LJ In a Pickle,Michelle Gee,Lindsay Pieper,Wendy Robb,Jill Jones,15,7,Completed
+18118,8,2026-05-13,triad,spring2026,advanced,18,women,LAWN Lawndale LOL,LJ In a Pickle,Amy Brewington,Lori L Lundy,Nancy Jones,Karin Phalen,7,15,Completed
+18118,9,2026-05-13,triad,spring2026,advanced,18,women,LAWN Lawndale LOL,LJ In a Pickle,April Nonato,Carinna Barr Batten,Beth W Harris,Penny Trivette,15,7,Completed
+18153,1,2026-05-20,triad,spring2026,advanced,18,women,LJ In a Pickle,HPCC Over Dinking It,Leigh Ann Oldis,Beth W Harris,Lee Nunn,Wendy Austin,15,4,Completed
+18153,2,2026-05-20,triad,spring2026,advanced,18,women,LJ In a Pickle,HPCC Over Dinking It,Lora Wentz,Beth Mayer,Christine Schermerhorn,Suellen McCrary,15,5,Completed
+18153,3,2026-05-20,triad,spring2026,advanced,18,women,LJ In a Pickle,HPCC Over Dinking It,Meredith Davis,Wendy Robb,Stephanie Ross,Amy Robinson,14,16,Completed
+18153,4,2026-05-20,triad,spring2026,advanced,18,women,LJ In a Pickle,HPCC Over Dinking It,Leigh Ann Oldis,Beth W Harris,Christine Schermerhorn,Suellen McCrary,15,6,Completed
+18153,5,2026-05-20,triad,spring2026,advanced,18,women,LJ In a Pickle,HPCC Over Dinking It,Lora Wentz,Beth Mayer,Stephanie Ross,Amy Robinson,16,14,Completed
+18153,6,2026-05-20,triad,spring2026,advanced,18,women,LJ In a Pickle,HPCC Over Dinking It,Meredith Davis,Wendy Robb,Lee Nunn,Wendy Austin,15,7,Completed
+18153,7,2026-05-20,triad,spring2026,advanced,18,women,LJ In a Pickle,HPCC Over Dinking It,Leigh Ann Oldis,Beth W Harris,Stephanie Ross,Amy Robinson,15,9,Completed
+18153,8,2026-05-20,triad,spring2026,advanced,18,women,LJ In a Pickle,HPCC Over Dinking It,Lora Wentz,Beth Mayer,Lee Nunn,Wendy Austin,15,4,Completed
+18153,9,2026-05-20,triad,spring2026,advanced,18,women,LJ In a Pickle,HPCC Over Dinking It,Meredith Davis,Wendy Robb,Christine Schermerhorn,Suellen McCrary,15,6,Completed
+18154,1,2026-05-20,triad,spring2026,advanced,18,women,PINE Pickle Peppers,LAWN Lawndale LOL,Melissa Agner,Nancy Benda-Pierce,Jameson Sellers,Carinna Barr Batten,15,8,Completed
+18154,2,2026-05-20,triad,spring2026,advanced,18,women,PINE Pickle Peppers,LAWN Lawndale LOL,Clare Cox Overbey,Kate Meiners,Amy Brewington,April Nonato,15,12,Completed
+18154,3,2026-05-20,triad,spring2026,advanced,18,women,PINE Pickle Peppers,LAWN Lawndale LOL,DEFAULT,DEFAULT,Lori L Lundy,Lindsay Pieper,0,15,Default
+18154,4,2026-05-20,triad,spring2026,advanced,18,women,PINE Pickle Peppers,LAWN Lawndale LOL,Melissa Agner,Nancy Benda-Pierce,Amy Brewington,April Nonato,13,15,Completed
+18154,5,2026-05-20,triad,spring2026,advanced,18,women,PINE Pickle Peppers,LAWN Lawndale LOL,Clare Cox Overbey,Kate Meiners,Lori L Lundy,Lindsay Pieper,16,14,Completed
+18154,6,2026-05-20,triad,spring2026,advanced,18,women,PINE Pickle Peppers,LAWN Lawndale LOL,DEFAULT,DEFAULT,Jameson Sellers,Carinna Barr Batten,0,15,Default
+18154,7,2026-05-20,triad,spring2026,advanced,18,women,PINE Pickle Peppers,LAWN Lawndale LOL,Melissa Agner,Nancy Benda-Pierce,Lori L Lundy,Lindsay Pieper,15,6,Completed
+18154,8,2026-05-20,triad,spring2026,advanced,18,women,PINE Pickle Peppers,LAWN Lawndale LOL,Clare Cox Overbey,Kate Meiners,Jameson Sellers,Carinna Barr Batten,15,12,Completed
+18154,9,2026-05-20,triad,spring2026,advanced,18,women,PINE Pickle Peppers,LAWN Lawndale LOL,DEFAULT,DEFAULT,Amy Brewington,April Nonato,0,15,Default
+18165,1,2026-05-30,triad,spring2026,advanced,18,women,PINE Pickle Peppers,LAWN Lawndale LOL,Clare Cox Overbey,Gabrielle Wreder,Amy Brewington,April Nonato,13,15,Completed
+18165,2,2026-05-30,triad,spring2026,advanced,18,women,PINE Pickle Peppers,LAWN Lawndale LOL,Kate Meiners,Juliana Craft,Michelle Gee,Lindsay Pieper,15,2,Completed
+18165,3,2026-05-30,triad,spring2026,advanced,18,women,PINE Pickle Peppers,LAWN Lawndale LOL,Melissa Agner,Nancy Benda-Pierce,Kelly Tysinger,Carinna Barr Batten,15,8,Completed
+18165,4,2026-05-30,triad,spring2026,advanced,18,women,PINE Pickle Peppers,LAWN Lawndale LOL,Clare Cox Overbey,Gabrielle Wreder,Michelle Gee,Lindsay Pieper,13,15,Completed
+18165,5,2026-05-30,triad,spring2026,advanced,18,women,PINE Pickle Peppers,LAWN Lawndale LOL,Kate Meiners,Juliana Craft,Kelly Tysinger,Carinna Barr Batten,15,13,Completed
+18165,6,2026-05-30,triad,spring2026,advanced,18,women,PINE Pickle Peppers,LAWN Lawndale LOL,Melissa Agner,Nancy Benda-Pierce,Amy Brewington,April Nonato,17,15,Completed
+18165,7,2026-05-30,triad,spring2026,advanced,18,women,PINE Pickle Peppers,LAWN Lawndale LOL,Clare Cox Overbey,Gabrielle Wreder,Kelly Tysinger,Carinna Barr Batten,15,9,Completed
+18165,8,2026-05-30,triad,spring2026,advanced,18,women,PINE Pickle Peppers,LAWN Lawndale LOL,Kate Meiners,Juliana Craft,Amy Brewington,April Nonato,15,13,Completed
+18165,9,2026-05-30,triad,spring2026,advanced,18,women,PINE Pickle Peppers,LAWN Lawndale LOL,Melissa Agner,Nancy Benda-Pierce,Michelle Gee,Lindsay Pieper,15,3,Completed

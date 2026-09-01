@@ -1,172 +1,172 @@
-match_id,game_id,match_date,league,season,skill_level,age,gender,team1_name,team2_name,partner1,partner2,opponent1,opponent2,team1_points,team2_points
-18182,1,2026-03-17,durham,spring2026,highintermediate,50,women,DUKE Dinking Devils,PINEY Dinking Buddies,Jane Kestenbaum,Libby Hicks,Wendy Richardson,Robin Johnston,15,5
-18182,2,2026-03-17,durham,spring2026,highintermediate,50,women,DUKE Dinking Devils,PINEY Dinking Buddies,Elizabeth Goettman Christopher,Mary Thomas,Terrie Hui,Joann Bristol,10,15
-18182,3,2026-03-17,durham,spring2026,highintermediate,50,women,DUKE Dinking Devils,PINEY Dinking Buddies,Gennifer Weisenfeld,Cecilia Csapo,Martha Wolf,Barbara Teagarden,14,16
-18182,4,2026-03-17,durham,spring2026,highintermediate,50,women,DUKE Dinking Devils,PINEY Dinking Buddies,Jane Kestenbaum,Libby Hicks,Terrie Hui,Joann Bristol,15,17
-18182,5,2026-03-17,durham,spring2026,highintermediate,50,women,DUKE Dinking Devils,PINEY Dinking Buddies,Elizabeth Goettman Christopher,Mary Thomas,Martha Wolf,Barbara Teagarden,6,15
-18182,6,2026-03-17,durham,spring2026,highintermediate,50,women,DUKE Dinking Devils,PINEY Dinking Buddies,Gennifer Weisenfeld,Cecilia Csapo,Wendy Richardson,Robin Johnston,15,6
-18182,7,2026-03-17,durham,spring2026,highintermediate,50,women,DUKE Dinking Devils,PINEY Dinking Buddies,Jane Kestenbaum,Libby Hicks,Martha Wolf,Barbara Teagarden,10,15
-18182,8,2026-03-17,durham,spring2026,highintermediate,50,women,DUKE Dinking Devils,PINEY Dinking Buddies,Elizabeth Goettman Christopher,Mary Thomas,Wendy Richardson,Robin Johnston,15,3
-18182,9,2026-03-17,durham,spring2026,highintermediate,50,women,DUKE Dinking Devils,PINEY Dinking Buddies,Gennifer Weisenfeld,Cecilia Csapo,Terrie Hui,Joann Bristol,6,15
-18183,1,2026-03-17,durham,spring2026,highintermediate,50,women,PINEY Dinkin Dames,FENDOL Dinkin Ladies,Liz Taylor,Patti cowhey,Barbara Papanestor,MaryBeth Quinn,4,15
-18183,2,2026-03-17,durham,spring2026,highintermediate,50,women,PINEY Dinkin Dames,FENDOL Dinkin Ladies,Connee White,Pat Cowell Morris,Laura Maness,Kim Carpenter,8,15
-18183,3,2026-03-17,durham,spring2026,highintermediate,50,women,PINEY Dinkin Dames,FENDOL Dinkin Ladies,Michelle Blackwell,Emily F Honeycutt,Cathy Liou,Diane Michaud,15,12
-18183,4,2026-03-17,durham,spring2026,highintermediate,50,women,PINEY Dinkin Dames,FENDOL Dinkin Ladies,Liz Taylor,Patti cowhey,Laura Maness,Kim Carpenter,5,15
-18183,5,2026-03-17,durham,spring2026,highintermediate,50,women,PINEY Dinkin Dames,FENDOL Dinkin Ladies,Connee White,Pat Cowell Morris,Cathy Liou,Diane Michaud,9,15
-18183,6,2026-03-17,durham,spring2026,highintermediate,50,women,PINEY Dinkin Dames,FENDOL Dinkin Ladies,Michelle Blackwell,Emily F Honeycutt,Barbara Papanestor,MaryBeth Quinn,2,15
-18183,7,2026-03-17,durham,spring2026,highintermediate,50,women,PINEY Dinkin Dames,FENDOL Dinkin Ladies,Liz Taylor,Patti cowhey,Cathy Liou,Diane Michaud,15,9
-18183,8,2026-03-17,durham,spring2026,highintermediate,50,women,PINEY Dinkin Dames,FENDOL Dinkin Ladies,Connee White,Pat Cowell Morris,Barbara Papanestor,MaryBeth Quinn,12,15
-18183,9,2026-03-17,durham,spring2026,highintermediate,50,women,PINEY Dinkin Dames,FENDOL Dinkin Ladies,Michelle Blackwell,Emily F Honeycutt,Laura Maness,Kim Carpenter,8,15
-18191,1,2026-03-24,durham,spring2026,highintermediate,50,women,FENDOL Dinkin Ladies,PINEY Dinking Buddies,Barbara Noblin,Laura Maness,Martha Keating,Joann Bristol,5,15
-18191,2,2026-03-24,durham,spring2026,highintermediate,50,women,FENDOL Dinkin Ladies,PINEY Dinking Buddies,Debi Collins,Diane Michaud,Wendy Richardson,Judy Frances Kane,9,15
-18191,3,2026-03-24,durham,spring2026,highintermediate,50,women,FENDOL Dinkin Ladies,PINEY Dinking Buddies,MaryBeth Quinn,Barbara Papanestor,Terrie Hui,Barbara Teagarden,8,15
-18191,4,2026-03-24,durham,spring2026,highintermediate,50,women,FENDOL Dinkin Ladies,PINEY Dinking Buddies,Barbara Noblin,Laura Maness,Wendy Richardson,Judy Frances Kane,13,15
-18191,5,2026-03-24,durham,spring2026,highintermediate,50,women,FENDOL Dinkin Ladies,PINEY Dinking Buddies,Debi Collins,Diane Michaud,Terrie Hui,Barbara Teagarden,7,15
-18191,6,2026-03-24,durham,spring2026,highintermediate,50,women,FENDOL Dinkin Ladies,PINEY Dinking Buddies,MaryBeth Quinn,Barbara Papanestor,Martha Keating,Joann Bristol,15,7
-18191,7,2026-03-24,durham,spring2026,highintermediate,50,women,FENDOL Dinkin Ladies,PINEY Dinking Buddies,Barbara Noblin,Laura Maness,Terrie Hui,Barbara Teagarden,2,15
-18191,8,2026-03-24,durham,spring2026,highintermediate,50,women,FENDOL Dinkin Ladies,PINEY Dinking Buddies,Debi Collins,Diane Michaud,Martha Keating,Joann Bristol,4,15
-18191,9,2026-03-24,durham,spring2026,highintermediate,50,women,FENDOL Dinkin Ladies,PINEY Dinking Buddies,MaryBeth Quinn,Barbara Papanestor,Wendy Richardson,Judy Frances Kane,15,5
-18192,1,2026-03-24,durham,spring2026,highintermediate,50,women,PINEY Dinkin Dames,DUKE Dinking Devils,Michele Kelly,Michelle Blackwell,Elizabeth Goettman Christopher,Cecilia Csapo,2,15
-18192,2,2026-03-24,durham,spring2026,highintermediate,50,women,PINEY Dinkin Dames,DUKE Dinking Devils,Connee White,Patti cowhey,Lisa Purtell,Lisa Stella,3,15
-18192,3,2026-03-24,durham,spring2026,highintermediate,50,women,PINEY Dinkin Dames,DUKE Dinking Devils,Liz Taylor,Victoria Dakoski,Mary Thomas,Jane Kestenbaum,13,15
-18192,4,2026-03-24,durham,spring2026,highintermediate,50,women,PINEY Dinkin Dames,DUKE Dinking Devils,Michele Kelly,Michelle Blackwell,Lisa Purtell,Lisa Stella,9,15
-18192,5,2026-03-24,durham,spring2026,highintermediate,50,women,PINEY Dinkin Dames,DUKE Dinking Devils,Connee White,Patti cowhey,Mary Thomas,Jane Kestenbaum,3,15
-18192,6,2026-03-24,durham,spring2026,highintermediate,50,women,PINEY Dinkin Dames,DUKE Dinking Devils,Liz Taylor,Victoria Dakoski,Elizabeth Goettman Christopher,Cecilia Csapo,2,15
-18192,7,2026-03-24,durham,spring2026,highintermediate,50,women,PINEY Dinkin Dames,DUKE Dinking Devils,Michele Kelly,Michelle Blackwell,Mary Thomas,Jane Kestenbaum,1,15
-18192,8,2026-03-24,durham,spring2026,highintermediate,50,women,PINEY Dinkin Dames,DUKE Dinking Devils,Connee White,Patti cowhey,Elizabeth Goettman Christopher,Cecilia Csapo,5,15
-18192,9,2026-03-24,durham,spring2026,highintermediate,50,women,PINEY Dinkin Dames,DUKE Dinking Devils,Liz Taylor,Victoria Dakoski,Lisa Purtell,Lisa Stella,2,15
-18204,1,2026-03-31,durham,spring2026,highintermediate,50,women,FENDOL Dinkin Ladies,DUKE Dinking Devils,Laura Maness,Kim Carpenter,Lisa Stella,Gennifer Weisenfeld,10,15
-18204,2,2026-03-31,durham,spring2026,highintermediate,50,women,FENDOL Dinkin Ladies,DUKE Dinking Devils,Debi Collins,Cindy Jacobson,Cecilia Csapo,Jane Kestenbaum,3,15
-18204,3,2026-03-31,durham,spring2026,highintermediate,50,women,FENDOL Dinkin Ladies,DUKE Dinking Devils,MaryBeth Quinn,Barbara Papanestor,Mary Thomas,Elizabeth Goettman Christopher,5,15
-18204,4,2026-03-31,durham,spring2026,highintermediate,50,women,FENDOL Dinkin Ladies,DUKE Dinking Devils,Laura Maness,Kim Carpenter,Cecilia Csapo,Jane Kestenbaum,13,15
-18204,5,2026-03-31,durham,spring2026,highintermediate,50,women,FENDOL Dinkin Ladies,DUKE Dinking Devils,Debi Collins,Cindy Jacobson,Mary Thomas,Elizabeth Goettman Christopher,14,16
-18204,6,2026-03-31,durham,spring2026,highintermediate,50,women,FENDOL Dinkin Ladies,DUKE Dinking Devils,MaryBeth Quinn,Barbara Papanestor,Lisa Stella,Gennifer Weisenfeld,15,7
-18204,7,2026-03-31,durham,spring2026,highintermediate,50,women,FENDOL Dinkin Ladies,DUKE Dinking Devils,Laura Maness,Kim Carpenter,Mary Thomas,Elizabeth Goettman Christopher,16,14
-18204,8,2026-03-31,durham,spring2026,highintermediate,50,women,FENDOL Dinkin Ladies,DUKE Dinking Devils,Debi Collins,Cindy Jacobson,Lisa Stella,Gennifer Weisenfeld,16,14
-18204,9,2026-03-31,durham,spring2026,highintermediate,50,women,FENDOL Dinkin Ladies,DUKE Dinking Devils,MaryBeth Quinn,Barbara Papanestor,Cecilia Csapo,Jane Kestenbaum,2,15
-18205,1,2026-03-31,durham,spring2026,highintermediate,50,women,PINEY Dinking Buddies,PINEY Dinkin Dames,Wendy Richardson,Terrie Hui,Connee White,Liz Taylor,15,13
-18205,2,2026-03-31,durham,spring2026,highintermediate,50,women,PINEY Dinking Buddies,PINEY Dinkin Dames,Judy Frances Kane,Martha Keating,Michelle Blackwell,Victoria Dakoski,15,4
-18205,3,2026-03-31,durham,spring2026,highintermediate,50,women,PINEY Dinking Buddies,PINEY Dinkin Dames,Joann Bristol,Martha Wolf,Michele Kelly,Emily F Honeycutt,15,5
-18205,4,2026-03-31,durham,spring2026,highintermediate,50,women,PINEY Dinking Buddies,PINEY Dinkin Dames,Wendy Richardson,Terrie Hui,Michelle Blackwell,Victoria Dakoski,15,7
-18205,5,2026-03-31,durham,spring2026,highintermediate,50,women,PINEY Dinking Buddies,PINEY Dinkin Dames,Judy Frances Kane,Martha Keating,Michele Kelly,Emily F Honeycutt,9,15
-18205,6,2026-03-31,durham,spring2026,highintermediate,50,women,PINEY Dinking Buddies,PINEY Dinkin Dames,Joann Bristol,Martha Wolf,Connee White,Liz Taylor,15,0
-18205,7,2026-03-31,durham,spring2026,highintermediate,50,women,PINEY Dinking Buddies,PINEY Dinkin Dames,Wendy Richardson,Terrie Hui,Michele Kelly,Emily F Honeycutt,15,9
-18205,8,2026-03-31,durham,spring2026,highintermediate,50,women,PINEY Dinking Buddies,PINEY Dinkin Dames,Judy Frances Kane,Martha Keating,Connee White,Liz Taylor,15,11
-18205,9,2026-03-31,durham,spring2026,highintermediate,50,women,PINEY Dinking Buddies,PINEY Dinkin Dames,Joann Bristol,Martha Wolf,Michelle Blackwell,Victoria Dakoski,15,3
-18218,1,2026-04-14,durham,spring2026,highintermediate,50,women,DUKE Dinking Devils,PINEY Dinkin Dames,Mary Thomas,Libby Hicks,Michelle Blackwell,Mindi McLendon Sullivan,15,2
-18218,2,2026-04-14,durham,spring2026,highintermediate,50,women,DUKE Dinking Devils,PINEY Dinkin Dames,Rachel m Campbell,Laura Schanberg,Diane O Hoefer,Emily F Honeycutt,15,3
-18218,3,2026-04-14,durham,spring2026,highintermediate,50,women,DUKE Dinking Devils,PINEY Dinkin Dames,Gennifer Weisenfeld,Lisa Stella,Pat Cowell Morris,Victoria Dakoski,15,6
-18218,4,2026-04-14,durham,spring2026,highintermediate,50,women,DUKE Dinking Devils,PINEY Dinkin Dames,Mary Thomas,Libby Hicks,Diane O Hoefer,Emily F Honeycutt,15,2
-18218,5,2026-04-14,durham,spring2026,highintermediate,50,women,DUKE Dinking Devils,PINEY Dinkin Dames,Rachel m Campbell,Laura Schanberg,Pat Cowell Morris,Victoria Dakoski,15,2
-18218,6,2026-04-14,durham,spring2026,highintermediate,50,women,DUKE Dinking Devils,PINEY Dinkin Dames,Gennifer Weisenfeld,Lisa Stella,Michelle Blackwell,Mindi McLendon Sullivan,15,11
-18218,7,2026-04-14,durham,spring2026,highintermediate,50,women,DUKE Dinking Devils,PINEY Dinkin Dames,Mary Thomas,Libby Hicks,Pat Cowell Morris,Victoria Dakoski,15,1
-18218,8,2026-04-14,durham,spring2026,highintermediate,50,women,DUKE Dinking Devils,PINEY Dinkin Dames,Rachel m Campbell,Laura Schanberg,Michelle Blackwell,Mindi McLendon Sullivan,5,3
-18218,9,2026-04-14,durham,spring2026,highintermediate,50,women,DUKE Dinking Devils,PINEY Dinkin Dames,Gennifer Weisenfeld,Lisa Stella,Diane O Hoefer,Emily F Honeycutt,15,0
-18219,1,2026-04-14,durham,spring2026,highintermediate,50,women,PINEY Dinking Buddies,FENDOL Dinkin Ladies,Martha Keating,Joann Bristol,Laura Maness,Cindy Jacobson,15,7
-18219,2,2026-04-14,durham,spring2026,highintermediate,50,women,PINEY Dinking Buddies,FENDOL Dinkin Ladies,Judy Frances Kane,Robin Johnston,Debbie Danuser,Debi Collins,5,15
-18219,3,2026-04-14,durham,spring2026,highintermediate,50,women,PINEY Dinking Buddies,FENDOL Dinkin Ladies,Barbara Teagarden,Martha Wolf,Barbara Noblin,Diane Michaud,15,3
-18219,4,2026-04-14,durham,spring2026,highintermediate,50,women,PINEY Dinking Buddies,FENDOL Dinkin Ladies,Martha Keating,Joann Bristol,Debbie Danuser,Debi Collins,15,2
-18219,5,2026-04-14,durham,spring2026,highintermediate,50,women,PINEY Dinking Buddies,FENDOL Dinkin Ladies,Judy Frances Kane,Robin Johnston,Barbara Noblin,Diane Michaud,15,8
-18219,6,2026-04-14,durham,spring2026,highintermediate,50,women,PINEY Dinking Buddies,FENDOL Dinkin Ladies,Barbara Teagarden,Martha Wolf,Laura Maness,Cindy Jacobson,15,7
-18219,7,2026-04-14,durham,spring2026,highintermediate,50,women,PINEY Dinking Buddies,FENDOL Dinkin Ladies,Martha Keating,Joann Bristol,Barbara Noblin,Diane Michaud,15,5
-18219,8,2026-04-14,durham,spring2026,highintermediate,50,women,PINEY Dinking Buddies,FENDOL Dinkin Ladies,Judy Frances Kane,Robin Johnston,Laura Maness,Cindy Jacobson,12,15
-18219,9,2026-04-14,durham,spring2026,highintermediate,50,women,PINEY Dinking Buddies,FENDOL Dinkin Ladies,Barbara Teagarden,Martha Wolf,Debbie Danuser,Debi Collins,15,13
-18231,1,2026-04-21,durham,spring2026,highintermediate,50,women,FENDOL Dinkin Ladies,PINEY Dinkin Dames,Kim Carpenter,Laura Maness,Liz Taylor,Pat Cowell Morris,15,6
-18231,2,2026-04-21,durham,spring2026,highintermediate,50,women,FENDOL Dinkin Ladies,PINEY Dinkin Dames,Cindy Jacobson,Diane Michaud,Diane O Hoefer,Emily F Honeycutt,15,6
-18231,3,2026-04-21,durham,spring2026,highintermediate,50,women,FENDOL Dinkin Ladies,PINEY Dinkin Dames,Barbara Noblin,Debbie Danuser,Mindi McLendon Sullivan,Victoria Dakoski,15,5
-18231,4,2026-04-21,durham,spring2026,highintermediate,50,women,FENDOL Dinkin Ladies,PINEY Dinkin Dames,Kim Carpenter,Laura Maness,Diane O Hoefer,Emily F Honeycutt,15,4
-18231,5,2026-04-21,durham,spring2026,highintermediate,50,women,FENDOL Dinkin Ladies,PINEY Dinkin Dames,Cindy Jacobson,Diane Michaud,Mindi McLendon Sullivan,Victoria Dakoski,15,13
-18231,6,2026-04-21,durham,spring2026,highintermediate,50,women,FENDOL Dinkin Ladies,PINEY Dinkin Dames,Barbara Noblin,Debbie Danuser,Liz Taylor,Pat Cowell Morris,15,5
-18231,7,2026-04-21,durham,spring2026,highintermediate,50,women,FENDOL Dinkin Ladies,PINEY Dinkin Dames,Kim Carpenter,Laura Maness,Mindi McLendon Sullivan,Victoria Dakoski,15,4
-18231,8,2026-04-21,durham,spring2026,highintermediate,50,women,FENDOL Dinkin Ladies,PINEY Dinkin Dames,Cindy Jacobson,Diane Michaud,Liz Taylor,Pat Cowell Morris,8,15
-18231,9,2026-04-21,durham,spring2026,highintermediate,50,women,FENDOL Dinkin Ladies,PINEY Dinkin Dames,Barbara Noblin,Debbie Danuser,Diane O Hoefer,Emily F Honeycutt,15,7
-18232,1,2026-04-21,durham,spring2026,highintermediate,50,women,PINEY Dinking Buddies,DUKE Dinking Devils,Martha Keating,Terrie Hui,Lisa Stella,Cecilia Csapo,15,3
-18232,2,2026-04-21,durham,spring2026,highintermediate,50,women,PINEY Dinking Buddies,DUKE Dinking Devils,Barbara Teagarden,Martha Wolf,Lisa Purtell,Libby Hicks,2,15
-18232,3,2026-04-21,durham,spring2026,highintermediate,50,women,PINEY Dinking Buddies,DUKE Dinking Devils,Judy Frances Kane,Julie Welge,Rachel m Campbell,Susana Harvey,14,16
-18232,4,2026-04-21,durham,spring2026,highintermediate,50,women,PINEY Dinking Buddies,DUKE Dinking Devils,Martha Keating,Terrie Hui,Lisa Purtell,Libby Hicks,15,10
-18232,5,2026-04-21,durham,spring2026,highintermediate,50,women,PINEY Dinking Buddies,DUKE Dinking Devils,Barbara Teagarden,Martha Wolf,Rachel m Campbell,Susana Harvey,15,6
-18232,6,2026-04-21,durham,spring2026,highintermediate,50,women,PINEY Dinking Buddies,DUKE Dinking Devils,Judy Frances Kane,Julie Welge,Lisa Stella,Cecilia Csapo,6,15
-18232,7,2026-04-21,durham,spring2026,highintermediate,50,women,PINEY Dinking Buddies,DUKE Dinking Devils,Martha Keating,Terrie Hui,Rachel m Campbell,Susana Harvey,15,8
-18232,8,2026-04-21,durham,spring2026,highintermediate,50,women,PINEY Dinking Buddies,DUKE Dinking Devils,Barbara Teagarden,Martha Wolf,Lisa Stella,Cecilia Csapo,15,2
-18232,9,2026-04-21,durham,spring2026,highintermediate,50,women,PINEY Dinking Buddies,DUKE Dinking Devils,Judy Frances Kane,Julie Welge,Lisa Purtell,Libby Hicks,3,15
-18243,1,2026-04-28,durham,spring2026,highintermediate,50,women,DUKE Dinking Devils,FENDOL Dinkin Ladies,Lisa Purtell,Lisa Stella,Debbie Danuser,MaryBeth Quinn,15,10
-18243,2,2026-04-28,durham,spring2026,highintermediate,50,women,DUKE Dinking Devils,FENDOL Dinkin Ladies,Jane Kestenbaum,Cecilia Csapo,Barbara Papanestor,Diane Michaud,15,10
-18243,3,2026-04-28,durham,spring2026,highintermediate,50,women,DUKE Dinking Devils,FENDOL Dinkin Ladies,Laura Schanberg,Gennifer Weisenfeld,Barbara Noblin,Laura Maness,16,14
-18243,4,2026-04-28,durham,spring2026,highintermediate,50,women,DUKE Dinking Devils,FENDOL Dinkin Ladies,Lisa Purtell,Lisa Stella,Barbara Papanestor,Diane Michaud,15,1
-18243,5,2026-04-28,durham,spring2026,highintermediate,50,women,DUKE Dinking Devils,FENDOL Dinkin Ladies,Jane Kestenbaum,Cecilia Csapo,Barbara Noblin,Laura Maness,15,9
-18243,6,2026-04-28,durham,spring2026,highintermediate,50,women,DUKE Dinking Devils,FENDOL Dinkin Ladies,Laura Schanberg,Gennifer Weisenfeld,Debbie Danuser,MaryBeth Quinn,3,15
-18243,7,2026-04-28,durham,spring2026,highintermediate,50,women,DUKE Dinking Devils,FENDOL Dinkin Ladies,Lisa Purtell,Lisa Stella,Barbara Noblin,Laura Maness,15,8
-18243,8,2026-04-28,durham,spring2026,highintermediate,50,women,DUKE Dinking Devils,FENDOL Dinkin Ladies,Jane Kestenbaum,Cecilia Csapo,Debbie Danuser,MaryBeth Quinn,8,15
-18243,9,2026-04-28,durham,spring2026,highintermediate,50,women,DUKE Dinking Devils,FENDOL Dinkin Ladies,Laura Schanberg,Gennifer Weisenfeld,Barbara Papanestor,Diane Michaud,15,11
-18244,1,2026-04-28,durham,spring2026,highintermediate,50,women,PINEY Dinkin Dames,PINEY Dinking Buddies,Liz Taylor,Michele Kelly,Martha Keating,Judy Frances Kane,15,3
-18244,2,2026-04-28,durham,spring2026,highintermediate,50,women,PINEY Dinkin Dames,PINEY Dinking Buddies,Diane O Hoefer,Pat Cowell Morris,Joann Bristol,Julie Welge,6,15
-18244,3,2026-04-28,durham,spring2026,highintermediate,50,women,PINEY Dinkin Dames,PINEY Dinking Buddies,Connee White,Victoria Dakoski,Barbara Teagarden,Wendy Richardson,6,15
-18244,4,2026-04-28,durham,spring2026,highintermediate,50,women,PINEY Dinkin Dames,PINEY Dinking Buddies,Liz Taylor,Michele Kelly,Joann Bristol,Julie Welge,15,4
-18244,5,2026-04-28,durham,spring2026,highintermediate,50,women,PINEY Dinkin Dames,PINEY Dinking Buddies,Diane O Hoefer,Pat Cowell Morris,Barbara Teagarden,Wendy Richardson,5,15
-18244,6,2026-04-28,durham,spring2026,highintermediate,50,women,PINEY Dinkin Dames,PINEY Dinking Buddies,Connee White,Victoria Dakoski,Martha Keating,Judy Frances Kane,6,15
-18244,7,2026-04-28,durham,spring2026,highintermediate,50,women,PINEY Dinkin Dames,PINEY Dinking Buddies,Liz Taylor,Michele Kelly,Barbara Teagarden,Wendy Richardson,15,2
-18244,8,2026-04-28,durham,spring2026,highintermediate,50,women,PINEY Dinkin Dames,PINEY Dinking Buddies,Diane O Hoefer,Pat Cowell Morris,Martha Keating,Judy Frances Kane,2,15
-18244,9,2026-04-28,durham,spring2026,highintermediate,50,women,PINEY Dinkin Dames,PINEY Dinking Buddies,Connee White,Victoria Dakoski,Joann Bristol,Julie Welge,2,15
-18258,1,2026-05-05,durham,spring2026,highintermediate,50,women,DUKE Dinking Devils,PINEY Dinking Buddies,Libby Hicks,Elizabeth Goettman Christopher,Terrie Hui,Martha Keating,15,5
-18258,2,2026-05-05,durham,spring2026,highintermediate,50,women,DUKE Dinking Devils,PINEY Dinking Buddies,Lisa Stella,Laura Schanberg,Wendy Richardson,Julie Welge,8,15
-18258,3,2026-05-05,durham,spring2026,highintermediate,50,women,DUKE Dinking Devils,PINEY Dinking Buddies,Mary Thomas,Rachel m Campbell,Martha Wolf,Barbara Teagarden,8,15
-18258,4,2026-05-05,durham,spring2026,highintermediate,50,women,DUKE Dinking Devils,PINEY Dinking Buddies,Libby Hicks,Elizabeth Goettman Christopher,Wendy Richardson,Julie Welge,15,3
-18258,5,2026-05-05,durham,spring2026,highintermediate,50,women,DUKE Dinking Devils,PINEY Dinking Buddies,Lisa Stella,Laura Schanberg,Martha Wolf,Barbara Teagarden,12,15
-18258,6,2026-05-05,durham,spring2026,highintermediate,50,women,DUKE Dinking Devils,PINEY Dinking Buddies,Mary Thomas,Rachel m Campbell,Terrie Hui,Martha Keating,12,15
-18258,7,2026-05-05,durham,spring2026,highintermediate,50,women,DUKE Dinking Devils,PINEY Dinking Buddies,Libby Hicks,Elizabeth Goettman Christopher,Martha Wolf,Barbara Teagarden,15,13
-18258,8,2026-05-05,durham,spring2026,highintermediate,50,women,DUKE Dinking Devils,PINEY Dinking Buddies,Lisa Stella,Laura Schanberg,Terrie Hui,Martha Keating,7,15
-18258,9,2026-05-05,durham,spring2026,highintermediate,50,women,DUKE Dinking Devils,PINEY Dinking Buddies,Mary Thomas,Rachel m Campbell,Wendy Richardson,Julie Welge,10,15
-18259,1,2026-05-05,durham,spring2026,highintermediate,50,women,PINEY Dinkin Dames,FENDOL Dinkin Ladies,Liz Taylor,Patti cowhey,Laura Maness,Kim Carpenter,11,15
-18259,2,2026-05-05,durham,spring2026,highintermediate,50,women,PINEY Dinkin Dames,FENDOL Dinkin Ladies,Connee White,Mindi McLendon Sullivan,MaryBeth Quinn,Debi Collins,1,15
-18259,3,2026-05-05,durham,spring2026,highintermediate,50,women,PINEY Dinkin Dames,FENDOL Dinkin Ladies,Emily F Honeycutt,Victoria Dakoski,Barbara Noblin,Barbara Papanestor,8,15
-18259,4,2026-05-05,durham,spring2026,highintermediate,50,women,PINEY Dinkin Dames,FENDOL Dinkin Ladies,Liz Taylor,Patti cowhey,MaryBeth Quinn,Debi Collins,5,15
-18259,5,2026-05-05,durham,spring2026,highintermediate,50,women,PINEY Dinkin Dames,FENDOL Dinkin Ladies,Connee White,Mindi McLendon Sullivan,Barbara Noblin,Barbara Papanestor,15,10
-18259,6,2026-05-05,durham,spring2026,highintermediate,50,women,PINEY Dinkin Dames,FENDOL Dinkin Ladies,Emily F Honeycutt,Victoria Dakoski,Laura Maness,Kim Carpenter,3,15
-18259,7,2026-05-05,durham,spring2026,highintermediate,50,women,PINEY Dinkin Dames,FENDOL Dinkin Ladies,Liz Taylor,Patti cowhey,Barbara Noblin,Barbara Papanestor,5,15
-18259,8,2026-05-05,durham,spring2026,highintermediate,50,women,PINEY Dinkin Dames,FENDOL Dinkin Ladies,Connee White,Mindi McLendon Sullivan,Laura Maness,Kim Carpenter,9,15
-18259,9,2026-05-05,durham,spring2026,highintermediate,50,women,PINEY Dinkin Dames,FENDOL Dinkin Ladies,Emily F Honeycutt,Victoria Dakoski,MaryBeth Quinn,Debi Collins,2,15
-18267,1,2026-05-12,durham,spring2026,highintermediate,50,women,FENDOL Dinkin Ladies,PINEY Dinking Buddies,Kim Carpenter,Laura Maness,Wendy Richardson,Robin Johnston,15,9
-18267,2,2026-05-12,durham,spring2026,highintermediate,50,women,FENDOL Dinkin Ladies,PINEY Dinking Buddies,Debbie Danuser,Cindy Jacobson,Terrie Hui,Julie Welge,6,15
-18267,3,2026-05-12,durham,spring2026,highintermediate,50,women,FENDOL Dinkin Ladies,PINEY Dinking Buddies,Debi Collins,Barbara Papanestor,Barbara Teagarden,Martha Wolf,2,15
-18267,4,2026-05-12,durham,spring2026,highintermediate,50,women,FENDOL Dinkin Ladies,PINEY Dinking Buddies,Kim Carpenter,Laura Maness,Terrie Hui,Julie Welge,14,16
-18267,5,2026-05-12,durham,spring2026,highintermediate,50,women,FENDOL Dinkin Ladies,PINEY Dinking Buddies,Debbie Danuser,Cindy Jacobson,Barbara Teagarden,Martha Wolf,15,12
-18267,6,2026-05-12,durham,spring2026,highintermediate,50,women,FENDOL Dinkin Ladies,PINEY Dinking Buddies,Debi Collins,Barbara Papanestor,Wendy Richardson,Robin Johnston,17,15
-18267,7,2026-05-12,durham,spring2026,highintermediate,50,women,FENDOL Dinkin Ladies,PINEY Dinking Buddies,Kim Carpenter,Laura Maness,Barbara Teagarden,Martha Wolf,14,16
-18267,8,2026-05-12,durham,spring2026,highintermediate,50,women,FENDOL Dinkin Ladies,PINEY Dinking Buddies,Debbie Danuser,Cindy Jacobson,Wendy Richardson,Robin Johnston,15,13
-18267,9,2026-05-12,durham,spring2026,highintermediate,50,women,FENDOL Dinkin Ladies,PINEY Dinking Buddies,Debi Collins,Barbara Papanestor,Terrie Hui,Julie Welge,13,15
-18268,1,2026-05-12,durham,spring2026,highintermediate,50,women,PINEY Dinkin Dames,DUKE Dinking Devils,Michele Kelly,Patti cowhey,Lisa Purtell,Jane Kestenbaum,17,15
-18268,2,2026-05-12,durham,spring2026,highintermediate,50,women,PINEY Dinkin Dames,DUKE Dinking Devils,Connee White,Mindi McLendon Sullivan,Elizabeth Goettman Christopher,Rachel m Campbell,8,15
-18268,3,2026-05-12,durham,spring2026,highintermediate,50,women,PINEY Dinkin Dames,DUKE Dinking Devils,Emily F Honeycutt,Victoria Dakoski,Laura Schanberg,Susana Harvey,3,15
-18268,4,2026-05-12,durham,spring2026,highintermediate,50,women,PINEY Dinkin Dames,DUKE Dinking Devils,Michele Kelly,Patti cowhey,Elizabeth Goettman Christopher,Rachel m Campbell,15,10
-18268,5,2026-05-12,durham,spring2026,highintermediate,50,women,PINEY Dinkin Dames,DUKE Dinking Devils,Connee White,Mindi McLendon Sullivan,Laura Schanberg,Susana Harvey,3,15
-18268,6,2026-05-12,durham,spring2026,highintermediate,50,women,PINEY Dinkin Dames,DUKE Dinking Devils,Emily F Honeycutt,Victoria Dakoski,Lisa Purtell,Jane Kestenbaum,4,15
-18268,7,2026-05-12,durham,spring2026,highintermediate,50,women,PINEY Dinkin Dames,DUKE Dinking Devils,Michele Kelly,Patti cowhey,Laura Schanberg,Susana Harvey,15,12
-18268,8,2026-05-12,durham,spring2026,highintermediate,50,women,PINEY Dinkin Dames,DUKE Dinking Devils,Connee White,Mindi McLendon Sullivan,Lisa Purtell,Jane Kestenbaum,12,15
-18268,9,2026-05-12,durham,spring2026,highintermediate,50,women,PINEY Dinkin Dames,DUKE Dinking Devils,Emily F Honeycutt,Victoria Dakoski,Elizabeth Goettman Christopher,Rachel m Campbell,4,15
-18282,1,2026-05-19,durham,spring2026,highintermediate,50,women,FENDOL Dinkin Ladies,DUKE Dinking Devils,Barbara Noblin,Debbie Danuser,DEFAULT,DEFAULT,15,0
-18282,2,2026-05-19,durham,spring2026,highintermediate,50,women,FENDOL Dinkin Ladies,DUKE Dinking Devils,Debi Collins,Barbara Papanestor,DEFAULT,DEFAULT,15,0
-18282,3,2026-05-19,durham,spring2026,highintermediate,50,women,FENDOL Dinkin Ladies,DUKE Dinking Devils,Laura Maness,Diane Michaud,DEFAULT,DEFAULT,15,0
-18282,4,2026-05-19,durham,spring2026,highintermediate,50,women,FENDOL Dinkin Ladies,DUKE Dinking Devils,Barbara Noblin,Debbie Danuser,DEFAULT,DEFAULT,15,0
-18282,5,2026-05-19,durham,spring2026,highintermediate,50,women,FENDOL Dinkin Ladies,DUKE Dinking Devils,Debi Collins,Barbara Papanestor,DEFAULT,DEFAULT,15,0
-18282,6,2026-05-19,durham,spring2026,highintermediate,50,women,FENDOL Dinkin Ladies,DUKE Dinking Devils,Laura Maness,Diane Michaud,DEFAULT,DEFAULT,15,0
-18282,7,2026-05-19,durham,spring2026,highintermediate,50,women,FENDOL Dinkin Ladies,DUKE Dinking Devils,Barbara Noblin,Debbie Danuser,DEFAULT,DEFAULT,15,0
-18282,8,2026-05-19,durham,spring2026,highintermediate,50,women,FENDOL Dinkin Ladies,DUKE Dinking Devils,Debi Collins,Barbara Papanestor,DEFAULT,DEFAULT,15,0
-18282,9,2026-05-19,durham,spring2026,highintermediate,50,women,FENDOL Dinkin Ladies,DUKE Dinking Devils,Laura Maness,Diane Michaud,DEFAULT,DEFAULT,15,0
-18283,1,2026-05-19,durham,spring2026,highintermediate,50,women,PINEY Dinking Buddies,PINEY Dinkin Dames,Martha Wolf,Julie Welge,Liz Taylor,Michele Kelly,15,6
-18283,2,2026-05-19,durham,spring2026,highintermediate,50,women,PINEY Dinking Buddies,PINEY Dinkin Dames,Martha Keating,Wendy Richardson,Connee White,Mindi McLendon Sullivan,15,8
-18283,3,2026-05-19,durham,spring2026,highintermediate,50,women,PINEY Dinking Buddies,PINEY Dinkin Dames,Barbara Teagarden,Robin Johnston,Patti cowhey,Emily F Honeycutt,15,5
-18283,4,2026-05-19,durham,spring2026,highintermediate,50,women,PINEY Dinking Buddies,PINEY Dinkin Dames,Martha Wolf,Julie Welge,Connee White,Mindi McLendon Sullivan,15,10
-18283,5,2026-05-19,durham,spring2026,highintermediate,50,women,PINEY Dinking Buddies,PINEY Dinkin Dames,Martha Keating,Wendy Richardson,Patti cowhey,Emily F Honeycutt,15,4
-18283,6,2026-05-19,durham,spring2026,highintermediate,50,women,PINEY Dinking Buddies,PINEY Dinkin Dames,Barbara Teagarden,Robin Johnston,Liz Taylor,Michele Kelly,14,16
-18283,7,2026-05-19,durham,spring2026,highintermediate,50,women,PINEY Dinking Buddies,PINEY Dinkin Dames,Martha Wolf,Julie Welge,Patti cowhey,Emily F Honeycutt,15,9
-18283,8,2026-05-19,durham,spring2026,highintermediate,50,women,PINEY Dinking Buddies,PINEY Dinkin Dames,Martha Keating,Wendy Richardson,Liz Taylor,Michele Kelly,16,14
-18283,9,2026-05-19,durham,spring2026,highintermediate,50,women,PINEY Dinking Buddies,PINEY Dinkin Dames,Barbara Teagarden,Robin Johnston,Connee White,Mindi McLendon Sullivan,15,7
-18290,1,2026-05-30,durham,spring2026,highintermediate,50,women,PINEY Dinking Buddies,DUKE Dinking Devils,Terrie Hui,Martha Keating,Elizabeth Goettman Christopher,Mary Thomas,15,10
-18290,2,2026-05-30,durham,spring2026,highintermediate,50,women,PINEY Dinking Buddies,DUKE Dinking Devils,Wendy Richardson,Julie Welge,Jane Kestenbaum,Cecilia Csapo,5,15
-18290,3,2026-05-30,durham,spring2026,highintermediate,50,women,PINEY Dinking Buddies,DUKE Dinking Devils,Barbara Teagarden,Martha Wolf,Lisa Purtell,Lisa Stella,5,15
-18290,4,2026-05-30,durham,spring2026,highintermediate,50,women,PINEY Dinking Buddies,DUKE Dinking Devils,Terrie Hui,Martha Keating,Jane Kestenbaum,Cecilia Csapo,15,4
-18290,5,2026-05-30,durham,spring2026,highintermediate,50,women,PINEY Dinking Buddies,DUKE Dinking Devils,Wendy Richardson,Julie Welge,Lisa Purtell,Lisa Stella,10,15
-18290,6,2026-05-30,durham,spring2026,highintermediate,50,women,PINEY Dinking Buddies,DUKE Dinking Devils,Barbara Teagarden,Martha Wolf,Elizabeth Goettman Christopher,Mary Thomas,12,15
-18290,7,2026-05-30,durham,spring2026,highintermediate,50,women,PINEY Dinking Buddies,DUKE Dinking Devils,Terrie Hui,Martha Keating,Lisa Purtell,Lisa Stella,15,3
-18290,8,2026-05-30,durham,spring2026,highintermediate,50,women,PINEY Dinking Buddies,DUKE Dinking Devils,Wendy Richardson,Julie Welge,Elizabeth Goettman Christopher,Mary Thomas,6,15
-18290,9,2026-05-30,durham,spring2026,highintermediate,50,women,PINEY Dinking Buddies,DUKE Dinking Devils,Barbara Teagarden,Martha Wolf,Jane Kestenbaum,Cecilia Csapo,15,13
+match_id,game_id,match_date,league,season,skill_level,age,gender,team1_name,team2_name,partner1,partner2,opponent1,opponent2,team1_points,team2_points,status
+18182,1,2026-03-17,durham,spring2026,highintermediate,50,women,DUKE Dinking Devils,PINEY Dinking Buddies,Jane Kestenbaum,Libby Hicks,Wendy Richardson,Robin Johnston,15,5,Completed
+18182,2,2026-03-17,durham,spring2026,highintermediate,50,women,DUKE Dinking Devils,PINEY Dinking Buddies,Elizabeth Goettman Christopher,Mary Thomas,Terrie Hui,Joann Bristol,10,15,Completed
+18182,3,2026-03-17,durham,spring2026,highintermediate,50,women,DUKE Dinking Devils,PINEY Dinking Buddies,Gennifer Weisenfeld,Cecilia Csapo,Martha Wolf,Barbara Teagarden,14,16,Completed
+18182,4,2026-03-17,durham,spring2026,highintermediate,50,women,DUKE Dinking Devils,PINEY Dinking Buddies,Jane Kestenbaum,Libby Hicks,Terrie Hui,Joann Bristol,15,17,Completed
+18182,5,2026-03-17,durham,spring2026,highintermediate,50,women,DUKE Dinking Devils,PINEY Dinking Buddies,Elizabeth Goettman Christopher,Mary Thomas,Martha Wolf,Barbara Teagarden,6,15,Completed
+18182,6,2026-03-17,durham,spring2026,highintermediate,50,women,DUKE Dinking Devils,PINEY Dinking Buddies,Gennifer Weisenfeld,Cecilia Csapo,Wendy Richardson,Robin Johnston,15,6,Completed
+18182,7,2026-03-17,durham,spring2026,highintermediate,50,women,DUKE Dinking Devils,PINEY Dinking Buddies,Jane Kestenbaum,Libby Hicks,Martha Wolf,Barbara Teagarden,10,15,Completed
+18182,8,2026-03-17,durham,spring2026,highintermediate,50,women,DUKE Dinking Devils,PINEY Dinking Buddies,Elizabeth Goettman Christopher,Mary Thomas,Wendy Richardson,Robin Johnston,15,3,Completed
+18182,9,2026-03-17,durham,spring2026,highintermediate,50,women,DUKE Dinking Devils,PINEY Dinking Buddies,Gennifer Weisenfeld,Cecilia Csapo,Terrie Hui,Joann Bristol,6,15,Completed
+18183,1,2026-03-17,durham,spring2026,highintermediate,50,women,PINEY Dinkin Dames,FENDOL Dinkin Ladies,Liz Taylor,Patti cowhey,Barbara Papanestor,MaryBeth Quinn,4,15,Completed
+18183,2,2026-03-17,durham,spring2026,highintermediate,50,women,PINEY Dinkin Dames,FENDOL Dinkin Ladies,Connee White,Pat Cowell Morris,Laura Maness,Kim Carpenter,8,15,Completed
+18183,3,2026-03-17,durham,spring2026,highintermediate,50,women,PINEY Dinkin Dames,FENDOL Dinkin Ladies,Michelle Blackwell,Emily F Honeycutt,Cathy Liou,Diane Michaud,15,12,Completed
+18183,4,2026-03-17,durham,spring2026,highintermediate,50,women,PINEY Dinkin Dames,FENDOL Dinkin Ladies,Liz Taylor,Patti cowhey,Laura Maness,Kim Carpenter,5,15,Completed
+18183,5,2026-03-17,durham,spring2026,highintermediate,50,women,PINEY Dinkin Dames,FENDOL Dinkin Ladies,Connee White,Pat Cowell Morris,Cathy Liou,Diane Michaud,9,15,Completed
+18183,6,2026-03-17,durham,spring2026,highintermediate,50,women,PINEY Dinkin Dames,FENDOL Dinkin Ladies,Michelle Blackwell,Emily F Honeycutt,Barbara Papanestor,MaryBeth Quinn,2,15,Completed
+18183,7,2026-03-17,durham,spring2026,highintermediate,50,women,PINEY Dinkin Dames,FENDOL Dinkin Ladies,Liz Taylor,Patti cowhey,Cathy Liou,Diane Michaud,15,9,Completed
+18183,8,2026-03-17,durham,spring2026,highintermediate,50,women,PINEY Dinkin Dames,FENDOL Dinkin Ladies,Connee White,Pat Cowell Morris,Barbara Papanestor,MaryBeth Quinn,12,15,Completed
+18183,9,2026-03-17,durham,spring2026,highintermediate,50,women,PINEY Dinkin Dames,FENDOL Dinkin Ladies,Michelle Blackwell,Emily F Honeycutt,Laura Maness,Kim Carpenter,8,15,Completed
+18191,1,2026-03-24,durham,spring2026,highintermediate,50,women,FENDOL Dinkin Ladies,PINEY Dinking Buddies,Barbara Noblin,Laura Maness,Martha Keating,Joann Bristol,5,15,Completed
+18191,2,2026-03-24,durham,spring2026,highintermediate,50,women,FENDOL Dinkin Ladies,PINEY Dinking Buddies,Debi Collins,Diane Michaud,Wendy Richardson,Judy Frances Kane,9,15,Completed
+18191,3,2026-03-24,durham,spring2026,highintermediate,50,women,FENDOL Dinkin Ladies,PINEY Dinking Buddies,MaryBeth Quinn,Barbara Papanestor,Terrie Hui,Barbara Teagarden,8,15,Completed
+18191,4,2026-03-24,durham,spring2026,highintermediate,50,women,FENDOL Dinkin Ladies,PINEY Dinking Buddies,Barbara Noblin,Laura Maness,Wendy Richardson,Judy Frances Kane,13,15,Completed
+18191,5,2026-03-24,durham,spring2026,highintermediate,50,women,FENDOL Dinkin Ladies,PINEY Dinking Buddies,Debi Collins,Diane Michaud,Terrie Hui,Barbara Teagarden,7,15,Completed
+18191,6,2026-03-24,durham,spring2026,highintermediate,50,women,FENDOL Dinkin Ladies,PINEY Dinking Buddies,MaryBeth Quinn,Barbara Papanestor,Martha Keating,Joann Bristol,15,7,Completed
+18191,7,2026-03-24,durham,spring2026,highintermediate,50,women,FENDOL Dinkin Ladies,PINEY Dinking Buddies,Barbara Noblin,Laura Maness,Terrie Hui,Barbara Teagarden,2,15,Completed
+18191,8,2026-03-24,durham,spring2026,highintermediate,50,women,FENDOL Dinkin Ladies,PINEY Dinking Buddies,Debi Collins,Diane Michaud,Martha Keating,Joann Bristol,4,15,Completed
+18191,9,2026-03-24,durham,spring2026,highintermediate,50,women,FENDOL Dinkin Ladies,PINEY Dinking Buddies,MaryBeth Quinn,Barbara Papanestor,Wendy Richardson,Judy Frances Kane,15,5,Completed
+18192,1,2026-03-24,durham,spring2026,highintermediate,50,women,PINEY Dinkin Dames,DUKE Dinking Devils,Michele Kelly,Michelle Blackwell,Elizabeth Goettman Christopher,Cecilia Csapo,2,15,Completed
+18192,2,2026-03-24,durham,spring2026,highintermediate,50,women,PINEY Dinkin Dames,DUKE Dinking Devils,Connee White,Patti cowhey,Lisa Purtell,Lisa Stella,3,15,Completed
+18192,3,2026-03-24,durham,spring2026,highintermediate,50,women,PINEY Dinkin Dames,DUKE Dinking Devils,Liz Taylor,Victoria Dakoski,Mary Thomas,Jane Kestenbaum,13,15,Completed
+18192,4,2026-03-24,durham,spring2026,highintermediate,50,women,PINEY Dinkin Dames,DUKE Dinking Devils,Michele Kelly,Michelle Blackwell,Lisa Purtell,Lisa Stella,9,15,Completed
+18192,5,2026-03-24,durham,spring2026,highintermediate,50,women,PINEY Dinkin Dames,DUKE Dinking Devils,Connee White,Patti cowhey,Mary Thomas,Jane Kestenbaum,3,15,Completed
+18192,6,2026-03-24,durham,spring2026,highintermediate,50,women,PINEY Dinkin Dames,DUKE Dinking Devils,Liz Taylor,Victoria Dakoski,Elizabeth Goettman Christopher,Cecilia Csapo,2,15,Completed
+18192,7,2026-03-24,durham,spring2026,highintermediate,50,women,PINEY Dinkin Dames,DUKE Dinking Devils,Michele Kelly,Michelle Blackwell,Mary Thomas,Jane Kestenbaum,1,15,Completed
+18192,8,2026-03-24,durham,spring2026,highintermediate,50,women,PINEY Dinkin Dames,DUKE Dinking Devils,Connee White,Patti cowhey,Elizabeth Goettman Christopher,Cecilia Csapo,5,15,Completed
+18192,9,2026-03-24,durham,spring2026,highintermediate,50,women,PINEY Dinkin Dames,DUKE Dinking Devils,Liz Taylor,Victoria Dakoski,Lisa Purtell,Lisa Stella,2,15,Completed
+18204,1,2026-03-31,durham,spring2026,highintermediate,50,women,FENDOL Dinkin Ladies,DUKE Dinking Devils,Laura Maness,Kim Carpenter,Lisa Stella,Gennifer Weisenfeld,10,15,Completed
+18204,2,2026-03-31,durham,spring2026,highintermediate,50,women,FENDOL Dinkin Ladies,DUKE Dinking Devils,Debi Collins,Cindy Jacobson,Cecilia Csapo,Jane Kestenbaum,3,15,Completed
+18204,3,2026-03-31,durham,spring2026,highintermediate,50,women,FENDOL Dinkin Ladies,DUKE Dinking Devils,MaryBeth Quinn,Barbara Papanestor,Mary Thomas,Elizabeth Goettman Christopher,5,15,Completed
+18204,4,2026-03-31,durham,spring2026,highintermediate,50,women,FENDOL Dinkin Ladies,DUKE Dinking Devils,Laura Maness,Kim Carpenter,Cecilia Csapo,Jane Kestenbaum,13,15,Completed
+18204,5,2026-03-31,durham,spring2026,highintermediate,50,women,FENDOL Dinkin Ladies,DUKE Dinking Devils,Debi Collins,Cindy Jacobson,Mary Thomas,Elizabeth Goettman Christopher,14,16,Completed
+18204,6,2026-03-31,durham,spring2026,highintermediate,50,women,FENDOL Dinkin Ladies,DUKE Dinking Devils,MaryBeth Quinn,Barbara Papanestor,Lisa Stella,Gennifer Weisenfeld,15,7,Completed
+18204,7,2026-03-31,durham,spring2026,highintermediate,50,women,FENDOL Dinkin Ladies,DUKE Dinking Devils,Laura Maness,Kim Carpenter,Mary Thomas,Elizabeth Goettman Christopher,16,14,Completed
+18204,8,2026-03-31,durham,spring2026,highintermediate,50,women,FENDOL Dinkin Ladies,DUKE Dinking Devils,Debi Collins,Cindy Jacobson,Lisa Stella,Gennifer Weisenfeld,16,14,Completed
+18204,9,2026-03-31,durham,spring2026,highintermediate,50,women,FENDOL Dinkin Ladies,DUKE Dinking Devils,MaryBeth Quinn,Barbara Papanestor,Cecilia Csapo,Jane Kestenbaum,2,15,Completed
+18205,1,2026-03-31,durham,spring2026,highintermediate,50,women,PINEY Dinking Buddies,PINEY Dinkin Dames,Wendy Richardson,Terrie Hui,Connee White,Liz Taylor,15,13,Completed
+18205,2,2026-03-31,durham,spring2026,highintermediate,50,women,PINEY Dinking Buddies,PINEY Dinkin Dames,Judy Frances Kane,Martha Keating,Michelle Blackwell,Victoria Dakoski,15,4,Completed
+18205,3,2026-03-31,durham,spring2026,highintermediate,50,women,PINEY Dinking Buddies,PINEY Dinkin Dames,Joann Bristol,Martha Wolf,Michele Kelly,Emily F Honeycutt,15,5,Completed
+18205,4,2026-03-31,durham,spring2026,highintermediate,50,women,PINEY Dinking Buddies,PINEY Dinkin Dames,Wendy Richardson,Terrie Hui,Michelle Blackwell,Victoria Dakoski,15,7,Completed
+18205,5,2026-03-31,durham,spring2026,highintermediate,50,women,PINEY Dinking Buddies,PINEY Dinkin Dames,Judy Frances Kane,Martha Keating,Michele Kelly,Emily F Honeycutt,9,15,Completed
+18205,6,2026-03-31,durham,spring2026,highintermediate,50,women,PINEY Dinking Buddies,PINEY Dinkin Dames,Joann Bristol,Martha Wolf,Connee White,Liz Taylor,15,0,Completed
+18205,7,2026-03-31,durham,spring2026,highintermediate,50,women,PINEY Dinking Buddies,PINEY Dinkin Dames,Wendy Richardson,Terrie Hui,Michele Kelly,Emily F Honeycutt,15,9,Completed
+18205,8,2026-03-31,durham,spring2026,highintermediate,50,women,PINEY Dinking Buddies,PINEY Dinkin Dames,Judy Frances Kane,Martha Keating,Connee White,Liz Taylor,15,11,Completed
+18205,9,2026-03-31,durham,spring2026,highintermediate,50,women,PINEY Dinking Buddies,PINEY Dinkin Dames,Joann Bristol,Martha Wolf,Michelle Blackwell,Victoria Dakoski,15,3,Completed
+18218,1,2026-04-14,durham,spring2026,highintermediate,50,women,DUKE Dinking Devils,PINEY Dinkin Dames,Mary Thomas,Libby Hicks,Michelle Blackwell,Mindi McLendon Sullivan,15,2,Completed
+18218,2,2026-04-14,durham,spring2026,highintermediate,50,women,DUKE Dinking Devils,PINEY Dinkin Dames,Rachel m Campbell,Laura Schanberg,Diane O Hoefer,Emily F Honeycutt,15,3,Completed
+18218,3,2026-04-14,durham,spring2026,highintermediate,50,women,DUKE Dinking Devils,PINEY Dinkin Dames,Gennifer Weisenfeld,Lisa Stella,Pat Cowell Morris,Victoria Dakoski,15,6,Completed
+18218,4,2026-04-14,durham,spring2026,highintermediate,50,women,DUKE Dinking Devils,PINEY Dinkin Dames,Mary Thomas,Libby Hicks,Diane O Hoefer,Emily F Honeycutt,15,2,Completed
+18218,5,2026-04-14,durham,spring2026,highintermediate,50,women,DUKE Dinking Devils,PINEY Dinkin Dames,Rachel m Campbell,Laura Schanberg,Pat Cowell Morris,Victoria Dakoski,15,2,Completed
+18218,6,2026-04-14,durham,spring2026,highintermediate,50,women,DUKE Dinking Devils,PINEY Dinkin Dames,Gennifer Weisenfeld,Lisa Stella,Michelle Blackwell,Mindi McLendon Sullivan,15,11,Completed
+18218,7,2026-04-14,durham,spring2026,highintermediate,50,women,DUKE Dinking Devils,PINEY Dinkin Dames,Mary Thomas,Libby Hicks,Pat Cowell Morris,Victoria Dakoski,15,1,Completed
+18218,8,2026-04-14,durham,spring2026,highintermediate,50,women,DUKE Dinking Devils,PINEY Dinkin Dames,Rachel m Campbell,Laura Schanberg,Michelle Blackwell,Mindi McLendon Sullivan,5,3,Retired
+18218,9,2026-04-14,durham,spring2026,highintermediate,50,women,DUKE Dinking Devils,PINEY Dinkin Dames,Gennifer Weisenfeld,Lisa Stella,Diane O Hoefer,Emily F Honeycutt,15,0,Completed
+18219,1,2026-04-14,durham,spring2026,highintermediate,50,women,PINEY Dinking Buddies,FENDOL Dinkin Ladies,Martha Keating,Joann Bristol,Laura Maness,Cindy Jacobson,15,7,Completed
+18219,2,2026-04-14,durham,spring2026,highintermediate,50,women,PINEY Dinking Buddies,FENDOL Dinkin Ladies,Judy Frances Kane,Robin Johnston,Debbie Danuser,Debi Collins,5,15,Completed
+18219,3,2026-04-14,durham,spring2026,highintermediate,50,women,PINEY Dinking Buddies,FENDOL Dinkin Ladies,Barbara Teagarden,Martha Wolf,Barbara Noblin,Diane Michaud,15,3,Completed
+18219,4,2026-04-14,durham,spring2026,highintermediate,50,women,PINEY Dinking Buddies,FENDOL Dinkin Ladies,Martha Keating,Joann Bristol,Debbie Danuser,Debi Collins,15,2,Completed
+18219,5,2026-04-14,durham,spring2026,highintermediate,50,women,PINEY Dinking Buddies,FENDOL Dinkin Ladies,Judy Frances Kane,Robin Johnston,Barbara Noblin,Diane Michaud,15,8,Completed
+18219,6,2026-04-14,durham,spring2026,highintermediate,50,women,PINEY Dinking Buddies,FENDOL Dinkin Ladies,Barbara Teagarden,Martha Wolf,Laura Maness,Cindy Jacobson,15,7,Completed
+18219,7,2026-04-14,durham,spring2026,highintermediate,50,women,PINEY Dinking Buddies,FENDOL Dinkin Ladies,Martha Keating,Joann Bristol,Barbara Noblin,Diane Michaud,15,5,Completed
+18219,8,2026-04-14,durham,spring2026,highintermediate,50,women,PINEY Dinking Buddies,FENDOL Dinkin Ladies,Judy Frances Kane,Robin Johnston,Laura Maness,Cindy Jacobson,12,15,Completed
+18219,9,2026-04-14,durham,spring2026,highintermediate,50,women,PINEY Dinking Buddies,FENDOL Dinkin Ladies,Barbara Teagarden,Martha Wolf,Debbie Danuser,Debi Collins,15,13,Completed
+18231,1,2026-04-21,durham,spring2026,highintermediate,50,women,FENDOL Dinkin Ladies,PINEY Dinkin Dames,Kim Carpenter,Laura Maness,Liz Taylor,Pat Cowell Morris,15,6,Completed
+18231,2,2026-04-21,durham,spring2026,highintermediate,50,women,FENDOL Dinkin Ladies,PINEY Dinkin Dames,Cindy Jacobson,Diane Michaud,Diane O Hoefer,Emily F Honeycutt,15,6,Completed
+18231,3,2026-04-21,durham,spring2026,highintermediate,50,women,FENDOL Dinkin Ladies,PINEY Dinkin Dames,Barbara Noblin,Debbie Danuser,Mindi McLendon Sullivan,Victoria Dakoski,15,5,Completed
+18231,4,2026-04-21,durham,spring2026,highintermediate,50,women,FENDOL Dinkin Ladies,PINEY Dinkin Dames,Kim Carpenter,Laura Maness,Diane O Hoefer,Emily F Honeycutt,15,4,Completed
+18231,5,2026-04-21,durham,spring2026,highintermediate,50,women,FENDOL Dinkin Ladies,PINEY Dinkin Dames,Cindy Jacobson,Diane Michaud,Mindi McLendon Sullivan,Victoria Dakoski,15,13,Completed
+18231,6,2026-04-21,durham,spring2026,highintermediate,50,women,FENDOL Dinkin Ladies,PINEY Dinkin Dames,Barbara Noblin,Debbie Danuser,Liz Taylor,Pat Cowell Morris,15,5,Completed
+18231,7,2026-04-21,durham,spring2026,highintermediate,50,women,FENDOL Dinkin Ladies,PINEY Dinkin Dames,Kim Carpenter,Laura Maness,Mindi McLendon Sullivan,Victoria Dakoski,15,4,Completed
+18231,8,2026-04-21,durham,spring2026,highintermediate,50,women,FENDOL Dinkin Ladies,PINEY Dinkin Dames,Cindy Jacobson,Diane Michaud,Liz Taylor,Pat Cowell Morris,8,15,Completed
+18231,9,2026-04-21,durham,spring2026,highintermediate,50,women,FENDOL Dinkin Ladies,PINEY Dinkin Dames,Barbara Noblin,Debbie Danuser,Diane O Hoefer,Emily F Honeycutt,15,7,Completed
+18232,1,2026-04-21,durham,spring2026,highintermediate,50,women,PINEY Dinking Buddies,DUKE Dinking Devils,Martha Keating,Terrie Hui,Lisa Stella,Cecilia Csapo,15,3,Completed
+18232,2,2026-04-21,durham,spring2026,highintermediate,50,women,PINEY Dinking Buddies,DUKE Dinking Devils,Barbara Teagarden,Martha Wolf,Lisa Purtell,Libby Hicks,2,15,Completed
+18232,3,2026-04-21,durham,spring2026,highintermediate,50,women,PINEY Dinking Buddies,DUKE Dinking Devils,Judy Frances Kane,Julie Welge,Rachel m Campbell,Susana Harvey,14,16,Completed
+18232,4,2026-04-21,durham,spring2026,highintermediate,50,women,PINEY Dinking Buddies,DUKE Dinking Devils,Martha Keating,Terrie Hui,Lisa Purtell,Libby Hicks,15,10,Completed
+18232,5,2026-04-21,durham,spring2026,highintermediate,50,women,PINEY Dinking Buddies,DUKE Dinking Devils,Barbara Teagarden,Martha Wolf,Rachel m Campbell,Susana Harvey,15,6,Completed
+18232,6,2026-04-21,durham,spring2026,highintermediate,50,women,PINEY Dinking Buddies,DUKE Dinking Devils,Judy Frances Kane,Julie Welge,Lisa Stella,Cecilia Csapo,6,15,Completed
+18232,7,2026-04-21,durham,spring2026,highintermediate,50,women,PINEY Dinking Buddies,DUKE Dinking Devils,Martha Keating,Terrie Hui,Rachel m Campbell,Susana Harvey,15,8,Completed
+18232,8,2026-04-21,durham,spring2026,highintermediate,50,women,PINEY Dinking Buddies,DUKE Dinking Devils,Barbara Teagarden,Martha Wolf,Lisa Stella,Cecilia Csapo,15,2,Completed
+18232,9,2026-04-21,durham,spring2026,highintermediate,50,women,PINEY Dinking Buddies,DUKE Dinking Devils,Judy Frances Kane,Julie Welge,Lisa Purtell,Libby Hicks,3,15,Completed
+18243,1,2026-04-28,durham,spring2026,highintermediate,50,women,DUKE Dinking Devils,FENDOL Dinkin Ladies,Lisa Purtell,Lisa Stella,Debbie Danuser,MaryBeth Quinn,15,10,Completed
+18243,2,2026-04-28,durham,spring2026,highintermediate,50,women,DUKE Dinking Devils,FENDOL Dinkin Ladies,Jane Kestenbaum,Cecilia Csapo,Barbara Papanestor,Diane Michaud,15,10,Completed
+18243,3,2026-04-28,durham,spring2026,highintermediate,50,women,DUKE Dinking Devils,FENDOL Dinkin Ladies,Laura Schanberg,Gennifer Weisenfeld,Barbara Noblin,Laura Maness,16,14,Completed
+18243,4,2026-04-28,durham,spring2026,highintermediate,50,women,DUKE Dinking Devils,FENDOL Dinkin Ladies,Lisa Purtell,Lisa Stella,Barbara Papanestor,Diane Michaud,15,1,Completed
+18243,5,2026-04-28,durham,spring2026,highintermediate,50,women,DUKE Dinking Devils,FENDOL Dinkin Ladies,Jane Kestenbaum,Cecilia Csapo,Barbara Noblin,Laura Maness,15,9,Completed
+18243,6,2026-04-28,durham,spring2026,highintermediate,50,women,DUKE Dinking Devils,FENDOL Dinkin Ladies,Laura Schanberg,Gennifer Weisenfeld,Debbie Danuser,MaryBeth Quinn,3,15,Completed
+18243,7,2026-04-28,durham,spring2026,highintermediate,50,women,DUKE Dinking Devils,FENDOL Dinkin Ladies,Lisa Purtell,Lisa Stella,Barbara Noblin,Laura Maness,15,8,Completed
+18243,8,2026-04-28,durham,spring2026,highintermediate,50,women,DUKE Dinking Devils,FENDOL Dinkin Ladies,Jane Kestenbaum,Cecilia Csapo,Debbie Danuser,MaryBeth Quinn,8,15,Completed
+18243,9,2026-04-28,durham,spring2026,highintermediate,50,women,DUKE Dinking Devils,FENDOL Dinkin Ladies,Laura Schanberg,Gennifer Weisenfeld,Barbara Papanestor,Diane Michaud,15,11,Completed
+18244,1,2026-04-28,durham,spring2026,highintermediate,50,women,PINEY Dinkin Dames,PINEY Dinking Buddies,Liz Taylor,Michele Kelly,Martha Keating,Judy Frances Kane,15,3,Completed
+18244,2,2026-04-28,durham,spring2026,highintermediate,50,women,PINEY Dinkin Dames,PINEY Dinking Buddies,Diane O Hoefer,Pat Cowell Morris,Joann Bristol,Julie Welge,6,15,Completed
+18244,3,2026-04-28,durham,spring2026,highintermediate,50,women,PINEY Dinkin Dames,PINEY Dinking Buddies,Connee White,Victoria Dakoski,Barbara Teagarden,Wendy Richardson,6,15,Completed
+18244,4,2026-04-28,durham,spring2026,highintermediate,50,women,PINEY Dinkin Dames,PINEY Dinking Buddies,Liz Taylor,Michele Kelly,Joann Bristol,Julie Welge,15,4,Completed
+18244,5,2026-04-28,durham,spring2026,highintermediate,50,women,PINEY Dinkin Dames,PINEY Dinking Buddies,Diane O Hoefer,Pat Cowell Morris,Barbara Teagarden,Wendy Richardson,5,15,Completed
+18244,6,2026-04-28,durham,spring2026,highintermediate,50,women,PINEY Dinkin Dames,PINEY Dinking Buddies,Connee White,Victoria Dakoski,Martha Keating,Judy Frances Kane,6,15,Completed
+18244,7,2026-04-28,durham,spring2026,highintermediate,50,women,PINEY Dinkin Dames,PINEY Dinking Buddies,Liz Taylor,Michele Kelly,Barbara Teagarden,Wendy Richardson,15,2,Completed
+18244,8,2026-04-28,durham,spring2026,highintermediate,50,women,PINEY Dinkin Dames,PINEY Dinking Buddies,Diane O Hoefer,Pat Cowell Morris,Martha Keating,Judy Frances Kane,2,15,Completed
+18244,9,2026-04-28,durham,spring2026,highintermediate,50,women,PINEY Dinkin Dames,PINEY Dinking Buddies,Connee White,Victoria Dakoski,Joann Bristol,Julie Welge,2,15,Completed
+18258,1,2026-05-05,durham,spring2026,highintermediate,50,women,DUKE Dinking Devils,PINEY Dinking Buddies,Libby Hicks,Elizabeth Goettman Christopher,Terrie Hui,Martha Keating,15,5,Completed
+18258,2,2026-05-05,durham,spring2026,highintermediate,50,women,DUKE Dinking Devils,PINEY Dinking Buddies,Lisa Stella,Laura Schanberg,Wendy Richardson,Julie Welge,8,15,Completed
+18258,3,2026-05-05,durham,spring2026,highintermediate,50,women,DUKE Dinking Devils,PINEY Dinking Buddies,Mary Thomas,Rachel m Campbell,Martha Wolf,Barbara Teagarden,8,15,Completed
+18258,4,2026-05-05,durham,spring2026,highintermediate,50,women,DUKE Dinking Devils,PINEY Dinking Buddies,Libby Hicks,Elizabeth Goettman Christopher,Wendy Richardson,Julie Welge,15,3,Completed
+18258,5,2026-05-05,durham,spring2026,highintermediate,50,women,DUKE Dinking Devils,PINEY Dinking Buddies,Lisa Stella,Laura Schanberg,Martha Wolf,Barbara Teagarden,12,15,Completed
+18258,6,2026-05-05,durham,spring2026,highintermediate,50,women,DUKE Dinking Devils,PINEY Dinking Buddies,Mary Thomas,Rachel m Campbell,Terrie Hui,Martha Keating,12,15,Completed
+18258,7,2026-05-05,durham,spring2026,highintermediate,50,women,DUKE Dinking Devils,PINEY Dinking Buddies,Libby Hicks,Elizabeth Goettman Christopher,Martha Wolf,Barbara Teagarden,15,13,Completed
+18258,8,2026-05-05,durham,spring2026,highintermediate,50,women,DUKE Dinking Devils,PINEY Dinking Buddies,Lisa Stella,Laura Schanberg,Terrie Hui,Martha Keating,7,15,Completed
+18258,9,2026-05-05,durham,spring2026,highintermediate,50,women,DUKE Dinking Devils,PINEY Dinking Buddies,Mary Thomas,Rachel m Campbell,Wendy Richardson,Julie Welge,10,15,Completed
+18259,1,2026-05-05,durham,spring2026,highintermediate,50,women,PINEY Dinkin Dames,FENDOL Dinkin Ladies,Liz Taylor,Patti cowhey,Laura Maness,Kim Carpenter,11,15,Completed
+18259,2,2026-05-05,durham,spring2026,highintermediate,50,women,PINEY Dinkin Dames,FENDOL Dinkin Ladies,Connee White,Mindi McLendon Sullivan,MaryBeth Quinn,Debi Collins,1,15,Completed
+18259,3,2026-05-05,durham,spring2026,highintermediate,50,women,PINEY Dinkin Dames,FENDOL Dinkin Ladies,Emily F Honeycutt,Victoria Dakoski,Barbara Noblin,Barbara Papanestor,8,15,Completed
+18259,4,2026-05-05,durham,spring2026,highintermediate,50,women,PINEY Dinkin Dames,FENDOL Dinkin Ladies,Liz Taylor,Patti cowhey,MaryBeth Quinn,Debi Collins,5,15,Completed
+18259,5,2026-05-05,durham,spring2026,highintermediate,50,women,PINEY Dinkin Dames,FENDOL Dinkin Ladies,Connee White,Mindi McLendon Sullivan,Barbara Noblin,Barbara Papanestor,15,10,Completed
+18259,6,2026-05-05,durham,spring2026,highintermediate,50,women,PINEY Dinkin Dames,FENDOL Dinkin Ladies,Emily F Honeycutt,Victoria Dakoski,Laura Maness,Kim Carpenter,3,15,Completed
+18259,7,2026-05-05,durham,spring2026,highintermediate,50,women,PINEY Dinkin Dames,FENDOL Dinkin Ladies,Liz Taylor,Patti cowhey,Barbara Noblin,Barbara Papanestor,5,15,Completed
+18259,8,2026-05-05,durham,spring2026,highintermediate,50,women,PINEY Dinkin Dames,FENDOL Dinkin Ladies,Connee White,Mindi McLendon Sullivan,Laura Maness,Kim Carpenter,9,15,Completed
+18259,9,2026-05-05,durham,spring2026,highintermediate,50,women,PINEY Dinkin Dames,FENDOL Dinkin Ladies,Emily F Honeycutt,Victoria Dakoski,MaryBeth Quinn,Debi Collins,2,15,Completed
+18267,1,2026-05-12,durham,spring2026,highintermediate,50,women,FENDOL Dinkin Ladies,PINEY Dinking Buddies,Kim Carpenter,Laura Maness,Wendy Richardson,Robin Johnston,15,9,Completed
+18267,2,2026-05-12,durham,spring2026,highintermediate,50,women,FENDOL Dinkin Ladies,PINEY Dinking Buddies,Debbie Danuser,Cindy Jacobson,Terrie Hui,Julie Welge,6,15,Completed
+18267,3,2026-05-12,durham,spring2026,highintermediate,50,women,FENDOL Dinkin Ladies,PINEY Dinking Buddies,Debi Collins,Barbara Papanestor,Barbara Teagarden,Martha Wolf,2,15,Completed
+18267,4,2026-05-12,durham,spring2026,highintermediate,50,women,FENDOL Dinkin Ladies,PINEY Dinking Buddies,Kim Carpenter,Laura Maness,Terrie Hui,Julie Welge,14,16,Completed
+18267,5,2026-05-12,durham,spring2026,highintermediate,50,women,FENDOL Dinkin Ladies,PINEY Dinking Buddies,Debbie Danuser,Cindy Jacobson,Barbara Teagarden,Martha Wolf,15,12,Completed
+18267,6,2026-05-12,durham,spring2026,highintermediate,50,women,FENDOL Dinkin Ladies,PINEY Dinking Buddies,Debi Collins,Barbara Papanestor,Wendy Richardson,Robin Johnston,17,15,Completed
+18267,7,2026-05-12,durham,spring2026,highintermediate,50,women,FENDOL Dinkin Ladies,PINEY Dinking Buddies,Kim Carpenter,Laura Maness,Barbara Teagarden,Martha Wolf,14,16,Completed
+18267,8,2026-05-12,durham,spring2026,highintermediate,50,women,FENDOL Dinkin Ladies,PINEY Dinking Buddies,Debbie Danuser,Cindy Jacobson,Wendy Richardson,Robin Johnston,15,13,Completed
+18267,9,2026-05-12,durham,spring2026,highintermediate,50,women,FENDOL Dinkin Ladies,PINEY Dinking Buddies,Debi Collins,Barbara Papanestor,Terrie Hui,Julie Welge,13,15,Completed
+18268,1,2026-05-12,durham,spring2026,highintermediate,50,women,PINEY Dinkin Dames,DUKE Dinking Devils,Michele Kelly,Patti cowhey,Lisa Purtell,Jane Kestenbaum,17,15,Completed
+18268,2,2026-05-12,durham,spring2026,highintermediate,50,women,PINEY Dinkin Dames,DUKE Dinking Devils,Connee White,Mindi McLendon Sullivan,Elizabeth Goettman Christopher,Rachel m Campbell,8,15,Completed
+18268,3,2026-05-12,durham,spring2026,highintermediate,50,women,PINEY Dinkin Dames,DUKE Dinking Devils,Emily F Honeycutt,Victoria Dakoski,Laura Schanberg,Susana Harvey,3,15,Completed
+18268,4,2026-05-12,durham,spring2026,highintermediate,50,women,PINEY Dinkin Dames,DUKE Dinking Devils,Michele Kelly,Patti cowhey,Elizabeth Goettman Christopher,Rachel m Campbell,15,10,Completed
+18268,5,2026-05-12,durham,spring2026,highintermediate,50,women,PINEY Dinkin Dames,DUKE Dinking Devils,Connee White,Mindi McLendon Sullivan,Laura Schanberg,Susana Harvey,3,15,Completed
+18268,6,2026-05-12,durham,spring2026,highintermediate,50,women,PINEY Dinkin Dames,DUKE Dinking Devils,Emily F Honeycutt,Victoria Dakoski,Lisa Purtell,Jane Kestenbaum,4,15,Completed
+18268,7,2026-05-12,durham,spring2026,highintermediate,50,women,PINEY Dinkin Dames,DUKE Dinking Devils,Michele Kelly,Patti cowhey,Laura Schanberg,Susana Harvey,15,12,Completed
+18268,8,2026-05-12,durham,spring2026,highintermediate,50,women,PINEY Dinkin Dames,DUKE Dinking Devils,Connee White,Mindi McLendon Sullivan,Lisa Purtell,Jane Kestenbaum,12,15,Completed
+18268,9,2026-05-12,durham,spring2026,highintermediate,50,women,PINEY Dinkin Dames,DUKE Dinking Devils,Emily F Honeycutt,Victoria Dakoski,Elizabeth Goettman Christopher,Rachel m Campbell,4,15,Completed
+18282,1,2026-05-19,durham,spring2026,highintermediate,50,women,FENDOL Dinkin Ladies,DUKE Dinking Devils,Barbara Noblin,Debbie Danuser,DEFAULT,DEFAULT,15,0,Default
+18282,2,2026-05-19,durham,spring2026,highintermediate,50,women,FENDOL Dinkin Ladies,DUKE Dinking Devils,Debi Collins,Barbara Papanestor,DEFAULT,DEFAULT,15,0,Default
+18282,3,2026-05-19,durham,spring2026,highintermediate,50,women,FENDOL Dinkin Ladies,DUKE Dinking Devils,Laura Maness,Diane Michaud,DEFAULT,DEFAULT,15,0,Default
+18282,4,2026-05-19,durham,spring2026,highintermediate,50,women,FENDOL Dinkin Ladies,DUKE Dinking Devils,Barbara Noblin,Debbie Danuser,DEFAULT,DEFAULT,15,0,Default
+18282,5,2026-05-19,durham,spring2026,highintermediate,50,women,FENDOL Dinkin Ladies,DUKE Dinking Devils,Debi Collins,Barbara Papanestor,DEFAULT,DEFAULT,15,0,Default
+18282,6,2026-05-19,durham,spring2026,highintermediate,50,women,FENDOL Dinkin Ladies,DUKE Dinking Devils,Laura Maness,Diane Michaud,DEFAULT,DEFAULT,15,0,Default
+18282,7,2026-05-19,durham,spring2026,highintermediate,50,women,FENDOL Dinkin Ladies,DUKE Dinking Devils,Barbara Noblin,Debbie Danuser,DEFAULT,DEFAULT,15,0,Default
+18282,8,2026-05-19,durham,spring2026,highintermediate,50,women,FENDOL Dinkin Ladies,DUKE Dinking Devils,Debi Collins,Barbara Papanestor,DEFAULT,DEFAULT,15,0,Default
+18282,9,2026-05-19,durham,spring2026,highintermediate,50,women,FENDOL Dinkin Ladies,DUKE Dinking Devils,Laura Maness,Diane Michaud,DEFAULT,DEFAULT,15,0,Default
+18283,1,2026-05-19,durham,spring2026,highintermediate,50,women,PINEY Dinking Buddies,PINEY Dinkin Dames,Martha Wolf,Julie Welge,Liz Taylor,Michele Kelly,15,6,Completed
+18283,2,2026-05-19,durham,spring2026,highintermediate,50,women,PINEY Dinking Buddies,PINEY Dinkin Dames,Martha Keating,Wendy Richardson,Connee White,Mindi McLendon Sullivan,15,8,Completed
+18283,3,2026-05-19,durham,spring2026,highintermediate,50,women,PINEY Dinking Buddies,PINEY Dinkin Dames,Barbara Teagarden,Robin Johnston,Patti cowhey,Emily F Honeycutt,15,5,Completed
+18283,4,2026-05-19,durham,spring2026,highintermediate,50,women,PINEY Dinking Buddies,PINEY Dinkin Dames,Martha Wolf,Julie Welge,Connee White,Mindi McLendon Sullivan,15,10,Completed
+18283,5,2026-05-19,durham,spring2026,highintermediate,50,women,PINEY Dinking Buddies,PINEY Dinkin Dames,Martha Keating,Wendy Richardson,Patti cowhey,Emily F Honeycutt,15,4,Completed
+18283,6,2026-05-19,durham,spring2026,highintermediate,50,women,PINEY Dinking Buddies,PINEY Dinkin Dames,Barbara Teagarden,Robin Johnston,Liz Taylor,Michele Kelly,14,16,Completed
+18283,7,2026-05-19,durham,spring2026,highintermediate,50,women,PINEY Dinking Buddies,PINEY Dinkin Dames,Martha Wolf,Julie Welge,Patti cowhey,Emily F Honeycutt,15,9,Completed
+18283,8,2026-05-19,durham,spring2026,highintermediate,50,women,PINEY Dinking Buddies,PINEY Dinkin Dames,Martha Keating,Wendy Richardson,Liz Taylor,Michele Kelly,16,14,Completed
+18283,9,2026-05-19,durham,spring2026,highintermediate,50,women,PINEY Dinking Buddies,PINEY Dinkin Dames,Barbara Teagarden,Robin Johnston,Connee White,Mindi McLendon Sullivan,15,7,Completed
+18290,1,2026-05-30,durham,spring2026,highintermediate,50,women,PINEY Dinking Buddies,DUKE Dinking Devils,Terrie Hui,Martha Keating,Elizabeth Goettman Christopher,Mary Thomas,15,10,Completed
+18290,2,2026-05-30,durham,spring2026,highintermediate,50,women,PINEY Dinking Buddies,DUKE Dinking Devils,Wendy Richardson,Julie Welge,Jane Kestenbaum,Cecilia Csapo,5,15,Completed
+18290,3,2026-05-30,durham,spring2026,highintermediate,50,women,PINEY Dinking Buddies,DUKE Dinking Devils,Barbara Teagarden,Martha Wolf,Lisa Purtell,Lisa Stella,5,15,Completed
+18290,4,2026-05-30,durham,spring2026,highintermediate,50,women,PINEY Dinking Buddies,DUKE Dinking Devils,Terrie Hui,Martha Keating,Jane Kestenbaum,Cecilia Csapo,15,4,Completed
+18290,5,2026-05-30,durham,spring2026,highintermediate,50,women,PINEY Dinking Buddies,DUKE Dinking Devils,Wendy Richardson,Julie Welge,Lisa Purtell,Lisa Stella,10,15,Completed
+18290,6,2026-05-30,durham,spring2026,highintermediate,50,women,PINEY Dinking Buddies,DUKE Dinking Devils,Barbara Teagarden,Martha Wolf,Elizabeth Goettman Christopher,Mary Thomas,12,15,Completed
+18290,7,2026-05-30,durham,spring2026,highintermediate,50,women,PINEY Dinking Buddies,DUKE Dinking Devils,Terrie Hui,Martha Keating,Lisa Purtell,Lisa Stella,15,3,Completed
+18290,8,2026-05-30,durham,spring2026,highintermediate,50,women,PINEY Dinking Buddies,DUKE Dinking Devils,Wendy Richardson,Julie Welge,Elizabeth Goettman Christopher,Mary Thomas,6,15,Completed
+18290,9,2026-05-30,durham,spring2026,highintermediate,50,women,PINEY Dinking Buddies,DUKE Dinking Devils,Barbara Teagarden,Martha Wolf,Jane Kestenbaum,Cecilia Csapo,15,13,Completed

@@ -1,100 +1,100 @@
-match_id,game_id,match_date,league,season,skill_level,age,gender,team1_name,team2_name,partner1,partner2,opponent1,opponent2,team1_points,team2_points
-19214,1,2026-07-18,ecc,spring2026,advanced,18,women,IND Paddle Smashers,NHC Dink Pony Club,Lisa Davidson,Daniela Antonova Prodanova,Lou Garvey,Karen Rothschild Rembert,11,4
-19214,2,2026-07-18,ecc,spring2026,advanced,18,women,IND Paddle Smashers,NHC Dink Pony Club,Emily Shira,Erin Clary,Amy Pena,Julie Sullivan,11,4
-19214,3,2026-07-18,ecc,spring2026,advanced,18,women,IND Paddle Smashers,NHC Dink Pony Club,Callie Ellison,Dione Stuart,Emmy Garvey,Susan Smith Johnson,3,11
-19214,4,2026-07-18,ecc,spring2026,advanced,18,women,IND Paddle Smashers,NHC Dink Pony Club,Lisa Davidson,Daniela Antonova Prodanova,Amy Pena,Julie Sullivan,11,6
-19214,5,2026-07-18,ecc,spring2026,advanced,18,women,IND Paddle Smashers,NHC Dink Pony Club,Emily Shira,Erin Clary,Emmy Garvey,Susan Smith Johnson,11,5
-19214,6,2026-07-18,ecc,spring2026,advanced,18,women,IND Paddle Smashers,NHC Dink Pony Club,Callie Ellison,Dione Stuart,Lou Garvey,Karen Rothschild Rembert,2,11
-19214,7,2026-07-18,ecc,spring2026,advanced,18,women,IND Paddle Smashers,NHC Dink Pony Club,Lisa Davidson,Daniela Antonova Prodanova,Emmy Garvey,Susan Smith Johnson,2,11
-19214,8,2026-07-18,ecc,spring2026,advanced,18,women,IND Paddle Smashers,NHC Dink Pony Club,Emily Shira,Erin Clary,Lou Garvey,Karen Rothschild Rembert,4,11
-19214,9,2026-07-18,ecc,spring2026,advanced,18,women,IND Paddle Smashers,NHC Dink Pony Club,Callie Ellison,Dione Stuart,Amy Pena,Julie Sullivan,8,11
-19215,1,2026-07-18,ecc,spring2026,advanced,18,women,IND The Real Dill,SAND Side Out Sisters,Cari Soleo,Marie Saylor,Angela Kochuba,Robin Keturah Anderson,12,10
-19215,2,2026-07-18,ecc,spring2026,advanced,18,women,IND The Real Dill,SAND Side Out Sisters,Sarika Hardas Mehta,Eva Yip,Rhonda Benkiel,Andra J Willis,5,11
-19215,3,2026-07-18,ecc,spring2026,advanced,18,women,IND The Real Dill,SAND Side Out Sisters,Aulia Tandradinata,Stephanie Charlino,Suzanne Haight,Rachel Quade,2,11
-19215,4,2026-07-18,ecc,spring2026,advanced,18,women,IND The Real Dill,SAND Side Out Sisters,Cari Soleo,Marie Saylor,Rhonda Benkiel,Andra J Willis,11,6
-19215,5,2026-07-18,ecc,spring2026,advanced,18,women,IND The Real Dill,SAND Side Out Sisters,Sarika Hardas Mehta,Eva Yip,Suzanne Haight,Rachel Quade,3,11
-19215,6,2026-07-18,ecc,spring2026,advanced,18,women,IND The Real Dill,SAND Side Out Sisters,Aulia Tandradinata,Stephanie Charlino,Angela Kochuba,Robin Keturah Anderson,0,11
-19215,7,2026-07-18,ecc,spring2026,advanced,18,women,IND The Real Dill,SAND Side Out Sisters,Cari Soleo,Marie Saylor,Suzanne Haight,Rachel Quade,4,11
-19215,8,2026-07-18,ecc,spring2026,advanced,18,women,IND The Real Dill,SAND Side Out Sisters,Sarika Hardas Mehta,Eva Yip,Angela Kochuba,Robin Keturah Anderson,7,11
-19215,9,2026-07-18,ecc,spring2026,advanced,18,women,IND The Real Dill,SAND Side Out Sisters,Aulia Tandradinata,Stephanie Charlino,Rhonda Benkiel,Andra J Willis,2,11
-19220,1,2026-07-18,ecc,spring2026,advanced,18,women,IND Paddle Smashers,IND The Real Dill,Lisa Davidson,Daniela Antonova Prodanova,Stephanie Charlino,Dori Mathews,11,9
-19220,2,2026-07-18,ecc,spring2026,advanced,18,women,IND Paddle Smashers,IND The Real Dill,Emily Shira,Erin Clary,Cari Soleo,Marie Saylor,7,11
-19220,3,2026-07-18,ecc,spring2026,advanced,18,women,IND Paddle Smashers,IND The Real Dill,Callie Ellison,Dione Stuart,Eva Yip,Sarika Hardas Mehta,8,11
-19220,4,2026-07-18,ecc,spring2026,advanced,18,women,IND Paddle Smashers,IND The Real Dill,Lisa Davidson,Daniela Antonova Prodanova,Cari Soleo,Marie Saylor,11,7
-19220,5,2026-07-18,ecc,spring2026,advanced,18,women,IND Paddle Smashers,IND The Real Dill,Emily Shira,Erin Clary,Eva Yip,Sarika Hardas Mehta,11,6
-19220,6,2026-07-18,ecc,spring2026,advanced,18,women,IND Paddle Smashers,IND The Real Dill,Callie Ellison,Dione Stuart,Stephanie Charlino,Dori Mathews,12,10
-19220,7,2026-07-18,ecc,spring2026,advanced,18,women,IND Paddle Smashers,IND The Real Dill,Lisa Davidson,Daniela Antonova Prodanova,Eva Yip,Sarika Hardas Mehta,5,11
-19220,8,2026-07-18,ecc,spring2026,advanced,18,women,IND Paddle Smashers,IND The Real Dill,Emily Shira,Erin Clary,Stephanie Charlino,Dori Mathews,2,11
-19220,9,2026-07-18,ecc,spring2026,advanced,18,women,IND Paddle Smashers,IND The Real Dill,Callie Ellison,Dione Stuart,Cari Soleo,Marie Saylor,6,11
-19221,1,2026-07-18,ecc,spring2026,advanced,18,women,SAND Side Out Sisters,LAWN Lawndale LOL,Robin Keturah Anderson,Angela Kochuba,Amy Brewington,April Nonato,11,8
-19221,2,2026-07-18,ecc,spring2026,advanced,18,women,SAND Side Out Sisters,LAWN Lawndale LOL,Rhonda Benkiel,Andra J Willis,Kelly Tysinger,Jameson Sellers,11,7
-19221,3,2026-07-18,ecc,spring2026,advanced,18,women,SAND Side Out Sisters,LAWN Lawndale LOL,Rachel Quade,Suzanne Haight,Michelle Gee,Carinna Barr Batten,11,6
-19221,4,2026-07-18,ecc,spring2026,advanced,18,women,SAND Side Out Sisters,LAWN Lawndale LOL,Robin Keturah Anderson,Angela Kochuba,Kelly Tysinger,Jameson Sellers,13,11
-19221,5,2026-07-18,ecc,spring2026,advanced,18,women,SAND Side Out Sisters,LAWN Lawndale LOL,Rhonda Benkiel,Andra J Willis,Michelle Gee,Carinna Barr Batten,11,8
-19221,6,2026-07-18,ecc,spring2026,advanced,18,women,SAND Side Out Sisters,LAWN Lawndale LOL,Rachel Quade,Suzanne Haight,Amy Brewington,April Nonato,5,11
-19221,7,2026-07-18,ecc,spring2026,advanced,18,women,SAND Side Out Sisters,LAWN Lawndale LOL,Robin Keturah Anderson,Angela Kochuba,Michelle Gee,Carinna Barr Batten,11,4
-19221,8,2026-07-18,ecc,spring2026,advanced,18,women,SAND Side Out Sisters,LAWN Lawndale LOL,Rhonda Benkiel,Andra J Willis,Amy Brewington,April Nonato,9,11
-19221,9,2026-07-18,ecc,spring2026,advanced,18,women,SAND Side Out Sisters,LAWN Lawndale LOL,Rachel Quade,Suzanne Haight,Kelly Tysinger,Jameson Sellers,5,11
-19226,1,2026-07-18,ecc,spring2026,advanced,18,women,LAWN Lawndale LOL,NHC Dink Pony Club,Amy Brewington,April Nonato,Susan Smith Johnson,Jean Harrold,11,3
-19226,2,2026-07-18,ecc,spring2026,advanced,18,women,LAWN Lawndale LOL,NHC Dink Pony Club,Kelly Tysinger,Jameson Sellers,Emmy Garvey,Kristi Koren,11,5
-19226,3,2026-07-18,ecc,spring2026,advanced,18,women,LAWN Lawndale LOL,NHC Dink Pony Club,Michelle Gee,Carinna Barr Batten,Lou Garvey,Karen Rothschild Rembert,3,11
-19226,4,2026-07-18,ecc,spring2026,advanced,18,women,LAWN Lawndale LOL,NHC Dink Pony Club,Amy Brewington,April Nonato,Emmy Garvey,Kristi Koren,9,11
-19226,5,2026-07-18,ecc,spring2026,advanced,18,women,LAWN Lawndale LOL,NHC Dink Pony Club,Kelly Tysinger,Jameson Sellers,Lou Garvey,Karen Rothschild Rembert,11,5
-19226,6,2026-07-18,ecc,spring2026,advanced,18,women,LAWN Lawndale LOL,NHC Dink Pony Club,Michelle Gee,Carinna Barr Batten,Susan Smith Johnson,Jean Harrold,10,12
-19226,7,2026-07-18,ecc,spring2026,advanced,18,women,LAWN Lawndale LOL,NHC Dink Pony Club,Amy Brewington,April Nonato,Lou Garvey,Karen Rothschild Rembert,11,3
-19226,8,2026-07-18,ecc,spring2026,advanced,18,women,LAWN Lawndale LOL,NHC Dink Pony Club,Kelly Tysinger,Jameson Sellers,Susan Smith Johnson,Jean Harrold,11,5
-19226,9,2026-07-18,ecc,spring2026,advanced,18,women,LAWN Lawndale LOL,NHC Dink Pony Club,Michelle Gee,Carinna Barr Batten,Emmy Garvey,Kristi Koren,11,8
-19232,1,2026-07-18,ecc,spring2026,advanced,18,women,SAND Side Out Sisters,IND Paddle Smashers,Robin Keturah Anderson,Angela Kochuba,Lisa Davidson,Daniela Antonova Prodanova,13,15
-19232,2,2026-07-18,ecc,spring2026,advanced,18,women,SAND Side Out Sisters,IND Paddle Smashers,Rhonda Benkiel,Andra J Willis,Emily Shira,Erin Clary,11,9
-19232,3,2026-07-18,ecc,spring2026,advanced,18,women,SAND Side Out Sisters,IND Paddle Smashers,Suzanne Haight,Rachel Quade,Callie Ellison,Dione Stuart,11,5
-19232,4,2026-07-18,ecc,spring2026,advanced,18,women,SAND Side Out Sisters,IND Paddle Smashers,Robin Keturah Anderson,Angela Kochuba,Emily Shira,Erin Clary,11,3
-19232,5,2026-07-18,ecc,spring2026,advanced,18,women,SAND Side Out Sisters,IND Paddle Smashers,Rhonda Benkiel,Andra J Willis,Callie Ellison,Dione Stuart,11,1
-19232,6,2026-07-18,ecc,spring2026,advanced,18,women,SAND Side Out Sisters,IND Paddle Smashers,Suzanne Haight,Rachel Quade,Lisa Davidson,Daniela Antonova Prodanova,11,6
-19232,7,2026-07-18,ecc,spring2026,advanced,18,women,SAND Side Out Sisters,IND Paddle Smashers,Robin Keturah Anderson,Angela Kochuba,Callie Ellison,Dione Stuart,5,11
-19232,8,2026-07-18,ecc,spring2026,advanced,18,women,SAND Side Out Sisters,IND Paddle Smashers,Rhonda Benkiel,Andra J Willis,Lisa Davidson,Daniela Antonova Prodanova,8,11
-19232,9,2026-07-18,ecc,spring2026,advanced,18,women,SAND Side Out Sisters,IND Paddle Smashers,Suzanne Haight,Rachel Quade,Emily Shira,Erin Clary,11,5
-19233,1,2026-07-18,ecc,spring2026,advanced,18,women,NHC Dink Pony Club,IND The Real Dill,Amy Pena,Jean Harrold,Sarika Hardas Mehta,Aulia Tandradinata,11,9
-19233,2,2026-07-18,ecc,spring2026,advanced,18,women,NHC Dink Pony Club,IND The Real Dill,Emmy Garvey,Susan Smith Johnson,Cari Soleo,Marie Saylor,11,2
-19233,3,2026-07-18,ecc,spring2026,advanced,18,women,NHC Dink Pony Club,IND The Real Dill,Lou Garvey,Karen Rothschild Rembert,Stephanie Charlino,Dori Mathews,12,10
-19233,4,2026-07-18,ecc,spring2026,advanced,18,women,NHC Dink Pony Club,IND The Real Dill,Amy Pena,Jean Harrold,Cari Soleo,Marie Saylor,8,11
-19233,5,2026-07-18,ecc,spring2026,advanced,18,women,NHC Dink Pony Club,IND The Real Dill,Emmy Garvey,Susan Smith Johnson,Stephanie Charlino,Dori Mathews,11,3
-19233,6,2026-07-18,ecc,spring2026,advanced,18,women,NHC Dink Pony Club,IND The Real Dill,Lou Garvey,Karen Rothschild Rembert,Sarika Hardas Mehta,Aulia Tandradinata,11,6
-19233,7,2026-07-18,ecc,spring2026,advanced,18,women,NHC Dink Pony Club,IND The Real Dill,Amy Pena,Jean Harrold,Stephanie Charlino,Dori Mathews,11,7
-19233,8,2026-07-18,ecc,spring2026,advanced,18,women,NHC Dink Pony Club,IND The Real Dill,Emmy Garvey,Susan Smith Johnson,Sarika Hardas Mehta,Aulia Tandradinata,11,7
-19233,9,2026-07-18,ecc,spring2026,advanced,18,women,NHC Dink Pony Club,IND The Real Dill,Lou Garvey,Karen Rothschild Rembert,Cari Soleo,Marie Saylor,11,9
-19236,1,2026-07-18,ecc,spring2026,advanced,18,women,LAWN Lawndale LOL,IND Paddle Smashers,Kelly Tysinger,Jameson Sellers,Lisa Davidson,Daniela Antonova Prodanova,11,3
-19236,2,2026-07-18,ecc,spring2026,advanced,18,women,LAWN Lawndale LOL,IND Paddle Smashers,Amy Brewington,Michelle Gee,Emily Shira,Erin Clary,7,11
-19236,3,2026-07-18,ecc,spring2026,advanced,18,women,LAWN Lawndale LOL,IND Paddle Smashers,DEFAULT,DEFAULT,Callie Ellison,Dione Stuart,0,11
-19236,4,2026-07-18,ecc,spring2026,advanced,18,women,LAWN Lawndale LOL,IND Paddle Smashers,Kelly Tysinger,Jameson Sellers,Emily Shira,Erin Clary,11,4
-19236,5,2026-07-18,ecc,spring2026,advanced,18,women,LAWN Lawndale LOL,IND Paddle Smashers,Amy Brewington,Michelle Gee,Callie Ellison,Dione Stuart,9,11
-19236,6,2026-07-18,ecc,spring2026,advanced,18,women,LAWN Lawndale LOL,IND Paddle Smashers,DEFAULT,DEFAULT,Lisa Davidson,Daniela Antonova Prodanova,0,11
-19236,7,2026-07-18,ecc,spring2026,advanced,18,women,LAWN Lawndale LOL,IND Paddle Smashers,Kelly Tysinger,Jameson Sellers,Callie Ellison,Dione Stuart,11,9
-19236,8,2026-07-18,ecc,spring2026,advanced,18,women,LAWN Lawndale LOL,IND Paddle Smashers,Amy Brewington,Michelle Gee,Lisa Davidson,Daniela Antonova Prodanova,8,11
-19236,9,2026-07-18,ecc,spring2026,advanced,18,women,LAWN Lawndale LOL,IND Paddle Smashers,DEFAULT,DEFAULT,Emily Shira,Erin Clary,0,11
-19242,1,2026-07-18,ecc,spring2026,advanced,18,women,IND The Real Dill,LAWN Lawndale LOL,Stephanie Charlino,Eva Yip,Kelly Tysinger,Jameson Sellers,3,11
-19242,2,2026-07-18,ecc,spring2026,advanced,18,women,IND The Real Dill,LAWN Lawndale LOL,Marie Saylor,Dori Mathews,Amy Brewington,Michelle Gee,6,11
-19242,3,2026-07-18,ecc,spring2026,advanced,18,women,IND The Real Dill,LAWN Lawndale LOL,Sarika Hardas Mehta,Cari Soleo,DEFAULT,DEFAULT,11,0
-19242,4,2026-07-18,ecc,spring2026,advanced,18,women,IND The Real Dill,LAWN Lawndale LOL,Stephanie Charlino,Eva Yip,Amy Brewington,Michelle Gee,6,11
-19242,5,2026-07-18,ecc,spring2026,advanced,18,women,IND The Real Dill,LAWN Lawndale LOL,Marie Saylor,Dori Mathews,DEFAULT,DEFAULT,11,0
-19242,6,2026-07-18,ecc,spring2026,advanced,18,women,IND The Real Dill,LAWN Lawndale LOL,Sarika Hardas Mehta,Cari Soleo,Kelly Tysinger,Jameson Sellers,10,12
-19242,7,2026-07-18,ecc,spring2026,advanced,18,women,IND The Real Dill,LAWN Lawndale LOL,Stephanie Charlino,Eva Yip,DEFAULT,DEFAULT,11,0
-19242,8,2026-07-18,ecc,spring2026,advanced,18,women,IND The Real Dill,LAWN Lawndale LOL,Marie Saylor,Dori Mathews,Kelly Tysinger,Jameson Sellers,2,11
-19242,9,2026-07-18,ecc,spring2026,advanced,18,women,IND The Real Dill,LAWN Lawndale LOL,Sarika Hardas Mehta,Cari Soleo,Amy Brewington,Michelle Gee,11,5
-19243,1,2026-07-18,ecc,spring2026,advanced,18,women,NHC Dink Pony Club,SAND Side Out Sisters,Amy Pena,Jean Harrold,Robin Keturah Anderson,Angela Kochuba,5,11
-19243,2,2026-07-18,ecc,spring2026,advanced,18,women,NHC Dink Pony Club,SAND Side Out Sisters,Emmy Garvey,Susan Smith Johnson,Rhonda Benkiel,Andra J Willis,11,13
-19243,3,2026-07-18,ecc,spring2026,advanced,18,women,NHC Dink Pony Club,SAND Side Out Sisters,Lou Garvey,Karen Rothschild Rembert,Suzanne Haight,Rachel Quade,11,7
-19243,4,2026-07-18,ecc,spring2026,advanced,18,women,NHC Dink Pony Club,SAND Side Out Sisters,Amy Pena,Jean Harrold,Rhonda Benkiel,Andra J Willis,5,11
-19243,5,2026-07-18,ecc,spring2026,advanced,18,women,NHC Dink Pony Club,SAND Side Out Sisters,Emmy Garvey,Susan Smith Johnson,Suzanne Haight,Rachel Quade,6,11
-19243,6,2026-07-18,ecc,spring2026,advanced,18,women,NHC Dink Pony Club,SAND Side Out Sisters,Lou Garvey,Karen Rothschild Rembert,Robin Keturah Anderson,Angela Kochuba,11,7
-19243,7,2026-07-18,ecc,spring2026,advanced,18,women,NHC Dink Pony Club,SAND Side Out Sisters,Amy Pena,Jean Harrold,Suzanne Haight,Rachel Quade,3,11
-19243,8,2026-07-18,ecc,spring2026,advanced,18,women,NHC Dink Pony Club,SAND Side Out Sisters,Emmy Garvey,Susan Smith Johnson,Robin Keturah Anderson,Angela Kochuba,5,11
-19243,9,2026-07-18,ecc,spring2026,advanced,18,women,NHC Dink Pony Club,SAND Side Out Sisters,Lou Garvey,Karen Rothschild Rembert,Rhonda Benkiel,Andra J Willis,11,0
-19247,1,2026-07-18,ecc,spring2026,advanced,18,women,SAND Side Out Sisters,NHC Dink Pony Club,Robin Keturah Anderson,Angela Kochuba,Amy Pena,Kristi Koren,15,8
-19247,2,2026-07-18,ecc,spring2026,advanced,18,women,SAND Side Out Sisters,NHC Dink Pony Club,Rhonda Benkiel,Andra J Willis,Susan Smith Johnson,Emmy Garvey,15,8
-19247,3,2026-07-18,ecc,spring2026,advanced,18,women,SAND Side Out Sisters,NHC Dink Pony Club,Suzanne Haight,Rachel Quade,Lou Garvey,Karen Rothschild Rembert,15,7
-19247,4,2026-07-18,ecc,spring2026,advanced,18,women,SAND Side Out Sisters,NHC Dink Pony Club,Robin Keturah Anderson,Angela Kochuba,Susan Smith Johnson,Emmy Garvey,11,15
-19247,5,2026-07-18,ecc,spring2026,advanced,18,women,SAND Side Out Sisters,NHC Dink Pony Club,Rhonda Benkiel,Andra J Willis,Lou Garvey,Karen Rothschild Rembert,16,14
-19247,6,2026-07-18,ecc,spring2026,advanced,18,women,SAND Side Out Sisters,NHC Dink Pony Club,Suzanne Haight,Rachel Quade,Amy Pena,Kristi Koren,15,3
-19247,7,2026-07-18,ecc,spring2026,advanced,18,women,SAND Side Out Sisters,NHC Dink Pony Club,Robin Keturah Anderson,Angela Kochuba,Lou Garvey,Karen Rothschild Rembert,0,0
-19247,8,2026-07-18,ecc,spring2026,advanced,18,women,SAND Side Out Sisters,NHC Dink Pony Club,Rhonda Benkiel,Andra J Willis,Amy Pena,Kristi Koren,0,0
-19247,9,2026-07-18,ecc,spring2026,advanced,18,women,SAND Side Out Sisters,NHC Dink Pony Club,Suzanne Haight,Rachel Quade,Susan Smith Johnson,Emmy Garvey,0,0
+match_id,game_id,match_date,league,season,skill_level,age,gender,team1_name,team2_name,partner1,partner2,opponent1,opponent2,team1_points,team2_points,status
+19214,1,2026-07-18,ecc,spring2026,advanced,18,women,IND Paddle Smashers,NHC Dink Pony Club,Lisa Davidson,Daniela Antonova Prodanova,Lou Garvey,Karen Rothschild Rembert,11,4,Completed
+19214,2,2026-07-18,ecc,spring2026,advanced,18,women,IND Paddle Smashers,NHC Dink Pony Club,Emily Shira,Erin Clary,Amy Pena,Julie Sullivan,11,4,Completed
+19214,3,2026-07-18,ecc,spring2026,advanced,18,women,IND Paddle Smashers,NHC Dink Pony Club,Callie Ellison,Dione Stuart,Emmy Garvey,Susan Smith Johnson,3,11,Completed
+19214,4,2026-07-18,ecc,spring2026,advanced,18,women,IND Paddle Smashers,NHC Dink Pony Club,Lisa Davidson,Daniela Antonova Prodanova,Amy Pena,Julie Sullivan,11,6,Completed
+19214,5,2026-07-18,ecc,spring2026,advanced,18,women,IND Paddle Smashers,NHC Dink Pony Club,Emily Shira,Erin Clary,Emmy Garvey,Susan Smith Johnson,11,5,Completed
+19214,6,2026-07-18,ecc,spring2026,advanced,18,women,IND Paddle Smashers,NHC Dink Pony Club,Callie Ellison,Dione Stuart,Lou Garvey,Karen Rothschild Rembert,2,11,Completed
+19214,7,2026-07-18,ecc,spring2026,advanced,18,women,IND Paddle Smashers,NHC Dink Pony Club,Lisa Davidson,Daniela Antonova Prodanova,Emmy Garvey,Susan Smith Johnson,2,11,Completed
+19214,8,2026-07-18,ecc,spring2026,advanced,18,women,IND Paddle Smashers,NHC Dink Pony Club,Emily Shira,Erin Clary,Lou Garvey,Karen Rothschild Rembert,4,11,Completed
+19214,9,2026-07-18,ecc,spring2026,advanced,18,women,IND Paddle Smashers,NHC Dink Pony Club,Callie Ellison,Dione Stuart,Amy Pena,Julie Sullivan,8,11,Completed
+19215,1,2026-07-18,ecc,spring2026,advanced,18,women,IND The Real Dill,SAND Side Out Sisters,Cari Soleo,Marie Saylor,Angela Kochuba,Robin Keturah Anderson,12,10,Completed
+19215,2,2026-07-18,ecc,spring2026,advanced,18,women,IND The Real Dill,SAND Side Out Sisters,Sarika Hardas Mehta,Eva Yip,Rhonda Benkiel,Andra J Willis,5,11,Completed
+19215,3,2026-07-18,ecc,spring2026,advanced,18,women,IND The Real Dill,SAND Side Out Sisters,Aulia Tandradinata,Stephanie Charlino,Suzanne Haight,Rachel Quade,2,11,Completed
+19215,4,2026-07-18,ecc,spring2026,advanced,18,women,IND The Real Dill,SAND Side Out Sisters,Cari Soleo,Marie Saylor,Rhonda Benkiel,Andra J Willis,11,6,Completed
+19215,5,2026-07-18,ecc,spring2026,advanced,18,women,IND The Real Dill,SAND Side Out Sisters,Sarika Hardas Mehta,Eva Yip,Suzanne Haight,Rachel Quade,3,11,Completed
+19215,6,2026-07-18,ecc,spring2026,advanced,18,women,IND The Real Dill,SAND Side Out Sisters,Aulia Tandradinata,Stephanie Charlino,Angela Kochuba,Robin Keturah Anderson,0,11,Completed
+19215,7,2026-07-18,ecc,spring2026,advanced,18,women,IND The Real Dill,SAND Side Out Sisters,Cari Soleo,Marie Saylor,Suzanne Haight,Rachel Quade,4,11,Completed
+19215,8,2026-07-18,ecc,spring2026,advanced,18,women,IND The Real Dill,SAND Side Out Sisters,Sarika Hardas Mehta,Eva Yip,Angela Kochuba,Robin Keturah Anderson,7,11,Completed
+19215,9,2026-07-18,ecc,spring2026,advanced,18,women,IND The Real Dill,SAND Side Out Sisters,Aulia Tandradinata,Stephanie Charlino,Rhonda Benkiel,Andra J Willis,2,11,Completed
+19220,1,2026-07-18,ecc,spring2026,advanced,18,women,IND Paddle Smashers,IND The Real Dill,Lisa Davidson,Daniela Antonova Prodanova,Stephanie Charlino,Dori Mathews,11,9,Completed
+19220,2,2026-07-18,ecc,spring2026,advanced,18,women,IND Paddle Smashers,IND The Real Dill,Emily Shira,Erin Clary,Cari Soleo,Marie Saylor,7,11,Completed
+19220,3,2026-07-18,ecc,spring2026,advanced,18,women,IND Paddle Smashers,IND The Real Dill,Callie Ellison,Dione Stuart,Eva Yip,Sarika Hardas Mehta,8,11,Completed
+19220,4,2026-07-18,ecc,spring2026,advanced,18,women,IND Paddle Smashers,IND The Real Dill,Lisa Davidson,Daniela Antonova Prodanova,Cari Soleo,Marie Saylor,11,7,Completed
+19220,5,2026-07-18,ecc,spring2026,advanced,18,women,IND Paddle Smashers,IND The Real Dill,Emily Shira,Erin Clary,Eva Yip,Sarika Hardas Mehta,11,6,Completed
+19220,6,2026-07-18,ecc,spring2026,advanced,18,women,IND Paddle Smashers,IND The Real Dill,Callie Ellison,Dione Stuart,Stephanie Charlino,Dori Mathews,12,10,Completed
+19220,7,2026-07-18,ecc,spring2026,advanced,18,women,IND Paddle Smashers,IND The Real Dill,Lisa Davidson,Daniela Antonova Prodanova,Eva Yip,Sarika Hardas Mehta,5,11,Completed
+19220,8,2026-07-18,ecc,spring2026,advanced,18,women,IND Paddle Smashers,IND The Real Dill,Emily Shira,Erin Clary,Stephanie Charlino,Dori Mathews,2,11,Completed
+19220,9,2026-07-18,ecc,spring2026,advanced,18,women,IND Paddle Smashers,IND The Real Dill,Callie Ellison,Dione Stuart,Cari Soleo,Marie Saylor,6,11,Completed
+19221,1,2026-07-18,ecc,spring2026,advanced,18,women,SAND Side Out Sisters,LAWN Lawndale LOL,Robin Keturah Anderson,Angela Kochuba,Amy Brewington,April Nonato,11,8,Completed
+19221,2,2026-07-18,ecc,spring2026,advanced,18,women,SAND Side Out Sisters,LAWN Lawndale LOL,Rhonda Benkiel,Andra J Willis,Kelly Tysinger,Jameson Sellers,11,7,Completed
+19221,3,2026-07-18,ecc,spring2026,advanced,18,women,SAND Side Out Sisters,LAWN Lawndale LOL,Rachel Quade,Suzanne Haight,Michelle Gee,Carinna Barr Batten,11,6,Completed
+19221,4,2026-07-18,ecc,spring2026,advanced,18,women,SAND Side Out Sisters,LAWN Lawndale LOL,Robin Keturah Anderson,Angela Kochuba,Kelly Tysinger,Jameson Sellers,13,11,Completed
+19221,5,2026-07-18,ecc,spring2026,advanced,18,women,SAND Side Out Sisters,LAWN Lawndale LOL,Rhonda Benkiel,Andra J Willis,Michelle Gee,Carinna Barr Batten,11,8,Completed
+19221,6,2026-07-18,ecc,spring2026,advanced,18,women,SAND Side Out Sisters,LAWN Lawndale LOL,Rachel Quade,Suzanne Haight,Amy Brewington,April Nonato,5,11,Completed
+19221,7,2026-07-18,ecc,spring2026,advanced,18,women,SAND Side Out Sisters,LAWN Lawndale LOL,Robin Keturah Anderson,Angela Kochuba,Michelle Gee,Carinna Barr Batten,11,4,Completed
+19221,8,2026-07-18,ecc,spring2026,advanced,18,women,SAND Side Out Sisters,LAWN Lawndale LOL,Rhonda Benkiel,Andra J Willis,Amy Brewington,April Nonato,9,11,Completed
+19221,9,2026-07-18,ecc,spring2026,advanced,18,women,SAND Side Out Sisters,LAWN Lawndale LOL,Rachel Quade,Suzanne Haight,Kelly Tysinger,Jameson Sellers,5,11,Completed
+19226,1,2026-07-18,ecc,spring2026,advanced,18,women,LAWN Lawndale LOL,NHC Dink Pony Club,Amy Brewington,April Nonato,Susan Smith Johnson,Jean Harrold,11,3,Completed
+19226,2,2026-07-18,ecc,spring2026,advanced,18,women,LAWN Lawndale LOL,NHC Dink Pony Club,Kelly Tysinger,Jameson Sellers,Emmy Garvey,Kristi Koren,11,5,Completed
+19226,3,2026-07-18,ecc,spring2026,advanced,18,women,LAWN Lawndale LOL,NHC Dink Pony Club,Michelle Gee,Carinna Barr Batten,Lou Garvey,Karen Rothschild Rembert,3,11,Completed
+19226,4,2026-07-18,ecc,spring2026,advanced,18,women,LAWN Lawndale LOL,NHC Dink Pony Club,Amy Brewington,April Nonato,Emmy Garvey,Kristi Koren,9,11,Completed
+19226,5,2026-07-18,ecc,spring2026,advanced,18,women,LAWN Lawndale LOL,NHC Dink Pony Club,Kelly Tysinger,Jameson Sellers,Lou Garvey,Karen Rothschild Rembert,11,5,Completed
+19226,6,2026-07-18,ecc,spring2026,advanced,18,women,LAWN Lawndale LOL,NHC Dink Pony Club,Michelle Gee,Carinna Barr Batten,Susan Smith Johnson,Jean Harrold,10,12,Completed
+19226,7,2026-07-18,ecc,spring2026,advanced,18,women,LAWN Lawndale LOL,NHC Dink Pony Club,Amy Brewington,April Nonato,Lou Garvey,Karen Rothschild Rembert,11,3,Completed
+19226,8,2026-07-18,ecc,spring2026,advanced,18,women,LAWN Lawndale LOL,NHC Dink Pony Club,Kelly Tysinger,Jameson Sellers,Susan Smith Johnson,Jean Harrold,11,5,Completed
+19226,9,2026-07-18,ecc,spring2026,advanced,18,women,LAWN Lawndale LOL,NHC Dink Pony Club,Michelle Gee,Carinna Barr Batten,Emmy Garvey,Kristi Koren,11,8,Completed
+19232,1,2026-07-18,ecc,spring2026,advanced,18,women,SAND Side Out Sisters,IND Paddle Smashers,Robin Keturah Anderson,Angela Kochuba,Lisa Davidson,Daniela Antonova Prodanova,13,15,Completed
+19232,2,2026-07-18,ecc,spring2026,advanced,18,women,SAND Side Out Sisters,IND Paddle Smashers,Rhonda Benkiel,Andra J Willis,Emily Shira,Erin Clary,11,9,Completed
+19232,3,2026-07-18,ecc,spring2026,advanced,18,women,SAND Side Out Sisters,IND Paddle Smashers,Suzanne Haight,Rachel Quade,Callie Ellison,Dione Stuart,11,5,Completed
+19232,4,2026-07-18,ecc,spring2026,advanced,18,women,SAND Side Out Sisters,IND Paddle Smashers,Robin Keturah Anderson,Angela Kochuba,Emily Shira,Erin Clary,11,3,Completed
+19232,5,2026-07-18,ecc,spring2026,advanced,18,women,SAND Side Out Sisters,IND Paddle Smashers,Rhonda Benkiel,Andra J Willis,Callie Ellison,Dione Stuart,11,1,Completed
+19232,6,2026-07-18,ecc,spring2026,advanced,18,women,SAND Side Out Sisters,IND Paddle Smashers,Suzanne Haight,Rachel Quade,Lisa Davidson,Daniela Antonova Prodanova,11,6,Completed
+19232,7,2026-07-18,ecc,spring2026,advanced,18,women,SAND Side Out Sisters,IND Paddle Smashers,Robin Keturah Anderson,Angela Kochuba,Callie Ellison,Dione Stuart,5,11,Completed
+19232,8,2026-07-18,ecc,spring2026,advanced,18,women,SAND Side Out Sisters,IND Paddle Smashers,Rhonda Benkiel,Andra J Willis,Lisa Davidson,Daniela Antonova Prodanova,8,11,Completed
+19232,9,2026-07-18,ecc,spring2026,advanced,18,women,SAND Side Out Sisters,IND Paddle Smashers,Suzanne Haight,Rachel Quade,Emily Shira,Erin Clary,11,5,Completed
+19233,1,2026-07-18,ecc,spring2026,advanced,18,women,NHC Dink Pony Club,IND The Real Dill,Amy Pena,Jean Harrold,Sarika Hardas Mehta,Aulia Tandradinata,11,9,Completed
+19233,2,2026-07-18,ecc,spring2026,advanced,18,women,NHC Dink Pony Club,IND The Real Dill,Emmy Garvey,Susan Smith Johnson,Cari Soleo,Marie Saylor,11,2,Completed
+19233,3,2026-07-18,ecc,spring2026,advanced,18,women,NHC Dink Pony Club,IND The Real Dill,Lou Garvey,Karen Rothschild Rembert,Stephanie Charlino,Dori Mathews,12,10,Completed
+19233,4,2026-07-18,ecc,spring2026,advanced,18,women,NHC Dink Pony Club,IND The Real Dill,Amy Pena,Jean Harrold,Cari Soleo,Marie Saylor,8,11,Completed
+19233,5,2026-07-18,ecc,spring2026,advanced,18,women,NHC Dink Pony Club,IND The Real Dill,Emmy Garvey,Susan Smith Johnson,Stephanie Charlino,Dori Mathews,11,3,Completed
+19233,6,2026-07-18,ecc,spring2026,advanced,18,women,NHC Dink Pony Club,IND The Real Dill,Lou Garvey,Karen Rothschild Rembert,Sarika Hardas Mehta,Aulia Tandradinata,11,6,Completed
+19233,7,2026-07-18,ecc,spring2026,advanced,18,women,NHC Dink Pony Club,IND The Real Dill,Amy Pena,Jean Harrold,Stephanie Charlino,Dori Mathews,11,7,Completed
+19233,8,2026-07-18,ecc,spring2026,advanced,18,women,NHC Dink Pony Club,IND The Real Dill,Emmy Garvey,Susan Smith Johnson,Sarika Hardas Mehta,Aulia Tandradinata,11,7,Completed
+19233,9,2026-07-18,ecc,spring2026,advanced,18,women,NHC Dink Pony Club,IND The Real Dill,Lou Garvey,Karen Rothschild Rembert,Cari Soleo,Marie Saylor,11,9,Completed
+19236,1,2026-07-18,ecc,spring2026,advanced,18,women,LAWN Lawndale LOL,IND Paddle Smashers,Kelly Tysinger,Jameson Sellers,Lisa Davidson,Daniela Antonova Prodanova,11,3,Completed
+19236,2,2026-07-18,ecc,spring2026,advanced,18,women,LAWN Lawndale LOL,IND Paddle Smashers,Amy Brewington,Michelle Gee,Emily Shira,Erin Clary,7,11,Completed
+19236,3,2026-07-18,ecc,spring2026,advanced,18,women,LAWN Lawndale LOL,IND Paddle Smashers,DEFAULT,DEFAULT,Callie Ellison,Dione Stuart,0,11,Default
+19236,4,2026-07-18,ecc,spring2026,advanced,18,women,LAWN Lawndale LOL,IND Paddle Smashers,Kelly Tysinger,Jameson Sellers,Emily Shira,Erin Clary,11,4,Completed
+19236,5,2026-07-18,ecc,spring2026,advanced,18,women,LAWN Lawndale LOL,IND Paddle Smashers,Amy Brewington,Michelle Gee,Callie Ellison,Dione Stuart,9,11,Completed
+19236,6,2026-07-18,ecc,spring2026,advanced,18,women,LAWN Lawndale LOL,IND Paddle Smashers,DEFAULT,DEFAULT,Lisa Davidson,Daniela Antonova Prodanova,0,11,Default
+19236,7,2026-07-18,ecc,spring2026,advanced,18,women,LAWN Lawndale LOL,IND Paddle Smashers,Kelly Tysinger,Jameson Sellers,Callie Ellison,Dione Stuart,11,9,Completed
+19236,8,2026-07-18,ecc,spring2026,advanced,18,women,LAWN Lawndale LOL,IND Paddle Smashers,Amy Brewington,Michelle Gee,Lisa Davidson,Daniela Antonova Prodanova,8,11,Completed
+19236,9,2026-07-18,ecc,spring2026,advanced,18,women,LAWN Lawndale LOL,IND Paddle Smashers,DEFAULT,DEFAULT,Emily Shira,Erin Clary,0,11,Default
+19242,1,2026-07-18,ecc,spring2026,advanced,18,women,IND The Real Dill,LAWN Lawndale LOL,Stephanie Charlino,Eva Yip,Kelly Tysinger,Jameson Sellers,3,11,Completed
+19242,2,2026-07-18,ecc,spring2026,advanced,18,women,IND The Real Dill,LAWN Lawndale LOL,Marie Saylor,Dori Mathews,Amy Brewington,Michelle Gee,6,11,Completed
+19242,3,2026-07-18,ecc,spring2026,advanced,18,women,IND The Real Dill,LAWN Lawndale LOL,Sarika Hardas Mehta,Cari Soleo,DEFAULT,DEFAULT,11,0,Default
+19242,4,2026-07-18,ecc,spring2026,advanced,18,women,IND The Real Dill,LAWN Lawndale LOL,Stephanie Charlino,Eva Yip,Amy Brewington,Michelle Gee,6,11,Completed
+19242,5,2026-07-18,ecc,spring2026,advanced,18,women,IND The Real Dill,LAWN Lawndale LOL,Marie Saylor,Dori Mathews,DEFAULT,DEFAULT,11,0,Default
+19242,6,2026-07-18,ecc,spring2026,advanced,18,women,IND The Real Dill,LAWN Lawndale LOL,Sarika Hardas Mehta,Cari Soleo,Kelly Tysinger,Jameson Sellers,10,12,Completed
+19242,7,2026-07-18,ecc,spring2026,advanced,18,women,IND The Real Dill,LAWN Lawndale LOL,Stephanie Charlino,Eva Yip,DEFAULT,DEFAULT,11,0,Default
+19242,8,2026-07-18,ecc,spring2026,advanced,18,women,IND The Real Dill,LAWN Lawndale LOL,Marie Saylor,Dori Mathews,Kelly Tysinger,Jameson Sellers,2,11,Completed
+19242,9,2026-07-18,ecc,spring2026,advanced,18,women,IND The Real Dill,LAWN Lawndale LOL,Sarika Hardas Mehta,Cari Soleo,Amy Brewington,Michelle Gee,11,5,Completed
+19243,1,2026-07-18,ecc,spring2026,advanced,18,women,NHC Dink Pony Club,SAND Side Out Sisters,Amy Pena,Jean Harrold,Robin Keturah Anderson,Angela Kochuba,5,11,Completed
+19243,2,2026-07-18,ecc,spring2026,advanced,18,women,NHC Dink Pony Club,SAND Side Out Sisters,Emmy Garvey,Susan Smith Johnson,Rhonda Benkiel,Andra J Willis,11,13,Completed
+19243,3,2026-07-18,ecc,spring2026,advanced,18,women,NHC Dink Pony Club,SAND Side Out Sisters,Lou Garvey,Karen Rothschild Rembert,Suzanne Haight,Rachel Quade,11,7,Completed
+19243,4,2026-07-18,ecc,spring2026,advanced,18,women,NHC Dink Pony Club,SAND Side Out Sisters,Amy Pena,Jean Harrold,Rhonda Benkiel,Andra J Willis,5,11,Completed
+19243,5,2026-07-18,ecc,spring2026,advanced,18,women,NHC Dink Pony Club,SAND Side Out Sisters,Emmy Garvey,Susan Smith Johnson,Suzanne Haight,Rachel Quade,6,11,Completed
+19243,6,2026-07-18,ecc,spring2026,advanced,18,women,NHC Dink Pony Club,SAND Side Out Sisters,Lou Garvey,Karen Rothschild Rembert,Robin Keturah Anderson,Angela Kochuba,11,7,Completed
+19243,7,2026-07-18,ecc,spring2026,advanced,18,women,NHC Dink Pony Club,SAND Side Out Sisters,Amy Pena,Jean Harrold,Suzanne Haight,Rachel Quade,3,11,Completed
+19243,8,2026-07-18,ecc,spring2026,advanced,18,women,NHC Dink Pony Club,SAND Side Out Sisters,Emmy Garvey,Susan Smith Johnson,Robin Keturah Anderson,Angela Kochuba,5,11,Completed
+19243,9,2026-07-18,ecc,spring2026,advanced,18,women,NHC Dink Pony Club,SAND Side Out Sisters,Lou Garvey,Karen Rothschild Rembert,Rhonda Benkiel,Andra J Willis,11,0,Completed
+19247,1,2026-07-18,ecc,spring2026,advanced,18,women,SAND Side Out Sisters,NHC Dink Pony Club,Robin Keturah Anderson,Angela Kochuba,Amy Pena,Kristi Koren,15,8,Completed
+19247,2,2026-07-18,ecc,spring2026,advanced,18,women,SAND Side Out Sisters,NHC Dink Pony Club,Rhonda Benkiel,Andra J Willis,Susan Smith Johnson,Emmy Garvey,15,8,Completed
+19247,3,2026-07-18,ecc,spring2026,advanced,18,women,SAND Side Out Sisters,NHC Dink Pony Club,Suzanne Haight,Rachel Quade,Lou Garvey,Karen Rothschild Rembert,15,7,Completed
+19247,4,2026-07-18,ecc,spring2026,advanced,18,women,SAND Side Out Sisters,NHC Dink Pony Club,Robin Keturah Anderson,Angela Kochuba,Susan Smith Johnson,Emmy Garvey,11,15,Completed
+19247,5,2026-07-18,ecc,spring2026,advanced,18,women,SAND Side Out Sisters,NHC Dink Pony Club,Rhonda Benkiel,Andra J Willis,Lou Garvey,Karen Rothschild Rembert,16,14,Completed
+19247,6,2026-07-18,ecc,spring2026,advanced,18,women,SAND Side Out Sisters,NHC Dink Pony Club,Suzanne Haight,Rachel Quade,Amy Pena,Kristi Koren,15,3,Completed
+19247,7,2026-07-18,ecc,spring2026,advanced,18,women,SAND Side Out Sisters,NHC Dink Pony Club,Robin Keturah Anderson,Angela Kochuba,Lou Garvey,Karen Rothschild Rembert,0,0,Unplayed
+19247,8,2026-07-18,ecc,spring2026,advanced,18,women,SAND Side Out Sisters,NHC Dink Pony Club,Rhonda Benkiel,Andra J Willis,Amy Pena,Kristi Koren,0,0,Unplayed
+19247,9,2026-07-18,ecc,spring2026,advanced,18,women,SAND Side Out Sisters,NHC Dink Pony Club,Suzanne Haight,Rachel Quade,Susan Smith Johnson,Emmy Garvey,0,0,Unplayed

@@ -1,82 +1,82 @@
-match_id,game_id,match_date,league,season,skill_level,age,gender,team1_name,team2_name,partner1,partner2,opponent1,opponent2,team1_points,team2_points
-17749,1,2026-01-15,cary,winter2026,highintermediate,50,women,Snowball Smashers,The ice Queens,Daisy VanCauwenbergh,Renee M Getz,AnneMarie Conklin,Ruth Coon,2,15
-17749,2,2026-01-15,cary,winter2026,highintermediate,50,women,Snowball Smashers,The ice Queens,Suzanne Trexler,Beth Smith,Heather Kane,Lynelle Boorey,13,15
-17749,3,2026-01-15,cary,winter2026,highintermediate,50,women,Snowball Smashers,The ice Queens,Clara Mccall,Lori Bidgood,Valerie Dorrier,Kathryn L Jezior,1,15
-17749,4,2026-01-15,cary,winter2026,highintermediate,50,women,Snowball Smashers,The ice Queens,Daisy VanCauwenbergh,Renee M Getz,Heather Kane,Lynelle Boorey,3,15
-17749,5,2026-01-15,cary,winter2026,highintermediate,50,women,Snowball Smashers,The ice Queens,Suzanne Trexler,Beth Smith,Valerie Dorrier,Kathryn L Jezior,13,15
-17749,6,2026-01-15,cary,winter2026,highintermediate,50,women,Snowball Smashers,The ice Queens,Clara Mccall,Lori Bidgood,AnneMarie Conklin,Ruth Coon,3,15
-17749,7,2026-01-15,cary,winter2026,highintermediate,50,women,Snowball Smashers,The ice Queens,Daisy VanCauwenbergh,Renee M Getz,Valerie Dorrier,Kathryn L Jezior,4,15
-17749,8,2026-01-15,cary,winter2026,highintermediate,50,women,Snowball Smashers,The ice Queens,Suzanne Trexler,Beth Smith,AnneMarie Conklin,Ruth Coon,6,15
-17749,9,2026-01-15,cary,winter2026,highintermediate,50,women,Snowball Smashers,The ice Queens,Clara Mccall,Lori Bidgood,Heather Kane,Lynelle Boorey,2,15
-17759,1,2026-01-22,cary,winter2026,highintermediate,50,women,The ice Queens,Snowball Smashers,Christa Resavy,Heather Kane,Lisa W Wingard,MaryBeth Munz,15,8
-17759,2,2026-01-22,cary,winter2026,highintermediate,50,women,The ice Queens,Snowball Smashers,Ruth Coon,Kathryn L Jezior,Daisy VanCauwenbergh,Nicole Mars Juillerat,15,10
-17759,3,2026-01-22,cary,winter2026,highintermediate,50,women,The ice Queens,Snowball Smashers,Wendy Pannell,Lynelle Boorey,Lori Bidgood,Beth Smith,14,16
-17759,4,2026-01-22,cary,winter2026,highintermediate,50,women,The ice Queens,Snowball Smashers,Christa Resavy,Heather Kane,Daisy VanCauwenbergh,Nicole Mars Juillerat,15,8
-17759,5,2026-01-22,cary,winter2026,highintermediate,50,women,The ice Queens,Snowball Smashers,Ruth Coon,Kathryn L Jezior,Lori Bidgood,Beth Smith,11,15
-17759,6,2026-01-22,cary,winter2026,highintermediate,50,women,The ice Queens,Snowball Smashers,Wendy Pannell,Lynelle Boorey,Lisa W Wingard,MaryBeth Munz,15,6
-17759,7,2026-01-22,cary,winter2026,highintermediate,50,women,The ice Queens,Snowball Smashers,Christa Resavy,Heather Kane,Lori Bidgood,Beth Smith,15,5
-17759,8,2026-01-22,cary,winter2026,highintermediate,50,women,The ice Queens,Snowball Smashers,Ruth Coon,Kathryn L Jezior,Lisa W Wingard,MaryBeth Munz,11,15
-17759,9,2026-01-22,cary,winter2026,highintermediate,50,women,The ice Queens,Snowball Smashers,Wendy Pannell,Lynelle Boorey,Daisy VanCauwenbergh,Nicole Mars Juillerat,15,13
-17769,1,2026-01-29,cary,winter2026,highintermediate,50,women,Snowball Smashers,The ice Queens,Suzanne Trexler,Beth Smith,Christa Resavy,AnneMarie Conklin,3,15
-17769,2,2026-01-29,cary,winter2026,highintermediate,50,women,Snowball Smashers,The ice Queens,Clara Mccall,Nicole Mars Juillerat,Julie T Stallman,Heather Kane,15,8
-17769,3,2026-01-29,cary,winter2026,highintermediate,50,women,Snowball Smashers,The ice Queens,Daisy VanCauwenbergh,Lisa W Wingard,Wendy Pannell,Valerie Dorrier,6,15
-17769,4,2026-01-29,cary,winter2026,highintermediate,50,women,Snowball Smashers,The ice Queens,Suzanne Trexler,Beth Smith,Julie T Stallman,Heather Kane,15,5
-17769,5,2026-01-29,cary,winter2026,highintermediate,50,women,Snowball Smashers,The ice Queens,Clara Mccall,Nicole Mars Juillerat,Wendy Pannell,Valerie Dorrier,7,15
-17769,6,2026-01-29,cary,winter2026,highintermediate,50,women,Snowball Smashers,The ice Queens,Daisy VanCauwenbergh,Lisa W Wingard,Christa Resavy,AnneMarie Conklin,4,15
-17769,7,2026-01-29,cary,winter2026,highintermediate,50,women,Snowball Smashers,The ice Queens,Suzanne Trexler,Beth Smith,Wendy Pannell,Valerie Dorrier,8,15
-17769,8,2026-01-29,cary,winter2026,highintermediate,50,women,Snowball Smashers,The ice Queens,Clara Mccall,Nicole Mars Juillerat,Christa Resavy,AnneMarie Conklin,2,15
-17769,9,2026-01-29,cary,winter2026,highintermediate,50,women,Snowball Smashers,The ice Queens,Daisy VanCauwenbergh,Lisa W Wingard,Julie T Stallman,Heather Kane,10,15
-17779,1,2026-02-05,cary,winter2026,highintermediate,50,women,The ice Queens,Snowball Smashers,Julie T Stallman,Kathryn L Jezior,Elizabeth Curtis,Lori Bidgood,4,15
-17779,2,2026-02-05,cary,winter2026,highintermediate,50,women,The ice Queens,Snowball Smashers,Lynelle Boorey,Valerie Dorrier,Lisa W Wingard,MaryBeth Munz,14,16
-17779,3,2026-02-05,cary,winter2026,highintermediate,50,women,The ice Queens,Snowball Smashers,AnneMarie Conklin,Wendy Pannell,Renee M Getz,Susan Washburn,15,2
-17779,4,2026-02-05,cary,winter2026,highintermediate,50,women,The ice Queens,Snowball Smashers,Julie T Stallman,Kathryn L Jezior,Lisa W Wingard,MaryBeth Munz,10,15
-17779,5,2026-02-05,cary,winter2026,highintermediate,50,women,The ice Queens,Snowball Smashers,Lynelle Boorey,Valerie Dorrier,Renee M Getz,Susan Washburn,15,4
-17779,6,2026-02-05,cary,winter2026,highintermediate,50,women,The ice Queens,Snowball Smashers,AnneMarie Conklin,Wendy Pannell,Elizabeth Curtis,Lori Bidgood,15,10
-17779,7,2026-02-05,cary,winter2026,highintermediate,50,women,The ice Queens,Snowball Smashers,Julie T Stallman,Kathryn L Jezior,Renee M Getz,Susan Washburn,15,7
-17779,8,2026-02-05,cary,winter2026,highintermediate,50,women,The ice Queens,Snowball Smashers,Lynelle Boorey,Valerie Dorrier,Elizabeth Curtis,Lori Bidgood,13,15
-17779,9,2026-02-05,cary,winter2026,highintermediate,50,women,The ice Queens,Snowball Smashers,AnneMarie Conklin,Wendy Pannell,Lisa W Wingard,MaryBeth Munz,15,2
-17789,1,2026-02-12,cary,winter2026,highintermediate,50,women,Snowball Smashers,The ice Queens,Susan Washburn,Nicole Mars Juillerat,Heather Kane,Christa Resavy,0,15
-17789,2,2026-02-12,cary,winter2026,highintermediate,50,women,Snowball Smashers,The ice Queens,Lori Bidgood,Suzanne Trexler,Heather Blythe,Wendy Pannell,15,11
-17789,3,2026-02-12,cary,winter2026,highintermediate,50,women,Snowball Smashers,The ice Queens,Daisy VanCauwenbergh,Clara Mccall,Kathryn L Jezior,AnneMarie Conklin,7,15
-17789,4,2026-02-12,cary,winter2026,highintermediate,50,women,Snowball Smashers,The ice Queens,Susan Washburn,Nicole Mars Juillerat,Heather Blythe,Wendy Pannell,0,15
-17789,5,2026-02-12,cary,winter2026,highintermediate,50,women,Snowball Smashers,The ice Queens,Lori Bidgood,Suzanne Trexler,Kathryn L Jezior,AnneMarie Conklin,15,13
-17789,6,2026-02-12,cary,winter2026,highintermediate,50,women,Snowball Smashers,The ice Queens,Daisy VanCauwenbergh,Clara Mccall,Heather Kane,Christa Resavy,6,15
-17789,7,2026-02-12,cary,winter2026,highintermediate,50,women,Snowball Smashers,The ice Queens,Susan Washburn,Nicole Mars Juillerat,Kathryn L Jezior,AnneMarie Conklin,1,15
-17789,8,2026-02-12,cary,winter2026,highintermediate,50,women,Snowball Smashers,The ice Queens,Lori Bidgood,Suzanne Trexler,Heather Kane,Christa Resavy,9,15
-17789,9,2026-02-12,cary,winter2026,highintermediate,50,women,Snowball Smashers,The ice Queens,Daisy VanCauwenbergh,Clara Mccall,Heather Blythe,Wendy Pannell,10,15
-17799,1,2026-02-19,cary,winter2026,highintermediate,50,women,The ice Queens,Snowball Smashers,Heather Blythe,Heather Kane,Lisa W Wingard,Renee M Getz,15,5
-17799,2,2026-02-19,cary,winter2026,highintermediate,50,women,The ice Queens,Snowball Smashers,Julie T Stallman,Ruth Coon,Clara Mccall,MaryBeth Munz,15,13
-17799,3,2026-02-19,cary,winter2026,highintermediate,50,women,The ice Queens,Snowball Smashers,Kathryn L Jezior,Wendy Pannell,Nicole Mars Juillerat,Elizabeth Curtis,15,7
-17799,4,2026-02-19,cary,winter2026,highintermediate,50,women,The ice Queens,Snowball Smashers,Heather Blythe,Heather Kane,Clara Mccall,MaryBeth Munz,15,13
-17799,5,2026-02-19,cary,winter2026,highintermediate,50,women,The ice Queens,Snowball Smashers,Julie T Stallman,Ruth Coon,Nicole Mars Juillerat,Elizabeth Curtis,3,15
-17799,6,2026-02-19,cary,winter2026,highintermediate,50,women,The ice Queens,Snowball Smashers,Kathryn L Jezior,Wendy Pannell,Lisa W Wingard,Renee M Getz,15,9
-17799,7,2026-02-19,cary,winter2026,highintermediate,50,women,The ice Queens,Snowball Smashers,Heather Blythe,Heather Kane,Nicole Mars Juillerat,Elizabeth Curtis,15,4
-17799,8,2026-02-19,cary,winter2026,highintermediate,50,women,The ice Queens,Snowball Smashers,Julie T Stallman,Ruth Coon,Lisa W Wingard,Renee M Getz,7,15
-17799,9,2026-02-19,cary,winter2026,highintermediate,50,women,The ice Queens,Snowball Smashers,Kathryn L Jezior,Wendy Pannell,Clara Mccall,MaryBeth Munz,15,17
-17809,1,2026-02-26,cary,winter2026,highintermediate,50,women,Snowball Smashers,The ice Queens,Susan Washburn,Elizabeth Curtis,Heather Kane,Christa Resavy,5,15
-17809,2,2026-02-26,cary,winter2026,highintermediate,50,women,Snowball Smashers,The ice Queens,Beth Smith,Suzanne Trexler,Heather Blythe,Julie T Stallman,15,2
-17809,3,2026-02-26,cary,winter2026,highintermediate,50,women,Snowball Smashers,The ice Queens,MaryBeth Munz,Daisy VanCauwenbergh,Ruth Coon,AnneMarie Conklin,15,11
-17809,4,2026-02-26,cary,winter2026,highintermediate,50,women,Snowball Smashers,The ice Queens,Susan Washburn,Elizabeth Curtis,Heather Blythe,Julie T Stallman,8,15
-17809,5,2026-02-26,cary,winter2026,highintermediate,50,women,Snowball Smashers,The ice Queens,Beth Smith,Suzanne Trexler,Ruth Coon,AnneMarie Conklin,7,15
-17809,6,2026-02-26,cary,winter2026,highintermediate,50,women,Snowball Smashers,The ice Queens,MaryBeth Munz,Daisy VanCauwenbergh,Heather Kane,Christa Resavy,3,15
-17809,7,2026-02-26,cary,winter2026,highintermediate,50,women,Snowball Smashers,The ice Queens,Susan Washburn,Elizabeth Curtis,Ruth Coon,AnneMarie Conklin,2,15
-17809,8,2026-02-26,cary,winter2026,highintermediate,50,women,Snowball Smashers,The ice Queens,Beth Smith,Suzanne Trexler,Heather Kane,Christa Resavy,3,15
-17809,9,2026-02-26,cary,winter2026,highintermediate,50,women,Snowball Smashers,The ice Queens,MaryBeth Munz,Daisy VanCauwenbergh,Heather Blythe,Julie T Stallman,15,10
-17819,1,2026-03-05,cary,winter2026,highintermediate,50,women,The ice Queens,Snowball Smashers,Christa Resavy,Lynelle Boorey,Lori Bidgood,Nicole Mars Juillerat,15,9
-17819,2,2026-03-05,cary,winter2026,highintermediate,50,women,The ice Queens,Snowball Smashers,Julie T Stallman,Valerie Dorrier,Elizabeth Curtis,Daisy VanCauwenbergh,15,8
-17819,3,2026-03-05,cary,winter2026,highintermediate,50,women,The ice Queens,Snowball Smashers,Heather Blythe,Ruth Coon,Lisa W Wingard,Renee M Getz,15,8
-17819,4,2026-03-05,cary,winter2026,highintermediate,50,women,The ice Queens,Snowball Smashers,Christa Resavy,Lynelle Boorey,Elizabeth Curtis,Daisy VanCauwenbergh,15,5
-17819,5,2026-03-05,cary,winter2026,highintermediate,50,women,The ice Queens,Snowball Smashers,Julie T Stallman,Valerie Dorrier,Lisa W Wingard,Renee M Getz,15,4
-17819,6,2026-03-05,cary,winter2026,highintermediate,50,women,The ice Queens,Snowball Smashers,Heather Blythe,Ruth Coon,Lori Bidgood,Nicole Mars Juillerat,15,10
-17819,7,2026-03-05,cary,winter2026,highintermediate,50,women,The ice Queens,Snowball Smashers,Christa Resavy,Lynelle Boorey,Lisa W Wingard,Renee M Getz,15,17
-17819,8,2026-03-05,cary,winter2026,highintermediate,50,women,The ice Queens,Snowball Smashers,Julie T Stallman,Valerie Dorrier,Lori Bidgood,Nicole Mars Juillerat,15,11
-17819,9,2026-03-05,cary,winter2026,highintermediate,50,women,The ice Queens,Snowball Smashers,Heather Blythe,Ruth Coon,Elizabeth Curtis,Daisy VanCauwenbergh,15,6
-17825,1,2026-03-12,cary,winter2026,highintermediate,50,women,Snowball Smashers,The ice Queens,Renee M Getz,Nicole Mars Juillerat,Lynelle Boorey,Heather Kane,6,15
-17825,2,2026-03-12,cary,winter2026,highintermediate,50,women,Snowball Smashers,The ice Queens,Beth Smith,Suzanne Trexler,Wendy Pannell,Valerie Dorrier,10,15
-17825,3,2026-03-12,cary,winter2026,highintermediate,50,women,Snowball Smashers,The ice Queens,Clara Mccall,MaryBeth Munz,AnneMarie Conklin,Christa Resavy,6,15
-17825,4,2026-03-12,cary,winter2026,highintermediate,50,women,Snowball Smashers,The ice Queens,Renee M Getz,Nicole Mars Juillerat,Wendy Pannell,Valerie Dorrier,3,15
-17825,5,2026-03-12,cary,winter2026,highintermediate,50,women,Snowball Smashers,The ice Queens,Beth Smith,Suzanne Trexler,AnneMarie Conklin,Christa Resavy,7,15
-17825,6,2026-03-12,cary,winter2026,highintermediate,50,women,Snowball Smashers,The ice Queens,Clara Mccall,MaryBeth Munz,Lynelle Boorey,Heather Kane,15,12
-17825,7,2026-03-12,cary,winter2026,highintermediate,50,women,Snowball Smashers,The ice Queens,Renee M Getz,Nicole Mars Juillerat,AnneMarie Conklin,Christa Resavy,7,15
-17825,8,2026-03-12,cary,winter2026,highintermediate,50,women,Snowball Smashers,The ice Queens,Beth Smith,Suzanne Trexler,Lynelle Boorey,Heather Kane,15,9
-17825,9,2026-03-12,cary,winter2026,highintermediate,50,women,Snowball Smashers,The ice Queens,Clara Mccall,MaryBeth Munz,Wendy Pannell,Valerie Dorrier,10,15
+match_id,game_id,match_date,league,season,skill_level,age,gender,team1_name,team2_name,partner1,partner2,opponent1,opponent2,team1_points,team2_points,status
+17749,1,2026-01-15,cary,winter2026,highintermediate,50,women,Snowball Smashers,The ice Queens,Daisy VanCauwenbergh,Renee M Getz,AnneMarie Conklin,Ruth Coon,2,15,Completed
+17749,2,2026-01-15,cary,winter2026,highintermediate,50,women,Snowball Smashers,The ice Queens,Suzanne Trexler,Beth Smith,Heather Kane,Lynelle Boorey,13,15,Completed
+17749,3,2026-01-15,cary,winter2026,highintermediate,50,women,Snowball Smashers,The ice Queens,Clara Mccall,Lori Bidgood,Valerie Dorrier,Kathryn L Jezior,1,15,Completed
+17749,4,2026-01-15,cary,winter2026,highintermediate,50,women,Snowball Smashers,The ice Queens,Daisy VanCauwenbergh,Renee M Getz,Heather Kane,Lynelle Boorey,3,15,Completed
+17749,5,2026-01-15,cary,winter2026,highintermediate,50,women,Snowball Smashers,The ice Queens,Suzanne Trexler,Beth Smith,Valerie Dorrier,Kathryn L Jezior,13,15,Completed
+17749,6,2026-01-15,cary,winter2026,highintermediate,50,women,Snowball Smashers,The ice Queens,Clara Mccall,Lori Bidgood,AnneMarie Conklin,Ruth Coon,3,15,Completed
+17749,7,2026-01-15,cary,winter2026,highintermediate,50,women,Snowball Smashers,The ice Queens,Daisy VanCauwenbergh,Renee M Getz,Valerie Dorrier,Kathryn L Jezior,4,15,Completed
+17749,8,2026-01-15,cary,winter2026,highintermediate,50,women,Snowball Smashers,The ice Queens,Suzanne Trexler,Beth Smith,AnneMarie Conklin,Ruth Coon,6,15,Completed
+17749,9,2026-01-15,cary,winter2026,highintermediate,50,women,Snowball Smashers,The ice Queens,Clara Mccall,Lori Bidgood,Heather Kane,Lynelle Boorey,2,15,Completed
+17759,1,2026-01-22,cary,winter2026,highintermediate,50,women,The ice Queens,Snowball Smashers,Christa Resavy,Heather Kane,Lisa W Wingard,MaryBeth Munz,15,8,Completed
+17759,2,2026-01-22,cary,winter2026,highintermediate,50,women,The ice Queens,Snowball Smashers,Ruth Coon,Kathryn L Jezior,Daisy VanCauwenbergh,Nicole Mars Juillerat,15,10,Completed
+17759,3,2026-01-22,cary,winter2026,highintermediate,50,women,The ice Queens,Snowball Smashers,Wendy Pannell,Lynelle Boorey,Lori Bidgood,Beth Smith,14,16,Completed
+17759,4,2026-01-22,cary,winter2026,highintermediate,50,women,The ice Queens,Snowball Smashers,Christa Resavy,Heather Kane,Daisy VanCauwenbergh,Nicole Mars Juillerat,15,8,Completed
+17759,5,2026-01-22,cary,winter2026,highintermediate,50,women,The ice Queens,Snowball Smashers,Ruth Coon,Kathryn L Jezior,Lori Bidgood,Beth Smith,11,15,Completed
+17759,6,2026-01-22,cary,winter2026,highintermediate,50,women,The ice Queens,Snowball Smashers,Wendy Pannell,Lynelle Boorey,Lisa W Wingard,MaryBeth Munz,15,6,Completed
+17759,7,2026-01-22,cary,winter2026,highintermediate,50,women,The ice Queens,Snowball Smashers,Christa Resavy,Heather Kane,Lori Bidgood,Beth Smith,15,5,Completed
+17759,8,2026-01-22,cary,winter2026,highintermediate,50,women,The ice Queens,Snowball Smashers,Ruth Coon,Kathryn L Jezior,Lisa W Wingard,MaryBeth Munz,11,15,Completed
+17759,9,2026-01-22,cary,winter2026,highintermediate,50,women,The ice Queens,Snowball Smashers,Wendy Pannell,Lynelle Boorey,Daisy VanCauwenbergh,Nicole Mars Juillerat,15,13,Completed
+17769,1,2026-01-29,cary,winter2026,highintermediate,50,women,Snowball Smashers,The ice Queens,Suzanne Trexler,Beth Smith,Christa Resavy,AnneMarie Conklin,3,15,Completed
+17769,2,2026-01-29,cary,winter2026,highintermediate,50,women,Snowball Smashers,The ice Queens,Clara Mccall,Nicole Mars Juillerat,Julie T Stallman,Heather Kane,15,8,Completed
+17769,3,2026-01-29,cary,winter2026,highintermediate,50,women,Snowball Smashers,The ice Queens,Daisy VanCauwenbergh,Lisa W Wingard,Wendy Pannell,Valerie Dorrier,6,15,Completed
+17769,4,2026-01-29,cary,winter2026,highintermediate,50,women,Snowball Smashers,The ice Queens,Suzanne Trexler,Beth Smith,Julie T Stallman,Heather Kane,15,5,Completed
+17769,5,2026-01-29,cary,winter2026,highintermediate,50,women,Snowball Smashers,The ice Queens,Clara Mccall,Nicole Mars Juillerat,Wendy Pannell,Valerie Dorrier,7,15,Completed
+17769,6,2026-01-29,cary,winter2026,highintermediate,50,women,Snowball Smashers,The ice Queens,Daisy VanCauwenbergh,Lisa W Wingard,Christa Resavy,AnneMarie Conklin,4,15,Completed
+17769,7,2026-01-29,cary,winter2026,highintermediate,50,women,Snowball Smashers,The ice Queens,Suzanne Trexler,Beth Smith,Wendy Pannell,Valerie Dorrier,8,15,Completed
+17769,8,2026-01-29,cary,winter2026,highintermediate,50,women,Snowball Smashers,The ice Queens,Clara Mccall,Nicole Mars Juillerat,Christa Resavy,AnneMarie Conklin,2,15,Completed
+17769,9,2026-01-29,cary,winter2026,highintermediate,50,women,Snowball Smashers,The ice Queens,Daisy VanCauwenbergh,Lisa W Wingard,Julie T Stallman,Heather Kane,10,15,Completed
+17779,1,2026-02-05,cary,winter2026,highintermediate,50,women,The ice Queens,Snowball Smashers,Julie T Stallman,Kathryn L Jezior,Elizabeth Curtis,Lori Bidgood,4,15,Completed
+17779,2,2026-02-05,cary,winter2026,highintermediate,50,women,The ice Queens,Snowball Smashers,Lynelle Boorey,Valerie Dorrier,Lisa W Wingard,MaryBeth Munz,14,16,Completed
+17779,3,2026-02-05,cary,winter2026,highintermediate,50,women,The ice Queens,Snowball Smashers,AnneMarie Conklin,Wendy Pannell,Renee M Getz,Susan Washburn,15,2,Completed
+17779,4,2026-02-05,cary,winter2026,highintermediate,50,women,The ice Queens,Snowball Smashers,Julie T Stallman,Kathryn L Jezior,Lisa W Wingard,MaryBeth Munz,10,15,Completed
+17779,5,2026-02-05,cary,winter2026,highintermediate,50,women,The ice Queens,Snowball Smashers,Lynelle Boorey,Valerie Dorrier,Renee M Getz,Susan Washburn,15,4,Completed
+17779,6,2026-02-05,cary,winter2026,highintermediate,50,women,The ice Queens,Snowball Smashers,AnneMarie Conklin,Wendy Pannell,Elizabeth Curtis,Lori Bidgood,15,10,Completed
+17779,7,2026-02-05,cary,winter2026,highintermediate,50,women,The ice Queens,Snowball Smashers,Julie T Stallman,Kathryn L Jezior,Renee M Getz,Susan Washburn,15,7,Completed
+17779,8,2026-02-05,cary,winter2026,highintermediate,50,women,The ice Queens,Snowball Smashers,Lynelle Boorey,Valerie Dorrier,Elizabeth Curtis,Lori Bidgood,13,15,Completed
+17779,9,2026-02-05,cary,winter2026,highintermediate,50,women,The ice Queens,Snowball Smashers,AnneMarie Conklin,Wendy Pannell,Lisa W Wingard,MaryBeth Munz,15,2,Completed
+17789,1,2026-02-12,cary,winter2026,highintermediate,50,women,Snowball Smashers,The ice Queens,Susan Washburn,Nicole Mars Juillerat,Heather Kane,Christa Resavy,0,15,Completed
+17789,2,2026-02-12,cary,winter2026,highintermediate,50,women,Snowball Smashers,The ice Queens,Lori Bidgood,Suzanne Trexler,Heather Blythe,Wendy Pannell,15,11,Completed
+17789,3,2026-02-12,cary,winter2026,highintermediate,50,women,Snowball Smashers,The ice Queens,Daisy VanCauwenbergh,Clara Mccall,Kathryn L Jezior,AnneMarie Conklin,7,15,Completed
+17789,4,2026-02-12,cary,winter2026,highintermediate,50,women,Snowball Smashers,The ice Queens,Susan Washburn,Nicole Mars Juillerat,Heather Blythe,Wendy Pannell,0,15,Completed
+17789,5,2026-02-12,cary,winter2026,highintermediate,50,women,Snowball Smashers,The ice Queens,Lori Bidgood,Suzanne Trexler,Kathryn L Jezior,AnneMarie Conklin,15,13,Completed
+17789,6,2026-02-12,cary,winter2026,highintermediate,50,women,Snowball Smashers,The ice Queens,Daisy VanCauwenbergh,Clara Mccall,Heather Kane,Christa Resavy,6,15,Completed
+17789,7,2026-02-12,cary,winter2026,highintermediate,50,women,Snowball Smashers,The ice Queens,Susan Washburn,Nicole Mars Juillerat,Kathryn L Jezior,AnneMarie Conklin,1,15,Completed
+17789,8,2026-02-12,cary,winter2026,highintermediate,50,women,Snowball Smashers,The ice Queens,Lori Bidgood,Suzanne Trexler,Heather Kane,Christa Resavy,9,15,Completed
+17789,9,2026-02-12,cary,winter2026,highintermediate,50,women,Snowball Smashers,The ice Queens,Daisy VanCauwenbergh,Clara Mccall,Heather Blythe,Wendy Pannell,10,15,Completed
+17799,1,2026-02-19,cary,winter2026,highintermediate,50,women,The ice Queens,Snowball Smashers,Heather Blythe,Heather Kane,Lisa W Wingard,Renee M Getz,15,5,Completed
+17799,2,2026-02-19,cary,winter2026,highintermediate,50,women,The ice Queens,Snowball Smashers,Julie T Stallman,Ruth Coon,Clara Mccall,MaryBeth Munz,15,13,Completed
+17799,3,2026-02-19,cary,winter2026,highintermediate,50,women,The ice Queens,Snowball Smashers,Kathryn L Jezior,Wendy Pannell,Nicole Mars Juillerat,Elizabeth Curtis,15,7,Completed
+17799,4,2026-02-19,cary,winter2026,highintermediate,50,women,The ice Queens,Snowball Smashers,Heather Blythe,Heather Kane,Clara Mccall,MaryBeth Munz,15,13,Completed
+17799,5,2026-02-19,cary,winter2026,highintermediate,50,women,The ice Queens,Snowball Smashers,Julie T Stallman,Ruth Coon,Nicole Mars Juillerat,Elizabeth Curtis,3,15,Completed
+17799,6,2026-02-19,cary,winter2026,highintermediate,50,women,The ice Queens,Snowball Smashers,Kathryn L Jezior,Wendy Pannell,Lisa W Wingard,Renee M Getz,15,9,Completed
+17799,7,2026-02-19,cary,winter2026,highintermediate,50,women,The ice Queens,Snowball Smashers,Heather Blythe,Heather Kane,Nicole Mars Juillerat,Elizabeth Curtis,15,4,Completed
+17799,8,2026-02-19,cary,winter2026,highintermediate,50,women,The ice Queens,Snowball Smashers,Julie T Stallman,Ruth Coon,Lisa W Wingard,Renee M Getz,7,15,Completed
+17799,9,2026-02-19,cary,winter2026,highintermediate,50,women,The ice Queens,Snowball Smashers,Kathryn L Jezior,Wendy Pannell,Clara Mccall,MaryBeth Munz,15,17,Completed
+17809,1,2026-02-26,cary,winter2026,highintermediate,50,women,Snowball Smashers,The ice Queens,Susan Washburn,Elizabeth Curtis,Heather Kane,Christa Resavy,5,15,Completed
+17809,2,2026-02-26,cary,winter2026,highintermediate,50,women,Snowball Smashers,The ice Queens,Beth Smith,Suzanne Trexler,Heather Blythe,Julie T Stallman,15,2,Completed
+17809,3,2026-02-26,cary,winter2026,highintermediate,50,women,Snowball Smashers,The ice Queens,MaryBeth Munz,Daisy VanCauwenbergh,Ruth Coon,AnneMarie Conklin,15,11,Completed
+17809,4,2026-02-26,cary,winter2026,highintermediate,50,women,Snowball Smashers,The ice Queens,Susan Washburn,Elizabeth Curtis,Heather Blythe,Julie T Stallman,8,15,Completed
+17809,5,2026-02-26,cary,winter2026,highintermediate,50,women,Snowball Smashers,The ice Queens,Beth Smith,Suzanne Trexler,Ruth Coon,AnneMarie Conklin,7,15,Completed
+17809,6,2026-02-26,cary,winter2026,highintermediate,50,women,Snowball Smashers,The ice Queens,MaryBeth Munz,Daisy VanCauwenbergh,Heather Kane,Christa Resavy,3,15,Completed
+17809,7,2026-02-26,cary,winter2026,highintermediate,50,women,Snowball Smashers,The ice Queens,Susan Washburn,Elizabeth Curtis,Ruth Coon,AnneMarie Conklin,2,15,Completed
+17809,8,2026-02-26,cary,winter2026,highintermediate,50,women,Snowball Smashers,The ice Queens,Beth Smith,Suzanne Trexler,Heather Kane,Christa Resavy,3,15,Completed
+17809,9,2026-02-26,cary,winter2026,highintermediate,50,women,Snowball Smashers,The ice Queens,MaryBeth Munz,Daisy VanCauwenbergh,Heather Blythe,Julie T Stallman,15,10,Completed
+17819,1,2026-03-05,cary,winter2026,highintermediate,50,women,The ice Queens,Snowball Smashers,Christa Resavy,Lynelle Boorey,Lori Bidgood,Nicole Mars Juillerat,15,9,Completed
+17819,2,2026-03-05,cary,winter2026,highintermediate,50,women,The ice Queens,Snowball Smashers,Julie T Stallman,Valerie Dorrier,Elizabeth Curtis,Daisy VanCauwenbergh,15,8,Completed
+17819,3,2026-03-05,cary,winter2026,highintermediate,50,women,The ice Queens,Snowball Smashers,Heather Blythe,Ruth Coon,Lisa W Wingard,Renee M Getz,15,8,Completed
+17819,4,2026-03-05,cary,winter2026,highintermediate,50,women,The ice Queens,Snowball Smashers,Christa Resavy,Lynelle Boorey,Elizabeth Curtis,Daisy VanCauwenbergh,15,5,Completed
+17819,5,2026-03-05,cary,winter2026,highintermediate,50,women,The ice Queens,Snowball Smashers,Julie T Stallman,Valerie Dorrier,Lisa W Wingard,Renee M Getz,15,4,Completed
+17819,6,2026-03-05,cary,winter2026,highintermediate,50,women,The ice Queens,Snowball Smashers,Heather Blythe,Ruth Coon,Lori Bidgood,Nicole Mars Juillerat,15,10,Completed
+17819,7,2026-03-05,cary,winter2026,highintermediate,50,women,The ice Queens,Snowball Smashers,Christa Resavy,Lynelle Boorey,Lisa W Wingard,Renee M Getz,15,17,Completed
+17819,8,2026-03-05,cary,winter2026,highintermediate,50,women,The ice Queens,Snowball Smashers,Julie T Stallman,Valerie Dorrier,Lori Bidgood,Nicole Mars Juillerat,15,11,Completed
+17819,9,2026-03-05,cary,winter2026,highintermediate,50,women,The ice Queens,Snowball Smashers,Heather Blythe,Ruth Coon,Elizabeth Curtis,Daisy VanCauwenbergh,15,6,Completed
+17825,1,2026-03-12,cary,winter2026,highintermediate,50,women,Snowball Smashers,The ice Queens,Renee M Getz,Nicole Mars Juillerat,Lynelle Boorey,Heather Kane,6,15,Completed
+17825,2,2026-03-12,cary,winter2026,highintermediate,50,women,Snowball Smashers,The ice Queens,Beth Smith,Suzanne Trexler,Wendy Pannell,Valerie Dorrier,10,15,Completed
+17825,3,2026-03-12,cary,winter2026,highintermediate,50,women,Snowball Smashers,The ice Queens,Clara Mccall,MaryBeth Munz,AnneMarie Conklin,Christa Resavy,6,15,Completed
+17825,4,2026-03-12,cary,winter2026,highintermediate,50,women,Snowball Smashers,The ice Queens,Renee M Getz,Nicole Mars Juillerat,Wendy Pannell,Valerie Dorrier,3,15,Completed
+17825,5,2026-03-12,cary,winter2026,highintermediate,50,women,Snowball Smashers,The ice Queens,Beth Smith,Suzanne Trexler,AnneMarie Conklin,Christa Resavy,7,15,Completed
+17825,6,2026-03-12,cary,winter2026,highintermediate,50,women,Snowball Smashers,The ice Queens,Clara Mccall,MaryBeth Munz,Lynelle Boorey,Heather Kane,15,12,Completed
+17825,7,2026-03-12,cary,winter2026,highintermediate,50,women,Snowball Smashers,The ice Queens,Renee M Getz,Nicole Mars Juillerat,AnneMarie Conklin,Christa Resavy,7,15,Completed
+17825,8,2026-03-12,cary,winter2026,highintermediate,50,women,Snowball Smashers,The ice Queens,Beth Smith,Suzanne Trexler,Lynelle Boorey,Heather Kane,15,9,Completed
+17825,9,2026-03-12,cary,winter2026,highintermediate,50,women,Snowball Smashers,The ice Queens,Clara Mccall,MaryBeth Munz,Wendy Pannell,Valerie Dorrier,10,15,Completed

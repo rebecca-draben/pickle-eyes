@@ -1,136 +1,136 @@
-match_id,game_id,match_date,league,season,skill_level,age,gender,team1_name,team2_name,partner1,partner2,opponent1,opponent2,team1_points,team2_points
-19192,1,2026-07-17,ecc,spring2026,highintermediate,50,women,TOC Volley Girls 3.0,HPCC What' the Score,Shubha Sachdev,Kate Morse Falkiner,Wendy Austin,Stephanie Ross,6,11
-19192,2,2026-07-17,ecc,spring2026,highintermediate,50,women,TOC Volley Girls 3.0,HPCC What' the Score,Janny Frazier,Rebecca Drabenstott,Amy Robinson,Maria C Swedeen,12,10
-19192,3,2026-07-17,ecc,spring2026,highintermediate,50,women,TOC Volley Girls 3.0,HPCC What' the Score,Michelle Reyes,Kelda Bailey,Kellie Holbrook,Heather Foster,11,6
-19192,4,2026-07-17,ecc,spring2026,highintermediate,50,women,TOC Volley Girls 3.0,HPCC What' the Score,Shubha Sachdev,Kate Morse Falkiner,Amy Robinson,Maria C Swedeen,11,7
-19192,5,2026-07-17,ecc,spring2026,highintermediate,50,women,TOC Volley Girls 3.0,HPCC What' the Score,Janny Frazier,Rebecca Drabenstott,Kellie Holbrook,Heather Foster,11,2
-19192,6,2026-07-17,ecc,spring2026,highintermediate,50,women,TOC Volley Girls 3.0,HPCC What' the Score,Michelle Reyes,Kelda Bailey,Wendy Austin,Stephanie Ross,11,13
-19192,7,2026-07-17,ecc,spring2026,highintermediate,50,women,TOC Volley Girls 3.0,HPCC What' the Score,Shubha Sachdev,Kate Morse Falkiner,Kellie Holbrook,Heather Foster,11,8
-19192,8,2026-07-17,ecc,spring2026,highintermediate,50,women,TOC Volley Girls 3.0,HPCC What' the Score,Janny Frazier,Rebecca Drabenstott,Wendy Austin,Stephanie Ross,1,11
-19192,9,2026-07-17,ecc,spring2026,highintermediate,50,women,TOC Volley Girls 3.0,HPCC What' the Score,Michelle Reyes,Kelda Bailey,Amy Robinson,Maria C Swedeen,10,12
-19193,1,2026-07-17,ecc,spring2026,highintermediate,50,women,DUKE Dinking Devils,SEDGE DILLIGHTFULS26,Elizabeth Goettman Christopher,Mary Thomas,Laura Michael Spangler,Kim Goodson Toompas,11,7
-19193,2,2026-07-17,ecc,spring2026,highintermediate,50,women,DUKE Dinking Devils,SEDGE DILLIGHTFULS26,Gennifer Weisenfeld,Jane Kestenbaum,Leigh Bliss,Laurie Williams,2,11
-19193,3,2026-07-17,ecc,spring2026,highintermediate,50,women,DUKE Dinking Devils,SEDGE DILLIGHTFULS26,Lisa Stella,Laura Schanberg,Caren Barnes,Carol M Hibbett,11,9
-19193,4,2026-07-17,ecc,spring2026,highintermediate,50,women,DUKE Dinking Devils,SEDGE DILLIGHTFULS26,Elizabeth Goettman Christopher,Mary Thomas,Leigh Bliss,Laurie Williams,5,11
-19193,5,2026-07-17,ecc,spring2026,highintermediate,50,women,DUKE Dinking Devils,SEDGE DILLIGHTFULS26,Gennifer Weisenfeld,Jane Kestenbaum,Caren Barnes,Carol M Hibbett,3,11
-19193,6,2026-07-17,ecc,spring2026,highintermediate,50,women,DUKE Dinking Devils,SEDGE DILLIGHTFULS26,Lisa Stella,Laura Schanberg,Laura Michael Spangler,Kim Goodson Toompas,8,11
-19193,7,2026-07-17,ecc,spring2026,highintermediate,50,women,DUKE Dinking Devils,SEDGE DILLIGHTFULS26,Elizabeth Goettman Christopher,Mary Thomas,Caren Barnes,Carol M Hibbett,5,11
-19193,8,2026-07-17,ecc,spring2026,highintermediate,50,women,DUKE Dinking Devils,SEDGE DILLIGHTFULS26,Gennifer Weisenfeld,Jane Kestenbaum,Laura Michael Spangler,Kim Goodson Toompas,9,11
-19193,9,2026-07-17,ecc,spring2026,highintermediate,50,women,DUKE Dinking Devils,SEDGE DILLIGHTFULS26,Lisa Stella,Laura Schanberg,Leigh Bliss,Laurie Williams,11,5
-19194,1,2026-07-17,ecc,spring2026,highintermediate,50,women,LOCH Dinkerbells,CPC Island Dinkers 50+,Carol N Wright,Sherrie L Bass,Linda Lou Murphy,Carole Maner,11,9
-19194,2,2026-07-17,ecc,spring2026,highintermediate,50,women,LOCH Dinkerbells,CPC Island Dinkers 50+,Beverly Broslawsky,Christie Benjamin,Angie May,Karen Elaine Seadore,3,11
-19194,3,2026-07-17,ecc,spring2026,highintermediate,50,women,LOCH Dinkerbells,CPC Island Dinkers 50+,Suzan Bumby,Bobbi Bell,Laura Evy,Larissa Green,2,11
-19194,4,2026-07-17,ecc,spring2026,highintermediate,50,women,LOCH Dinkerbells,CPC Island Dinkers 50+,Carol N Wright,Sherrie L Bass,Angie May,Karen Elaine Seadore,11,2
-19194,5,2026-07-17,ecc,spring2026,highintermediate,50,women,LOCH Dinkerbells,CPC Island Dinkers 50+,Beverly Broslawsky,Christie Benjamin,Laura Evy,Larissa Green,11,9
-19194,6,2026-07-17,ecc,spring2026,highintermediate,50,women,LOCH Dinkerbells,CPC Island Dinkers 50+,Suzan Bumby,Bobbi Bell,Linda Lou Murphy,Carole Maner,3,11
-19194,7,2026-07-17,ecc,spring2026,highintermediate,50,women,LOCH Dinkerbells,CPC Island Dinkers 50+,Carol N Wright,Sherrie L Bass,Laura Evy,Larissa Green,11,5
-19194,8,2026-07-17,ecc,spring2026,highintermediate,50,women,LOCH Dinkerbells,CPC Island Dinkers 50+,Beverly Broslawsky,Christie Benjamin,Linda Lou Murphy,Carole Maner,5,11
-19194,9,2026-07-17,ecc,spring2026,highintermediate,50,women,LOCH Dinkerbells,CPC Island Dinkers 50+,Suzan Bumby,Bobbi Bell,Angie May,Karen Elaine Seadore,4,11
-19195,1,2026-07-17,ecc,spring2026,highintermediate,50,women,7OAKS Dill With It,SEDGE Dinkerbelles,Leigh Magee,Amy A Lindsey,Ann Barkley,Chris Newcomer,9,11
-19195,2,2026-07-17,ecc,spring2026,highintermediate,50,women,7OAKS Dill With It,SEDGE Dinkerbelles,Molly Bradsher Briggs,Dana Chapman,Elizabeth Meeks,Joanne Dong,11,4
-19195,3,2026-07-17,ecc,spring2026,highintermediate,50,women,7OAKS Dill With It,SEDGE Dinkerbelles,Danielle Stringer,Shelly A Schiff,Natalie Faith Wallace,Diane Rene Toohey,3,11
-19195,4,2026-07-17,ecc,spring2026,highintermediate,50,women,7OAKS Dill With It,SEDGE Dinkerbelles,Leigh Magee,Amy A Lindsey,Elizabeth Meeks,Joanne Dong,9,11
-19195,5,2026-07-17,ecc,spring2026,highintermediate,50,women,7OAKS Dill With It,SEDGE Dinkerbelles,Molly Bradsher Briggs,Dana Chapman,Natalie Faith Wallace,Diane Rene Toohey,9,11
-19195,6,2026-07-17,ecc,spring2026,highintermediate,50,women,7OAKS Dill With It,SEDGE Dinkerbelles,Danielle Stringer,Shelly A Schiff,Ann Barkley,Chris Newcomer,2,11
-19195,7,2026-07-17,ecc,spring2026,highintermediate,50,women,7OAKS Dill With It,SEDGE Dinkerbelles,Leigh Magee,Amy A Lindsey,Natalie Faith Wallace,Diane Rene Toohey,5,11
-19195,8,2026-07-17,ecc,spring2026,highintermediate,50,women,7OAKS Dill With It,SEDGE Dinkerbelles,Molly Bradsher Briggs,Dana Chapman,Ann Barkley,Chris Newcomer,5,11
-19195,9,2026-07-17,ecc,spring2026,highintermediate,50,women,7OAKS Dill With It,SEDGE Dinkerbelles,Danielle Stringer,Shelly A Schiff,Elizabeth Meeks,Joanne Dong,6,11
-19198,1,2026-07-17,ecc,spring2026,highintermediate,50,women,HPCC What' the Score,DUKE Dinking Devils,Wendy Austin,Stephanie Ross,Gennifer Weisenfeld,Rachel m Campbell,11,8
-19198,2,2026-07-17,ecc,spring2026,highintermediate,50,women,HPCC What' the Score,DUKE Dinking Devils,Amy Robinson,Maria C Swedeen,Elizabeth Goettman Christopher,Mary Thomas,11,4
-19198,3,2026-07-17,ecc,spring2026,highintermediate,50,women,HPCC What' the Score,DUKE Dinking Devils,Kellie Holbrook,Heather Foster,Lisa Stella,Laura Schanberg,3,11
-19198,4,2026-07-17,ecc,spring2026,highintermediate,50,women,HPCC What' the Score,DUKE Dinking Devils,Wendy Austin,Stephanie Ross,Elizabeth Goettman Christopher,Mary Thomas,11,5
-19198,5,2026-07-17,ecc,spring2026,highintermediate,50,women,HPCC What' the Score,DUKE Dinking Devils,Amy Robinson,Maria C Swedeen,Lisa Stella,Laura Schanberg,2,11
-19198,6,2026-07-17,ecc,spring2026,highintermediate,50,women,HPCC What' the Score,DUKE Dinking Devils,Kellie Holbrook,Heather Foster,Gennifer Weisenfeld,Rachel m Campbell,5,11
-19198,7,2026-07-17,ecc,spring2026,highintermediate,50,women,HPCC What' the Score,DUKE Dinking Devils,Wendy Austin,Stephanie Ross,Lisa Stella,Laura Schanberg,8,11
-19198,8,2026-07-17,ecc,spring2026,highintermediate,50,women,HPCC What' the Score,DUKE Dinking Devils,Amy Robinson,Maria C Swedeen,Gennifer Weisenfeld,Rachel m Campbell,11,9
-19198,9,2026-07-17,ecc,spring2026,highintermediate,50,women,HPCC What' the Score,DUKE Dinking Devils,Kellie Holbrook,Heather Foster,Elizabeth Goettman Christopher,Mary Thomas,4,11
-19199,1,2026-07-17,ecc,spring2026,highintermediate,50,women,SEDGE DILLIGHTFULS26,TOC Volley Girls 3.0,Laura Michael Spangler,Kim Goodson Toompas,Shubha Sachdev,Kelda Bailey,2,11
-19199,2,2026-07-17,ecc,spring2026,highintermediate,50,women,SEDGE DILLIGHTFULS26,TOC Volley Girls 3.0,Leigh Bliss,Laurie Williams,Janny Frazier,Kate Morse Falkiner,7,11
-19199,3,2026-07-17,ecc,spring2026,highintermediate,50,women,SEDGE DILLIGHTFULS26,TOC Volley Girls 3.0,Caren Barnes,Carol M Hibbett,Pamela DeLoatch,Rebecca Drabenstott,13,15
-19199,4,2026-07-17,ecc,spring2026,highintermediate,50,women,SEDGE DILLIGHTFULS26,TOC Volley Girls 3.0,Laura Michael Spangler,Kim Goodson Toompas,Janny Frazier,Kate Morse Falkiner,11,8
-19199,5,2026-07-17,ecc,spring2026,highintermediate,50,women,SEDGE DILLIGHTFULS26,TOC Volley Girls 3.0,Leigh Bliss,Laurie Williams,Pamela DeLoatch,Rebecca Drabenstott,11,8
-19199,6,2026-07-17,ecc,spring2026,highintermediate,50,women,SEDGE DILLIGHTFULS26,TOC Volley Girls 3.0,Caren Barnes,Carol M Hibbett,Shubha Sachdev,Kelda Bailey,11,2
-19199,7,2026-07-17,ecc,spring2026,highintermediate,50,women,SEDGE DILLIGHTFULS26,TOC Volley Girls 3.0,Laura Michael Spangler,Kim Goodson Toompas,Pamela DeLoatch,Rebecca Drabenstott,9,11
-19199,8,2026-07-17,ecc,spring2026,highintermediate,50,women,SEDGE DILLIGHTFULS26,TOC Volley Girls 3.0,Leigh Bliss,Laurie Williams,Shubha Sachdev,Kelda Bailey,9,11
-19199,9,2026-07-17,ecc,spring2026,highintermediate,50,women,SEDGE DILLIGHTFULS26,TOC Volley Girls 3.0,Caren Barnes,Carol M Hibbett,Janny Frazier,Kate Morse Falkiner,11,3
-19200,1,2026-07-17,ecc,spring2026,highintermediate,50,women,CPC Island Dinkers 50+,7OAKS Dill With It,Carole Maner,Angie May,Molly Bradsher Briggs,Olga DeGroff,11,8
-19200,2,2026-07-17,ecc,spring2026,highintermediate,50,women,CPC Island Dinkers 50+,7OAKS Dill With It,Linda Lou Murphy,Patti Chason,Ada Gonzalez,Danielle Stringer,1,11
-19200,3,2026-07-17,ecc,spring2026,highintermediate,50,women,CPC Island Dinkers 50+,7OAKS Dill With It,Cindy Matthews,Kim W Kimbrough,Amy A Lindsey,Pamela Sue Rigsby,7,11
-19200,4,2026-07-17,ecc,spring2026,highintermediate,50,women,CPC Island Dinkers 50+,7OAKS Dill With It,Carole Maner,Angie May,Ada Gonzalez,Danielle Stringer,11,1
-19200,5,2026-07-17,ecc,spring2026,highintermediate,50,women,CPC Island Dinkers 50+,7OAKS Dill With It,Linda Lou Murphy,Patti Chason,Amy A Lindsey,Pamela Sue Rigsby,9,11
-19200,6,2026-07-17,ecc,spring2026,highintermediate,50,women,CPC Island Dinkers 50+,7OAKS Dill With It,Cindy Matthews,Kim W Kimbrough,Molly Bradsher Briggs,Olga DeGroff,4,11
-19200,7,2026-07-17,ecc,spring2026,highintermediate,50,women,CPC Island Dinkers 50+,7OAKS Dill With It,Carole Maner,Angie May,Amy A Lindsey,Pamela Sue Rigsby,10,12
-19200,8,2026-07-17,ecc,spring2026,highintermediate,50,women,CPC Island Dinkers 50+,7OAKS Dill With It,Linda Lou Murphy,Patti Chason,Molly Bradsher Briggs,Olga DeGroff,2,11
-19200,9,2026-07-17,ecc,spring2026,highintermediate,50,women,CPC Island Dinkers 50+,7OAKS Dill With It,Cindy Matthews,Kim W Kimbrough,Ada Gonzalez,Danielle Stringer,11,4
-19201,1,2026-07-17,ecc,spring2026,highintermediate,50,women,SEDGE Dinkerbelles,LOCH Dinkerbells,Chris Newcomer,Elizabeth Meeks,Carol N Wright,Sherrie L Bass,11,7
-19201,2,2026-07-17,ecc,spring2026,highintermediate,50,women,SEDGE Dinkerbelles,LOCH Dinkerbells,Diane Rene Toohey,Ann Barkley,Vicki Rohde,Anita C Barker,11,7
-19201,3,2026-07-17,ecc,spring2026,highintermediate,50,women,SEDGE Dinkerbelles,LOCH Dinkerbells,Natalie Faith Wallace,Jean Rezzo,Beverly Broslawsky,Christie Benjamin,11,7
-19201,4,2026-07-17,ecc,spring2026,highintermediate,50,women,SEDGE Dinkerbelles,LOCH Dinkerbells,Chris Newcomer,Elizabeth Meeks,Vicki Rohde,Anita C Barker,11,5
-19201,5,2026-07-17,ecc,spring2026,highintermediate,50,women,SEDGE Dinkerbelles,LOCH Dinkerbells,Diane Rene Toohey,Ann Barkley,Beverly Broslawsky,Christie Benjamin,11,2
-19201,6,2026-07-17,ecc,spring2026,highintermediate,50,women,SEDGE Dinkerbelles,LOCH Dinkerbells,Natalie Faith Wallace,Jean Rezzo,Carol N Wright,Sherrie L Bass,4,11
-19201,7,2026-07-17,ecc,spring2026,highintermediate,50,women,SEDGE Dinkerbelles,LOCH Dinkerbells,Chris Newcomer,Elizabeth Meeks,Beverly Broslawsky,Christie Benjamin,11,4
-19201,8,2026-07-17,ecc,spring2026,highintermediate,50,women,SEDGE Dinkerbelles,LOCH Dinkerbells,Diane Rene Toohey,Ann Barkley,Carol N Wright,Sherrie L Bass,5,11
-19201,9,2026-07-17,ecc,spring2026,highintermediate,50,women,SEDGE Dinkerbelles,LOCH Dinkerbells,Natalie Faith Wallace,Jean Rezzo,Vicki Rohde,Anita C Barker,11,3
-19204,1,2026-07-17,ecc,spring2026,highintermediate,50,women,HPCC What' the Score,SEDGE DILLIGHTFULS26,Wendy Austin,Stephanie Ross,Leigh Bliss,Laurie Williams,11,4
-19204,2,2026-07-17,ecc,spring2026,highintermediate,50,women,HPCC What' the Score,SEDGE DILLIGHTFULS26,Amy Robinson,Maria C Swedeen,Caren Barnes,Carol M Hibbett,4,11
-19204,3,2026-07-17,ecc,spring2026,highintermediate,50,women,HPCC What' the Score,SEDGE DILLIGHTFULS26,Kellie Holbrook,Heather Foster,Kathy Tedder Hartung,Jill Sear,11,8
-19204,4,2026-07-17,ecc,spring2026,highintermediate,50,women,HPCC What' the Score,SEDGE DILLIGHTFULS26,Wendy Austin,Stephanie Ross,Caren Barnes,Carol M Hibbett,8,11
-19204,5,2026-07-17,ecc,spring2026,highintermediate,50,women,HPCC What' the Score,SEDGE DILLIGHTFULS26,Amy Robinson,Maria C Swedeen,Kathy Tedder Hartung,Jill Sear,11,0
-19204,6,2026-07-17,ecc,spring2026,highintermediate,50,women,HPCC What' the Score,SEDGE DILLIGHTFULS26,Kellie Holbrook,Heather Foster,Leigh Bliss,Laurie Williams,5,11
-19204,7,2026-07-17,ecc,spring2026,highintermediate,50,women,HPCC What' the Score,SEDGE DILLIGHTFULS26,Wendy Austin,Stephanie Ross,Kathy Tedder Hartung,Jill Sear,11,0
-19204,8,2026-07-17,ecc,spring2026,highintermediate,50,women,HPCC What' the Score,SEDGE DILLIGHTFULS26,Amy Robinson,Maria C Swedeen,Leigh Bliss,Laurie Williams,11,8
-19204,9,2026-07-17,ecc,spring2026,highintermediate,50,women,HPCC What' the Score,SEDGE DILLIGHTFULS26,Kellie Holbrook,Heather Foster,Caren Barnes,Carol M Hibbett,3,11
-19205,1,2026-07-17,ecc,spring2026,highintermediate,50,women,DUKE Dinking Devils,TOC Volley Girls 3.0,Rachel m Campbell,Jane Kestenbaum,Shubha Sachdev,Kelda Bailey,6,11
-19205,2,2026-07-17,ecc,spring2026,highintermediate,50,women,DUKE Dinking Devils,TOC Volley Girls 3.0,Mary Thomas,Elizabeth Goettman Christopher,Kate Morse Falkiner,Rebecca Drabenstott,1,11
-19205,3,2026-07-17,ecc,spring2026,highintermediate,50,women,DUKE Dinking Devils,TOC Volley Girls 3.0,Lisa Stella,Laura Schanberg,Michelle Reyes,Pamela DeLoatch,13,11
-19205,4,2026-07-17,ecc,spring2026,highintermediate,50,women,DUKE Dinking Devils,TOC Volley Girls 3.0,Rachel m Campbell,Jane Kestenbaum,Kate Morse Falkiner,Rebecca Drabenstott,4,11
-19205,5,2026-07-17,ecc,spring2026,highintermediate,50,women,DUKE Dinking Devils,TOC Volley Girls 3.0,Mary Thomas,Elizabeth Goettman Christopher,Michelle Reyes,Pamela DeLoatch,10,12
-19205,6,2026-07-17,ecc,spring2026,highintermediate,50,women,DUKE Dinking Devils,TOC Volley Girls 3.0,Lisa Stella,Laura Schanberg,Shubha Sachdev,Kelda Bailey,4,11
-19205,7,2026-07-17,ecc,spring2026,highintermediate,50,women,DUKE Dinking Devils,TOC Volley Girls 3.0,Rachel m Campbell,Jane Kestenbaum,Michelle Reyes,Pamela DeLoatch,9,11
-19205,8,2026-07-17,ecc,spring2026,highintermediate,50,women,DUKE Dinking Devils,TOC Volley Girls 3.0,Mary Thomas,Elizabeth Goettman Christopher,Shubha Sachdev,Kelda Bailey,7,11
-19205,9,2026-07-17,ecc,spring2026,highintermediate,50,women,DUKE Dinking Devils,TOC Volley Girls 3.0,Lisa Stella,Laura Schanberg,Kate Morse Falkiner,Rebecca Drabenstott,9,11
-19206,1,2026-07-17,ecc,spring2026,highintermediate,50,women,7OAKS Dill With It,LOCH Dinkerbells,Molly Bradsher Briggs,Olga DeGroff,Bobbi Bell,Suzan Bumby,11,4
-19206,2,2026-07-17,ecc,spring2026,highintermediate,50,women,7OAKS Dill With It,LOCH Dinkerbells,Leigh Magee,Pamela Sue Rigsby,Anita C Barker,Vicki Rohde,9,11
-19206,3,2026-07-17,ecc,spring2026,highintermediate,50,women,7OAKS Dill With It,LOCH Dinkerbells,Dana Chapman,Ada Gonzalez,Beverly Broslawsky,Christie Benjamin,11,0
-19206,4,2026-07-17,ecc,spring2026,highintermediate,50,women,7OAKS Dill With It,LOCH Dinkerbells,Molly Bradsher Briggs,Olga DeGroff,Anita C Barker,Vicki Rohde,11,5
-19206,5,2026-07-17,ecc,spring2026,highintermediate,50,women,7OAKS Dill With It,LOCH Dinkerbells,Leigh Magee,Pamela Sue Rigsby,Beverly Broslawsky,Christie Benjamin,11,9
-19206,6,2026-07-17,ecc,spring2026,highintermediate,50,women,7OAKS Dill With It,LOCH Dinkerbells,Dana Chapman,Ada Gonzalez,Bobbi Bell,Suzan Bumby,11,7
-19206,7,2026-07-17,ecc,spring2026,highintermediate,50,women,7OAKS Dill With It,LOCH Dinkerbells,Molly Bradsher Briggs,Olga DeGroff,Beverly Broslawsky,Christie Benjamin,11,3
-19206,8,2026-07-17,ecc,spring2026,highintermediate,50,women,7OAKS Dill With It,LOCH Dinkerbells,Leigh Magee,Pamela Sue Rigsby,Bobbi Bell,Suzan Bumby,11,7
-19206,9,2026-07-17,ecc,spring2026,highintermediate,50,women,7OAKS Dill With It,LOCH Dinkerbells,Dana Chapman,Ada Gonzalez,Anita C Barker,Vicki Rohde,11,3
-19207,1,2026-07-17,ecc,spring2026,highintermediate,50,women,CPC Island Dinkers 50+,SEDGE Dinkerbelles,Carole Maner,Linda Lou Murphy,Elizabeth Meeks,Chris Newcomer,11,7
-19207,2,2026-07-17,ecc,spring2026,highintermediate,50,women,CPC Island Dinkers 50+,SEDGE Dinkerbelles,Angie May,Laura Evy,Ann Barkley,Joanne Dong,11,2
-19207,3,2026-07-17,ecc,spring2026,highintermediate,50,women,CPC Island Dinkers 50+,SEDGE Dinkerbelles,Karen Elaine Seadore,Patti Chason,Natalie Faith Wallace,Diane Rene Toohey,3,11
-19207,4,2026-07-17,ecc,spring2026,highintermediate,50,women,CPC Island Dinkers 50+,SEDGE Dinkerbelles,Carole Maner,Linda Lou Murphy,Ann Barkley,Joanne Dong,11,4
-19207,5,2026-07-17,ecc,spring2026,highintermediate,50,women,CPC Island Dinkers 50+,SEDGE Dinkerbelles,Angie May,Laura Evy,Natalie Faith Wallace,Diane Rene Toohey,9,11
-19207,6,2026-07-17,ecc,spring2026,highintermediate,50,women,CPC Island Dinkers 50+,SEDGE Dinkerbelles,Karen Elaine Seadore,Patti Chason,Elizabeth Meeks,Chris Newcomer,6,11
-19207,7,2026-07-17,ecc,spring2026,highintermediate,50,women,CPC Island Dinkers 50+,SEDGE Dinkerbelles,Carole Maner,Linda Lou Murphy,Natalie Faith Wallace,Diane Rene Toohey,11,8
-19207,8,2026-07-17,ecc,spring2026,highintermediate,50,women,CPC Island Dinkers 50+,SEDGE Dinkerbelles,Angie May,Laura Evy,Elizabeth Meeks,Chris Newcomer,8,11
-19207,9,2026-07-17,ecc,spring2026,highintermediate,50,women,CPC Island Dinkers 50+,SEDGE Dinkerbelles,Karen Elaine Seadore,Patti Chason,Ann Barkley,Joanne Dong,8,11
-19210,1,2026-07-17,ecc,spring2026,highintermediate,50,women,TOC Volley Girls 3.0,7OAKS Dill With It,Shubha Sachdev,Kate Morse Falkiner,Molly Bradsher Briggs,Olga DeGroff,15,5
-19210,2,2026-07-17,ecc,spring2026,highintermediate,50,women,TOC Volley Girls 3.0,7OAKS Dill With It,Rebecca Drabenstott,Janny Frazier,Dana Chapman,Ada Gonzalez,15,4
-19210,3,2026-07-17,ecc,spring2026,highintermediate,50,women,TOC Volley Girls 3.0,7OAKS Dill With It,Michelle Reyes,Kelda Bailey,Leigh Magee,Amy A Lindsey,15,4
-19210,4,2026-07-17,ecc,spring2026,highintermediate,50,women,TOC Volley Girls 3.0,7OAKS Dill With It,Shubha Sachdev,Kate Morse Falkiner,Dana Chapman,Ada Gonzalez,15,8
-19210,5,2026-07-17,ecc,spring2026,highintermediate,50,women,TOC Volley Girls 3.0,7OAKS Dill With It,Rebecca Drabenstott,Janny Frazier,Leigh Magee,Amy A Lindsey,15,10
-19210,6,2026-07-17,ecc,spring2026,highintermediate,50,women,TOC Volley Girls 3.0,7OAKS Dill With It,Michelle Reyes,Kelda Bailey,Molly Bradsher Briggs,Olga DeGroff,15,13
-19210,7,2026-07-17,ecc,spring2026,highintermediate,50,women,TOC Volley Girls 3.0,7OAKS Dill With It,Shubha Sachdev,Kate Morse Falkiner,Leigh Magee,Amy A Lindsey,11,15
-19210,8,2026-07-17,ecc,spring2026,highintermediate,50,women,TOC Volley Girls 3.0,7OAKS Dill With It,Rebecca Drabenstott,Janny Frazier,Molly Bradsher Briggs,Olga DeGroff,6,3
-19210,9,2026-07-17,ecc,spring2026,highintermediate,50,women,TOC Volley Girls 3.0,7OAKS Dill With It,Michelle Reyes,Kelda Bailey,Dana Chapman,Ada Gonzalez,15,7
-19211,1,2026-07-17,ecc,spring2026,highintermediate,50,women,SEDGE Dinkerbelles,SEDGE DILLIGHTFULS26,Elizabeth Meeks,Joanne Dong,Kim Goodson Toompas,Laura Michael Spangler,11,15
-19211,2,2026-07-17,ecc,spring2026,highintermediate,50,women,SEDGE Dinkerbelles,SEDGE DILLIGHTFULS26,Ann Barkley,Chris Newcomer,Carol M Hibbett,Caren Barnes,15,10
-19211,3,2026-07-17,ecc,spring2026,highintermediate,50,women,SEDGE Dinkerbelles,SEDGE DILLIGHTFULS26,Natalie Faith Wallace,Diane Rene Toohey,Leigh Bliss,Laurie Williams,10,15
-19211,4,2026-07-17,ecc,spring2026,highintermediate,50,women,SEDGE Dinkerbelles,SEDGE DILLIGHTFULS26,Elizabeth Meeks,Joanne Dong,Carol M Hibbett,Caren Barnes,9,15
-19211,5,2026-07-17,ecc,spring2026,highintermediate,50,women,SEDGE Dinkerbelles,SEDGE DILLIGHTFULS26,Ann Barkley,Chris Newcomer,Leigh Bliss,Laurie Williams,7,15
-19211,6,2026-07-17,ecc,spring2026,highintermediate,50,women,SEDGE Dinkerbelles,SEDGE DILLIGHTFULS26,Natalie Faith Wallace,Diane Rene Toohey,Kim Goodson Toompas,Laura Michael Spangler,15,12
-19211,7,2026-07-17,ecc,spring2026,highintermediate,50,women,SEDGE Dinkerbelles,SEDGE DILLIGHTFULS26,Elizabeth Meeks,Joanne Dong,Leigh Bliss,Laurie Williams,12,15
-19211,8,2026-07-17,ecc,spring2026,highintermediate,50,women,SEDGE Dinkerbelles,SEDGE DILLIGHTFULS26,Ann Barkley,Chris Newcomer,Kim Goodson Toompas,Laura Michael Spangler,15,13
-19211,9,2026-07-17,ecc,spring2026,highintermediate,50,women,SEDGE Dinkerbelles,SEDGE DILLIGHTFULS26,Natalie Faith Wallace,Diane Rene Toohey,Carol M Hibbett,Caren Barnes,14,16
-19213,1,2026-07-17,ecc,spring2026,highintermediate,50,women,TOC Volley Girls 3.0,SEDGE DILLIGHTFULS26,Shubha Sachdev,Kate Morse Falkiner,Leigh Bliss,Laurie Williams,15,7
-19213,2,2026-07-17,ecc,spring2026,highintermediate,50,women,TOC Volley Girls 3.0,SEDGE DILLIGHTFULS26,Janny Frazier,Rebecca Drabenstott,Caren Barnes,Carol M Hibbett,15,17
-19213,3,2026-07-17,ecc,spring2026,highintermediate,50,women,TOC Volley Girls 3.0,SEDGE DILLIGHTFULS26,Michelle Reyes,Kelda Bailey,Laura Michael Spangler,Kim Goodson Toompas,15,8
-19213,4,2026-07-17,ecc,spring2026,highintermediate,50,women,TOC Volley Girls 3.0,SEDGE DILLIGHTFULS26,Shubha Sachdev,Kate Morse Falkiner,Caren Barnes,Carol M Hibbett,14,16
-19213,5,2026-07-17,ecc,spring2026,highintermediate,50,women,TOC Volley Girls 3.0,SEDGE DILLIGHTFULS26,Janny Frazier,Rebecca Drabenstott,Laura Michael Spangler,Kim Goodson Toompas,15,10
-19213,6,2026-07-17,ecc,spring2026,highintermediate,50,women,TOC Volley Girls 3.0,SEDGE DILLIGHTFULS26,Michelle Reyes,Kelda Bailey,Leigh Bliss,Laurie Williams,15,9
-19213,7,2026-07-17,ecc,spring2026,highintermediate,50,women,TOC Volley Girls 3.0,SEDGE DILLIGHTFULS26,Shubha Sachdev,Kate Morse Falkiner,Laura Michael Spangler,Kim Goodson Toompas,15,11
-19213,8,2026-07-17,ecc,spring2026,highintermediate,50,women,TOC Volley Girls 3.0,SEDGE DILLIGHTFULS26,Janny Frazier,Rebecca Drabenstott,Leigh Bliss,Laurie Williams,14,16
-19213,9,2026-07-17,ecc,spring2026,highintermediate,50,women,TOC Volley Girls 3.0,SEDGE DILLIGHTFULS26,Michelle Reyes,Kelda Bailey,Caren Barnes,Carol M Hibbett,15,3
+match_id,game_id,match_date,league,season,skill_level,age,gender,team1_name,team2_name,partner1,partner2,opponent1,opponent2,team1_points,team2_points,status
+19192,1,2026-07-17,ecc,spring2026,highintermediate,50,women,TOC Volley Girls 3.0,HPCC What' the Score,Shubha Sachdev,Kate Morse Falkiner,Wendy Austin,Stephanie Ross,6,11,Completed
+19192,2,2026-07-17,ecc,spring2026,highintermediate,50,women,TOC Volley Girls 3.0,HPCC What' the Score,Janny Frazier,Rebecca Drabenstott,Amy Robinson,Maria C Swedeen,12,10,Completed
+19192,3,2026-07-17,ecc,spring2026,highintermediate,50,women,TOC Volley Girls 3.0,HPCC What' the Score,Michelle Reyes,Kelda Bailey,Kellie Holbrook,Heather Foster,11,6,Completed
+19192,4,2026-07-17,ecc,spring2026,highintermediate,50,women,TOC Volley Girls 3.0,HPCC What' the Score,Shubha Sachdev,Kate Morse Falkiner,Amy Robinson,Maria C Swedeen,11,7,Completed
+19192,5,2026-07-17,ecc,spring2026,highintermediate,50,women,TOC Volley Girls 3.0,HPCC What' the Score,Janny Frazier,Rebecca Drabenstott,Kellie Holbrook,Heather Foster,11,2,Completed
+19192,6,2026-07-17,ecc,spring2026,highintermediate,50,women,TOC Volley Girls 3.0,HPCC What' the Score,Michelle Reyes,Kelda Bailey,Wendy Austin,Stephanie Ross,11,13,Completed
+19192,7,2026-07-17,ecc,spring2026,highintermediate,50,women,TOC Volley Girls 3.0,HPCC What' the Score,Shubha Sachdev,Kate Morse Falkiner,Kellie Holbrook,Heather Foster,11,8,Completed
+19192,8,2026-07-17,ecc,spring2026,highintermediate,50,women,TOC Volley Girls 3.0,HPCC What' the Score,Janny Frazier,Rebecca Drabenstott,Wendy Austin,Stephanie Ross,1,11,Completed
+19192,9,2026-07-17,ecc,spring2026,highintermediate,50,women,TOC Volley Girls 3.0,HPCC What' the Score,Michelle Reyes,Kelda Bailey,Amy Robinson,Maria C Swedeen,10,12,Completed
+19193,1,2026-07-17,ecc,spring2026,highintermediate,50,women,DUKE Dinking Devils,SEDGE DILLIGHTFULS26,Elizabeth Goettman Christopher,Mary Thomas,Laura Michael Spangler,Kim Goodson Toompas,11,7,Completed
+19193,2,2026-07-17,ecc,spring2026,highintermediate,50,women,DUKE Dinking Devils,SEDGE DILLIGHTFULS26,Gennifer Weisenfeld,Jane Kestenbaum,Leigh Bliss,Laurie Williams,2,11,Completed
+19193,3,2026-07-17,ecc,spring2026,highintermediate,50,women,DUKE Dinking Devils,SEDGE DILLIGHTFULS26,Lisa Stella,Laura Schanberg,Caren Barnes,Carol M Hibbett,11,9,Completed
+19193,4,2026-07-17,ecc,spring2026,highintermediate,50,women,DUKE Dinking Devils,SEDGE DILLIGHTFULS26,Elizabeth Goettman Christopher,Mary Thomas,Leigh Bliss,Laurie Williams,5,11,Completed
+19193,5,2026-07-17,ecc,spring2026,highintermediate,50,women,DUKE Dinking Devils,SEDGE DILLIGHTFULS26,Gennifer Weisenfeld,Jane Kestenbaum,Caren Barnes,Carol M Hibbett,3,11,Completed
+19193,6,2026-07-17,ecc,spring2026,highintermediate,50,women,DUKE Dinking Devils,SEDGE DILLIGHTFULS26,Lisa Stella,Laura Schanberg,Laura Michael Spangler,Kim Goodson Toompas,8,11,Completed
+19193,7,2026-07-17,ecc,spring2026,highintermediate,50,women,DUKE Dinking Devils,SEDGE DILLIGHTFULS26,Elizabeth Goettman Christopher,Mary Thomas,Caren Barnes,Carol M Hibbett,5,11,Completed
+19193,8,2026-07-17,ecc,spring2026,highintermediate,50,women,DUKE Dinking Devils,SEDGE DILLIGHTFULS26,Gennifer Weisenfeld,Jane Kestenbaum,Laura Michael Spangler,Kim Goodson Toompas,9,11,Completed
+19193,9,2026-07-17,ecc,spring2026,highintermediate,50,women,DUKE Dinking Devils,SEDGE DILLIGHTFULS26,Lisa Stella,Laura Schanberg,Leigh Bliss,Laurie Williams,11,5,Completed
+19194,1,2026-07-17,ecc,spring2026,highintermediate,50,women,LOCH Dinkerbells,CPC Island Dinkers 50+,Carol N Wright,Sherrie L Bass,Linda Lou Murphy,Carole Maner,11,9,Completed
+19194,2,2026-07-17,ecc,spring2026,highintermediate,50,women,LOCH Dinkerbells,CPC Island Dinkers 50+,Beverly Broslawsky,Christie Benjamin,Angie May,Karen Elaine Seadore,3,11,Completed
+19194,3,2026-07-17,ecc,spring2026,highintermediate,50,women,LOCH Dinkerbells,CPC Island Dinkers 50+,Suzan Bumby,Bobbi Bell,Laura Evy,Larissa Green,2,11,Completed
+19194,4,2026-07-17,ecc,spring2026,highintermediate,50,women,LOCH Dinkerbells,CPC Island Dinkers 50+,Carol N Wright,Sherrie L Bass,Angie May,Karen Elaine Seadore,11,2,Completed
+19194,5,2026-07-17,ecc,spring2026,highintermediate,50,women,LOCH Dinkerbells,CPC Island Dinkers 50+,Beverly Broslawsky,Christie Benjamin,Laura Evy,Larissa Green,11,9,Completed
+19194,6,2026-07-17,ecc,spring2026,highintermediate,50,women,LOCH Dinkerbells,CPC Island Dinkers 50+,Suzan Bumby,Bobbi Bell,Linda Lou Murphy,Carole Maner,3,11,Completed
+19194,7,2026-07-17,ecc,spring2026,highintermediate,50,women,LOCH Dinkerbells,CPC Island Dinkers 50+,Carol N Wright,Sherrie L Bass,Laura Evy,Larissa Green,11,5,Completed
+19194,8,2026-07-17,ecc,spring2026,highintermediate,50,women,LOCH Dinkerbells,CPC Island Dinkers 50+,Beverly Broslawsky,Christie Benjamin,Linda Lou Murphy,Carole Maner,5,11,Completed
+19194,9,2026-07-17,ecc,spring2026,highintermediate,50,women,LOCH Dinkerbells,CPC Island Dinkers 50+,Suzan Bumby,Bobbi Bell,Angie May,Karen Elaine Seadore,4,11,Completed
+19195,1,2026-07-17,ecc,spring2026,highintermediate,50,women,7OAKS Dill With It,SEDGE Dinkerbelles,Leigh Magee,Amy A Lindsey,Ann Barkley,Chris Newcomer,9,11,Completed
+19195,2,2026-07-17,ecc,spring2026,highintermediate,50,women,7OAKS Dill With It,SEDGE Dinkerbelles,Molly Bradsher Briggs,Dana Chapman,Elizabeth Meeks,Joanne Dong,11,4,Completed
+19195,3,2026-07-17,ecc,spring2026,highintermediate,50,women,7OAKS Dill With It,SEDGE Dinkerbelles,Danielle Stringer,Shelly A Schiff,Natalie Faith Wallace,Diane Rene Toohey,3,11,Completed
+19195,4,2026-07-17,ecc,spring2026,highintermediate,50,women,7OAKS Dill With It,SEDGE Dinkerbelles,Leigh Magee,Amy A Lindsey,Elizabeth Meeks,Joanne Dong,9,11,Completed
+19195,5,2026-07-17,ecc,spring2026,highintermediate,50,women,7OAKS Dill With It,SEDGE Dinkerbelles,Molly Bradsher Briggs,Dana Chapman,Natalie Faith Wallace,Diane Rene Toohey,9,11,Completed
+19195,6,2026-07-17,ecc,spring2026,highintermediate,50,women,7OAKS Dill With It,SEDGE Dinkerbelles,Danielle Stringer,Shelly A Schiff,Ann Barkley,Chris Newcomer,2,11,Completed
+19195,7,2026-07-17,ecc,spring2026,highintermediate,50,women,7OAKS Dill With It,SEDGE Dinkerbelles,Leigh Magee,Amy A Lindsey,Natalie Faith Wallace,Diane Rene Toohey,5,11,Completed
+19195,8,2026-07-17,ecc,spring2026,highintermediate,50,women,7OAKS Dill With It,SEDGE Dinkerbelles,Molly Bradsher Briggs,Dana Chapman,Ann Barkley,Chris Newcomer,5,11,Completed
+19195,9,2026-07-17,ecc,spring2026,highintermediate,50,women,7OAKS Dill With It,SEDGE Dinkerbelles,Danielle Stringer,Shelly A Schiff,Elizabeth Meeks,Joanne Dong,6,11,Completed
+19198,1,2026-07-17,ecc,spring2026,highintermediate,50,women,HPCC What' the Score,DUKE Dinking Devils,Wendy Austin,Stephanie Ross,Gennifer Weisenfeld,Rachel m Campbell,11,8,Completed
+19198,2,2026-07-17,ecc,spring2026,highintermediate,50,women,HPCC What' the Score,DUKE Dinking Devils,Amy Robinson,Maria C Swedeen,Elizabeth Goettman Christopher,Mary Thomas,11,4,Completed
+19198,3,2026-07-17,ecc,spring2026,highintermediate,50,women,HPCC What' the Score,DUKE Dinking Devils,Kellie Holbrook,Heather Foster,Lisa Stella,Laura Schanberg,3,11,Completed
+19198,4,2026-07-17,ecc,spring2026,highintermediate,50,women,HPCC What' the Score,DUKE Dinking Devils,Wendy Austin,Stephanie Ross,Elizabeth Goettman Christopher,Mary Thomas,11,5,Completed
+19198,5,2026-07-17,ecc,spring2026,highintermediate,50,women,HPCC What' the Score,DUKE Dinking Devils,Amy Robinson,Maria C Swedeen,Lisa Stella,Laura Schanberg,2,11,Completed
+19198,6,2026-07-17,ecc,spring2026,highintermediate,50,women,HPCC What' the Score,DUKE Dinking Devils,Kellie Holbrook,Heather Foster,Gennifer Weisenfeld,Rachel m Campbell,5,11,Completed
+19198,7,2026-07-17,ecc,spring2026,highintermediate,50,women,HPCC What' the Score,DUKE Dinking Devils,Wendy Austin,Stephanie Ross,Lisa Stella,Laura Schanberg,8,11,Completed
+19198,8,2026-07-17,ecc,spring2026,highintermediate,50,women,HPCC What' the Score,DUKE Dinking Devils,Amy Robinson,Maria C Swedeen,Gennifer Weisenfeld,Rachel m Campbell,11,9,Completed
+19198,9,2026-07-17,ecc,spring2026,highintermediate,50,women,HPCC What' the Score,DUKE Dinking Devils,Kellie Holbrook,Heather Foster,Elizabeth Goettman Christopher,Mary Thomas,4,11,Completed
+19199,1,2026-07-17,ecc,spring2026,highintermediate,50,women,SEDGE DILLIGHTFULS26,TOC Volley Girls 3.0,Laura Michael Spangler,Kim Goodson Toompas,Shubha Sachdev,Kelda Bailey,2,11,Completed
+19199,2,2026-07-17,ecc,spring2026,highintermediate,50,women,SEDGE DILLIGHTFULS26,TOC Volley Girls 3.0,Leigh Bliss,Laurie Williams,Janny Frazier,Kate Morse Falkiner,7,11,Completed
+19199,3,2026-07-17,ecc,spring2026,highintermediate,50,women,SEDGE DILLIGHTFULS26,TOC Volley Girls 3.0,Caren Barnes,Carol M Hibbett,Pamela DeLoatch,Rebecca Drabenstott,13,15,Completed
+19199,4,2026-07-17,ecc,spring2026,highintermediate,50,women,SEDGE DILLIGHTFULS26,TOC Volley Girls 3.0,Laura Michael Spangler,Kim Goodson Toompas,Janny Frazier,Kate Morse Falkiner,11,8,Completed
+19199,5,2026-07-17,ecc,spring2026,highintermediate,50,women,SEDGE DILLIGHTFULS26,TOC Volley Girls 3.0,Leigh Bliss,Laurie Williams,Pamela DeLoatch,Rebecca Drabenstott,11,8,Completed
+19199,6,2026-07-17,ecc,spring2026,highintermediate,50,women,SEDGE DILLIGHTFULS26,TOC Volley Girls 3.0,Caren Barnes,Carol M Hibbett,Shubha Sachdev,Kelda Bailey,11,2,Completed
+19199,7,2026-07-17,ecc,spring2026,highintermediate,50,women,SEDGE DILLIGHTFULS26,TOC Volley Girls 3.0,Laura Michael Spangler,Kim Goodson Toompas,Pamela DeLoatch,Rebecca Drabenstott,9,11,Completed
+19199,8,2026-07-17,ecc,spring2026,highintermediate,50,women,SEDGE DILLIGHTFULS26,TOC Volley Girls 3.0,Leigh Bliss,Laurie Williams,Shubha Sachdev,Kelda Bailey,9,11,Completed
+19199,9,2026-07-17,ecc,spring2026,highintermediate,50,women,SEDGE DILLIGHTFULS26,TOC Volley Girls 3.0,Caren Barnes,Carol M Hibbett,Janny Frazier,Kate Morse Falkiner,11,3,Completed
+19200,1,2026-07-17,ecc,spring2026,highintermediate,50,women,CPC Island Dinkers 50+,7OAKS Dill With It,Carole Maner,Angie May,Molly Bradsher Briggs,Olga DeGroff,11,8,Completed
+19200,2,2026-07-17,ecc,spring2026,highintermediate,50,women,CPC Island Dinkers 50+,7OAKS Dill With It,Linda Lou Murphy,Patti Chason,Ada Gonzalez,Danielle Stringer,1,11,Completed
+19200,3,2026-07-17,ecc,spring2026,highintermediate,50,women,CPC Island Dinkers 50+,7OAKS Dill With It,Cindy Matthews,Kim W Kimbrough,Amy A Lindsey,Pamela Sue Rigsby,7,11,Completed
+19200,4,2026-07-17,ecc,spring2026,highintermediate,50,women,CPC Island Dinkers 50+,7OAKS Dill With It,Carole Maner,Angie May,Ada Gonzalez,Danielle Stringer,11,1,Completed
+19200,5,2026-07-17,ecc,spring2026,highintermediate,50,women,CPC Island Dinkers 50+,7OAKS Dill With It,Linda Lou Murphy,Patti Chason,Amy A Lindsey,Pamela Sue Rigsby,9,11,Completed
+19200,6,2026-07-17,ecc,spring2026,highintermediate,50,women,CPC Island Dinkers 50+,7OAKS Dill With It,Cindy Matthews,Kim W Kimbrough,Molly Bradsher Briggs,Olga DeGroff,4,11,Completed
+19200,7,2026-07-17,ecc,spring2026,highintermediate,50,women,CPC Island Dinkers 50+,7OAKS Dill With It,Carole Maner,Angie May,Amy A Lindsey,Pamela Sue Rigsby,10,12,Completed
+19200,8,2026-07-17,ecc,spring2026,highintermediate,50,women,CPC Island Dinkers 50+,7OAKS Dill With It,Linda Lou Murphy,Patti Chason,Molly Bradsher Briggs,Olga DeGroff,2,11,Completed
+19200,9,2026-07-17,ecc,spring2026,highintermediate,50,women,CPC Island Dinkers 50+,7OAKS Dill With It,Cindy Matthews,Kim W Kimbrough,Ada Gonzalez,Danielle Stringer,11,4,Completed
+19201,1,2026-07-17,ecc,spring2026,highintermediate,50,women,SEDGE Dinkerbelles,LOCH Dinkerbells,Chris Newcomer,Elizabeth Meeks,Carol N Wright,Sherrie L Bass,11,7,Completed
+19201,2,2026-07-17,ecc,spring2026,highintermediate,50,women,SEDGE Dinkerbelles,LOCH Dinkerbells,Diane Rene Toohey,Ann Barkley,Vicki Rohde,Anita C Barker,11,7,Completed
+19201,3,2026-07-17,ecc,spring2026,highintermediate,50,women,SEDGE Dinkerbelles,LOCH Dinkerbells,Natalie Faith Wallace,Jean Rezzo,Beverly Broslawsky,Christie Benjamin,11,7,Completed
+19201,4,2026-07-17,ecc,spring2026,highintermediate,50,women,SEDGE Dinkerbelles,LOCH Dinkerbells,Chris Newcomer,Elizabeth Meeks,Vicki Rohde,Anita C Barker,11,5,Completed
+19201,5,2026-07-17,ecc,spring2026,highintermediate,50,women,SEDGE Dinkerbelles,LOCH Dinkerbells,Diane Rene Toohey,Ann Barkley,Beverly Broslawsky,Christie Benjamin,11,2,Completed
+19201,6,2026-07-17,ecc,spring2026,highintermediate,50,women,SEDGE Dinkerbelles,LOCH Dinkerbells,Natalie Faith Wallace,Jean Rezzo,Carol N Wright,Sherrie L Bass,4,11,Completed
+19201,7,2026-07-17,ecc,spring2026,highintermediate,50,women,SEDGE Dinkerbelles,LOCH Dinkerbells,Chris Newcomer,Elizabeth Meeks,Beverly Broslawsky,Christie Benjamin,11,4,Completed
+19201,8,2026-07-17,ecc,spring2026,highintermediate,50,women,SEDGE Dinkerbelles,LOCH Dinkerbells,Diane Rene Toohey,Ann Barkley,Carol N Wright,Sherrie L Bass,5,11,Completed
+19201,9,2026-07-17,ecc,spring2026,highintermediate,50,women,SEDGE Dinkerbelles,LOCH Dinkerbells,Natalie Faith Wallace,Jean Rezzo,Vicki Rohde,Anita C Barker,11,3,Completed
+19204,1,2026-07-17,ecc,spring2026,highintermediate,50,women,HPCC What' the Score,SEDGE DILLIGHTFULS26,Wendy Austin,Stephanie Ross,Leigh Bliss,Laurie Williams,11,4,Completed
+19204,2,2026-07-17,ecc,spring2026,highintermediate,50,women,HPCC What' the Score,SEDGE DILLIGHTFULS26,Amy Robinson,Maria C Swedeen,Caren Barnes,Carol M Hibbett,4,11,Completed
+19204,3,2026-07-17,ecc,spring2026,highintermediate,50,women,HPCC What' the Score,SEDGE DILLIGHTFULS26,Kellie Holbrook,Heather Foster,Kathy Tedder Hartung,Jill Sear,11,8,Completed
+19204,4,2026-07-17,ecc,spring2026,highintermediate,50,women,HPCC What' the Score,SEDGE DILLIGHTFULS26,Wendy Austin,Stephanie Ross,Caren Barnes,Carol M Hibbett,8,11,Completed
+19204,5,2026-07-17,ecc,spring2026,highintermediate,50,women,HPCC What' the Score,SEDGE DILLIGHTFULS26,Amy Robinson,Maria C Swedeen,Kathy Tedder Hartung,Jill Sear,11,0,Completed
+19204,6,2026-07-17,ecc,spring2026,highintermediate,50,women,HPCC What' the Score,SEDGE DILLIGHTFULS26,Kellie Holbrook,Heather Foster,Leigh Bliss,Laurie Williams,5,11,Completed
+19204,7,2026-07-17,ecc,spring2026,highintermediate,50,women,HPCC What' the Score,SEDGE DILLIGHTFULS26,Wendy Austin,Stephanie Ross,Kathy Tedder Hartung,Jill Sear,11,0,Completed
+19204,8,2026-07-17,ecc,spring2026,highintermediate,50,women,HPCC What' the Score,SEDGE DILLIGHTFULS26,Amy Robinson,Maria C Swedeen,Leigh Bliss,Laurie Williams,11,8,Completed
+19204,9,2026-07-17,ecc,spring2026,highintermediate,50,women,HPCC What' the Score,SEDGE DILLIGHTFULS26,Kellie Holbrook,Heather Foster,Caren Barnes,Carol M Hibbett,3,11,Completed
+19205,1,2026-07-17,ecc,spring2026,highintermediate,50,women,DUKE Dinking Devils,TOC Volley Girls 3.0,Rachel m Campbell,Jane Kestenbaum,Shubha Sachdev,Kelda Bailey,6,11,Completed
+19205,2,2026-07-17,ecc,spring2026,highintermediate,50,women,DUKE Dinking Devils,TOC Volley Girls 3.0,Mary Thomas,Elizabeth Goettman Christopher,Kate Morse Falkiner,Rebecca Drabenstott,1,11,Completed
+19205,3,2026-07-17,ecc,spring2026,highintermediate,50,women,DUKE Dinking Devils,TOC Volley Girls 3.0,Lisa Stella,Laura Schanberg,Michelle Reyes,Pamela DeLoatch,13,11,Completed
+19205,4,2026-07-17,ecc,spring2026,highintermediate,50,women,DUKE Dinking Devils,TOC Volley Girls 3.0,Rachel m Campbell,Jane Kestenbaum,Kate Morse Falkiner,Rebecca Drabenstott,4,11,Completed
+19205,5,2026-07-17,ecc,spring2026,highintermediate,50,women,DUKE Dinking Devils,TOC Volley Girls 3.0,Mary Thomas,Elizabeth Goettman Christopher,Michelle Reyes,Pamela DeLoatch,10,12,Completed
+19205,6,2026-07-17,ecc,spring2026,highintermediate,50,women,DUKE Dinking Devils,TOC Volley Girls 3.0,Lisa Stella,Laura Schanberg,Shubha Sachdev,Kelda Bailey,4,11,Completed
+19205,7,2026-07-17,ecc,spring2026,highintermediate,50,women,DUKE Dinking Devils,TOC Volley Girls 3.0,Rachel m Campbell,Jane Kestenbaum,Michelle Reyes,Pamela DeLoatch,9,11,Completed
+19205,8,2026-07-17,ecc,spring2026,highintermediate,50,women,DUKE Dinking Devils,TOC Volley Girls 3.0,Mary Thomas,Elizabeth Goettman Christopher,Shubha Sachdev,Kelda Bailey,7,11,Completed
+19205,9,2026-07-17,ecc,spring2026,highintermediate,50,women,DUKE Dinking Devils,TOC Volley Girls 3.0,Lisa Stella,Laura Schanberg,Kate Morse Falkiner,Rebecca Drabenstott,9,11,Completed
+19206,1,2026-07-17,ecc,spring2026,highintermediate,50,women,7OAKS Dill With It,LOCH Dinkerbells,Molly Bradsher Briggs,Olga DeGroff,Bobbi Bell,Suzan Bumby,11,4,Completed
+19206,2,2026-07-17,ecc,spring2026,highintermediate,50,women,7OAKS Dill With It,LOCH Dinkerbells,Leigh Magee,Pamela Sue Rigsby,Anita C Barker,Vicki Rohde,9,11,Completed
+19206,3,2026-07-17,ecc,spring2026,highintermediate,50,women,7OAKS Dill With It,LOCH Dinkerbells,Dana Chapman,Ada Gonzalez,Beverly Broslawsky,Christie Benjamin,11,0,Completed
+19206,4,2026-07-17,ecc,spring2026,highintermediate,50,women,7OAKS Dill With It,LOCH Dinkerbells,Molly Bradsher Briggs,Olga DeGroff,Anita C Barker,Vicki Rohde,11,5,Completed
+19206,5,2026-07-17,ecc,spring2026,highintermediate,50,women,7OAKS Dill With It,LOCH Dinkerbells,Leigh Magee,Pamela Sue Rigsby,Beverly Broslawsky,Christie Benjamin,11,9,Completed
+19206,6,2026-07-17,ecc,spring2026,highintermediate,50,women,7OAKS Dill With It,LOCH Dinkerbells,Dana Chapman,Ada Gonzalez,Bobbi Bell,Suzan Bumby,11,7,Completed
+19206,7,2026-07-17,ecc,spring2026,highintermediate,50,women,7OAKS Dill With It,LOCH Dinkerbells,Molly Bradsher Briggs,Olga DeGroff,Beverly Broslawsky,Christie Benjamin,11,3,Completed
+19206,8,2026-07-17,ecc,spring2026,highintermediate,50,women,7OAKS Dill With It,LOCH Dinkerbells,Leigh Magee,Pamela Sue Rigsby,Bobbi Bell,Suzan Bumby,11,7,Completed
+19206,9,2026-07-17,ecc,spring2026,highintermediate,50,women,7OAKS Dill With It,LOCH Dinkerbells,Dana Chapman,Ada Gonzalez,Anita C Barker,Vicki Rohde,11,3,Completed
+19207,1,2026-07-17,ecc,spring2026,highintermediate,50,women,CPC Island Dinkers 50+,SEDGE Dinkerbelles,Carole Maner,Linda Lou Murphy,Elizabeth Meeks,Chris Newcomer,11,7,Completed
+19207,2,2026-07-17,ecc,spring2026,highintermediate,50,women,CPC Island Dinkers 50+,SEDGE Dinkerbelles,Angie May,Laura Evy,Ann Barkley,Joanne Dong,11,2,Completed
+19207,3,2026-07-17,ecc,spring2026,highintermediate,50,women,CPC Island Dinkers 50+,SEDGE Dinkerbelles,Karen Elaine Seadore,Patti Chason,Natalie Faith Wallace,Diane Rene Toohey,3,11,Completed
+19207,4,2026-07-17,ecc,spring2026,highintermediate,50,women,CPC Island Dinkers 50+,SEDGE Dinkerbelles,Carole Maner,Linda Lou Murphy,Ann Barkley,Joanne Dong,11,4,Completed
+19207,5,2026-07-17,ecc,spring2026,highintermediate,50,women,CPC Island Dinkers 50+,SEDGE Dinkerbelles,Angie May,Laura Evy,Natalie Faith Wallace,Diane Rene Toohey,9,11,Completed
+19207,6,2026-07-17,ecc,spring2026,highintermediate,50,women,CPC Island Dinkers 50+,SEDGE Dinkerbelles,Karen Elaine Seadore,Patti Chason,Elizabeth Meeks,Chris Newcomer,6,11,Completed
+19207,7,2026-07-17,ecc,spring2026,highintermediate,50,women,CPC Island Dinkers 50+,SEDGE Dinkerbelles,Carole Maner,Linda Lou Murphy,Natalie Faith Wallace,Diane Rene Toohey,11,8,Completed
+19207,8,2026-07-17,ecc,spring2026,highintermediate,50,women,CPC Island Dinkers 50+,SEDGE Dinkerbelles,Angie May,Laura Evy,Elizabeth Meeks,Chris Newcomer,8,11,Completed
+19207,9,2026-07-17,ecc,spring2026,highintermediate,50,women,CPC Island Dinkers 50+,SEDGE Dinkerbelles,Karen Elaine Seadore,Patti Chason,Ann Barkley,Joanne Dong,8,11,Completed
+19210,1,2026-07-17,ecc,spring2026,highintermediate,50,women,TOC Volley Girls 3.0,7OAKS Dill With It,Shubha Sachdev,Kate Morse Falkiner,Molly Bradsher Briggs,Olga DeGroff,15,5,Completed
+19210,2,2026-07-17,ecc,spring2026,highintermediate,50,women,TOC Volley Girls 3.0,7OAKS Dill With It,Rebecca Drabenstott,Janny Frazier,Dana Chapman,Ada Gonzalez,15,4,Completed
+19210,3,2026-07-17,ecc,spring2026,highintermediate,50,women,TOC Volley Girls 3.0,7OAKS Dill With It,Michelle Reyes,Kelda Bailey,Leigh Magee,Amy A Lindsey,15,4,Completed
+19210,4,2026-07-17,ecc,spring2026,highintermediate,50,women,TOC Volley Girls 3.0,7OAKS Dill With It,Shubha Sachdev,Kate Morse Falkiner,Dana Chapman,Ada Gonzalez,15,8,Completed
+19210,5,2026-07-17,ecc,spring2026,highintermediate,50,women,TOC Volley Girls 3.0,7OAKS Dill With It,Rebecca Drabenstott,Janny Frazier,Leigh Magee,Amy A Lindsey,15,10,Completed
+19210,6,2026-07-17,ecc,spring2026,highintermediate,50,women,TOC Volley Girls 3.0,7OAKS Dill With It,Michelle Reyes,Kelda Bailey,Molly Bradsher Briggs,Olga DeGroff,15,13,Completed
+19210,7,2026-07-17,ecc,spring2026,highintermediate,50,women,TOC Volley Girls 3.0,7OAKS Dill With It,Shubha Sachdev,Kate Morse Falkiner,Leigh Magee,Amy A Lindsey,11,15,Completed
+19210,8,2026-07-17,ecc,spring2026,highintermediate,50,women,TOC Volley Girls 3.0,7OAKS Dill With It,Rebecca Drabenstott,Janny Frazier,Molly Bradsher Briggs,Olga DeGroff,6,3,Retired
+19210,9,2026-07-17,ecc,spring2026,highintermediate,50,women,TOC Volley Girls 3.0,7OAKS Dill With It,Michelle Reyes,Kelda Bailey,Dana Chapman,Ada Gonzalez,15,7,Completed
+19211,1,2026-07-17,ecc,spring2026,highintermediate,50,women,SEDGE Dinkerbelles,SEDGE DILLIGHTFULS26,Elizabeth Meeks,Joanne Dong,Kim Goodson Toompas,Laura Michael Spangler,11,15,Completed
+19211,2,2026-07-17,ecc,spring2026,highintermediate,50,women,SEDGE Dinkerbelles,SEDGE DILLIGHTFULS26,Ann Barkley,Chris Newcomer,Carol M Hibbett,Caren Barnes,15,10,Completed
+19211,3,2026-07-17,ecc,spring2026,highintermediate,50,women,SEDGE Dinkerbelles,SEDGE DILLIGHTFULS26,Natalie Faith Wallace,Diane Rene Toohey,Leigh Bliss,Laurie Williams,10,15,Completed
+19211,4,2026-07-17,ecc,spring2026,highintermediate,50,women,SEDGE Dinkerbelles,SEDGE DILLIGHTFULS26,Elizabeth Meeks,Joanne Dong,Carol M Hibbett,Caren Barnes,9,15,Completed
+19211,5,2026-07-17,ecc,spring2026,highintermediate,50,women,SEDGE Dinkerbelles,SEDGE DILLIGHTFULS26,Ann Barkley,Chris Newcomer,Leigh Bliss,Laurie Williams,7,15,Completed
+19211,6,2026-07-17,ecc,spring2026,highintermediate,50,women,SEDGE Dinkerbelles,SEDGE DILLIGHTFULS26,Natalie Faith Wallace,Diane Rene Toohey,Kim Goodson Toompas,Laura Michael Spangler,15,12,Completed
+19211,7,2026-07-17,ecc,spring2026,highintermediate,50,women,SEDGE Dinkerbelles,SEDGE DILLIGHTFULS26,Elizabeth Meeks,Joanne Dong,Leigh Bliss,Laurie Williams,12,15,Completed
+19211,8,2026-07-17,ecc,spring2026,highintermediate,50,women,SEDGE Dinkerbelles,SEDGE DILLIGHTFULS26,Ann Barkley,Chris Newcomer,Kim Goodson Toompas,Laura Michael Spangler,15,13,Completed
+19211,9,2026-07-17,ecc,spring2026,highintermediate,50,women,SEDGE Dinkerbelles,SEDGE DILLIGHTFULS26,Natalie Faith Wallace,Diane Rene Toohey,Carol M Hibbett,Caren Barnes,14,16,Completed
+19213,1,2026-07-17,ecc,spring2026,highintermediate,50,women,TOC Volley Girls 3.0,SEDGE DILLIGHTFULS26,Shubha Sachdev,Kate Morse Falkiner,Leigh Bliss,Laurie Williams,15,7,Completed
+19213,2,2026-07-17,ecc,spring2026,highintermediate,50,women,TOC Volley Girls 3.0,SEDGE DILLIGHTFULS26,Janny Frazier,Rebecca Drabenstott,Caren Barnes,Carol M Hibbett,15,17,Completed
+19213,3,2026-07-17,ecc,spring2026,highintermediate,50,women,TOC Volley Girls 3.0,SEDGE DILLIGHTFULS26,Michelle Reyes,Kelda Bailey,Laura Michael Spangler,Kim Goodson Toompas,15,8,Completed
+19213,4,2026-07-17,ecc,spring2026,highintermediate,50,women,TOC Volley Girls 3.0,SEDGE DILLIGHTFULS26,Shubha Sachdev,Kate Morse Falkiner,Caren Barnes,Carol M Hibbett,14,16,Completed
+19213,5,2026-07-17,ecc,spring2026,highintermediate,50,women,TOC Volley Girls 3.0,SEDGE DILLIGHTFULS26,Janny Frazier,Rebecca Drabenstott,Laura Michael Spangler,Kim Goodson Toompas,15,10,Completed
+19213,6,2026-07-17,ecc,spring2026,highintermediate,50,women,TOC Volley Girls 3.0,SEDGE DILLIGHTFULS26,Michelle Reyes,Kelda Bailey,Leigh Bliss,Laurie Williams,15,9,Completed
+19213,7,2026-07-17,ecc,spring2026,highintermediate,50,women,TOC Volley Girls 3.0,SEDGE DILLIGHTFULS26,Shubha Sachdev,Kate Morse Falkiner,Laura Michael Spangler,Kim Goodson Toompas,15,11,Completed
+19213,8,2026-07-17,ecc,spring2026,highintermediate,50,women,TOC Volley Girls 3.0,SEDGE DILLIGHTFULS26,Janny Frazier,Rebecca Drabenstott,Leigh Bliss,Laurie Williams,14,16,Completed
+19213,9,2026-07-17,ecc,spring2026,highintermediate,50,women,TOC Volley Girls 3.0,SEDGE DILLIGHTFULS26,Michelle Reyes,Kelda Bailey,Caren Barnes,Carol M Hibbett,15,3,Completed

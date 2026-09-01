@@ -1,46 +1,46 @@
-match_id,game_id,match_date,league,season,skill_level,age,gender,team1_name,team2_name,partner1,partner2,opponent1,opponent2,team1_points,team2_points
-17650,1,2025-11-22,ecc,fall2025,lowintermediate,50,women,PINEY Kitchen Kook Warriors,LOCH Dinkerbells,Vanissa Boyd Conklin,Marsha Long,Jenny Mattingly,Bobbi Bell,9,11
-17650,2,2025-11-22,ecc,fall2025,lowintermediate,50,women,PINEY Kitchen Kook Warriors,LOCH Dinkerbells,Becky Martin,Carol Louis,Pam Hunter,Amy S Fisher,5,11
-17650,3,2025-11-22,ecc,fall2025,lowintermediate,50,women,PINEY Kitchen Kook Warriors,LOCH Dinkerbells,Gail Abrams,Alicia M Gonzalez,Susan Larson Frazier,Kathy R Painter,9,11
-17650,4,2025-11-22,ecc,fall2025,lowintermediate,50,women,PINEY Kitchen Kook Warriors,LOCH Dinkerbells,Vanissa Boyd Conklin,Marsha Long,Pam Hunter,Amy S Fisher,3,11
-17650,5,2025-11-22,ecc,fall2025,lowintermediate,50,women,PINEY Kitchen Kook Warriors,LOCH Dinkerbells,Becky Martin,Carol Louis,Susan Larson Frazier,Kathy R Painter,11,3
-17650,6,2025-11-22,ecc,fall2025,lowintermediate,50,women,PINEY Kitchen Kook Warriors,LOCH Dinkerbells,Gail Abrams,Alicia M Gonzalez,Jenny Mattingly,Bobbi Bell,6,11
-17650,7,2025-11-22,ecc,fall2025,lowintermediate,50,women,PINEY Kitchen Kook Warriors,LOCH Dinkerbells,Vanissa Boyd Conklin,Marsha Long,Susan Larson Frazier,Kathy R Painter,11,2
-17650,8,2025-11-22,ecc,fall2025,lowintermediate,50,women,PINEY Kitchen Kook Warriors,LOCH Dinkerbells,Becky Martin,Carol Louis,Jenny Mattingly,Bobbi Bell,8,11
-17650,9,2025-11-22,ecc,fall2025,lowintermediate,50,women,PINEY Kitchen Kook Warriors,LOCH Dinkerbells,Gail Abrams,Alicia M Gonzalez,Pam Hunter,Amy S Fisher,9,4
-17658,1,2025-11-22,ecc,fall2025,lowintermediate,50,women,LOCH Dinkerbells,BUR Dinking Dills,Jenny Mattingly,Bobbi Bell,Denise Green,Melony Hughes,11,4
-17658,2,2025-11-22,ecc,fall2025,lowintermediate,50,women,LOCH Dinkerbells,BUR Dinking Dills,Francine Pearce,Connie Kannarr,Tammy Duncan,Debbie T Payne,11,6
-17658,3,2025-11-22,ecc,fall2025,lowintermediate,50,women,LOCH Dinkerbells,BUR Dinking Dills,Susan Larson Frazier,Kathy R Painter,Janet Kiser,Elvira Cianci,11,8
-17658,4,2025-11-22,ecc,fall2025,lowintermediate,50,women,LOCH Dinkerbells,BUR Dinking Dills,Jenny Mattingly,Bobbi Bell,Tammy Duncan,Debbie T Payne,11,4
-17658,5,2025-11-22,ecc,fall2025,lowintermediate,50,women,LOCH Dinkerbells,BUR Dinking Dills,Francine Pearce,Connie Kannarr,Janet Kiser,Elvira Cianci,11,0
-17658,6,2025-11-22,ecc,fall2025,lowintermediate,50,women,LOCH Dinkerbells,BUR Dinking Dills,Susan Larson Frazier,Kathy R Painter,Denise Green,Melony Hughes,2,11
-17658,7,2025-11-22,ecc,fall2025,lowintermediate,50,women,LOCH Dinkerbells,BUR Dinking Dills,Jenny Mattingly,Bobbi Bell,Janet Kiser,Elvira Cianci,11,7
-17658,8,2025-11-22,ecc,fall2025,lowintermediate,50,women,LOCH Dinkerbells,BUR Dinking Dills,Francine Pearce,Connie Kannarr,Denise Green,Melony Hughes,11,4
-17658,9,2025-11-22,ecc,fall2025,lowintermediate,50,women,LOCH Dinkerbells,BUR Dinking Dills,Susan Larson Frazier,Kathy R Painter,Tammy Duncan,Debbie T Payne,8,11
-17675,1,2025-11-22,ecc,fall2025,lowintermediate,50,women,BUR Dinking Dills,PINEY Kitchen Kook Warriors,Tammy Duncan,Debbie T Payne,Wendy Cohen,Shirley Walker,11,6
-17675,2,2025-11-22,ecc,fall2025,lowintermediate,50,women,BUR Dinking Dills,PINEY Kitchen Kook Warriors,Janet Kiser,Elvira Cianci,Becky Martin,Carol Louis,7,11
-17675,3,2025-11-22,ecc,fall2025,lowintermediate,50,women,BUR Dinking Dills,PINEY Kitchen Kook Warriors,Denise Green,Nancy Torkewitz,Tammy Wilson,Vanissa Boyd Conklin,5,11
-17675,4,2025-11-22,ecc,fall2025,lowintermediate,50,women,BUR Dinking Dills,PINEY Kitchen Kook Warriors,Tammy Duncan,Debbie T Payne,Becky Martin,Carol Louis,7,11
-17675,5,2025-11-22,ecc,fall2025,lowintermediate,50,women,BUR Dinking Dills,PINEY Kitchen Kook Warriors,Janet Kiser,Elvira Cianci,Tammy Wilson,Vanissa Boyd Conklin,2,11
-17675,6,2025-11-22,ecc,fall2025,lowintermediate,50,women,BUR Dinking Dills,PINEY Kitchen Kook Warriors,Denise Green,Nancy Torkewitz,Wendy Cohen,Shirley Walker,11,5
-17675,7,2025-11-22,ecc,fall2025,lowintermediate,50,women,BUR Dinking Dills,PINEY Kitchen Kook Warriors,Tammy Duncan,Debbie T Payne,Tammy Wilson,Vanissa Boyd Conklin,11,4
-17675,8,2025-11-22,ecc,fall2025,lowintermediate,50,women,BUR Dinking Dills,PINEY Kitchen Kook Warriors,Janet Kiser,Elvira Cianci,Wendy Cohen,Shirley Walker,0,11
-17675,9,2025-11-22,ecc,fall2025,lowintermediate,50,women,BUR Dinking Dills,PINEY Kitchen Kook Warriors,Denise Green,Nancy Torkewitz,Becky Martin,Carol Louis,10,12
-17676,1,2025-11-22,ecc,fall2025,lowintermediate,50,women,PINEY Kitchen Kook Warriors,BUR Dinking Dills,Vanissa Boyd Conklin,Marsha Long,Tammy Duncan,Debbie T Payne,15,8
-17676,2,2025-11-22,ecc,fall2025,lowintermediate,50,women,PINEY Kitchen Kook Warriors,BUR Dinking Dills,Wendy Cohen,Shirley Walker,Melony Hughes,Nancy Torkewitz,15,6
-17676,3,2025-11-22,ecc,fall2025,lowintermediate,50,women,PINEY Kitchen Kook Warriors,BUR Dinking Dills,Tammy Wilson,Alicia M Gonzalez,Kara Shannon Barber,Denise Green,13,15
-17676,4,2025-11-22,ecc,fall2025,lowintermediate,50,women,PINEY Kitchen Kook Warriors,BUR Dinking Dills,Vanissa Boyd Conklin,Marsha Long,Melony Hughes,Nancy Torkewitz,15,7
-17676,5,2025-11-22,ecc,fall2025,lowintermediate,50,women,PINEY Kitchen Kook Warriors,BUR Dinking Dills,Wendy Cohen,Shirley Walker,Kara Shannon Barber,Denise Green,15,9
-17676,6,2025-11-22,ecc,fall2025,lowintermediate,50,women,PINEY Kitchen Kook Warriors,BUR Dinking Dills,Tammy Wilson,Alicia M Gonzalez,Tammy Duncan,Debbie T Payne,10,15
-17676,7,2025-11-22,ecc,fall2025,lowintermediate,50,women,PINEY Kitchen Kook Warriors,BUR Dinking Dills,Vanissa Boyd Conklin,Marsha Long,Kara Shannon Barber,Denise Green,15,13
-17676,8,2025-11-22,ecc,fall2025,lowintermediate,50,women,PINEY Kitchen Kook Warriors,BUR Dinking Dills,Wendy Cohen,Shirley Walker,Tammy Duncan,Debbie T Payne,6,15
-17676,9,2025-11-22,ecc,fall2025,lowintermediate,50,women,PINEY Kitchen Kook Warriors,BUR Dinking Dills,Tammy Wilson,Alicia M Gonzalez,Melony Hughes,Nancy Torkewitz,15,5
-17686,1,2025-11-22,ecc,fall2025,lowintermediate,50,women,LOCH Dinkerbells,PINEY Kitchen Kook Warriors,Jenny Mattingly,Bobbi Bell,Vanissa Boyd Conklin,Marsha Long,15,5
-17686,2,2025-11-22,ecc,fall2025,lowintermediate,50,women,LOCH Dinkerbells,PINEY Kitchen Kook Warriors,Connie Kannarr,Francine Pearce,Carol Louis,Becky Martin,15,12
-17686,3,2025-11-22,ecc,fall2025,lowintermediate,50,women,LOCH Dinkerbells,PINEY Kitchen Kook Warriors,Amy S Fisher,Pam Hunter,Shirley Walker,Wendy Cohen,15,10
-17686,4,2025-11-22,ecc,fall2025,lowintermediate,50,women,LOCH Dinkerbells,PINEY Kitchen Kook Warriors,Jenny Mattingly,Bobbi Bell,Carol Louis,Becky Martin,16,14
-17686,5,2025-11-22,ecc,fall2025,lowintermediate,50,women,LOCH Dinkerbells,PINEY Kitchen Kook Warriors,Connie Kannarr,Francine Pearce,Shirley Walker,Wendy Cohen,15,3
-17686,6,2025-11-22,ecc,fall2025,lowintermediate,50,women,LOCH Dinkerbells,PINEY Kitchen Kook Warriors,Amy S Fisher,Pam Hunter,Vanissa Boyd Conklin,Marsha Long,9,15
-17686,7,2025-11-22,ecc,fall2025,lowintermediate,50,women,LOCH Dinkerbells,PINEY Kitchen Kook Warriors,Jenny Mattingly,Bobbi Bell,Shirley Walker,Wendy Cohen,15,9
-17686,8,2025-11-22,ecc,fall2025,lowintermediate,50,women,LOCH Dinkerbells,PINEY Kitchen Kook Warriors,Connie Kannarr,Francine Pearce,Vanissa Boyd Conklin,Marsha Long,16,14
-17686,9,2025-11-22,ecc,fall2025,lowintermediate,50,women,LOCH Dinkerbells,PINEY Kitchen Kook Warriors,Amy S Fisher,Pam Hunter,Carol Louis,Becky Martin,15,5
+match_id,game_id,match_date,league,season,skill_level,age,gender,team1_name,team2_name,partner1,partner2,opponent1,opponent2,team1_points,team2_points,status
+17650,1,2025-11-22,ecc,fall2025,lowintermediate,50,women,PINEY Kitchen Kook Warriors,LOCH Dinkerbells,Vanissa Boyd Conklin,Marsha Long,Jenny Mattingly,Bobbi Bell,9,11,Completed
+17650,2,2025-11-22,ecc,fall2025,lowintermediate,50,women,PINEY Kitchen Kook Warriors,LOCH Dinkerbells,Becky Martin,Carol Louis,Pam Hunter,Amy S Fisher,5,11,Completed
+17650,3,2025-11-22,ecc,fall2025,lowintermediate,50,women,PINEY Kitchen Kook Warriors,LOCH Dinkerbells,Gail Abrams,Alicia M Gonzalez,Susan Larson Frazier,Kathy R Painter,9,11,Completed
+17650,4,2025-11-22,ecc,fall2025,lowintermediate,50,women,PINEY Kitchen Kook Warriors,LOCH Dinkerbells,Vanissa Boyd Conklin,Marsha Long,Pam Hunter,Amy S Fisher,3,11,Completed
+17650,5,2025-11-22,ecc,fall2025,lowintermediate,50,women,PINEY Kitchen Kook Warriors,LOCH Dinkerbells,Becky Martin,Carol Louis,Susan Larson Frazier,Kathy R Painter,11,3,Completed
+17650,6,2025-11-22,ecc,fall2025,lowintermediate,50,women,PINEY Kitchen Kook Warriors,LOCH Dinkerbells,Gail Abrams,Alicia M Gonzalez,Jenny Mattingly,Bobbi Bell,6,11,Completed
+17650,7,2025-11-22,ecc,fall2025,lowintermediate,50,women,PINEY Kitchen Kook Warriors,LOCH Dinkerbells,Vanissa Boyd Conklin,Marsha Long,Susan Larson Frazier,Kathy R Painter,11,2,Completed
+17650,8,2025-11-22,ecc,fall2025,lowintermediate,50,women,PINEY Kitchen Kook Warriors,LOCH Dinkerbells,Becky Martin,Carol Louis,Jenny Mattingly,Bobbi Bell,8,11,Completed
+17650,9,2025-11-22,ecc,fall2025,lowintermediate,50,women,PINEY Kitchen Kook Warriors,LOCH Dinkerbells,Gail Abrams,Alicia M Gonzalez,Pam Hunter,Amy S Fisher,9,4,Retired
+17658,1,2025-11-22,ecc,fall2025,lowintermediate,50,women,LOCH Dinkerbells,BUR Dinking Dills,Jenny Mattingly,Bobbi Bell,Denise Green,Melony Hughes,11,4,Completed
+17658,2,2025-11-22,ecc,fall2025,lowintermediate,50,women,LOCH Dinkerbells,BUR Dinking Dills,Francine Pearce,Connie Kannarr,Tammy Duncan,Debbie T Payne,11,6,Completed
+17658,3,2025-11-22,ecc,fall2025,lowintermediate,50,women,LOCH Dinkerbells,BUR Dinking Dills,Susan Larson Frazier,Kathy R Painter,Janet Kiser,Elvira Cianci,11,8,Completed
+17658,4,2025-11-22,ecc,fall2025,lowintermediate,50,women,LOCH Dinkerbells,BUR Dinking Dills,Jenny Mattingly,Bobbi Bell,Tammy Duncan,Debbie T Payne,11,4,Completed
+17658,5,2025-11-22,ecc,fall2025,lowintermediate,50,women,LOCH Dinkerbells,BUR Dinking Dills,Francine Pearce,Connie Kannarr,Janet Kiser,Elvira Cianci,11,0,Completed
+17658,6,2025-11-22,ecc,fall2025,lowintermediate,50,women,LOCH Dinkerbells,BUR Dinking Dills,Susan Larson Frazier,Kathy R Painter,Denise Green,Melony Hughes,2,11,Completed
+17658,7,2025-11-22,ecc,fall2025,lowintermediate,50,women,LOCH Dinkerbells,BUR Dinking Dills,Jenny Mattingly,Bobbi Bell,Janet Kiser,Elvira Cianci,11,7,Completed
+17658,8,2025-11-22,ecc,fall2025,lowintermediate,50,women,LOCH Dinkerbells,BUR Dinking Dills,Francine Pearce,Connie Kannarr,Denise Green,Melony Hughes,11,4,Completed
+17658,9,2025-11-22,ecc,fall2025,lowintermediate,50,women,LOCH Dinkerbells,BUR Dinking Dills,Susan Larson Frazier,Kathy R Painter,Tammy Duncan,Debbie T Payne,8,11,Completed
+17675,1,2025-11-22,ecc,fall2025,lowintermediate,50,women,BUR Dinking Dills,PINEY Kitchen Kook Warriors,Tammy Duncan,Debbie T Payne,Wendy Cohen,Shirley Walker,11,6,Completed
+17675,2,2025-11-22,ecc,fall2025,lowintermediate,50,women,BUR Dinking Dills,PINEY Kitchen Kook Warriors,Janet Kiser,Elvira Cianci,Becky Martin,Carol Louis,7,11,Completed
+17675,3,2025-11-22,ecc,fall2025,lowintermediate,50,women,BUR Dinking Dills,PINEY Kitchen Kook Warriors,Denise Green,Nancy Torkewitz,Tammy Wilson,Vanissa Boyd Conklin,5,11,Completed
+17675,4,2025-11-22,ecc,fall2025,lowintermediate,50,women,BUR Dinking Dills,PINEY Kitchen Kook Warriors,Tammy Duncan,Debbie T Payne,Becky Martin,Carol Louis,7,11,Completed
+17675,5,2025-11-22,ecc,fall2025,lowintermediate,50,women,BUR Dinking Dills,PINEY Kitchen Kook Warriors,Janet Kiser,Elvira Cianci,Tammy Wilson,Vanissa Boyd Conklin,2,11,Completed
+17675,6,2025-11-22,ecc,fall2025,lowintermediate,50,women,BUR Dinking Dills,PINEY Kitchen Kook Warriors,Denise Green,Nancy Torkewitz,Wendy Cohen,Shirley Walker,11,5,Completed
+17675,7,2025-11-22,ecc,fall2025,lowintermediate,50,women,BUR Dinking Dills,PINEY Kitchen Kook Warriors,Tammy Duncan,Debbie T Payne,Tammy Wilson,Vanissa Boyd Conklin,11,4,Completed
+17675,8,2025-11-22,ecc,fall2025,lowintermediate,50,women,BUR Dinking Dills,PINEY Kitchen Kook Warriors,Janet Kiser,Elvira Cianci,Wendy Cohen,Shirley Walker,0,11,Completed
+17675,9,2025-11-22,ecc,fall2025,lowintermediate,50,women,BUR Dinking Dills,PINEY Kitchen Kook Warriors,Denise Green,Nancy Torkewitz,Becky Martin,Carol Louis,10,12,Completed
+17676,1,2025-11-22,ecc,fall2025,lowintermediate,50,women,PINEY Kitchen Kook Warriors,BUR Dinking Dills,Vanissa Boyd Conklin,Marsha Long,Tammy Duncan,Debbie T Payne,15,8,Completed
+17676,2,2025-11-22,ecc,fall2025,lowintermediate,50,women,PINEY Kitchen Kook Warriors,BUR Dinking Dills,Wendy Cohen,Shirley Walker,Melony Hughes,Nancy Torkewitz,15,6,Completed
+17676,3,2025-11-22,ecc,fall2025,lowintermediate,50,women,PINEY Kitchen Kook Warriors,BUR Dinking Dills,Tammy Wilson,Alicia M Gonzalez,Kara Shannon Barber,Denise Green,13,15,Completed
+17676,4,2025-11-22,ecc,fall2025,lowintermediate,50,women,PINEY Kitchen Kook Warriors,BUR Dinking Dills,Vanissa Boyd Conklin,Marsha Long,Melony Hughes,Nancy Torkewitz,15,7,Completed
+17676,5,2025-11-22,ecc,fall2025,lowintermediate,50,women,PINEY Kitchen Kook Warriors,BUR Dinking Dills,Wendy Cohen,Shirley Walker,Kara Shannon Barber,Denise Green,15,9,Completed
+17676,6,2025-11-22,ecc,fall2025,lowintermediate,50,women,PINEY Kitchen Kook Warriors,BUR Dinking Dills,Tammy Wilson,Alicia M Gonzalez,Tammy Duncan,Debbie T Payne,10,15,Completed
+17676,7,2025-11-22,ecc,fall2025,lowintermediate,50,women,PINEY Kitchen Kook Warriors,BUR Dinking Dills,Vanissa Boyd Conklin,Marsha Long,Kara Shannon Barber,Denise Green,15,13,Completed
+17676,8,2025-11-22,ecc,fall2025,lowintermediate,50,women,PINEY Kitchen Kook Warriors,BUR Dinking Dills,Wendy Cohen,Shirley Walker,Tammy Duncan,Debbie T Payne,6,15,Completed
+17676,9,2025-11-22,ecc,fall2025,lowintermediate,50,women,PINEY Kitchen Kook Warriors,BUR Dinking Dills,Tammy Wilson,Alicia M Gonzalez,Melony Hughes,Nancy Torkewitz,15,5,Completed
+17686,1,2025-11-22,ecc,fall2025,lowintermediate,50,women,LOCH Dinkerbells,PINEY Kitchen Kook Warriors,Jenny Mattingly,Bobbi Bell,Vanissa Boyd Conklin,Marsha Long,15,5,Completed
+17686,2,2025-11-22,ecc,fall2025,lowintermediate,50,women,LOCH Dinkerbells,PINEY Kitchen Kook Warriors,Connie Kannarr,Francine Pearce,Carol Louis,Becky Martin,15,12,Completed
+17686,3,2025-11-22,ecc,fall2025,lowintermediate,50,women,LOCH Dinkerbells,PINEY Kitchen Kook Warriors,Amy S Fisher,Pam Hunter,Shirley Walker,Wendy Cohen,15,10,Completed
+17686,4,2025-11-22,ecc,fall2025,lowintermediate,50,women,LOCH Dinkerbells,PINEY Kitchen Kook Warriors,Jenny Mattingly,Bobbi Bell,Carol Louis,Becky Martin,16,14,Completed
+17686,5,2025-11-22,ecc,fall2025,lowintermediate,50,women,LOCH Dinkerbells,PINEY Kitchen Kook Warriors,Connie Kannarr,Francine Pearce,Shirley Walker,Wendy Cohen,15,3,Completed
+17686,6,2025-11-22,ecc,fall2025,lowintermediate,50,women,LOCH Dinkerbells,PINEY Kitchen Kook Warriors,Amy S Fisher,Pam Hunter,Vanissa Boyd Conklin,Marsha Long,9,15,Completed
+17686,7,2025-11-22,ecc,fall2025,lowintermediate,50,women,LOCH Dinkerbells,PINEY Kitchen Kook Warriors,Jenny Mattingly,Bobbi Bell,Shirley Walker,Wendy Cohen,15,9,Completed
+17686,8,2025-11-22,ecc,fall2025,lowintermediate,50,women,LOCH Dinkerbells,PINEY Kitchen Kook Warriors,Connie Kannarr,Francine Pearce,Vanissa Boyd Conklin,Marsha Long,16,14,Completed
+17686,9,2025-11-22,ecc,fall2025,lowintermediate,50,women,LOCH Dinkerbells,PINEY Kitchen Kook Warriors,Amy S Fisher,Pam Hunter,Carol Louis,Becky Martin,15,5,Completed

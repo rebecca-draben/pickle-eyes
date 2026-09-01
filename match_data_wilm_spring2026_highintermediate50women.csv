@@ -1,118 +1,118 @@
-match_id,game_id,match_date,league,season,skill_level,age,gender,team1_name,team2_name,partner1,partner2,opponent1,opponent2,team1_points,team2_points
-18297,1,2026-03-22,wilm,spring2026,highintermediate,50,women,CPC Dinkaholics 18+,CPC Island Dinkers 50+,Victoria N Rodriguez,Nancy Hayes Benson,Linda Lou Murphy,Carole Maner,4,15
-18297,2,2026-03-22,wilm,spring2026,highintermediate,50,women,CPC Dinkaholics 18+,CPC Island Dinkers 50+,Michelle Hynoski,Colleen R Taylor,Kim W Kimbrough,Cindy Matthews,8,15
-18297,3,2026-03-22,wilm,spring2026,highintermediate,50,women,CPC Dinkaholics 18+,CPC Island Dinkers 50+,Samantha Storti,Angela Mckeone,Larissa Green,Laura Evy,15,10
-18297,4,2026-03-22,wilm,spring2026,highintermediate,50,women,CPC Dinkaholics 18+,CPC Island Dinkers 50+,Victoria N Rodriguez,Nancy Hayes Benson,Kim W Kimbrough,Cindy Matthews,11,15
-18297,5,2026-03-22,wilm,spring2026,highintermediate,50,women,CPC Dinkaholics 18+,CPC Island Dinkers 50+,Michelle Hynoski,Colleen R Taylor,Larissa Green,Laura Evy,11,15
-18297,6,2026-03-22,wilm,spring2026,highintermediate,50,women,CPC Dinkaholics 18+,CPC Island Dinkers 50+,Samantha Storti,Angela Mckeone,Linda Lou Murphy,Carole Maner,15,17
-18297,7,2026-03-22,wilm,spring2026,highintermediate,50,women,CPC Dinkaholics 18+,CPC Island Dinkers 50+,Victoria N Rodriguez,Nancy Hayes Benson,Larissa Green,Laura Evy,15,9
-18297,8,2026-03-22,wilm,spring2026,highintermediate,50,women,CPC Dinkaholics 18+,CPC Island Dinkers 50+,Michelle Hynoski,Colleen R Taylor,Linda Lou Murphy,Carole Maner,3,15
-18297,9,2026-03-22,wilm,spring2026,highintermediate,50,women,CPC Dinkaholics 18+,CPC Island Dinkers 50+,Samantha Storti,Angela Mckeone,Kim W Kimbrough,Cindy Matthews,11,15
-18301,1,2026-03-29,wilm,spring2026,highintermediate,50,women,CPC Dinkaholics 18+,CPC Volley Girls 2 18+,Samantha Storti,Kathryn E Hoover,Betsy Faulk,Cris Best,11,15
-18301,2,2026-03-29,wilm,spring2026,highintermediate,50,women,CPC Dinkaholics 18+,CPC Volley Girls 2 18+,Colleen R Taylor,Victoria N Rodriguez,Alicia Anderson,Tammy Sutton,8,15
-18301,3,2026-03-29,wilm,spring2026,highintermediate,50,women,CPC Dinkaholics 18+,CPC Volley Girls 2 18+,Barbara Schuckman,Angela Mckeone,Annette Deck,Cindy Green,15,11
-18301,4,2026-03-29,wilm,spring2026,highintermediate,50,women,CPC Dinkaholics 18+,CPC Volley Girls 2 18+,Samantha Storti,Kathryn E Hoover,Alicia Anderson,Tammy Sutton,6,15
-18301,5,2026-03-29,wilm,spring2026,highintermediate,50,women,CPC Dinkaholics 18+,CPC Volley Girls 2 18+,Colleen R Taylor,Victoria N Rodriguez,Annette Deck,Cindy Green,15,8
-18301,6,2026-03-29,wilm,spring2026,highintermediate,50,women,CPC Dinkaholics 18+,CPC Volley Girls 2 18+,Barbara Schuckman,Angela Mckeone,Betsy Faulk,Cris Best,16,14
-18301,7,2026-03-29,wilm,spring2026,highintermediate,50,women,CPC Dinkaholics 18+,CPC Volley Girls 2 18+,Samantha Storti,Kathryn E Hoover,Annette Deck,Cindy Green,15,9
-18301,8,2026-03-29,wilm,spring2026,highintermediate,50,women,CPC Dinkaholics 18+,CPC Volley Girls 2 18+,Colleen R Taylor,Victoria N Rodriguez,Betsy Faulk,Cris Best,9,15
-18301,9,2026-03-29,wilm,spring2026,highintermediate,50,women,CPC Dinkaholics 18+,CPC Volley Girls 2 18+,Barbara Schuckman,Angela Mckeone,Alicia Anderson,Tammy Sutton,7,15
-18303,1,2026-04-05,wilm,spring2026,highintermediate,50,women,CPC Island Dinkers 50+,CPC Volley Girls 2 18+,Karen Elaine Seadore,Cindy Matthews,Betsy Faulk,Cris Best,15,7
-18303,2,2026-04-05,wilm,spring2026,highintermediate,50,women,CPC Island Dinkers 50+,CPC Volley Girls 2 18+,Larissa Green,Patti Chason,Alicia Anderson,Tammy Sutton,7,15
-18303,3,2026-04-05,wilm,spring2026,highintermediate,50,women,CPC Island Dinkers 50+,CPC Volley Girls 2 18+,Laura Evy,Christine M Bean,Annette Deck,Cindy Green,15,7
-18303,4,2026-04-05,wilm,spring2026,highintermediate,50,women,CPC Island Dinkers 50+,CPC Volley Girls 2 18+,Karen Elaine Seadore,Cindy Matthews,Alicia Anderson,Tammy Sutton,15,8
-18303,5,2026-04-05,wilm,spring2026,highintermediate,50,women,CPC Island Dinkers 50+,CPC Volley Girls 2 18+,Larissa Green,Patti Chason,Annette Deck,Cindy Green,15,13
-18303,6,2026-04-05,wilm,spring2026,highintermediate,50,women,CPC Island Dinkers 50+,CPC Volley Girls 2 18+,Laura Evy,Christine M Bean,Betsy Faulk,Cris Best,15,6
-18303,7,2026-04-05,wilm,spring2026,highintermediate,50,women,CPC Island Dinkers 50+,CPC Volley Girls 2 18+,Karen Elaine Seadore,Cindy Matthews,Annette Deck,Cindy Green,15,12
-18303,8,2026-04-05,wilm,spring2026,highintermediate,50,women,CPC Island Dinkers 50+,CPC Volley Girls 2 18+,Larissa Green,Patti Chason,Betsy Faulk,Cris Best,6,15
-18303,9,2026-04-05,wilm,spring2026,highintermediate,50,women,CPC Island Dinkers 50+,CPC Volley Girls 2 18+,Laura Evy,Christine M Bean,Alicia Anderson,Tammy Sutton,15,10
-18305,1,2026-04-12,wilm,spring2026,highintermediate,50,women,CPC Island Dinkers 50+,CPC Dinkaholics 18+,Linda Lou Murphy,Karen Elaine Seadore,Samantha Storti,Terry Murphy,16,14
-18305,2,2026-04-12,wilm,spring2026,highintermediate,50,women,CPC Island Dinkers 50+,CPC Dinkaholics 18+,Cindy Matthews,Laura Evy,Nancy Hayes Benson,Kathryn E Hoover,15,12
-18305,3,2026-04-12,wilm,spring2026,highintermediate,50,women,CPC Island Dinkers 50+,CPC Dinkaholics 18+,Carole Maner,Patti Chason,Victoria N Rodriguez,Barbara Schuckman,13,15
-18305,4,2026-04-12,wilm,spring2026,highintermediate,50,women,CPC Island Dinkers 50+,CPC Dinkaholics 18+,Linda Lou Murphy,Karen Elaine Seadore,Nancy Hayes Benson,Kathryn E Hoover,15,8
-18305,5,2026-04-12,wilm,spring2026,highintermediate,50,women,CPC Island Dinkers 50+,CPC Dinkaholics 18+,Cindy Matthews,Laura Evy,Victoria N Rodriguez,Barbara Schuckman,15,11
-18305,6,2026-04-12,wilm,spring2026,highintermediate,50,women,CPC Island Dinkers 50+,CPC Dinkaholics 18+,Carole Maner,Patti Chason,Samantha Storti,Terry Murphy,15,8
-18305,7,2026-04-12,wilm,spring2026,highintermediate,50,women,CPC Island Dinkers 50+,CPC Dinkaholics 18+,Linda Lou Murphy,Karen Elaine Seadore,Victoria N Rodriguez,Barbara Schuckman,15,4
-18305,8,2026-04-12,wilm,spring2026,highintermediate,50,women,CPC Island Dinkers 50+,CPC Dinkaholics 18+,Cindy Matthews,Laura Evy,Samantha Storti,Terry Murphy,15,12
-18305,9,2026-04-12,wilm,spring2026,highintermediate,50,women,CPC Island Dinkers 50+,CPC Dinkaholics 18+,Carole Maner,Patti Chason,Nancy Hayes Benson,Kathryn E Hoover,15,10
-18309,1,2026-04-19,wilm,spring2026,highintermediate,50,women,CPC Volley Girls 2 18+,CPC Island Dinkers 50+,Betsy Faulk,Tammy Sutton,Larissa Green,Kim W Kimbrough,11,15
-18309,2,2026-04-19,wilm,spring2026,highintermediate,50,women,CPC Volley Girls 2 18+,CPC Island Dinkers 50+,Alicia Anderson,Mary Jo Unruh,Laura Evy,Cindy Matthews,5,15
-18309,3,2026-04-19,wilm,spring2026,highintermediate,50,women,CPC Volley Girls 2 18+,CPC Island Dinkers 50+,Patricia M Busche,Jodi Lynn Cole,April Wilson,Patti Chason,10,15
-18309,4,2026-04-19,wilm,spring2026,highintermediate,50,women,CPC Volley Girls 2 18+,CPC Island Dinkers 50+,Betsy Faulk,Tammy Sutton,Laura Evy,Cindy Matthews,4,15
-18309,5,2026-04-19,wilm,spring2026,highintermediate,50,women,CPC Volley Girls 2 18+,CPC Island Dinkers 50+,Alicia Anderson,Mary Jo Unruh,April Wilson,Patti Chason,10,15
-18309,6,2026-04-19,wilm,spring2026,highintermediate,50,women,CPC Volley Girls 2 18+,CPC Island Dinkers 50+,Patricia M Busche,Jodi Lynn Cole,Larissa Green,Kim W Kimbrough,8,15
-18309,7,2026-04-19,wilm,spring2026,highintermediate,50,women,CPC Volley Girls 2 18+,CPC Island Dinkers 50+,Betsy Faulk,Tammy Sutton,April Wilson,Patti Chason,15,11
-18309,8,2026-04-19,wilm,spring2026,highintermediate,50,women,CPC Volley Girls 2 18+,CPC Island Dinkers 50+,Alicia Anderson,Mary Jo Unruh,Larissa Green,Kim W Kimbrough,6,15
-18309,9,2026-04-19,wilm,spring2026,highintermediate,50,women,CPC Volley Girls 2 18+,CPC Island Dinkers 50+,Patricia M Busche,Jodi Lynn Cole,Laura Evy,Cindy Matthews,8,15
-18312,1,2026-04-26,wilm,spring2026,highintermediate,50,women,CPC Volley Girls 2 18+,CPC Dinkaholics 18+,Cris Best,Betsy Faulk,Samantha Storti,Victoria N Rodriguez,14,16
-18312,2,2026-04-26,wilm,spring2026,highintermediate,50,women,CPC Volley Girls 2 18+,CPC Dinkaholics 18+,Alicia Anderson,Annette Deck,Nancy Hayes Benson,Barbara Schuckman,15,1
-18312,3,2026-04-26,wilm,spring2026,highintermediate,50,women,CPC Volley Girls 2 18+,CPC Dinkaholics 18+,Jodi Lynn Cole,Patricia M Busche,Colleen R Taylor,Angela Mckeone,15,11
-18312,4,2026-04-26,wilm,spring2026,highintermediate,50,women,CPC Volley Girls 2 18+,CPC Dinkaholics 18+,Cris Best,Betsy Faulk,Nancy Hayes Benson,Barbara Schuckman,15,6
-18312,5,2026-04-26,wilm,spring2026,highintermediate,50,women,CPC Volley Girls 2 18+,CPC Dinkaholics 18+,Alicia Anderson,Annette Deck,Colleen R Taylor,Angela Mckeone,15,8
-18312,6,2026-04-26,wilm,spring2026,highintermediate,50,women,CPC Volley Girls 2 18+,CPC Dinkaholics 18+,Jodi Lynn Cole,Patricia M Busche,Samantha Storti,Victoria N Rodriguez,2,15
-18312,7,2026-04-26,wilm,spring2026,highintermediate,50,women,CPC Volley Girls 2 18+,CPC Dinkaholics 18+,Cris Best,Betsy Faulk,Colleen R Taylor,Angela Mckeone,15,9
-18312,8,2026-04-26,wilm,spring2026,highintermediate,50,women,CPC Volley Girls 2 18+,CPC Dinkaholics 18+,Alicia Anderson,Annette Deck,Samantha Storti,Victoria N Rodriguez,11,15
-18312,9,2026-04-26,wilm,spring2026,highintermediate,50,women,CPC Volley Girls 2 18+,CPC Dinkaholics 18+,Jodi Lynn Cole,Patricia M Busche,Nancy Hayes Benson,Barbara Schuckman,11,15
-18315,1,2026-05-03,wilm,spring2026,highintermediate,50,women,CPC Dinkaholics 18+,CPC Island Dinkers 50+,Samantha Storti,Colleen R Taylor,Karen Elaine Seadore,Kim W Kimbrough,4,15
-18315,2,2026-05-03,wilm,spring2026,highintermediate,50,women,CPC Dinkaholics 18+,CPC Island Dinkers 50+,Kathryn E Hoover,Michelle Hynoski,Cindy Matthews,Angie May,7,15
-18315,3,2026-05-03,wilm,spring2026,highintermediate,50,women,CPC Dinkaholics 18+,CPC Island Dinkers 50+,Victoria N Rodriguez,Barbara Schuckman,April Wilson,Patti Chason,15,2
-18315,4,2026-05-03,wilm,spring2026,highintermediate,50,women,CPC Dinkaholics 18+,CPC Island Dinkers 50+,Samantha Storti,Colleen R Taylor,Cindy Matthews,Angie May,6,15
-18315,5,2026-05-03,wilm,spring2026,highintermediate,50,women,CPC Dinkaholics 18+,CPC Island Dinkers 50+,Kathryn E Hoover,Michelle Hynoski,April Wilson,Patti Chason,6,15
-18315,6,2026-05-03,wilm,spring2026,highintermediate,50,women,CPC Dinkaholics 18+,CPC Island Dinkers 50+,Victoria N Rodriguez,Barbara Schuckman,Karen Elaine Seadore,Kim W Kimbrough,15,8
-18315,7,2026-05-03,wilm,spring2026,highintermediate,50,women,CPC Dinkaholics 18+,CPC Island Dinkers 50+,Samantha Storti,Colleen R Taylor,April Wilson,Patti Chason,15,6
-18315,8,2026-05-03,wilm,spring2026,highintermediate,50,women,CPC Dinkaholics 18+,CPC Island Dinkers 50+,Kathryn E Hoover,Michelle Hynoski,Karen Elaine Seadore,Kim W Kimbrough,10,15
-18315,9,2026-05-03,wilm,spring2026,highintermediate,50,women,CPC Dinkaholics 18+,CPC Island Dinkers 50+,Victoria N Rodriguez,Barbara Schuckman,Cindy Matthews,Angie May,6,15
-18319,1,2026-05-10,wilm,spring2026,highintermediate,50,women,CPC Island Dinkers 50+,CPC Volley Girls 2 18+,Carole Maner,Linda Lou Murphy,Cindy Green,Patricia M Busche,15,6
-18319,2,2026-05-10,wilm,spring2026,highintermediate,50,women,CPC Island Dinkers 50+,CPC Volley Girls 2 18+,Kim W Kimbrough,Molly Bristol,Tammy Sutton,Alicia Anderson,2,15
-18319,3,2026-05-10,wilm,spring2026,highintermediate,50,women,CPC Island Dinkers 50+,CPC Volley Girls 2 18+,Cindy Matthews,April Wilson,Cris Best,Annette Deck,15,8
-18319,4,2026-05-10,wilm,spring2026,highintermediate,50,women,CPC Island Dinkers 50+,CPC Volley Girls 2 18+,Carole Maner,Linda Lou Murphy,Tammy Sutton,Alicia Anderson,15,12
-18319,5,2026-05-10,wilm,spring2026,highintermediate,50,women,CPC Island Dinkers 50+,CPC Volley Girls 2 18+,Kim W Kimbrough,Molly Bristol,Cris Best,Annette Deck,15,13
-18319,6,2026-05-10,wilm,spring2026,highintermediate,50,women,CPC Island Dinkers 50+,CPC Volley Girls 2 18+,Cindy Matthews,April Wilson,Cindy Green,Patricia M Busche,15,4
-18319,7,2026-05-10,wilm,spring2026,highintermediate,50,women,CPC Island Dinkers 50+,CPC Volley Girls 2 18+,Carole Maner,Linda Lou Murphy,Cris Best,Annette Deck,15,4
-18319,8,2026-05-10,wilm,spring2026,highintermediate,50,women,CPC Island Dinkers 50+,CPC Volley Girls 2 18+,Kim W Kimbrough,Molly Bristol,Cindy Green,Patricia M Busche,15,7
-18319,9,2026-05-10,wilm,spring2026,highintermediate,50,women,CPC Island Dinkers 50+,CPC Volley Girls 2 18+,Cindy Matthews,April Wilson,Tammy Sutton,Alicia Anderson,10,15
-18321,1,2026-05-17,wilm,spring2026,highintermediate,50,women,CPC Island Dinkers 50+,CPC Dinkaholics 18+,Angie May,Laura Evy,Colleen R Taylor,Barbara Schuckman,15,4
-18321,2,2026-05-17,wilm,spring2026,highintermediate,50,women,CPC Island Dinkers 50+,CPC Dinkaholics 18+,Patti Chason,Karen Elaine Seadore,Michelle Hynoski,Victoria N Rodriguez,15,4
-18321,3,2026-05-17,wilm,spring2026,highintermediate,50,women,CPC Island Dinkers 50+,CPC Dinkaholics 18+,Christine M Bean,April Wilson,Angela Mckeone,Nancy Hayes Benson,15,7
-18321,4,2026-05-17,wilm,spring2026,highintermediate,50,women,CPC Island Dinkers 50+,CPC Dinkaholics 18+,Angie May,Laura Evy,Michelle Hynoski,Victoria N Rodriguez,0,15
-18321,5,2026-05-17,wilm,spring2026,highintermediate,50,women,CPC Island Dinkers 50+,CPC Dinkaholics 18+,Patti Chason,Karen Elaine Seadore,Angela Mckeone,Nancy Hayes Benson,15,11
-18321,6,2026-05-17,wilm,spring2026,highintermediate,50,women,CPC Island Dinkers 50+,CPC Dinkaholics 18+,Christine M Bean,April Wilson,Colleen R Taylor,Barbara Schuckman,10,15
-18321,7,2026-05-17,wilm,spring2026,highintermediate,50,women,CPC Island Dinkers 50+,CPC Dinkaholics 18+,Angie May,Laura Evy,Angela Mckeone,Nancy Hayes Benson,15,9
-18321,8,2026-05-17,wilm,spring2026,highintermediate,50,women,CPC Island Dinkers 50+,CPC Dinkaholics 18+,Patti Chason,Karen Elaine Seadore,Colleen R Taylor,Barbara Schuckman,15,3
-18321,9,2026-05-17,wilm,spring2026,highintermediate,50,women,CPC Island Dinkers 50+,CPC Dinkaholics 18+,Christine M Bean,April Wilson,Michelle Hynoski,Victoria N Rodriguez,2,15
-18324,1,2026-05-31,wilm,spring2026,highintermediate,50,women,CPC Dinkaholics 18+,CPC Volley Girls 2 18+,Victoria N Rodriguez,Michelle Hynoski,Cris Best,Betsy Faulk,15,12
-18324,2,2026-05-31,wilm,spring2026,highintermediate,50,women,CPC Dinkaholics 18+,CPC Volley Girls 2 18+,Samantha Storti,Angela Mckeone,Tammy Sutton,Alicia Anderson,9,15
-18324,3,2026-05-31,wilm,spring2026,highintermediate,50,women,CPC Dinkaholics 18+,CPC Volley Girls 2 18+,Kathryn E Hoover,Nancy Hayes Benson,Annette Deck,Cindy Green,15,12
-18324,4,2026-05-31,wilm,spring2026,highintermediate,50,women,CPC Dinkaholics 18+,CPC Volley Girls 2 18+,Victoria N Rodriguez,Michelle Hynoski,Tammy Sutton,Alicia Anderson,14,16
-18324,5,2026-05-31,wilm,spring2026,highintermediate,50,women,CPC Dinkaholics 18+,CPC Volley Girls 2 18+,Samantha Storti,Angela Mckeone,Annette Deck,Cindy Green,15,12
-18324,6,2026-05-31,wilm,spring2026,highintermediate,50,women,CPC Dinkaholics 18+,CPC Volley Girls 2 18+,Kathryn E Hoover,Nancy Hayes Benson,Cris Best,Betsy Faulk,15,6
-18324,7,2026-05-31,wilm,spring2026,highintermediate,50,women,CPC Dinkaholics 18+,CPC Volley Girls 2 18+,Victoria N Rodriguez,Michelle Hynoski,Annette Deck,Cindy Green,15,9
-18324,8,2026-05-31,wilm,spring2026,highintermediate,50,women,CPC Dinkaholics 18+,CPC Volley Girls 2 18+,Samantha Storti,Angela Mckeone,Cris Best,Betsy Faulk,15,11
-18324,9,2026-05-31,wilm,spring2026,highintermediate,50,women,CPC Dinkaholics 18+,CPC Volley Girls 2 18+,Kathryn E Hoover,Nancy Hayes Benson,Tammy Sutton,Alicia Anderson,15,13
-18325,1,2026-05-31,wilm,spring2026,highintermediate,50,women,CPC Volley Girls 2 18+,CPC Island Dinkers 50+,Betsy Faulk,Jodi Lynn Cole,Angie May,Carole Maner,5,15
-18325,2,2026-05-31,wilm,spring2026,highintermediate,50,women,CPC Volley Girls 2 18+,CPC Island Dinkers 50+,Cris Best,Mary Jo Unruh,Christine M Bean,Karen Elaine Seadore,13,15
-18325,3,2026-05-31,wilm,spring2026,highintermediate,50,women,CPC Volley Girls 2 18+,CPC Island Dinkers 50+,Cindy Green,Tammy Sutton,Kim W Kimbrough,Larissa Green,15,13
-18325,4,2026-05-31,wilm,spring2026,highintermediate,50,women,CPC Volley Girls 2 18+,CPC Island Dinkers 50+,Betsy Faulk,Jodi Lynn Cole,Christine M Bean,Karen Elaine Seadore,7,15
-18325,5,2026-05-31,wilm,spring2026,highintermediate,50,women,CPC Volley Girls 2 18+,CPC Island Dinkers 50+,Cris Best,Mary Jo Unruh,Kim W Kimbrough,Larissa Green,7,15
-18325,6,2026-05-31,wilm,spring2026,highintermediate,50,women,CPC Volley Girls 2 18+,CPC Island Dinkers 50+,Cindy Green,Tammy Sutton,Angie May,Carole Maner,7,15
-18325,7,2026-05-31,wilm,spring2026,highintermediate,50,women,CPC Volley Girls 2 18+,CPC Island Dinkers 50+,Betsy Faulk,Jodi Lynn Cole,Kim W Kimbrough,Larissa Green,7,15
-18325,8,2026-05-31,wilm,spring2026,highintermediate,50,women,CPC Volley Girls 2 18+,CPC Island Dinkers 50+,Cris Best,Mary Jo Unruh,Angie May,Carole Maner,3,15
-18325,9,2026-05-31,wilm,spring2026,highintermediate,50,women,CPC Volley Girls 2 18+,CPC Island Dinkers 50+,Cindy Green,Tammy Sutton,Christine M Bean,Karen Elaine Seadore,15,0
-18328,1,2026-06-07,wilm,spring2026,highintermediate,50,women,CPC Volley Girls 2 18+,CPC Dinkaholics 18+,Alicia Anderson,Tammy Sutton,Samantha Storti,Nancy Hayes Benson,15,4
-18328,2,2026-06-07,wilm,spring2026,highintermediate,50,women,CPC Volley Girls 2 18+,CPC Dinkaholics 18+,Cris Best,Mary Jo Unruh,Victoria N Rodriguez,Barbara Schuckman,10,15
-18328,3,2026-06-07,wilm,spring2026,highintermediate,50,women,CPC Volley Girls 2 18+,CPC Dinkaholics 18+,Patricia M Busche,Jodi Lynn Cole,Kathryn E Hoover,Michelle Hynoski,15,0
-18328,4,2026-06-07,wilm,spring2026,highintermediate,50,women,CPC Volley Girls 2 18+,CPC Dinkaholics 18+,Alicia Anderson,Tammy Sutton,Victoria N Rodriguez,Barbara Schuckman,15,12
-18328,5,2026-06-07,wilm,spring2026,highintermediate,50,women,CPC Volley Girls 2 18+,CPC Dinkaholics 18+,Cris Best,Mary Jo Unruh,Kathryn E Hoover,Michelle Hynoski,15,0
-18328,6,2026-06-07,wilm,spring2026,highintermediate,50,women,CPC Volley Girls 2 18+,CPC Dinkaholics 18+,Patricia M Busche,Jodi Lynn Cole,Samantha Storti,Nancy Hayes Benson,15,12
-18328,7,2026-06-07,wilm,spring2026,highintermediate,50,women,CPC Volley Girls 2 18+,CPC Dinkaholics 18+,Alicia Anderson,Tammy Sutton,Kathryn E Hoover,Michelle Hynoski,15,0
-18328,8,2026-06-07,wilm,spring2026,highintermediate,50,women,CPC Volley Girls 2 18+,CPC Dinkaholics 18+,Cris Best,Mary Jo Unruh,Samantha Storti,Nancy Hayes Benson,9,15
-18328,9,2026-06-07,wilm,spring2026,highintermediate,50,women,CPC Volley Girls 2 18+,CPC Dinkaholics 18+,Patricia M Busche,Jodi Lynn Cole,Victoria N Rodriguez,Barbara Schuckman,9,15
-18330,1,2026-06-14,wilm,spring2026,highintermediate,50,women,CPC Volley Girls 2 18+,CPC Dinkaholics 18+,Alicia Anderson,Tammy Sutton,DEFAULT,DEFAULT,15,0
-18330,2,2026-06-14,wilm,spring2026,highintermediate,50,women,CPC Volley Girls 2 18+,CPC Dinkaholics 18+,Betsy Faulk,Cris Best,DEFAULT,DEFAULT,15,0
-18330,3,2026-06-14,wilm,spring2026,highintermediate,50,women,CPC Volley Girls 2 18+,CPC Dinkaholics 18+,Jodi Lynn Cole,Mary Jo Unruh,DEFAULT,DEFAULT,15,0
-18330,4,2026-06-14,wilm,spring2026,highintermediate,50,women,CPC Volley Girls 2 18+,CPC Dinkaholics 18+,Alicia Anderson,Tammy Sutton,DEFAULT,DEFAULT,15,0
-18330,5,2026-06-14,wilm,spring2026,highintermediate,50,women,CPC Volley Girls 2 18+,CPC Dinkaholics 18+,Betsy Faulk,Cris Best,DEFAULT,DEFAULT,15,0
-18330,6,2026-06-14,wilm,spring2026,highintermediate,50,women,CPC Volley Girls 2 18+,CPC Dinkaholics 18+,Jodi Lynn Cole,Mary Jo Unruh,DEFAULT,DEFAULT,15,0
-18330,7,2026-06-14,wilm,spring2026,highintermediate,50,women,CPC Volley Girls 2 18+,CPC Dinkaholics 18+,Alicia Anderson,Tammy Sutton,DEFAULT,DEFAULT,15,0
-18330,8,2026-06-14,wilm,spring2026,highintermediate,50,women,CPC Volley Girls 2 18+,CPC Dinkaholics 18+,Betsy Faulk,Cris Best,DEFAULT,DEFAULT,15,0
-18330,9,2026-06-14,wilm,spring2026,highintermediate,50,women,CPC Volley Girls 2 18+,CPC Dinkaholics 18+,Jodi Lynn Cole,Mary Jo Unruh,DEFAULT,DEFAULT,15,0
+match_id,game_id,match_date,league,season,skill_level,age,gender,team1_name,team2_name,partner1,partner2,opponent1,opponent2,team1_points,team2_points,status
+18297,1,2026-03-22,wilm,spring2026,highintermediate,50,women,CPC Dinkaholics 18+,CPC Island Dinkers 50+,Victoria N Rodriguez,Nancy Hayes Benson,Linda Lou Murphy,Carole Maner,4,15,Completed
+18297,2,2026-03-22,wilm,spring2026,highintermediate,50,women,CPC Dinkaholics 18+,CPC Island Dinkers 50+,Michelle Hynoski,Colleen R Taylor,Kim W Kimbrough,Cindy Matthews,8,15,Completed
+18297,3,2026-03-22,wilm,spring2026,highintermediate,50,women,CPC Dinkaholics 18+,CPC Island Dinkers 50+,Samantha Storti,Angela Mckeone,Larissa Green,Laura Evy,15,10,Completed
+18297,4,2026-03-22,wilm,spring2026,highintermediate,50,women,CPC Dinkaholics 18+,CPC Island Dinkers 50+,Victoria N Rodriguez,Nancy Hayes Benson,Kim W Kimbrough,Cindy Matthews,11,15,Completed
+18297,5,2026-03-22,wilm,spring2026,highintermediate,50,women,CPC Dinkaholics 18+,CPC Island Dinkers 50+,Michelle Hynoski,Colleen R Taylor,Larissa Green,Laura Evy,11,15,Completed
+18297,6,2026-03-22,wilm,spring2026,highintermediate,50,women,CPC Dinkaholics 18+,CPC Island Dinkers 50+,Samantha Storti,Angela Mckeone,Linda Lou Murphy,Carole Maner,15,17,Completed
+18297,7,2026-03-22,wilm,spring2026,highintermediate,50,women,CPC Dinkaholics 18+,CPC Island Dinkers 50+,Victoria N Rodriguez,Nancy Hayes Benson,Larissa Green,Laura Evy,15,9,Completed
+18297,8,2026-03-22,wilm,spring2026,highintermediate,50,women,CPC Dinkaholics 18+,CPC Island Dinkers 50+,Michelle Hynoski,Colleen R Taylor,Linda Lou Murphy,Carole Maner,3,15,Completed
+18297,9,2026-03-22,wilm,spring2026,highintermediate,50,women,CPC Dinkaholics 18+,CPC Island Dinkers 50+,Samantha Storti,Angela Mckeone,Kim W Kimbrough,Cindy Matthews,11,15,Completed
+18301,1,2026-03-29,wilm,spring2026,highintermediate,50,women,CPC Dinkaholics 18+,CPC Volley Girls 2 18+,Samantha Storti,Kathryn E Hoover,Betsy Faulk,Cris Best,11,15,Completed
+18301,2,2026-03-29,wilm,spring2026,highintermediate,50,women,CPC Dinkaholics 18+,CPC Volley Girls 2 18+,Colleen R Taylor,Victoria N Rodriguez,Alicia Anderson,Tammy Sutton,8,15,Completed
+18301,3,2026-03-29,wilm,spring2026,highintermediate,50,women,CPC Dinkaholics 18+,CPC Volley Girls 2 18+,Barbara Schuckman,Angela Mckeone,Annette Deck,Cindy Green,15,11,Completed
+18301,4,2026-03-29,wilm,spring2026,highintermediate,50,women,CPC Dinkaholics 18+,CPC Volley Girls 2 18+,Samantha Storti,Kathryn E Hoover,Alicia Anderson,Tammy Sutton,6,15,Completed
+18301,5,2026-03-29,wilm,spring2026,highintermediate,50,women,CPC Dinkaholics 18+,CPC Volley Girls 2 18+,Colleen R Taylor,Victoria N Rodriguez,Annette Deck,Cindy Green,15,8,Completed
+18301,6,2026-03-29,wilm,spring2026,highintermediate,50,women,CPC Dinkaholics 18+,CPC Volley Girls 2 18+,Barbara Schuckman,Angela Mckeone,Betsy Faulk,Cris Best,16,14,Completed
+18301,7,2026-03-29,wilm,spring2026,highintermediate,50,women,CPC Dinkaholics 18+,CPC Volley Girls 2 18+,Samantha Storti,Kathryn E Hoover,Annette Deck,Cindy Green,15,9,Completed
+18301,8,2026-03-29,wilm,spring2026,highintermediate,50,women,CPC Dinkaholics 18+,CPC Volley Girls 2 18+,Colleen R Taylor,Victoria N Rodriguez,Betsy Faulk,Cris Best,9,15,Completed
+18301,9,2026-03-29,wilm,spring2026,highintermediate,50,women,CPC Dinkaholics 18+,CPC Volley Girls 2 18+,Barbara Schuckman,Angela Mckeone,Alicia Anderson,Tammy Sutton,7,15,Completed
+18303,1,2026-04-05,wilm,spring2026,highintermediate,50,women,CPC Island Dinkers 50+,CPC Volley Girls 2 18+,Karen Elaine Seadore,Cindy Matthews,Betsy Faulk,Cris Best,15,7,Completed
+18303,2,2026-04-05,wilm,spring2026,highintermediate,50,women,CPC Island Dinkers 50+,CPC Volley Girls 2 18+,Larissa Green,Patti Chason,Alicia Anderson,Tammy Sutton,7,15,Completed
+18303,3,2026-04-05,wilm,spring2026,highintermediate,50,women,CPC Island Dinkers 50+,CPC Volley Girls 2 18+,Laura Evy,Christine M Bean,Annette Deck,Cindy Green,15,7,Completed
+18303,4,2026-04-05,wilm,spring2026,highintermediate,50,women,CPC Island Dinkers 50+,CPC Volley Girls 2 18+,Karen Elaine Seadore,Cindy Matthews,Alicia Anderson,Tammy Sutton,15,8,Completed
+18303,5,2026-04-05,wilm,spring2026,highintermediate,50,women,CPC Island Dinkers 50+,CPC Volley Girls 2 18+,Larissa Green,Patti Chason,Annette Deck,Cindy Green,15,13,Completed
+18303,6,2026-04-05,wilm,spring2026,highintermediate,50,women,CPC Island Dinkers 50+,CPC Volley Girls 2 18+,Laura Evy,Christine M Bean,Betsy Faulk,Cris Best,15,6,Completed
+18303,7,2026-04-05,wilm,spring2026,highintermediate,50,women,CPC Island Dinkers 50+,CPC Volley Girls 2 18+,Karen Elaine Seadore,Cindy Matthews,Annette Deck,Cindy Green,15,12,Completed
+18303,8,2026-04-05,wilm,spring2026,highintermediate,50,women,CPC Island Dinkers 50+,CPC Volley Girls 2 18+,Larissa Green,Patti Chason,Betsy Faulk,Cris Best,6,15,Completed
+18303,9,2026-04-05,wilm,spring2026,highintermediate,50,women,CPC Island Dinkers 50+,CPC Volley Girls 2 18+,Laura Evy,Christine M Bean,Alicia Anderson,Tammy Sutton,15,10,Completed
+18305,1,2026-04-12,wilm,spring2026,highintermediate,50,women,CPC Island Dinkers 50+,CPC Dinkaholics 18+,Linda Lou Murphy,Karen Elaine Seadore,Samantha Storti,Terry Murphy,16,14,Completed
+18305,2,2026-04-12,wilm,spring2026,highintermediate,50,women,CPC Island Dinkers 50+,CPC Dinkaholics 18+,Cindy Matthews,Laura Evy,Nancy Hayes Benson,Kathryn E Hoover,15,12,Completed
+18305,3,2026-04-12,wilm,spring2026,highintermediate,50,women,CPC Island Dinkers 50+,CPC Dinkaholics 18+,Carole Maner,Patti Chason,Victoria N Rodriguez,Barbara Schuckman,13,15,Completed
+18305,4,2026-04-12,wilm,spring2026,highintermediate,50,women,CPC Island Dinkers 50+,CPC Dinkaholics 18+,Linda Lou Murphy,Karen Elaine Seadore,Nancy Hayes Benson,Kathryn E Hoover,15,8,Completed
+18305,5,2026-04-12,wilm,spring2026,highintermediate,50,women,CPC Island Dinkers 50+,CPC Dinkaholics 18+,Cindy Matthews,Laura Evy,Victoria N Rodriguez,Barbara Schuckman,15,11,Completed
+18305,6,2026-04-12,wilm,spring2026,highintermediate,50,women,CPC Island Dinkers 50+,CPC Dinkaholics 18+,Carole Maner,Patti Chason,Samantha Storti,Terry Murphy,15,8,Completed
+18305,7,2026-04-12,wilm,spring2026,highintermediate,50,women,CPC Island Dinkers 50+,CPC Dinkaholics 18+,Linda Lou Murphy,Karen Elaine Seadore,Victoria N Rodriguez,Barbara Schuckman,15,4,Completed
+18305,8,2026-04-12,wilm,spring2026,highintermediate,50,women,CPC Island Dinkers 50+,CPC Dinkaholics 18+,Cindy Matthews,Laura Evy,Samantha Storti,Terry Murphy,15,12,Completed
+18305,9,2026-04-12,wilm,spring2026,highintermediate,50,women,CPC Island Dinkers 50+,CPC Dinkaholics 18+,Carole Maner,Patti Chason,Nancy Hayes Benson,Kathryn E Hoover,15,10,Completed
+18309,1,2026-04-19,wilm,spring2026,highintermediate,50,women,CPC Volley Girls 2 18+,CPC Island Dinkers 50+,Betsy Faulk,Tammy Sutton,Larissa Green,Kim W Kimbrough,11,15,Completed
+18309,2,2026-04-19,wilm,spring2026,highintermediate,50,women,CPC Volley Girls 2 18+,CPC Island Dinkers 50+,Alicia Anderson,Mary Jo Unruh,Laura Evy,Cindy Matthews,5,15,Completed
+18309,3,2026-04-19,wilm,spring2026,highintermediate,50,women,CPC Volley Girls 2 18+,CPC Island Dinkers 50+,Patricia M Busche,Jodi Lynn Cole,April Wilson,Patti Chason,10,15,Completed
+18309,4,2026-04-19,wilm,spring2026,highintermediate,50,women,CPC Volley Girls 2 18+,CPC Island Dinkers 50+,Betsy Faulk,Tammy Sutton,Laura Evy,Cindy Matthews,4,15,Completed
+18309,5,2026-04-19,wilm,spring2026,highintermediate,50,women,CPC Volley Girls 2 18+,CPC Island Dinkers 50+,Alicia Anderson,Mary Jo Unruh,April Wilson,Patti Chason,10,15,Completed
+18309,6,2026-04-19,wilm,spring2026,highintermediate,50,women,CPC Volley Girls 2 18+,CPC Island Dinkers 50+,Patricia M Busche,Jodi Lynn Cole,Larissa Green,Kim W Kimbrough,8,15,Completed
+18309,7,2026-04-19,wilm,spring2026,highintermediate,50,women,CPC Volley Girls 2 18+,CPC Island Dinkers 50+,Betsy Faulk,Tammy Sutton,April Wilson,Patti Chason,15,11,Completed
+18309,8,2026-04-19,wilm,spring2026,highintermediate,50,women,CPC Volley Girls 2 18+,CPC Island Dinkers 50+,Alicia Anderson,Mary Jo Unruh,Larissa Green,Kim W Kimbrough,6,15,Completed
+18309,9,2026-04-19,wilm,spring2026,highintermediate,50,women,CPC Volley Girls 2 18+,CPC Island Dinkers 50+,Patricia M Busche,Jodi Lynn Cole,Laura Evy,Cindy Matthews,8,15,Completed
+18312,1,2026-04-26,wilm,spring2026,highintermediate,50,women,CPC Volley Girls 2 18+,CPC Dinkaholics 18+,Cris Best,Betsy Faulk,Samantha Storti,Victoria N Rodriguez,14,16,Completed
+18312,2,2026-04-26,wilm,spring2026,highintermediate,50,women,CPC Volley Girls 2 18+,CPC Dinkaholics 18+,Alicia Anderson,Annette Deck,Nancy Hayes Benson,Barbara Schuckman,15,1,Completed
+18312,3,2026-04-26,wilm,spring2026,highintermediate,50,women,CPC Volley Girls 2 18+,CPC Dinkaholics 18+,Jodi Lynn Cole,Patricia M Busche,Colleen R Taylor,Angela Mckeone,15,11,Completed
+18312,4,2026-04-26,wilm,spring2026,highintermediate,50,women,CPC Volley Girls 2 18+,CPC Dinkaholics 18+,Cris Best,Betsy Faulk,Nancy Hayes Benson,Barbara Schuckman,15,6,Completed
+18312,5,2026-04-26,wilm,spring2026,highintermediate,50,women,CPC Volley Girls 2 18+,CPC Dinkaholics 18+,Alicia Anderson,Annette Deck,Colleen R Taylor,Angela Mckeone,15,8,Completed
+18312,6,2026-04-26,wilm,spring2026,highintermediate,50,women,CPC Volley Girls 2 18+,CPC Dinkaholics 18+,Jodi Lynn Cole,Patricia M Busche,Samantha Storti,Victoria N Rodriguez,2,15,Completed
+18312,7,2026-04-26,wilm,spring2026,highintermediate,50,women,CPC Volley Girls 2 18+,CPC Dinkaholics 18+,Cris Best,Betsy Faulk,Colleen R Taylor,Angela Mckeone,15,9,Completed
+18312,8,2026-04-26,wilm,spring2026,highintermediate,50,women,CPC Volley Girls 2 18+,CPC Dinkaholics 18+,Alicia Anderson,Annette Deck,Samantha Storti,Victoria N Rodriguez,11,15,Completed
+18312,9,2026-04-26,wilm,spring2026,highintermediate,50,women,CPC Volley Girls 2 18+,CPC Dinkaholics 18+,Jodi Lynn Cole,Patricia M Busche,Nancy Hayes Benson,Barbara Schuckman,11,15,Completed
+18315,1,2026-05-03,wilm,spring2026,highintermediate,50,women,CPC Dinkaholics 18+,CPC Island Dinkers 50+,Samantha Storti,Colleen R Taylor,Karen Elaine Seadore,Kim W Kimbrough,4,15,Completed
+18315,2,2026-05-03,wilm,spring2026,highintermediate,50,women,CPC Dinkaholics 18+,CPC Island Dinkers 50+,Kathryn E Hoover,Michelle Hynoski,Cindy Matthews,Angie May,7,15,Completed
+18315,3,2026-05-03,wilm,spring2026,highintermediate,50,women,CPC Dinkaholics 18+,CPC Island Dinkers 50+,Victoria N Rodriguez,Barbara Schuckman,April Wilson,Patti Chason,15,2,Completed
+18315,4,2026-05-03,wilm,spring2026,highintermediate,50,women,CPC Dinkaholics 18+,CPC Island Dinkers 50+,Samantha Storti,Colleen R Taylor,Cindy Matthews,Angie May,6,15,Completed
+18315,5,2026-05-03,wilm,spring2026,highintermediate,50,women,CPC Dinkaholics 18+,CPC Island Dinkers 50+,Kathryn E Hoover,Michelle Hynoski,April Wilson,Patti Chason,6,15,Completed
+18315,6,2026-05-03,wilm,spring2026,highintermediate,50,women,CPC Dinkaholics 18+,CPC Island Dinkers 50+,Victoria N Rodriguez,Barbara Schuckman,Karen Elaine Seadore,Kim W Kimbrough,15,8,Completed
+18315,7,2026-05-03,wilm,spring2026,highintermediate,50,women,CPC Dinkaholics 18+,CPC Island Dinkers 50+,Samantha Storti,Colleen R Taylor,April Wilson,Patti Chason,15,6,Completed
+18315,8,2026-05-03,wilm,spring2026,highintermediate,50,women,CPC Dinkaholics 18+,CPC Island Dinkers 50+,Kathryn E Hoover,Michelle Hynoski,Karen Elaine Seadore,Kim W Kimbrough,10,15,Completed
+18315,9,2026-05-03,wilm,spring2026,highintermediate,50,women,CPC Dinkaholics 18+,CPC Island Dinkers 50+,Victoria N Rodriguez,Barbara Schuckman,Cindy Matthews,Angie May,6,15,Completed
+18319,1,2026-05-10,wilm,spring2026,highintermediate,50,women,CPC Island Dinkers 50+,CPC Volley Girls 2 18+,Carole Maner,Linda Lou Murphy,Cindy Green,Patricia M Busche,15,6,Completed
+18319,2,2026-05-10,wilm,spring2026,highintermediate,50,women,CPC Island Dinkers 50+,CPC Volley Girls 2 18+,Kim W Kimbrough,Molly Bristol,Tammy Sutton,Alicia Anderson,2,15,Completed
+18319,3,2026-05-10,wilm,spring2026,highintermediate,50,women,CPC Island Dinkers 50+,CPC Volley Girls 2 18+,Cindy Matthews,April Wilson,Cris Best,Annette Deck,15,8,Completed
+18319,4,2026-05-10,wilm,spring2026,highintermediate,50,women,CPC Island Dinkers 50+,CPC Volley Girls 2 18+,Carole Maner,Linda Lou Murphy,Tammy Sutton,Alicia Anderson,15,12,Completed
+18319,5,2026-05-10,wilm,spring2026,highintermediate,50,women,CPC Island Dinkers 50+,CPC Volley Girls 2 18+,Kim W Kimbrough,Molly Bristol,Cris Best,Annette Deck,15,13,Completed
+18319,6,2026-05-10,wilm,spring2026,highintermediate,50,women,CPC Island Dinkers 50+,CPC Volley Girls 2 18+,Cindy Matthews,April Wilson,Cindy Green,Patricia M Busche,15,4,Completed
+18319,7,2026-05-10,wilm,spring2026,highintermediate,50,women,CPC Island Dinkers 50+,CPC Volley Girls 2 18+,Carole Maner,Linda Lou Murphy,Cris Best,Annette Deck,15,4,Completed
+18319,8,2026-05-10,wilm,spring2026,highintermediate,50,women,CPC Island Dinkers 50+,CPC Volley Girls 2 18+,Kim W Kimbrough,Molly Bristol,Cindy Green,Patricia M Busche,15,7,Completed
+18319,9,2026-05-10,wilm,spring2026,highintermediate,50,women,CPC Island Dinkers 50+,CPC Volley Girls 2 18+,Cindy Matthews,April Wilson,Tammy Sutton,Alicia Anderson,10,15,Completed
+18321,1,2026-05-17,wilm,spring2026,highintermediate,50,women,CPC Island Dinkers 50+,CPC Dinkaholics 18+,Angie May,Laura Evy,Colleen R Taylor,Barbara Schuckman,15,4,Completed
+18321,2,2026-05-17,wilm,spring2026,highintermediate,50,women,CPC Island Dinkers 50+,CPC Dinkaholics 18+,Patti Chason,Karen Elaine Seadore,Michelle Hynoski,Victoria N Rodriguez,15,4,Completed
+18321,3,2026-05-17,wilm,spring2026,highintermediate,50,women,CPC Island Dinkers 50+,CPC Dinkaholics 18+,Christine M Bean,April Wilson,Angela Mckeone,Nancy Hayes Benson,15,7,Completed
+18321,4,2026-05-17,wilm,spring2026,highintermediate,50,women,CPC Island Dinkers 50+,CPC Dinkaholics 18+,Angie May,Laura Evy,Michelle Hynoski,Victoria N Rodriguez,0,15,Completed
+18321,5,2026-05-17,wilm,spring2026,highintermediate,50,women,CPC Island Dinkers 50+,CPC Dinkaholics 18+,Patti Chason,Karen Elaine Seadore,Angela Mckeone,Nancy Hayes Benson,15,11,Completed
+18321,6,2026-05-17,wilm,spring2026,highintermediate,50,women,CPC Island Dinkers 50+,CPC Dinkaholics 18+,Christine M Bean,April Wilson,Colleen R Taylor,Barbara Schuckman,10,15,Completed
+18321,7,2026-05-17,wilm,spring2026,highintermediate,50,women,CPC Island Dinkers 50+,CPC Dinkaholics 18+,Angie May,Laura Evy,Angela Mckeone,Nancy Hayes Benson,15,9,Completed
+18321,8,2026-05-17,wilm,spring2026,highintermediate,50,women,CPC Island Dinkers 50+,CPC Dinkaholics 18+,Patti Chason,Karen Elaine Seadore,Colleen R Taylor,Barbara Schuckman,15,3,Completed
+18321,9,2026-05-17,wilm,spring2026,highintermediate,50,women,CPC Island Dinkers 50+,CPC Dinkaholics 18+,Christine M Bean,April Wilson,Michelle Hynoski,Victoria N Rodriguez,2,15,Completed
+18324,1,2026-05-31,wilm,spring2026,highintermediate,50,women,CPC Dinkaholics 18+,CPC Volley Girls 2 18+,Victoria N Rodriguez,Michelle Hynoski,Cris Best,Betsy Faulk,15,12,Completed
+18324,2,2026-05-31,wilm,spring2026,highintermediate,50,women,CPC Dinkaholics 18+,CPC Volley Girls 2 18+,Samantha Storti,Angela Mckeone,Tammy Sutton,Alicia Anderson,9,15,Completed
+18324,3,2026-05-31,wilm,spring2026,highintermediate,50,women,CPC Dinkaholics 18+,CPC Volley Girls 2 18+,Kathryn E Hoover,Nancy Hayes Benson,Annette Deck,Cindy Green,15,12,Completed
+18324,4,2026-05-31,wilm,spring2026,highintermediate,50,women,CPC Dinkaholics 18+,CPC Volley Girls 2 18+,Victoria N Rodriguez,Michelle Hynoski,Tammy Sutton,Alicia Anderson,14,16,Completed
+18324,5,2026-05-31,wilm,spring2026,highintermediate,50,women,CPC Dinkaholics 18+,CPC Volley Girls 2 18+,Samantha Storti,Angela Mckeone,Annette Deck,Cindy Green,15,12,Completed
+18324,6,2026-05-31,wilm,spring2026,highintermediate,50,women,CPC Dinkaholics 18+,CPC Volley Girls 2 18+,Kathryn E Hoover,Nancy Hayes Benson,Cris Best,Betsy Faulk,15,6,Completed
+18324,7,2026-05-31,wilm,spring2026,highintermediate,50,women,CPC Dinkaholics 18+,CPC Volley Girls 2 18+,Victoria N Rodriguez,Michelle Hynoski,Annette Deck,Cindy Green,15,9,Completed
+18324,8,2026-05-31,wilm,spring2026,highintermediate,50,women,CPC Dinkaholics 18+,CPC Volley Girls 2 18+,Samantha Storti,Angela Mckeone,Cris Best,Betsy Faulk,15,11,Completed
+18324,9,2026-05-31,wilm,spring2026,highintermediate,50,women,CPC Dinkaholics 18+,CPC Volley Girls 2 18+,Kathryn E Hoover,Nancy Hayes Benson,Tammy Sutton,Alicia Anderson,15,13,Completed
+18325,1,2026-05-31,wilm,spring2026,highintermediate,50,women,CPC Volley Girls 2 18+,CPC Island Dinkers 50+,Betsy Faulk,Jodi Lynn Cole,Angie May,Carole Maner,5,15,Completed
+18325,2,2026-05-31,wilm,spring2026,highintermediate,50,women,CPC Volley Girls 2 18+,CPC Island Dinkers 50+,Cris Best,Mary Jo Unruh,Christine M Bean,Karen Elaine Seadore,13,15,Completed
+18325,3,2026-05-31,wilm,spring2026,highintermediate,50,women,CPC Volley Girls 2 18+,CPC Island Dinkers 50+,Cindy Green,Tammy Sutton,Kim W Kimbrough,Larissa Green,15,13,Completed
+18325,4,2026-05-31,wilm,spring2026,highintermediate,50,women,CPC Volley Girls 2 18+,CPC Island Dinkers 50+,Betsy Faulk,Jodi Lynn Cole,Christine M Bean,Karen Elaine Seadore,7,15,Completed
+18325,5,2026-05-31,wilm,spring2026,highintermediate,50,women,CPC Volley Girls 2 18+,CPC Island Dinkers 50+,Cris Best,Mary Jo Unruh,Kim W Kimbrough,Larissa Green,7,15,Completed
+18325,6,2026-05-31,wilm,spring2026,highintermediate,50,women,CPC Volley Girls 2 18+,CPC Island Dinkers 50+,Cindy Green,Tammy Sutton,Angie May,Carole Maner,7,15,Completed
+18325,7,2026-05-31,wilm,spring2026,highintermediate,50,women,CPC Volley Girls 2 18+,CPC Island Dinkers 50+,Betsy Faulk,Jodi Lynn Cole,Kim W Kimbrough,Larissa Green,7,15,Completed
+18325,8,2026-05-31,wilm,spring2026,highintermediate,50,women,CPC Volley Girls 2 18+,CPC Island Dinkers 50+,Cris Best,Mary Jo Unruh,Angie May,Carole Maner,3,15,Completed
+18325,9,2026-05-31,wilm,spring2026,highintermediate,50,women,CPC Volley Girls 2 18+,CPC Island Dinkers 50+,Cindy Green,Tammy Sutton,Christine M Bean,Karen Elaine Seadore,15,0,Default
+18328,1,2026-06-07,wilm,spring2026,highintermediate,50,women,CPC Volley Girls 2 18+,CPC Dinkaholics 18+,Alicia Anderson,Tammy Sutton,Samantha Storti,Nancy Hayes Benson,15,4,Completed
+18328,2,2026-06-07,wilm,spring2026,highintermediate,50,women,CPC Volley Girls 2 18+,CPC Dinkaholics 18+,Cris Best,Mary Jo Unruh,Victoria N Rodriguez,Barbara Schuckman,10,15,Completed
+18328,3,2026-06-07,wilm,spring2026,highintermediate,50,women,CPC Volley Girls 2 18+,CPC Dinkaholics 18+,Patricia M Busche,Jodi Lynn Cole,Kathryn E Hoover,Michelle Hynoski,15,0,Default
+18328,4,2026-06-07,wilm,spring2026,highintermediate,50,women,CPC Volley Girls 2 18+,CPC Dinkaholics 18+,Alicia Anderson,Tammy Sutton,Victoria N Rodriguez,Barbara Schuckman,15,12,Completed
+18328,5,2026-06-07,wilm,spring2026,highintermediate,50,women,CPC Volley Girls 2 18+,CPC Dinkaholics 18+,Cris Best,Mary Jo Unruh,Kathryn E Hoover,Michelle Hynoski,15,0,Default
+18328,6,2026-06-07,wilm,spring2026,highintermediate,50,women,CPC Volley Girls 2 18+,CPC Dinkaholics 18+,Patricia M Busche,Jodi Lynn Cole,Samantha Storti,Nancy Hayes Benson,15,12,Completed
+18328,7,2026-06-07,wilm,spring2026,highintermediate,50,women,CPC Volley Girls 2 18+,CPC Dinkaholics 18+,Alicia Anderson,Tammy Sutton,Kathryn E Hoover,Michelle Hynoski,15,0,Default
+18328,8,2026-06-07,wilm,spring2026,highintermediate,50,women,CPC Volley Girls 2 18+,CPC Dinkaholics 18+,Cris Best,Mary Jo Unruh,Samantha Storti,Nancy Hayes Benson,9,15,Completed
+18328,9,2026-06-07,wilm,spring2026,highintermediate,50,women,CPC Volley Girls 2 18+,CPC Dinkaholics 18+,Patricia M Busche,Jodi Lynn Cole,Victoria N Rodriguez,Barbara Schuckman,9,15,Completed
+18330,1,2026-06-14,wilm,spring2026,highintermediate,50,women,CPC Volley Girls 2 18+,CPC Dinkaholics 18+,Alicia Anderson,Tammy Sutton,DEFAULT,DEFAULT,15,0,Default
+18330,2,2026-06-14,wilm,spring2026,highintermediate,50,women,CPC Volley Girls 2 18+,CPC Dinkaholics 18+,Betsy Faulk,Cris Best,DEFAULT,DEFAULT,15,0,Default
+18330,3,2026-06-14,wilm,spring2026,highintermediate,50,women,CPC Volley Girls 2 18+,CPC Dinkaholics 18+,Jodi Lynn Cole,Mary Jo Unruh,DEFAULT,DEFAULT,15,0,Default
+18330,4,2026-06-14,wilm,spring2026,highintermediate,50,women,CPC Volley Girls 2 18+,CPC Dinkaholics 18+,Alicia Anderson,Tammy Sutton,DEFAULT,DEFAULT,15,0,Default
+18330,5,2026-06-14,wilm,spring2026,highintermediate,50,women,CPC Volley Girls 2 18+,CPC Dinkaholics 18+,Betsy Faulk,Cris Best,DEFAULT,DEFAULT,15,0,Default
+18330,6,2026-06-14,wilm,spring2026,highintermediate,50,women,CPC Volley Girls 2 18+,CPC Dinkaholics 18+,Jodi Lynn Cole,Mary Jo Unruh,DEFAULT,DEFAULT,15,0,Default
+18330,7,2026-06-14,wilm,spring2026,highintermediate,50,women,CPC Volley Girls 2 18+,CPC Dinkaholics 18+,Alicia Anderson,Tammy Sutton,DEFAULT,DEFAULT,15,0,Default
+18330,8,2026-06-14,wilm,spring2026,highintermediate,50,women,CPC Volley Girls 2 18+,CPC Dinkaholics 18+,Betsy Faulk,Cris Best,DEFAULT,DEFAULT,15,0,Default
+18330,9,2026-06-14,wilm,spring2026,highintermediate,50,women,CPC Volley Girls 2 18+,CPC Dinkaholics 18+,Jodi Lynn Cole,Mary Jo Unruh,DEFAULT,DEFAULT,15,0,Default
