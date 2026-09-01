@@ -26,7 +26,8 @@ def parse_csv_for_ttt(csv_path):
             p1, p2 = row['partner1'].strip(), row['partner2'].strip()
             o1, o2 = row['opponent1'].strip(), row['opponent2'].strip()
 
-            if 'DEFAULT' in [p1, p2, o1, o2]:
+            status = row.get('status', '').strip()
+            if status in ('Default', 'Dbl Default'):
                 continue
 
             team1_name = row['team1_name'].strip()
