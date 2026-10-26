@@ -233,3 +233,30 @@ match_id,game_id,match_date,league,season,skill_level,age,gender,team1_name,team
 19688,7,2026-10-18,cary,fall2026,lowadvanced,18,women,TOC Drop It Like It's Hot Flashes,TOC Paddle Smashers,Cathy Culton,Stacy Zotter,Daniela Antonova Prodanova,Emily Shira,1,15,Completed
 19688,8,2026-10-18,cary,fall2026,lowadvanced,18,women,TOC Drop It Like It's Hot Flashes,TOC Paddle Smashers,Heather Rykowski,Shubha Sachdev,Dione Stuart,Lisa Davidson,4,15,Completed
 19688,9,2026-10-18,cary,fall2026,lowadvanced,18,women,TOC Drop It Like It's Hot Flashes,TOC Paddle Smashers,Kate Morse Falkiner,Rebecca Drabenstott,Callie Ellison,Caitlin Rogers,15,13,Completed
+19699,1,2026-10-22,cary,fall2026,lowadvanced,18,women,TOC The LOB-stahs,TOC She Bangs,Thao LaVoie,Naomi VanHorn,Paloma Espinoza,Tylasia Oneal,15,3,Completed
+19699,2,2026-10-22,cary,fall2026,lowadvanced,18,women,TOC The LOB-stahs,TOC She Bangs,Suzanne Haight,Beth Ann Ralph,Hunter Hall,Jinah Chon,8,15,Completed
+19699,3,2026-10-22,cary,fall2026,lowadvanced,18,women,TOC The LOB-stahs,TOC She Bangs,Lon Le,Wendy Marie Smith,Maika Arnold,Chrissy Salinas,13,15,Completed
+19699,4,2026-10-22,cary,fall2026,lowadvanced,18,women,TOC The LOB-stahs,TOC She Bangs,Thao LaVoie,Naomi VanHorn,Hunter Hall,Jinah Chon,2,15,Completed
+19699,5,2026-10-22,cary,fall2026,lowadvanced,18,women,TOC The LOB-stahs,TOC She Bangs,Suzanne Haight,Beth Ann Ralph,Maika Arnold,Chrissy Salinas,15,8,Completed
+19699,6,2026-10-22,cary,fall2026,lowadvanced,18,women,TOC The LOB-stahs,TOC She Bangs,Lon Le,Wendy Marie Smith,Paloma Espinoza,Tylasia Oneal,10,15,Completed
+19699,7,2026-10-22,cary,fall2026,lowadvanced,18,women,TOC The LOB-stahs,TOC She Bangs,Thao LaVoie,Naomi VanHorn,Maika Arnold,Chrissy Salinas,15,8,Completed
+19699,8,2026-10-22,cary,fall2026,lowadvanced,18,women,TOC The LOB-stahs,TOC She Bangs,Suzanne Haight,Beth Ann Ralph,Paloma Espinoza,Tylasia Oneal,10,15,Completed
+19699,9,2026-10-22,cary,fall2026,lowadvanced,18,women,TOC The LOB-stahs,TOC She Bangs,Lon Le,Wendy Marie Smith,Hunter Hall,Jinah Chon,3,15,Completed
+19700,1,2026-10-22,cary,fall2026,lowadvanced,18,women,TOC Paddle Smashers,12OAKS I Dink I Love You,Daniela Antonova Prodanova,Emily Shira,Amelia Lyons,Danielle B Hewetson,12,15,Completed
+19700,2,2026-10-22,cary,fall2026,lowadvanced,18,women,TOC Paddle Smashers,12OAKS I Dink I Love You,Caitlin Rogers,Callie Ellison,Sherry Stolfo,Heather Kane,15,8,Completed
+19700,3,2026-10-22,cary,fall2026,lowadvanced,18,women,TOC Paddle Smashers,12OAKS I Dink I Love You,Dione Stuart,Lisa Davidson,Nikki Orie,AnneMarie Conklin,12,15,Completed
+19700,4,2026-10-22,cary,fall2026,lowadvanced,18,women,TOC Paddle Smashers,12OAKS I Dink I Love You,Daniela Antonova Prodanova,Emily Shira,Sherry Stolfo,Heather Kane,17,15,Completed
+19700,5,2026-10-22,cary,fall2026,lowadvanced,18,women,TOC Paddle Smashers,12OAKS I Dink I Love You,Caitlin Rogers,Callie Ellison,Nikki Orie,AnneMarie Conklin,15,2,Completed
+19700,6,2026-10-22,cary,fall2026,lowadvanced,18,women,TOC Paddle Smashers,12OAKS I Dink I Love You,Dione Stuart,Lisa Davidson,Amelia Lyons,Danielle B Hewetson,17,15,Completed
+19700,7,2026-10-22,cary,fall2026,lowadvanced,18,women,TOC Paddle Smashers,12OAKS I Dink I Love You,Daniela Antonova Prodanova,Emily Shira,Nikki Orie,AnneMarie Conklin,15,6,Completed
+19700,8,2026-10-22,cary,fall2026,lowadvanced,18,women,TOC Paddle Smashers,12OAKS I Dink I Love You,Caitlin Rogers,Callie Ellison,Amelia Lyons,Danielle B Hewetson,15,5,Completed
+19700,9,2026-10-22,cary,fall2026,lowadvanced,18,women,TOC Paddle Smashers,12OAKS I Dink I Love You,Dione Stuart,Lisa Davidson,Sherry Stolfo,Heather Kane,15,6,Completed
+19705,1,2026-10-25,cary,fall2026,lowadvanced,18,women,TOC The Real Dill,TOC Drop It Like It's Hot Flashes,Melissa Cetola,Amy Youngquist,Angela Kochuba,Kate Morse Falkiner,15,6,Completed
+19705,2,2026-10-25,cary,fall2026,lowadvanced,18,women,TOC The Real Dill,TOC Drop It Like It's Hot Flashes,Stephanie Charlino,Dori Mathews,Shubha Sachdev,Kelda Bailey,16,14,Completed
+19705,3,2026-10-25,cary,fall2026,lowadvanced,18,women,TOC The Real Dill,TOC Drop It Like It's Hot Flashes,Nicole Santos,Sarika Hardas Mehta,Rhonda Benkiel,Anouk Dehandtschutter,15,10,Completed
+19705,4,2026-10-25,cary,fall2026,lowadvanced,18,women,TOC The Real Dill,TOC Drop It Like It's Hot Flashes,Melissa Cetola,Amy Youngquist,Shubha Sachdev,Kelda Bailey,13,15,Completed
+19705,5,2026-10-25,cary,fall2026,lowadvanced,18,women,TOC The Real Dill,TOC Drop It Like It's Hot Flashes,Stephanie Charlino,Dori Mathews,Rhonda Benkiel,Anouk Dehandtschutter,13,15,Completed
+19705,6,2026-10-25,cary,fall2026,lowadvanced,18,women,TOC The Real Dill,TOC Drop It Like It's Hot Flashes,Nicole Santos,Sarika Hardas Mehta,Angela Kochuba,Kate Morse Falkiner,15,8,Completed
+19705,7,2026-10-25,cary,fall2026,lowadvanced,18,women,TOC The Real Dill,TOC Drop It Like It's Hot Flashes,Melissa Cetola,Amy Youngquist,Rhonda Benkiel,Anouk Dehandtschutter,11,15,Completed
+19705,8,2026-10-25,cary,fall2026,lowadvanced,18,women,TOC The Real Dill,TOC Drop It Like It's Hot Flashes,Stephanie Charlino,Dori Mathews,Angela Kochuba,Kate Morse Falkiner,15,3,Completed
+19705,9,2026-10-25,cary,fall2026,lowadvanced,18,women,TOC The Real Dill,TOC Drop It Like It's Hot Flashes,Nicole Santos,Sarika Hardas Mehta,Shubha Sachdev,Kelda Bailey,15,11,Completed
