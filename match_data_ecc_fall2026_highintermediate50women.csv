@@ -1,0 +1,64 @@
+match_id,game_id,match_date,league,season,skill_level,age,gender,team1_name,team2_name,partner1,partner2,opponent1,opponent2,team1_points,team2_points,status
+20116,1,2026-11-20,ecc,fall2026,highintermediate,50,women,DUKE Devilish Dinkers,HASEN Dink Responsibly 50+,Libby Hicks,Elizabeth Goettman Christopher,Laurie Randall,Regina Heroux,4,11,Completed
+20116,2,2026-11-20,ecc,fall2026,highintermediate,50,women,DUKE Devilish Dinkers,HASEN Dink Responsibly 50+,Mary Thomas,Laura Schanberg,Debra Skiko,Diane Werner,3,11,Completed
+20116,3,2026-11-20,ecc,fall2026,highintermediate,50,women,DUKE Devilish Dinkers,HASEN Dink Responsibly 50+,Lisa Stella,Cecilia Csapo,Cybele Martin Brockmann,Susan Flanagan,11,5,Completed
+20116,4,2026-11-20,ecc,fall2026,highintermediate,50,women,DUKE Devilish Dinkers,HASEN Dink Responsibly 50+,Libby Hicks,Elizabeth Goettman Christopher,Debra Skiko,Diane Werner,11,6,Completed
+20116,5,2026-11-20,ecc,fall2026,highintermediate,50,women,DUKE Devilish Dinkers,HASEN Dink Responsibly 50+,Mary Thomas,Laura Schanberg,Cybele Martin Brockmann,Susan Flanagan,11,4,Completed
+20116,6,2026-11-20,ecc,fall2026,highintermediate,50,women,DUKE Devilish Dinkers,HASEN Dink Responsibly 50+,Lisa Stella,Cecilia Csapo,Laurie Randall,Regina Heroux,12,10,Completed
+20116,7,2026-11-20,ecc,fall2026,highintermediate,50,women,DUKE Devilish Dinkers,HASEN Dink Responsibly 50+,Libby Hicks,Elizabeth Goettman Christopher,Cybele Martin Brockmann,Susan Flanagan,7,11,Completed
+20116,8,2026-11-20,ecc,fall2026,highintermediate,50,women,DUKE Devilish Dinkers,HASEN Dink Responsibly 50+,Mary Thomas,Laura Schanberg,Laurie Randall,Regina Heroux,5,11,Completed
+20116,9,2026-11-20,ecc,fall2026,highintermediate,50,women,DUKE Devilish Dinkers,HASEN Dink Responsibly 50+,Lisa Stella,Cecilia Csapo,Debra Skiko,Diane Werner,1,11,Completed
+20117,1,2026-11-20,ecc,fall2026,highintermediate,50,women,HPCC What's the Score?,TOC Volley Girls 4.0,Heather Foster,Suellen McCrary,Rebecca Drabenstott,Maria Davis,3,11,Completed
+20117,2,2026-11-20,ecc,fall2026,highintermediate,50,women,HPCC What's the Score?,TOC Volley Girls 4.0,Wendy Austin,Lee Nunn,Michelle Reyes,Cathy Culton,11,5,Completed
+20117,3,2026-11-20,ecc,fall2026,highintermediate,50,women,HPCC What's the Score?,TOC Volley Girls 4.0,Stephanie Ross,Terry Aulbert,Kelda Bailey,Stacy Zotter,9,11,Completed
+20117,4,2026-11-20,ecc,fall2026,highintermediate,50,women,HPCC What's the Score?,TOC Volley Girls 4.0,Heather Foster,Suellen McCrary,Michelle Reyes,Cathy Culton,11,5,Completed
+20117,5,2026-11-20,ecc,fall2026,highintermediate,50,women,HPCC What's the Score?,TOC Volley Girls 4.0,Wendy Austin,Lee Nunn,Kelda Bailey,Stacy Zotter,11,0,Completed
+20117,6,2026-11-20,ecc,fall2026,highintermediate,50,women,HPCC What's the Score?,TOC Volley Girls 4.0,Stephanie Ross,Terry Aulbert,Rebecca Drabenstott,Maria Davis,6,11,Completed
+20117,7,2026-11-20,ecc,fall2026,highintermediate,50,women,HPCC What's the Score?,TOC Volley Girls 4.0,Heather Foster,Suellen McCrary,Kelda Bailey,Stacy Zotter,7,11,Completed
+20117,8,2026-11-20,ecc,fall2026,highintermediate,50,women,HPCC What's the Score?,TOC Volley Girls 4.0,Wendy Austin,Lee Nunn,Rebecca Drabenstott,Maria Davis,11,7,Completed
+20117,9,2026-11-20,ecc,fall2026,highintermediate,50,women,HPCC What's the Score?,TOC Volley Girls 4.0,Stephanie Ross,Terry Aulbert,Michelle Reyes,Cathy Culton,11,8,Completed
+20118,1,2026-11-20,ecc,fall2026,highintermediate,50,women,HPCC What's the Score?,DUKE Devilish Dinkers,Kellie Holbrook,Heather Foster,Elizabeth Goettman Christopher,Libby Hicks,2,11,Completed
+20118,2,2026-11-20,ecc,fall2026,highintermediate,50,women,HPCC What's the Score?,DUKE Devilish Dinkers,Wendy Austin,Lee Nunn,Mary Thomas,Laura Schanberg,11,3,Completed
+20118,3,2026-11-20,ecc,fall2026,highintermediate,50,women,HPCC What's the Score?,DUKE Devilish Dinkers,Stephanie Ross,Amy Robinson,Lisa Stella,Cecilia Csapo,11,8,Completed
+20118,4,2026-11-20,ecc,fall2026,highintermediate,50,women,HPCC What's the Score?,DUKE Devilish Dinkers,Kellie Holbrook,Heather Foster,Mary Thomas,Laura Schanberg,4,11,Completed
+20118,5,2026-11-20,ecc,fall2026,highintermediate,50,women,HPCC What's the Score?,DUKE Devilish Dinkers,Wendy Austin,Lee Nunn,Lisa Stella,Cecilia Csapo,5,11,Completed
+20118,6,2026-11-20,ecc,fall2026,highintermediate,50,women,HPCC What's the Score?,DUKE Devilish Dinkers,Stephanie Ross,Amy Robinson,Elizabeth Goettman Christopher,Libby Hicks,11,8,Completed
+20118,7,2026-11-20,ecc,fall2026,highintermediate,50,women,HPCC What's the Score?,DUKE Devilish Dinkers,Kellie Holbrook,Heather Foster,Lisa Stella,Cecilia Csapo,9,11,Completed
+20118,8,2026-11-20,ecc,fall2026,highintermediate,50,women,HPCC What's the Score?,DUKE Devilish Dinkers,Wendy Austin,Lee Nunn,Elizabeth Goettman Christopher,Libby Hicks,11,2,Completed
+20118,9,2026-11-20,ecc,fall2026,highintermediate,50,women,HPCC What's the Score?,DUKE Devilish Dinkers,Stephanie Ross,Amy Robinson,Mary Thomas,Laura Schanberg,11,5,Completed
+20119,1,2026-11-20,ecc,fall2026,highintermediate,50,women,TOC Volley Girls 4.0,HASEN Dink Responsibly 50+,Kate Morse Falkiner,Shelley Friesen,Diane Werner,Cybele Martin Brockmann,11,7,Completed
+20119,2,2026-11-20,ecc,fall2026,highintermediate,50,women,TOC Volley Girls 4.0,HASEN Dink Responsibly 50+,Kelda Bailey,Yolanda McCluney,Regina Heroux,Laurie Randall,11,7,Completed
+20119,3,2026-11-20,ecc,fall2026,highintermediate,50,women,TOC Volley Girls 4.0,HASEN Dink Responsibly 50+,Pamela DeLoatch,Janny Frazier,Sharon F Barham,Candice V Diehl,11,8,Completed
+20119,4,2026-11-20,ecc,fall2026,highintermediate,50,women,TOC Volley Girls 4.0,HASEN Dink Responsibly 50+,Kate Morse Falkiner,Shelley Friesen,Regina Heroux,Laurie Randall,11,8,Completed
+20119,5,2026-11-20,ecc,fall2026,highintermediate,50,women,TOC Volley Girls 4.0,HASEN Dink Responsibly 50+,Kelda Bailey,Yolanda McCluney,Sharon F Barham,Candice V Diehl,6,11,Completed
+20119,6,2026-11-20,ecc,fall2026,highintermediate,50,women,TOC Volley Girls 4.0,HASEN Dink Responsibly 50+,Pamela DeLoatch,Janny Frazier,Diane Werner,Cybele Martin Brockmann,4,11,Completed
+20119,7,2026-11-20,ecc,fall2026,highintermediate,50,women,TOC Volley Girls 4.0,HASEN Dink Responsibly 50+,Kate Morse Falkiner,Shelley Friesen,Sharon F Barham,Candice V Diehl,11,6,Completed
+20119,8,2026-11-20,ecc,fall2026,highintermediate,50,women,TOC Volley Girls 4.0,HASEN Dink Responsibly 50+,Kelda Bailey,Yolanda McCluney,Diane Werner,Cybele Martin Brockmann,11,2,Completed
+20119,9,2026-11-20,ecc,fall2026,highintermediate,50,women,TOC Volley Girls 4.0,HASEN Dink Responsibly 50+,Pamela DeLoatch,Janny Frazier,Regina Heroux,Laurie Randall,2,11,Completed
+20120,1,2026-11-20,ecc,fall2026,highintermediate,50,women,DUKE Devilish Dinkers,TOC Volley Girls 4.0,Libby Hicks,Laura Schanberg,Shelley Friesen,Kate Morse Falkiner,9,11,Completed
+20120,2,2026-11-20,ecc,fall2026,highintermediate,50,women,DUKE Devilish Dinkers,TOC Volley Girls 4.0,Mary Thomas,Elizabeth Goettman Christopher,Michelle Reyes,Cathy Culton,11,9,Completed
+20120,3,2026-11-20,ecc,fall2026,highintermediate,50,women,DUKE Devilish Dinkers,TOC Volley Girls 4.0,Cecilia Csapo,Lisa Stella,Rebecca Drabenstott,Maria Davis,11,2,Completed
+20120,4,2026-11-20,ecc,fall2026,highintermediate,50,women,DUKE Devilish Dinkers,TOC Volley Girls 4.0,Libby Hicks,Laura Schanberg,Michelle Reyes,Cathy Culton,2,11,Completed
+20120,5,2026-11-20,ecc,fall2026,highintermediate,50,women,DUKE Devilish Dinkers,TOC Volley Girls 4.0,Mary Thomas,Elizabeth Goettman Christopher,Rebecca Drabenstott,Maria Davis,5,11,Completed
+20120,6,2026-11-20,ecc,fall2026,highintermediate,50,women,DUKE Devilish Dinkers,TOC Volley Girls 4.0,Cecilia Csapo,Lisa Stella,Shelley Friesen,Kate Morse Falkiner,11,7,Completed
+20120,7,2026-11-20,ecc,fall2026,highintermediate,50,women,DUKE Devilish Dinkers,TOC Volley Girls 4.0,Libby Hicks,Laura Schanberg,Rebecca Drabenstott,Maria Davis,0,11,Completed
+20120,8,2026-11-20,ecc,fall2026,highintermediate,50,women,DUKE Devilish Dinkers,TOC Volley Girls 4.0,Mary Thomas,Elizabeth Goettman Christopher,Shelley Friesen,Kate Morse Falkiner,2,11,Completed
+20120,9,2026-11-20,ecc,fall2026,highintermediate,50,women,DUKE Devilish Dinkers,TOC Volley Girls 4.0,Cecilia Csapo,Lisa Stella,Michelle Reyes,Cathy Culton,1,11,Completed
+20121,1,2026-11-20,ecc,fall2026,highintermediate,50,women,HASEN Dink Responsibly 50+,HPCC What's the Score?,Diane Werner,Debra Skiko,Wendy Austin,Alyce Warden,3,11,Completed
+20121,2,2026-11-20,ecc,fall2026,highintermediate,50,women,HASEN Dink Responsibly 50+,HPCC What's the Score?,Sharon F Barham,Candice V Diehl,Suellen McCrary,Amy Robinson,0,11,Completed
+20121,3,2026-11-20,ecc,fall2026,highintermediate,50,women,HASEN Dink Responsibly 50+,HPCC What's the Score?,Susan Flanagan,Regina Heroux,Terry Aulbert,Lee Nunn,6,11,Completed
+20121,4,2026-11-20,ecc,fall2026,highintermediate,50,women,HASEN Dink Responsibly 50+,HPCC What's the Score?,Diane Werner,Debra Skiko,Suellen McCrary,Amy Robinson,1,11,Completed
+20121,5,2026-11-20,ecc,fall2026,highintermediate,50,women,HASEN Dink Responsibly 50+,HPCC What's the Score?,Sharon F Barham,Candice V Diehl,Terry Aulbert,Lee Nunn,9,11,Completed
+20121,6,2026-11-20,ecc,fall2026,highintermediate,50,women,HASEN Dink Responsibly 50+,HPCC What's the Score?,Susan Flanagan,Regina Heroux,Wendy Austin,Alyce Warden,11,1,Completed
+20121,7,2026-11-20,ecc,fall2026,highintermediate,50,women,HASEN Dink Responsibly 50+,HPCC What's the Score?,Diane Werner,Debra Skiko,Terry Aulbert,Lee Nunn,10,12,Completed
+20121,8,2026-11-20,ecc,fall2026,highintermediate,50,women,HASEN Dink Responsibly 50+,HPCC What's the Score?,Sharon F Barham,Candice V Diehl,Wendy Austin,Alyce Warden,11,3,Completed
+20121,9,2026-11-20,ecc,fall2026,highintermediate,50,women,HASEN Dink Responsibly 50+,HPCC What's the Score?,Susan Flanagan,Regina Heroux,Suellen McCrary,Amy Robinson,11,7,Completed
+20122,1,2026-11-20,ecc,fall2026,highintermediate,50,women,HPCC What's the Score?,TOC Volley Girls 4.0,Amy Robinson,Stephanie Ross,Kelda Bailey,Stacy Zotter,10,15,Completed
+20122,2,2026-11-20,ecc,fall2026,highintermediate,50,women,HPCC What's the Score?,TOC Volley Girls 4.0,Lee Nunn,Wendy Austin,Shelley Friesen,Kate Morse Falkiner,15,6,Completed
+20122,3,2026-11-20,ecc,fall2026,highintermediate,50,women,HPCC What's the Score?,TOC Volley Girls 4.0,Heather Foster,Suellen McCrary,Rebecca Drabenstott,Maria Davis,11,15,Completed
+20122,4,2026-11-20,ecc,fall2026,highintermediate,50,women,HPCC What's the Score?,TOC Volley Girls 4.0,Amy Robinson,Stephanie Ross,Shelley Friesen,Kate Morse Falkiner,15,11,Completed
+20122,5,2026-11-20,ecc,fall2026,highintermediate,50,women,HPCC What's the Score?,TOC Volley Girls 4.0,Lee Nunn,Wendy Austin,Rebecca Drabenstott,Maria Davis,10,15,Completed
+20122,6,2026-11-20,ecc,fall2026,highintermediate,50,women,HPCC What's the Score?,TOC Volley Girls 4.0,Heather Foster,Suellen McCrary,Kelda Bailey,Stacy Zotter,5,15,Completed
+20122,7,2026-11-20,ecc,fall2026,highintermediate,50,women,HPCC What's the Score?,TOC Volley Girls 4.0,Amy Robinson,Stephanie Ross,Rebecca Drabenstott,Maria Davis,9,15,Completed
+20122,8,2026-11-20,ecc,fall2026,highintermediate,50,women,HPCC What's the Score?,TOC Volley Girls 4.0,Lee Nunn,Wendy Austin,Kelda Bailey,Stacy Zotter,5,15,Completed
+20122,9,2026-11-20,ecc,fall2026,highintermediate,50,women,HPCC What's the Score?,TOC Volley Girls 4.0,Heather Foster,Suellen McCrary,Shelley Friesen,Kate Morse Falkiner,15,12,Completed

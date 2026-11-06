@@ -1,0 +1,64 @@
+match_id,game_id,match_date,league,season,skill_level,age,gender,team1_name,team2_name,partner1,partner2,opponent1,opponent2,team1_points,team2_points,status
+20123,1,2026-11-20,ecc,fall2026,lowintermediate,50,women,GCC Ladies Day Dinkers,IND Carpe Dinkem,Eva K Cooke,Beth Baker,Cindy McConnell,Melanie Mueller,11,4,Completed
+20123,2,2026-11-20,ecc,fall2026,lowintermediate,50,women,GCC Ladies Day Dinkers,IND Carpe Dinkem,Laura Park,Diana Stuckey,Gail Gaetani,Candace Inscoe,9,11,Completed
+20123,3,2026-11-20,ecc,fall2026,lowintermediate,50,women,GCC Ladies Day Dinkers,IND Carpe Dinkem,Camille Williams,Molly Johnson,Brooke Bonham,Wivina Lee,11,9,Completed
+20123,4,2026-11-20,ecc,fall2026,lowintermediate,50,women,GCC Ladies Day Dinkers,IND Carpe Dinkem,Eva K Cooke,Beth Baker,Gail Gaetani,Candace Inscoe,13,11,Completed
+20123,5,2026-11-20,ecc,fall2026,lowintermediate,50,women,GCC Ladies Day Dinkers,IND Carpe Dinkem,Laura Park,Diana Stuckey,Brooke Bonham,Wivina Lee,11,2,Completed
+20123,6,2026-11-20,ecc,fall2026,lowintermediate,50,women,GCC Ladies Day Dinkers,IND Carpe Dinkem,Camille Williams,Molly Johnson,Cindy McConnell,Melanie Mueller,8,11,Completed
+20123,7,2026-11-20,ecc,fall2026,lowintermediate,50,women,GCC Ladies Day Dinkers,IND Carpe Dinkem,Eva K Cooke,Beth Baker,Brooke Bonham,Wivina Lee,7,11,Completed
+20123,8,2026-11-20,ecc,fall2026,lowintermediate,50,women,GCC Ladies Day Dinkers,IND Carpe Dinkem,Laura Park,Diana Stuckey,Cindy McConnell,Melanie Mueller,11,2,Completed
+20123,9,2026-11-20,ecc,fall2026,lowintermediate,50,women,GCC Ladies Day Dinkers,IND Carpe Dinkem,Camille Williams,Molly Johnson,Gail Gaetani,Candace Inscoe,4,11,Completed
+20124,1,2026-11-20,ecc,fall2026,lowintermediate,50,women,LJ Daybreak Dinkers,SSSRC Sultanas of Swing,Patty Craig,Diane Majestic,Joanne Helen Promislow,Pam Sanger,11,7,Completed
+20124,2,2026-11-20,ecc,fall2026,lowintermediate,50,women,LJ Daybreak Dinkers,SSSRC Sultanas of Swing,Kelly Smith,Janelle Krueger,Lia Gilmore,Anna Farmer,6,11,Completed
+20124,3,2026-11-20,ecc,fall2026,lowintermediate,50,women,LJ Daybreak Dinkers,SSSRC Sultanas of Swing,Dianne Malueg,Tina Klaus,Angie M Sudario-Cook,Amy MWatkins,6,11,Completed
+20124,4,2026-11-20,ecc,fall2026,lowintermediate,50,women,LJ Daybreak Dinkers,SSSRC Sultanas of Swing,Patty Craig,Diane Majestic,Lia Gilmore,Anna Farmer,9,11,Completed
+20124,5,2026-11-20,ecc,fall2026,lowintermediate,50,women,LJ Daybreak Dinkers,SSSRC Sultanas of Swing,Kelly Smith,Janelle Krueger,Angie M Sudario-Cook,Amy MWatkins,13,11,Completed
+20124,6,2026-11-20,ecc,fall2026,lowintermediate,50,women,LJ Daybreak Dinkers,SSSRC Sultanas of Swing,Dianne Malueg,Tina Klaus,Joanne Helen Promislow,Pam Sanger,3,11,Completed
+20124,7,2026-11-20,ecc,fall2026,lowintermediate,50,women,LJ Daybreak Dinkers,SSSRC Sultanas of Swing,Patty Craig,Diane Majestic,Angie M Sudario-Cook,Amy MWatkins,11,8,Completed
+20124,8,2026-11-20,ecc,fall2026,lowintermediate,50,women,LJ Daybreak Dinkers,SSSRC Sultanas of Swing,Kelly Smith,Janelle Krueger,Joanne Helen Promislow,Pam Sanger,7,11,Completed
+20124,9,2026-11-20,ecc,fall2026,lowintermediate,50,women,LJ Daybreak Dinkers,SSSRC Sultanas of Swing,Dianne Malueg,Tina Klaus,Lia Gilmore,Anna Farmer,5,11,Completed
+20125,1,2026-11-20,ecc,fall2026,lowintermediate,50,women,SSSRC Sultanas of Swing,GCC Ladies Day Dinkers,Stacey Hardy,Kim Jackson,Laura Park,Diana Stuckey,3,11,Completed
+20125,2,2026-11-20,ecc,fall2026,lowintermediate,50,women,SSSRC Sultanas of Swing,GCC Ladies Day Dinkers,Lois Maple,Linda Wells,Camille Williams,Molly Johnson,5,11,Completed
+20125,3,2026-11-20,ecc,fall2026,lowintermediate,50,women,SSSRC Sultanas of Swing,GCC Ladies Day Dinkers,Angie M Sudario-Cook,Amy MWatkins,Beth Baker,Penny Graves,11,9,Completed
+20125,4,2026-11-20,ecc,fall2026,lowintermediate,50,women,SSSRC Sultanas of Swing,GCC Ladies Day Dinkers,Stacey Hardy,Kim Jackson,Camille Williams,Molly Johnson,5,11,Completed
+20125,5,2026-11-20,ecc,fall2026,lowintermediate,50,women,SSSRC Sultanas of Swing,GCC Ladies Day Dinkers,Lois Maple,Linda Wells,Beth Baker,Penny Graves,11,9,Completed
+20125,6,2026-11-20,ecc,fall2026,lowintermediate,50,women,SSSRC Sultanas of Swing,GCC Ladies Day Dinkers,Angie M Sudario-Cook,Amy MWatkins,Laura Park,Diana Stuckey,11,6,Completed
+20125,7,2026-11-20,ecc,fall2026,lowintermediate,50,women,SSSRC Sultanas of Swing,GCC Ladies Day Dinkers,Stacey Hardy,Kim Jackson,Beth Baker,Penny Graves,4,11,Completed
+20125,8,2026-11-20,ecc,fall2026,lowintermediate,50,women,SSSRC Sultanas of Swing,GCC Ladies Day Dinkers,Lois Maple,Linda Wells,Laura Park,Diana Stuckey,4,11,Completed
+20125,9,2026-11-20,ecc,fall2026,lowintermediate,50,women,SSSRC Sultanas of Swing,GCC Ladies Day Dinkers,Angie M Sudario-Cook,Amy MWatkins,Camille Williams,Molly Johnson,11,7,Completed
+20126,1,2026-11-20,ecc,fall2026,lowintermediate,50,women,IND Carpe Dinkem,LJ Daybreak Dinkers,Gail Gaetani,Candace Inscoe,Janelle Krueger,Patty Craig,13,15,Completed
+20126,2,2026-11-20,ecc,fall2026,lowintermediate,50,women,IND Carpe Dinkem,LJ Daybreak Dinkers,Brooke Bonham,Wivina Lee,Carla Robinson,Pam Howe,7,11,Completed
+20126,3,2026-11-20,ecc,fall2026,lowintermediate,50,women,IND Carpe Dinkem,LJ Daybreak Dinkers,Cindy McConnell,Melanie Mueller,Maria Linden,Barbara T Andersen,11,7,Completed
+20126,4,2026-11-20,ecc,fall2026,lowintermediate,50,women,IND Carpe Dinkem,LJ Daybreak Dinkers,Gail Gaetani,Candace Inscoe,Carla Robinson,Pam Howe,11,1,Completed
+20126,5,2026-11-20,ecc,fall2026,lowintermediate,50,women,IND Carpe Dinkem,LJ Daybreak Dinkers,Brooke Bonham,Wivina Lee,Maria Linden,Barbara T Andersen,11,3,Completed
+20126,6,2026-11-20,ecc,fall2026,lowintermediate,50,women,IND Carpe Dinkem,LJ Daybreak Dinkers,Cindy McConnell,Melanie Mueller,Janelle Krueger,Patty Craig,5,11,Completed
+20126,7,2026-11-20,ecc,fall2026,lowintermediate,50,women,IND Carpe Dinkem,LJ Daybreak Dinkers,Gail Gaetani,Candace Inscoe,Maria Linden,Barbara T Andersen,11,4,Completed
+20126,8,2026-11-20,ecc,fall2026,lowintermediate,50,women,IND Carpe Dinkem,LJ Daybreak Dinkers,Brooke Bonham,Wivina Lee,Janelle Krueger,Patty Craig,1,11,Completed
+20126,9,2026-11-20,ecc,fall2026,lowintermediate,50,women,IND Carpe Dinkem,LJ Daybreak Dinkers,Cindy McConnell,Melanie Mueller,Carla Robinson,Pam Howe,14,12,Completed
+20127,1,2026-11-20,ecc,fall2026,lowintermediate,50,women,GCC Ladies Day Dinkers,LJ Daybreak Dinkers,Eva K Cooke,Camille Williams,Carla Robinson,Pam Howe,11,6,Completed
+20127,2,2026-11-20,ecc,fall2026,lowintermediate,50,women,GCC Ladies Day Dinkers,LJ Daybreak Dinkers,Laura Park,Diana Stuckey,Patty Craig,Diane Majestic,10,12,Completed
+20127,3,2026-11-20,ecc,fall2026,lowintermediate,50,women,GCC Ladies Day Dinkers,LJ Daybreak Dinkers,Beth Baker,Penny Graves,Kelly Smith,Janelle Krueger,3,11,Completed
+20127,4,2026-11-20,ecc,fall2026,lowintermediate,50,women,GCC Ladies Day Dinkers,LJ Daybreak Dinkers,Eva K Cooke,Camille Williams,Patty Craig,Diane Majestic,2,11,Completed
+20127,5,2026-11-20,ecc,fall2026,lowintermediate,50,women,GCC Ladies Day Dinkers,LJ Daybreak Dinkers,Laura Park,Diana Stuckey,Kelly Smith,Janelle Krueger,5,11,Completed
+20127,6,2026-11-20,ecc,fall2026,lowintermediate,50,women,GCC Ladies Day Dinkers,LJ Daybreak Dinkers,Beth Baker,Penny Graves,Carla Robinson,Pam Howe,4,11,Completed
+20127,7,2026-11-20,ecc,fall2026,lowintermediate,50,women,GCC Ladies Day Dinkers,LJ Daybreak Dinkers,Eva K Cooke,Camille Williams,Kelly Smith,Janelle Krueger,11,6,Completed
+20127,8,2026-11-20,ecc,fall2026,lowintermediate,50,women,GCC Ladies Day Dinkers,LJ Daybreak Dinkers,Laura Park,Diana Stuckey,Carla Robinson,Pam Howe,11,7,Completed
+20127,9,2026-11-20,ecc,fall2026,lowintermediate,50,women,GCC Ladies Day Dinkers,LJ Daybreak Dinkers,Beth Baker,Penny Graves,Patty Craig,Diane Majestic,6,11,Completed
+20128,1,2026-11-20,ecc,fall2026,lowintermediate,50,women,SSSRC Sultanas of Swing,IND Carpe Dinkem,Lia Gilmore,Anna Farmer,Brooke Bonham,Wivina Lee,11,2,Completed
+20128,2,2026-11-20,ecc,fall2026,lowintermediate,50,women,SSSRC Sultanas of Swing,IND Carpe Dinkem,Stacey Hardy,Pam Sanger,Cindy McConnell,Melanie Mueller,1,11,Completed
+20128,3,2026-11-20,ecc,fall2026,lowintermediate,50,women,SSSRC Sultanas of Swing,IND Carpe Dinkem,Joanne Helen Promislow,Ruth Brenner,Gail Gaetani,Candace Inscoe,5,11,Completed
+20128,4,2026-11-20,ecc,fall2026,lowintermediate,50,women,SSSRC Sultanas of Swing,IND Carpe Dinkem,Lia Gilmore,Anna Farmer,Cindy McConnell,Melanie Mueller,11,6,Completed
+20128,5,2026-11-20,ecc,fall2026,lowintermediate,50,women,SSSRC Sultanas of Swing,IND Carpe Dinkem,Stacey Hardy,Pam Sanger,Gail Gaetani,Candace Inscoe,11,7,Completed
+20128,6,2026-11-20,ecc,fall2026,lowintermediate,50,women,SSSRC Sultanas of Swing,IND Carpe Dinkem,Joanne Helen Promislow,Ruth Brenner,Brooke Bonham,Wivina Lee,9,11,Completed
+20128,7,2026-11-20,ecc,fall2026,lowintermediate,50,women,SSSRC Sultanas of Swing,IND Carpe Dinkem,Lia Gilmore,Anna Farmer,Gail Gaetani,Candace Inscoe,6,11,Completed
+20128,8,2026-11-20,ecc,fall2026,lowintermediate,50,women,SSSRC Sultanas of Swing,IND Carpe Dinkem,Stacey Hardy,Pam Sanger,Brooke Bonham,Wivina Lee,11,6,Completed
+20128,9,2026-11-20,ecc,fall2026,lowintermediate,50,women,SSSRC Sultanas of Swing,IND Carpe Dinkem,Joanne Helen Promislow,Ruth Brenner,Cindy McConnell,Melanie Mueller,9,11,Completed
+20129,1,2026-11-20,ecc,fall2026,lowintermediate,50,women,IND Carpe Dinkem,GCC Ladies Day Dinkers,Brooke Bonham,Wivina Lee,Eva K Cooke,Molly Johnson,15,17,Completed
+20129,2,2026-11-20,ecc,fall2026,lowintermediate,50,women,IND Carpe Dinkem,GCC Ladies Day Dinkers,Gail Gaetani,Candace Inscoe,Camille Williams,Beth Baker,15,4,Completed
+20129,3,2026-11-20,ecc,fall2026,lowintermediate,50,women,IND Carpe Dinkem,GCC Ladies Day Dinkers,Cindy McConnell,Melanie Mueller,Diana Stuckey,Laura Park,7,15,Completed
+20129,4,2026-11-20,ecc,fall2026,lowintermediate,50,women,IND Carpe Dinkem,GCC Ladies Day Dinkers,Brooke Bonham,Wivina Lee,Camille Williams,Beth Baker,5,15,Completed
+20129,5,2026-11-20,ecc,fall2026,lowintermediate,50,women,IND Carpe Dinkem,GCC Ladies Day Dinkers,Gail Gaetani,Candace Inscoe,Diana Stuckey,Laura Park,15,10,Completed
+20129,6,2026-11-20,ecc,fall2026,lowintermediate,50,women,IND Carpe Dinkem,GCC Ladies Day Dinkers,Cindy McConnell,Melanie Mueller,Eva K Cooke,Molly Johnson,7,15,Completed
+20129,7,2026-11-20,ecc,fall2026,lowintermediate,50,women,IND Carpe Dinkem,GCC Ladies Day Dinkers,Brooke Bonham,Wivina Lee,Diana Stuckey,Laura Park,11,15,Completed
+20129,8,2026-11-20,ecc,fall2026,lowintermediate,50,women,IND Carpe Dinkem,GCC Ladies Day Dinkers,Gail Gaetani,Candace Inscoe,Eva K Cooke,Molly Johnson,7,15,Completed
+20129,9,2026-11-20,ecc,fall2026,lowintermediate,50,women,IND Carpe Dinkem,GCC Ladies Day Dinkers,Cindy McConnell,Melanie Mueller,Camille Williams,Beth Baker,14,16,Completed
